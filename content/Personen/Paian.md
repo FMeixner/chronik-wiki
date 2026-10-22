@@ -15,3 +15,7 @@ kurz: Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid St
 - Kenntnis des [[Riesenhundertfüßer]]s (bis 8 m, giftig, Reviere bis 10 km — „doppelte 0“ auf Tierkunde).
 - Träume: Sein Pater/Vater wird von der Dunkelheit verschlungen; der Todestag seines Vaters (Ast durch die Brust) kehrt wieder.
 
+- Erlebte in [[Südfang]] die stille Fiare-Morgenmesse (Session 17) und den größten Gunwartempel, den er je sah; erhielt von [[Myro von der Felsenbucht]] Empfehlungsschreiben und Gebetbuch — mit der Warnung, keine Nachfrage nach „Isenblut“ zu halten (Session 19).
+- Lehnte das Kristall-Angebot des [[König des Waldes]] dankend ab — die Macht, einmal im Leben den Tod zu vertreiben, für einen Dienst zwischen den Welten (Session 23).
+- Auf dem [[Mondpfad]] (Session 26): „Gunwar wirkt hier ferner von ihm als je“ — doch „Gunwar hilft denen die sich selber helfen“; Erinnerung an eine Erzählung seines Paters über das Phänomen des „Grauen Schleiers“ (bei viel gewirkter Magie oder misslingenden Zaubern an sehr magischen Orten; Geschichten über sterbende Kleinstlebewesen und entvölkerte Landstriche).
+

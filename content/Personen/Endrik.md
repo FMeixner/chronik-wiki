@@ -12,3 +12,5 @@ kurz: Dörfler aus Unterwalde; gab den Auftrag nach Falkenfelde und ermöglichte
 - Ermöglichte die Flucht aus dem [[Der Kerker (unbekannter Ort)|Kerker]]; letzte Worte: „Sucht den Alchemisten in der Nähe von [[Sarnburg]]. Er kann das korrigieren“ — [[Jadan]].
 - Franzi-Notiz: „der wahrscheinlich sein Leben für uns gegeben hat“.
 
+- [[Jadan]] kennt ihn nicht (Session 17).
+

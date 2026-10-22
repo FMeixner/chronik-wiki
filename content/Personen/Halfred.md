@@ -16,6 +16,12 @@ kurz: Jäger und Fährtensucher der Gruppe, trägt einen Dharst; überlebte Fels
 - In [[Caltentrutz]] von der Kartographengilde geschockt: „wie viel größer die Welt ist, als er geglaubt hat“.
 - Erschoss eines der [[Graue Wesen|grauen Wesen]] im Nachtangriff (Session 16).
 
+- Blieb in der Taverne „Fiures Ruh“ in [[Südfang]] — die riesige Stadt war ihm unheimlich (Session 17).
+- Aktivierung des Mondtors in der Fluchtnacht (Session 21): Das Wissen aus der Kartografengilde reichte nicht — „mit letzter Hoffnung“ wandte er sich an „seinen Gott/Schutzgeist/sich selbst?“; „Plötzlich Flimmern, das Tor ist aktiv.“
+- [[Lisana]]s [[Eichenblatt]]-Pakt (Session 22): „jedes mal wenn du es benutzt, werde ich einen kleinen Teil deines Schicksals weben.“
+- Erkannte als Erster die Richtungsvorgabe des Waldes (Session 24): „Entgegen der Bäume.“
+- Lenkte im Wolfskampf ein Wesen ab, damit [[Dorean]] den finalen Schlag führen konnte (Session 26).
+
 > [!warning] Widerspruch in der Chronik
 > Haupteintrag 30.05.2023: „H fängt nachts zu Kotzen an und trippt hart.“ Franzi-Notiz 30.05.: „der arme Dorean kotzte sich gute zwei Stunden die Seele aus dem Leib.“ Beide Stellen belassen; ungeklärt, wer den Sud vertragen hat — oder ob beide.
 
