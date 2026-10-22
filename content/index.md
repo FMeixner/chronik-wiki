@@ -14,7 +14,7 @@ Die Gruppe reist von [[Caltentrutz]] nach [[Sarnburg]] — in-world 15.5.997 LZ,
 [[Aikyr]] · [[Dorean]] · [[Halfred]] · [[Paian]] · [[Sira]]
 
 ## Personen
-[[Aden und Wendir]] · [[Aragant]] · [[Assmus Jalander]] · [[Bernd]] · [[Bruder Ader]] · [[Darian]] · [[Dornentann]] · [[Endrik]] · [[Fira Isenfang]] · [[Fitzban der Große]] · [[Frau aus Falkenfelde]] · [[Hannes]] · [[Herzogin Gyldenau Syra]] · [[Irma]] · [[Jadan]] · [[Javus Bracke]] · [[Jorg und Torg]] · [[Letasch]] · [[Mariel]] · [[Minar]] · [[Ola]] · [[Olinde]] · [[Rheva]] · [[Rondrold]] · [[Rupert]] · [[Serka Dunkelgrund]] · [[Telia]] · [[Theoboid Staubhüll]] · [[Varg (Schmied)]] · [[Walfar Warmus]]
+[[Aden und Wendir]] · [[Aragant]] · [[Assmus Jalander]] · [[Bernd]] · [[Bruder Ader]] · [[Darian]] · [[Der pfiffende Zwerg (Kerkermeister)]] · [[Dornentann]] · [[Endrik]] · [[Fira Isenfang]] · [[Fitzban der Große]] · [[Frau aus Falkenfelde]] · [[Hannes]] · [[Herzogin Gyldenau Syra]] · [[Irma]] · [[Jadan]] · [[Javus Bracke]] · [[Jorg und Torg]] · [[Letasch]] · [[Mariel]] · [[Minar]] · [[Ola]] · [[Olinde]] · [[Rheva]] · [[Rondrold]] · [[Rupert]] · [[Serka Dunkelgrund]] · [[Telia]] · [[Theoboid Staubhüll]] · [[Varg (Schmied)]] · [[Walfar Warmus]]
 
 ## Orte
 [[Arwingen]] · [[Braunwacht]] · [[Bryntal]] · [[Calten]] · [[Caltentrutz]] · [[Der Große Weg]] · [[Der Kerker (unbekannter Ort)]] · [[Der unbenannte Wald]] · [[Die Felsspalte]] · [[Falkenfelde]] · [[Fischerdorf (namenlos)]] · [[Heratis]] · [[Hof Hibbel]] · [[Midstadt]] · [[Rubensmark]] · [[Sarnburg]] · [[Südliche Zitadellen]] · [[Südfang]] · [[Unterwalde]] · [[Verheerte Lande]]

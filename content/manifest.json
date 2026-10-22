@@ -1,0 +1,685 @@
+{
+  "coverage": "Sessions 01–16 · in-world bis 15.5.997 LZ",
+  "pages": [
+    {
+      "path": "index",
+      "type": "uebersicht",
+      "title": "Übersicht",
+      "status": "",
+      "kurz": "",
+      "aliases": [
+        "Übersicht",
+        "Startseite"
+      ],
+      "held": false
+    },
+    {
+      "path": "Timeline",
+      "type": "timeline",
+      "title": "Timeline",
+      "status": "",
+      "kurz": "",
+      "aliases": [
+        "Chronologie"
+      ],
+      "held": false
+    },
+    {
+      "path": "_Fortschritt",
+      "type": "fortschritt",
+      "title": "_Fortschritt",
+      "status": "",
+      "kurz": "",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Aden und Wendir",
+      "type": "person",
+      "title": "Aden und Wendir",
+      "status": "unbekannt (vor über einem Jahr abgeholt)",
+      "kurz": "Die Söhne aus dem Fischerdorf, von einem Zwergen-Priester des Gunwar abgeholt.",
+      "aliases": [
+        "Aden",
+        "Wendir"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Aikyr",
+      "type": "person",
+      "title": "Aikyr",
+      "status": "lebendig",
+      "kurz": "Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf, lernt Lichtmagie bei Sira.",
+      "aliases": [
+        "Aikir",
+        "Aykir"
+      ],
+      "held": true
+    },
+    {
+      "path": "Personen/Aragant",
+      "type": "person",
+      "title": "Aragant",
+      "status": "lebendig (Stand 06.04.997 LZ)",
+      "kurz": "Kräuterkundiger von Unterwalde.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Assmus Jalander",
+      "type": "person",
+      "title": "Assmus Jalander",
+      "status": "verschwunden",
+      "kurz": "Kauziger Erzmagus aus Arwingen, forschte an der Krankheit dort — verschwunden.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Bernd",
+      "type": "person",
+      "title": "Bernd",
+      "status": "unbekannt (vor über einem Jahr abgeholt)",
+      "kurz": "Nachbarssohn aus dem Fischerdorf, gemeinsam mit Aden und Wendir abgeholt.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Bruder Ader",
+      "type": "person",
+      "title": "Bruder Ader",
+      "status": "lebendig",
+      "kurz": "Gunwar-Priester in Braunwacht; Predigten über Licht und Dunkelheit.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Darian",
+      "type": "person",
+      "title": "Darian",
+      "status": "lebendig",
+      "kurz": "Quirliger gnomischer Händler in Braunwacht.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Der pfiffende Zwerg (Kerkermeister)",
+      "type": "person",
+      "title": "Der pfiffende Zwerg (Kerkermeister)",
+      "status": "unbekannt",
+      "kurz": "Kommandoführender Zwerg im Kerker; pfeift stets dieselbe Melodie.",
+      "aliases": [
+        "Pfiffende Zwerg",
+        "Kerkermeister"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Dorean",
+      "type": "person",
+      "title": "Dorean",
+      "status": "lebendig (genesend)",
+      "kurz": "Adlischer Freigeist der Gruppe; überlebte den Sturz in die Felsspalte schwer verletzt; zahlkräftig und großzügig.",
+      "aliases": [
+        "Dorian"
+      ],
+      "held": true
+    },
+    {
+      "path": "Personen/Dornentann",
+      "type": "person",
+      "title": "Dornentann",
+      "status": "lebendig",
+      "kurz": "Gemütlicher Weinhändler und Reisegefährte ab Hof Hibbel.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Endrik",
+      "type": "person",
+      "title": "Endrik",
+      "status": "unbekannt (vermutlich gefallen)",
+      "kurz": "Dörfler aus Unterwalde; gab den Auftrag nach Falkenfelde und ermöglichte die Flucht aus dem Kerker.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Fira Isenfang",
+      "type": "person",
+      "title": "Fira Isenfang",
+      "status": "lebendig",
+      "kurz": "Chefin des Zirkels der Zinnen in Sarnburg, Hüterin allen Wissens.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Fitzban der Große",
+      "type": "person",
+      "title": "Fitzban der Große",
+      "status": "verschwunden",
+      "kurz": "Irrer alter Mann auf einem Findling, schützte die Gruppe mit einer Lichtkuppel vor einem schwarzen Drachen und verschwand.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Frau aus Falkenfelde",
+      "type": "person",
+      "title": "Frau aus Falkenfelde",
+      "status": "unbekannt (im Kerker zuletzt gesehen)",
+      "kurz": "Einzige Überlebende des verlassenen Falkenfelde; ihr starrer Blick verfolgt Sira.",
+      "aliases": [
+        "Falkenfelderin"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Halfred",
+      "type": "person",
+      "title": "Halfred",
+      "status": "lebendig (genesend)",
+      "kurz": "Jäger und Fährtensucher der Gruppe, trägt einen Dharst; überlebte Felslawine und Wildkatze mit gebrochenem Schenkel.",
+      "aliases": [],
+      "held": true
+    },
+    {
+      "path": "Personen/Hannes",
+      "type": "person",
+      "title": "Hannes",
+      "status": "unbekannt",
+      "kurz": "Mann der Falkenfelderin, diente im Kerker als Wächter.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Herzogin Gyldenau Syra",
+      "type": "person",
+      "title": "Herzogin Gyldenau Syra",
+      "status": "lebendig",
+      "kurz": "Herzogin von Calten, unterzeichnete den Aufruf zum Kampf gegen die Dunkelheit.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Irma",
+      "type": "person",
+      "title": "Irma",
+      "status": "lebendig",
+      "kurz": "Misstrauische Bewohnerin des Fischerdorfs, Mutter der abgeholten Söhne.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Jadan",
+      "type": "person",
+      "title": "Jadan",
+      "status": "unbekannt",
+      "kurz": "Alchemist bei Sarnburg, laut Endrik kann er „das korrigieren“.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Javus Bracke",
+      "type": "person",
+      "title": "Javus Bracke",
+      "status": "lebendig",
+      "kurz": "Zwerg mit geschwollener Nase, Informant in der Taverne von Braunwacht.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Jorg und Torg",
+      "type": "person",
+      "title": "Jorg und Torg",
+      "status": "unbekannt",
+      "kurz": "Pelzhändler und Fallensteller; gaben der flüchtigen Gruppe Landmarken und versorgten sie notgedrungen.",
+      "aliases": [
+        "Jorg",
+        "Torg"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Letasch",
+      "type": "person",
+      "title": "Letasch",
+      "status": "unbekannt (im Kerker zurückgelassen)",
+      "kurz": "Siras geliebter Mensch; blieb im Kerker zurück.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Mariel",
+      "type": "person",
+      "title": "Mariel",
+      "status": "lebendig",
+      "kurz": "Sehr freundliche Schneiderin in Braunwacht.",
+      "aliases": [
+        "Mariel's"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Minar",
+      "type": "person",
+      "title": "Minar",
+      "status": "unbekannt (zuletzt Richtung Osten unterwegs)",
+      "kurz": "Mysteriöser Wanderer, der sich als alter Freund der Gruppe ausgab.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Ola",
+      "type": "person",
+      "title": "Ola",
+      "status": "lebendig",
+      "kurz": "Freundliche Bewohnerin des Fischerdorfs.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Olinde",
+      "type": "person",
+      "title": "Olinde",
+      "status": "lebendig",
+      "kurz": "Alte Dame vom Markt in Braunwacht, Tippgeberin.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Paian",
+      "type": "person",
+      "title": "Paian",
+      "status": "lebendig",
+      "kurz": "Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll.",
+      "aliases": [],
+      "held": true
+    },
+    {
+      "path": "Personen/Rheva",
+      "type": "person",
+      "title": "Rheva",
+      "status": "unbekannt (im Kerker zurückgelassen)",
+      "kurz": "Aikyrs Schwester, im Kerker zurückgelassen; kehrt in seinen Träumen wieder.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Rondrold",
+      "type": "person",
+      "title": "Rondrold",
+      "status": "lebendig",
+      "kurz": "Junger Mann aus Braunwacht, berichtete vom Aufruf des Gunwar-Hohepriesters.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Rupert",
+      "type": "person",
+      "title": "Rupert",
+      "status": "lebendig",
+      "kurz": "Kauziger Heilmaterialhändler in Braunwacht.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Serka Dunkelgrund",
+      "type": "person",
+      "title": "Serka Dunkelgrund",
+      "status": "unbekannt (im Kerker zurückgelassen)",
+      "kurz": "Doreans Verwandte, im Kerker zurückgelassen.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Sira",
+      "type": "person",
+      "title": "Sira",
+      "status": "lebendig",
+      "kurz": "Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch.",
+      "aliases": [],
+      "held": true
+    },
+    {
+      "path": "Personen/Telia",
+      "type": "person",
+      "title": "Telia",
+      "status": "lebendig",
+      "kurz": "Alte Heilerin des Fischerdorfs mit trüben Augen.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Theoboid Staubhüll",
+      "type": "person",
+      "title": "Theoboid Staubhüll",
+      "status": "unbekannt (zuletzt gesehen beim Überfall, Session 02)",
+      "kurz": "Örtlicher Gunwarpriester von Unterwalde, Paians Meister und Heilkundiger.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Varg (Schmied)",
+      "type": "person",
+      "title": "Varg (Schmied)",
+      "status": "lebendig",
+      "kurz": "Schmied in Braunwacht mit Geselle Roderik; schenkte Dorean ein Waffenpflegeset.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Walfar Warmus",
+      "type": "person",
+      "title": "Walfar Warmus",
+      "status": "lebendig",
+      "kurz": "Erzmagus des 2. Hauses der Zirkel der Zinnen, sympathisch und neugierig auf die grauen Wesen.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Arwingen",
+      "type": "ort",
+      "title": "Arwingen",
+      "status": "verlassen (Gerücht)",
+      "kurz": "Verlassener Ort mit Mark; Heimat des verschwundenen Erzmagus Assmus Jalander.",
+      "aliases": [
+        "Arwinger Mark"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Braunwacht",
+      "type": "ort",
+      "title": "Braunwacht",
+      "status": "bestehend",
+      "kurz": "Stadt mit rund 3.000 Einwohnern und Stadtmauer, erste Station nach der Wildnis.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Bryntal",
+      "type": "ort",
+      "title": "Bryntal",
+      "status": "bestehend",
+      "kurz": "Heimat der Dunkelgrunds, Doreans Verwandtschaft.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Calten",
+      "type": "ort",
+      "title": "Calten",
+      "status": "bestehend",
+      "kurz": "Herzogtum mit der Herzogin Gyldenau Syra.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Caltentrutz",
+      "type": "ort",
+      "title": "Caltentrutz",
+      "status": "bestehend",
+      "kurz": "Gewaltige Stadt mit 20.000 Einwohnern, Station auf dem Weg nach Sarnburg.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Der Große Weg",
+      "type": "ort",
+      "title": "Der Große Weg",
+      "status": "bestehend",
+      "kurz": "Handelsstraße, die die Gruppe am 9.5.997 erreichte.",
+      "aliases": [
+        "Großer Weg"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Der Kerker (unbekannter Ort)",
+      "type": "ort",
+      "title": "Der Kerker (unbekannter Ort)",
+      "status": "aufgegeben (Flucht, Session 04)",
+      "kurz": "Kerker der Finsternis, in den die Verschleppten von Unterwalde gebracht wurden.",
+      "aliases": [
+        "Der Kerker",
+        "Kerker"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Der unbenannte Wald",
+      "type": "ort",
+      "title": "Der unbenannte Wald",
+      "status": "bestehend",
+      "kurz": "Düsterer Wald an der Küste der Südlichen Zitadellen, den niemand betritt.",
+      "aliases": [
+        "Der grauenhafte Wald",
+        "Toter Wald"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Die Felsspalte",
+      "type": "ort",
+      "title": "Die Felsspalte",
+      "status": "bestehend (Riesenhundertfüßer-Revier)",
+      "kurz": "Natürlicher Riss im Fels mit künstlichem Raum — Ort von Doreans schwerem Sturz.",
+      "aliases": [
+        "Felsspalte",
+        "Loch im Fels"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Falkenfelde",
+      "type": "ort",
+      "title": "Falkenfelde",
+      "status": "verlassen",
+      "kurz": "Wie ausgestorben wirkendes Dorf, Auslöser der gesamten Ereignisse.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Fischerdorf (namenlos)",
+      "type": "ort",
+      "title": "Fischerdorf (namenlos)",
+      "status": "bestehend (nur noch drei Bewohnerinnen)",
+      "kurz": "Fünf windschiefe Häuser am Strand im östlichsten Zipfel von Calten.",
+      "aliases": [
+        "Das Fischerdorf",
+        "Fischerdörfchen"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Heratis",
+      "type": "ort",
+      "title": "Heratis",
+      "status": "bestehend",
+      "kurz": "Heimat des Weinhändlers Dornentann.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Hof Hibbel",
+      "type": "ort",
+      "title": "Hof Hibbel",
+      "status": "bestehend",
+      "kurz": "Hof mit Wirtshaus am Großen Weg, Rastplatz auf der Reise nach Sarnburg.",
+      "aliases": [
+        "Hibbel"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Midstadt",
+      "type": "ort",
+      "title": "Midstadt",
+      "status": "bestehend",
+      "kurz": "Ziel der Kriegsregimenter von Gunwarkirche und Militär.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Rubensmark",
+      "type": "ort",
+      "title": "Rubensmark",
+      "status": "bestehend",
+      "kurz": "Station auf der Reise von Caltentrutz Richtung Sarnburg.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Sarnburg",
+      "type": "ort",
+      "title": "Sarnburg",
+      "status": "bestehend",
+      "kurz": "Reiseziel der Gruppe; dort soll der Alchemist Jadan „das korrigieren“.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Südfang",
+      "type": "ort",
+      "title": "Südfang",
+      "status": "bestehend",
+      "kurz": "Hauptsitz des 4. Hauses der Zirkel der Zinnen; Zwischenstation nach Sarnburg.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Südliche Zitadellen",
+      "type": "ort",
+      "title": "Südliche Zitadellen",
+      "status": "bestehend",
+      "kurz": "Region, durch die die Gruppe nach dem Fenstersturz flüchtet.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Unterwalde",
+      "type": "ort",
+      "title": "Unterwalde",
+      "status": "überfallen (Bewohner verschleppt)",
+      "kurz": "Heimatdorf der Gruppe und Ausgangspunkt der Chronik.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Verheerte Lande",
+      "type": "ort",
+      "title": "Verheerte Lande",
+      "status": "nur in Visionen bekannt",
+      "kurz": "Ödes, verderbtes Land aus Siras Vision.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Amulett mit fünfzackigem Stern",
+      "type": "artefakt",
+      "title": "Amulett mit fünfzackigem Stern",
+      "status": "Verbleib unklar",
+      "kurz": "Purzelte aus Fitzbans Gewand — Symbol des Zirkels der Zinnen.",
+      "aliases": [
+        "Sternenamulett?"
+      ],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Donnerhuf",
+      "type": "artefakt",
+      "title": "Donnerhuf",
+      "status": "bei der Gruppe",
+      "kurz": "Aikyrs x-beiniger, zottiger Esel.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Grüner Stein mit Spirale",
+      "type": "artefakt",
+      "title": "Grüner Stein mit Spirale",
+      "status": "unauffällig (unbekannt)",
+      "kurz": "Geschenk Fitzbans an Paian — wirkt wie ein gewöhnlicher Stein.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Schwarze Schatulle",
+      "type": "artefakt",
+      "title": "Schwarze Schatulle",
+      "status": "nur in Visionen",
+      "kurz": "Pechschwarzes Kästchen auf einer Säule, das Licht und Gefühle aufsaugt.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Sommertochter",
+      "type": "artefakt",
+      "title": "Sommertochter",
+      "status": "wieder bei Aikyr",
+      "kurz": "Aikyrs Stute, in einer Reisegruppe am Großen Weg wiedergefunden.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Graue Wesen",
+      "type": "fraktion",
+      "title": "Graue Wesen",
+      "status": "aktiv",
+      "kurz": "Nachtaktive Kreaturen mit leblosen schwarzen Augen, die Menschen überfallen.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Gunwarkirche",
+      "type": "fraktion",
+      "title": "Gunwarkirche",
+      "status": "aktiv",
+      "kurz": "Kirche des Gunwar, ruft zum Kampf gegen die Dunkelheit auf — Vieles daran ist zwiespältig.",
+      "aliases": [
+        "Kirche des Gunwar"
+      ],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Teleshai",
+      "type": "fraktion",
+      "title": "Teleshai",
+      "status": "unbekannt (nach dem Überfall)",
+      "kurz": "Siras Sippe, überwinterte in Unterwalde.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Wesen der Finsternis",
+      "type": "fraktion",
+      "title": "Wesen der Finsternis",
+      "status": "aktiv",
+      "kurz": "Kreaturen der pechschwarzen Dunkelheit, die Menschen verschleppen.",
+      "aliases": [
+        "Wesen aus Finsternis",
+        "Dunkelheit"
+      ],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Zirkel der Zinnen",
+      "type": "fraktion",
+      "title": "Zirkel der Zinnen",
+      "status": "aktiv",
+      "kurz": "Mächtiger Magierzirkel mit dem Symbol des fünfzackigen Sterns.",
+      "aliases": [
+        "Magierzirkel mit fünfzackigem Stern"
+      ],
+      "held": false
+    },
+    {
+      "path": "Kreaturen/Riesenhundertfüßer",
+      "type": "kreatur",
+      "title": "Riesenhundertfüßer",
+      "status": "bestehend (Revier in der Felsspalte)",
+      "kurz": "Bis 8 Meter langer, giftiger Aasfresser mit Revier — Ursache von Doreans Sturz.",
+      "aliases": [],
+      "held": false
+    }
+  ]
+}
