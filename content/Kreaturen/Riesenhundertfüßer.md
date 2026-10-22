@@ -10,3 +10,5 @@ kurz: Bis 8 Meter langer, giftiger Aasfresser mit Revier — Ursache von Doreans
 - [[Paian]]s Kenntnis („doppelte 0“ auf Tierkunde): Bis 8 m groß, Einzelgänger; zwei Arten (auf Bäumen, in Höhlen); ernähren sich eher von Aas, mampfen bei Gelegenheit auch Menschen; teils Reviere bis 10 km; sehr potent giftig — alchemistische Zutat.
 - Das Exemplar in der [[Die Felsspalte|Felsspalte]]: augenlos, wurmartig, mit sichelartigen Mandibeln; verfolgte [[Halfred]] und [[Dorean]] bis ans Loch im Fels — [[Dorean]] stürzte bei der Flucht ab (Session 06).
 
+- [[Jadan]] lieferte eine Zutaten-Rezeptur für ein Gegengift gegen seinen Biss (Session 18): Beseelter Stinkmohn, Bärtige Degenknolle, Zarte Mohnkastanie, Flockenstieliger Birnenrötling — Vollmond-Prozedur.
+

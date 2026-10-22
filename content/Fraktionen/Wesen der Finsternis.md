@@ -12,3 +12,5 @@ kurz: Kreaturen der pechschwarzen Dunkelheit, die Menschen verschleppen.
 - In den Alpträumen aller Held:innen kehrt die Dunkelheit wieder (Pater verschlungen, Mutter verschluckt, untote Wagenkolonne).
 - Zusammenhang mit den [[Graue Wesen|grauen Wesen]]: von der Chronik nicht geklärt.
 
+- Kämpften bei der Mondtor-Flucht ([[Sarnburg]], Session 21) Seite an Seite mit den [[Graue Wesen|Grauen]] unter [[Galkor Alquan]]s Befehl; [[Aikyr]] und [[Dorean]] sahen menschengroße Schemen über die Dächer kommen.
+

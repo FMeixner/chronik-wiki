@@ -16,3 +16,5 @@ kurz: Mächtiger Magierzirkel mit dem Symbol des fünfzackigen Sterns.
 - Das Sternenamulett tragen nur sehr wenige Mitglieder.
 - [[Assmus Jalander]], Erzmagus aus [[Arwingen]], ist verschwunden.
 
+- [[Pyrina]], [[Dorean]]s Schwester, ist auf Mission für den Zirkel unterwegs ([[Palitan]], Session 26).
+

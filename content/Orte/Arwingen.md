@@ -11,3 +11,5 @@ kurz: Verlassener Ort mit Mark; Heimat des verschwundenen Erzmagus Assmus Jaland
 - Die „Arwinger Mark“ liefert die blauen Stoffe der Reisegruppe am [[Der Große Weg|Großen Weg]].
 - [[Assmus Jalander]], Erzmagus aus Arwingen, forschte an der dortigen Krankheit — und ist verschwunden.
 
+- [[Myro von der Felsenbucht]] ([[Sarnburg]], Session 19): „In Arwingen steht es nicht gut“ — er kennt den Wargen dort und kann eine Audienz möglich machen.
+
