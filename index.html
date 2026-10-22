@@ -159,14 +159,28 @@ a.chip:hover { border-color: var(--gold); color: var(--gold-bright); border-bott
 .timeline-intro { font-family: var(--serif); font-style: italic; font-size: 18px; color: var(--muted); margin-bottom: 26px; }
 .session-card {
   background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px;
-  padding: 20px 24px 16px; margin-bottom: 20px; position: relative; overflow: hidden;
+  padding: 0; margin-bottom: 14px; position: relative; overflow: hidden;
 }
 .session-card::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: linear-gradient(180deg, var(--gold), rgba(201,162,39,.15)); }
+details.session-card[open] { border-color: rgba(201,162,39,.4); }
+details.session-card > summary { list-style: none; cursor: pointer; padding: 16px 24px 14px; }
+details.session-card > summary::-webkit-details-marker { display: none; }
+details.session-card > summary:hover .session-title { color: #f2ebd6; }
 .session-head { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; }
-.session-num { font-family: var(--brand); font-size: 13px; font-weight: 700; letter-spacing: .16em; color: var(--gold); border: 1px solid rgba(201,162,39,.45); border-radius: 4px; padding: 3px 9px; }
+.session-num { font-family: var(--brand); font-size: 13px; font-weight: 700; letter-spacing: .16em; color: var(--gold); border: 1px solid rgba(201,162,39,.45); border-radius: 4px; padding: 3px 9px; white-space: nowrap; }
 .session-title { font-family: var(--serif); font-weight: 600; font-size: 23px; color: #e8e0ca; margin: 0; }
 .session-date { margin-left: auto; font-size: 13.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
-.session-meta { display: flex; flex-direction: column; gap: 7px; margin: 14px 0 4px; }
+.session-chev { flex: 0 0 auto; align-self: center; margin-left: 10px; color: var(--faint); transition: transform .18s ease, color .18s ease; }
+details.session-card[open] .session-chev { transform: rotate(180deg); color: var(--gold); }
+.session-body { padding: 0 24px 16px; }
+.session-meta { display: flex; flex-direction: column; gap: 7px; margin: 0 0 4px; }
+.tl-controls { display: flex; gap: 10px; margin: 0 0 18px; }
+.tl-btn {
+  background: transparent; border: 1px solid var(--border); color: var(--muted);
+  border-radius: 999px; padding: 4px 16px; font-family: var(--sans); font-size: 13px;
+  cursor: pointer; transition: border-color .15s, color .15s;
+}
+.tl-btn:hover { border-color: var(--gold); color: var(--gold-bright); }
 .chip-row { display: flex; flex-wrap: wrap; gap: 7px; align-items: center; }
 .chip-label { font-size: 11px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--faint); width: 86px; flex: 0 0 auto; }
 .session-event { margin: 12px 0 0; font-size: 15.5px; }
@@ -539,13 +553,16 @@ a.chip:hover { border-color: var(--gold); color: var(--gold-bright); border-bott
     if (sessions.length === 0) return mdToHtml(replaceWikilinks(stripLeadingH1(body)));
     var html = "";
     if (intro.length) html += '<p class="timeline-intro">' + mdToHtml(replaceWikilinks(intro.join(" "))) + "</p>";
-    sessions.forEach(function (s) {
-      html += '<article class="session-card">';
-      html += '<div class="session-head">';
+    html += '<div class="tl-controls"><button class="tl-btn" data-tl="open" type="button">Alle aufklappen</button><button class="tl-btn" data-tl="close" type="button">Alle zuklappen</button></div>';
+    sessions.forEach(function (s, idx) {
+      html += '<details class="session-card"' + (idx === sessions.length - 1 ? " open" : "") + ">";
+      html += '<summary class="session-head">';
       html += '<span class="session-num">Session ' + s.num + "</span>";
       html += '<h3 class="session-title">' + escapeHtml(s.title) + "</h3>";
       if (s.datum) html += '<span class="session-date">' + escapeHtml(s.datum) + "</span>";
-      html += "</div>";
+      html += '<svg class="session-chev" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>';
+      html += "</summary>";
+      html += '<div class="session-body">';
       var chips = function (label, arr) {
         if (!arr.length) return "";
         return '<div class="chip-row"><span class="chip-label">' + label + "</span>" + arr.join("") + "</div>";
@@ -555,7 +572,7 @@ a.chip:hover { border-color: var(--gold); color: var(--gold-bright); border-bott
         html += '<p class="session-event">' + mdToHtml(replaceWikilinks(s.ereignis.join(" "))).replace(/^<p>|<\/p>$/g, "") + "</p>";
       }
       if (s.quelle) html += '<div class="session-source">Quelle: ' + escapeHtml(s.quelle) + "</div>";
-      html += "</article>";
+      html += "</div></details>";
     });
     return html;
   }
@@ -720,6 +737,12 @@ a.chip:hover { border-color: var(--gold); color: var(--gold-bright); border-bott
   });
   document.getElementById("nav-backdrop").addEventListener("click", function () {
     document.body.classList.remove("nav-open");
+  });
+  contentEl.addEventListener("click", function (e) {
+    var btn = e.target.closest(".tl-btn");
+    if (!btn) return;
+    var open = btn.dataset.tl === "open";
+    contentEl.querySelectorAll("details.session-card").forEach(function (d) { d.open = open; });
   });
 
   loadManifest().then(function () {
