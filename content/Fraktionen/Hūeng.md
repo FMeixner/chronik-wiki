@@ -12,3 +12,6 @@ kurz: Gott der Toten in Palitan; Tempel im Garten der Asche — vermuteter Gegen
 - Diener-Rolle (Session 27): Paian erinnert sich — „Wenn wir ein Diener der Hueng sind und der widerlichen Spinne das Herz abnehmen wollen, dann will er uns helfen. Also Hueng Gegenspieler der Spinne?"
 - 3 Heiltränke für 60 Lunare (Session 28): Paian ersteht sie im Hūeng-Tempel; der Priester rät, beim Tempel des Tigergeistes oder des Spinnengeistes nach dem [[Kopfwesen]] zu fragen.
 - Verbindung zum [[Phönixgeist]]: Die vogelartige Jadestatue aus den [[Katakomben unter Palitan]] wird von Paian als „Phönixgeist des Hueng" erkannt (Session 30) — wie Kulte und Tempel genau zusammenhängen, hält die Chronik nicht fest (offen).
+
+
+- Das Talisman aus dem Hüeng-Tempel an [[Paian]]s Gürtel leuchtet im Panikraum des [[Der Schlund der Finsternis|Schlunds der Finsternis]] auf; [[Dorean]] beruhigt Paian mit den Worten des Hüengpriesters: „Wie der Bambus im Wind sich beugt, doch niemals bricht, so sei standhaft in deinem Glauben. Die Götter prüfen uns wie der Gärtner den Bambus, um sicherzustellen, dass unsere Wurzeln tief und unser Herz stark sind.“ (Session 51)

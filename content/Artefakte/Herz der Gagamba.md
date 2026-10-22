@@ -14,3 +14,11 @@ kurz: Schwarzer Kristall aus dem Gagaba-Tempel: schaffende und zerstörende arka
 - Auf dem [[Feenpfad]] (Session 36): Paian greift nach dem Alptraum panisch danach — „Er ist noch da, leuchtet aber jetzt angenehm."
 
 - Beobachtung Paians auf dem [[Feenpfad]] (Session 37): An einer Kante des Herzens sieht es aus, „als wäre etwas abgebrochen" — in der Geisterwelt sieht er „hiervon ein dunkles Band wegziehen".
+
+
+## Session 47: Jardan-Analyse und Rückgabe
+
+- Rückgabe durch [[Jadan|Jardan]]: „Der Herzkristall ist sehr magisch, hat aber seine Kraft bereits an jemanden abgegeben.“ — „Ein Schatten, ein Geist liegt auf diesem Gegenstand.“; er gibt das Herz „scheinbar nur ungern“ heraus; verwahrt hatte er es in einer mit schwarzem Metall beschlagenen Schatulle.
+- [[Paian]] erinnert sich an „einen geisterhaften Schemen, den er gesehen hat, als er den Stein zuerst angefasst hat“ (vgl. Diebstahl im Gagamba-Tempel, Session 35).
+- Die Chronik vermerkt dazu zweimal: „(TICKEN!!!)“.
+- Status: zurück bei der Gruppe.

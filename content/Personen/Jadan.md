@@ -26,3 +26,9 @@ kurz: Der Alchemist bei Sarnburg; heilte Siras Mal, erzählte die Finsterbann-Le
 - Vardfeste-Wissen (Session 43): „'Vardfeste' habe wohl bereits einen Angriff durch ein [[Wesen der Finsternis]] erfahren" — durch den Biss wird eine Art Lockstoff hinterlassen, der anderen Wesen das Auffinden erleichtert; [[Sira]] war die erste erfolgreich behandelte Patientin, „Jardan ist sichtlich stolz". → [[Vardfeste]]
 - Philosophische Spekulation (Session 43): Über die „Nicht-Seienden Wesen" — „es gäbe dann vielleicht auch Wesen des Seins? Empfindlichkeit gegen Licht?" — das „passt zur beschlagenen Kutsche von [[Galkor Alquan]] auf dem [[Feenpfad]]".
 - Die Chronik schreibt seinen Namen in diesen Einträgen durchgängig „Jardan" — Schreibvariante belassen.
+
+
+- Analyse in der Nacht (Session 47): Der [[Goldener Ring|Ring mit dem schwarzen Stein]] ist „stark magisch, seine Kraft kommt aus der göttlichen Domäne“ — Gottheit unbekannt; „nicht inherent böse“, er „decke etwas auf und verstecke etwas“; erinnert Jardan an einen Spruch, „mit dem man eine geheime Boschaft übermitteln kann“; wie man ihn auslöst, weiß er nicht. Gibt ihn bereitwillig zurück.
+- Der [[Herz der Gagamba|Herzkristall]] ist „sehr magisch, hat aber seine Kraft bereits an jemanden abgegeben“; „Ein Schatten, ein Geist liegt auf diesem Gegenstand.“; er gibt das Herz „scheinbar nur ungern“ heraus — verwahrt in einer mit schwarzem Metall beschlagenen Schatulle. (Paian erinnert sich an den geisterhaften Schemen bei der ersten Berührung.)
+- Nimmt die Gruppe trotz Sorge „vor den Priestern der Gagamba“ mitten in der Nacht auf.
+- [[Halfred]] erwähnt (Session 50) die „laufenden Bäume, die er auf Jardans Karte gesehen hat“.

@@ -36,3 +36,13 @@ kurz: Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finste
 - Lockstoff (Session 43): war die erste erfolgreich behandelte Patientin eines Bisses der [[Wesen der Finsternis]] — „Jardan ist sichtlich stolz"; → [[Vardfeste]]
 - Flucht (Session 44): entkommt mit Aikyr und Paian den Sarnburger Wachen; „ein unauffällig gekleideter Mann" hetzt Wachen auf sie.
 - Alias „Liara Fallwind" (Session 46): gibt sich in einer Taverne als Tuchhändlerin aus [[Palitan]] aus — „Ross und Rabe" spielen die herrische Geschäftsinhaberin und ihren buckelnden Buchprüfer.
+
+
+## Sessions 47–56: Aufbruch in den Süden — Wasserfels, der Schlund der Finsternis, Flussfahrt
+
+- Legt Heublumen an dem mutwillig zersplitterten [[Fleadyne-Schrein]] nieder, bevor die Gruppe der Blutfährte ins Roggenfeld folgt (Session 48).
+- In der „Tanzenden Forelle“ fragt sie die Wirtin nach ihrem Wohlergehen; diese weicht aus, doch „ihre Unterlippe zittert, als Sira ‚Kinderlieder‘ erwähnt“ (Session 50).
+- Im [[Der Schlund der Finsternis|Schlund der Finsternis]] sieht sie, wie Paians „Augen kurz grau, dann wieder normal werden und seine Kontur scheint kurz zu verschwimmen“ — „Das kommt Sira irgendwie bekannt vor“; ihre Lichtkugel wird „zu Boden gedrückt“ (Session 51).
+- Erkennt in den dem Kind eingeritzten Worten („Wo die -terne flü— …“) „Teil der Worte, die der [[Der Säulenheilige|Säulenheilige]] an Aikyr gerichtet hat“ (Session 53); wird vom um sich schlagenden [[Der angekettete Varg|Varg]] „in wilder Wut … zur Seite geschmettert“ (Session 52); schickt ihre Lichtkugel im Säulensaal nach oben — die Deckenmalerei blitzt kurz auf, „was ihr viel Kraft abverlangt“ (Session 53).
+- Auf der Überfahrt schlägt sie die Asche des bestatteten Kindes in ihren Mantel (Session 53).
+- Deckname (Session 49): Die Chronik lässt offen, unter welchem Namen Sira sich meldet — wörtlich: „Sira als ….“.

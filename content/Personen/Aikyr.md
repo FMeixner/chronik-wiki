@@ -35,3 +35,13 @@ kurz: Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf, 
 - Wacht früh auf, „weil der Silber- und der Splittermond voll sind", und unterhält sich lange mit [[Sira]] (Session 44); entkommt mit Sira und Paian den Wachen — „ein unauffällig gekleideter Mann bleibt ihnen auf den Fersen" (Session 44).
 - „Der überglückliche Aikyr" holt [[Sommertochter]] und [[Donnerhuf]] von den Ställen ab (Session 41); Sommertochter „freut sich sehr", ihn zu sehen (Session 42).
 - Schauspiel mit [[Sira]] (Session 46): „herrische Geschäftsinhaberin und ihr buckelnden Buchprüfer" — als Liara Fallwind (Tuchhändlerin aus Palitan) und Buchprüfer horchen sie die Wachleute in einer Taverne aus; danach wachen sie abwechselnd am Fenster.
+
+
+## Sessions 47–56: Aufbruch in den Süden — Wasserfels, der Schlund der Finsternis, Flussfahrt
+
+- Traumbilder im Süden: Vor dem Aufbruch sieht Paian im Traum „grünen Stein, wie in den Katakomben in Palitan“; beim Schäfer rettet Aikyr das Lämmchen vom Scheiterhaufen — es riecht nach Verwesung, „ein Auge des Lammes verfärbt sich schwarz“ (Sessions 47/48).
+- Decknamen auf dem Weg nach [[Vorbrin]] (Session 49): Dorean meldet sich als „von Zinnenforst“, Halfred als Tim, Paian als Calandarius — und Aikyr unter seinem eigenen Namen.
+- Im [[Der Schlund der Finsternis|Schlund der Finsternis]] riecht er das „etwas Großes, das die Tiere fernhält“, und erkennt am Endpfad: „da ist noch etwas Menschliches in dem Wesen“ — seine beruhigenden Worte an den angeketteten [[Der angekettete Varg|Varg]] zeigen Wirkung (Sessions 51/52).
+- Auf dem Pier von [[Wasserfels]] fragt er die anderen, was sie tun wollen, „wenn alles vorbei ist“: Er möchte „einen Wal fangen“ — das heitert Halfred und Paian auf (Session 50).
+- Traum auf dem Schiff (Session 55): modriger Boden, Leichen, Gitterstäbe — [[Rheva|Reva]], seine Schwester, blickt ihn flehentlich an, „aber es kommt nur pfeifen aus ihrem Mund … das pfeifende Lied des Zwergenpriesters. und ihr Gesicht wird zu einer Fratze.“ Danach pöbelt er [[Herr Janka|Herrn Janka]] an, der schweigend an Deck steht.
+- Flussfahrt auf dem [[Myrkan]] (Session 56): wird „fast wahnsinnig, weil er nichts zu tun hat“, pfeffert die Angel von [[Jesko Talnor]] in die Ecke und prügelt sich aus Langeweile mit [[Halfred]].

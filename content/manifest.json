@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–46 · in-world bis 14.07.997 LZ",
+  "coverage": "Sessions 01–56 · in-world bis 21.07.997 LZ",
   "pages": [
     {
       "path": "index",
@@ -757,7 +757,7 @@
       "type": "person",
       "title": "Der Säulenheilige",
       "status": "lebendig",
-      "kurz": "Weiser auf einer Säule in Sarnburg; sein Aufgang riecht modrig.",
+      "kurz": "Weiser auf einer Säule in Sarnburg; sein Aufgang riecht modrig wie der Kerker — seine Worte fanden sich dem Kind im Schlund eingeritzt.",
       "aliases": [
         "Säulenheiliger",
         "Der Weise von Sarnburg"
@@ -1342,7 +1342,7 @@
       "path": "Artefakte/Herz der Gagamba",
       "type": "artefakt",
       "title": "Herz der Gagamba",
-      "status": "in Paians Besitz (gestohlen)",
+      "status": "zurück bei der Gruppe (Jardan-Rückgabe, Session 47)",
       "kurz": "Schwarzer Kristall aus dem Gagamba-Tempel: schaffende und zerstörende arkane Strukturen — vom Zirkel gesucht, von Paian gestohlen.",
       "aliases": [
         "Kristall",
@@ -1538,19 +1538,19 @@
       "path": "Artefakte/Goldener Ring",
       "type": "artefakt",
       "title": "Goldener Ring",
-      "status": "bei Jadan zur Analyse (Sessions 42/43)",
-      "kurz": "Ring mit tiefschwarzem, eingefasstem Stein aus den Katakomben unter dem Gagamba-Tempel — sehr mächtige Magie.",
+      "status": "bei der Gruppe (Paian trägt ihn; öffnete die Tore im Schlund, Sessions 51–53)",
+      "kurz": "Ring mit tiefschwarzem, eingefasstem Stein aus den Katakomben unter dem Gagamba-Tempel; Jardan: Kraft aus göttlicher Domäne, „decke etwas auf und verstecke etwas“ — öffnet die schwarzsteinernen Tore im Schlund.",
       "aliases": [
         "goldener Ring mit tiefschwarzem Stein"
       ],
       "held": false,
-      "w": 70
+      "w": 75
     },
     {
       "path": "Artefakte/Die Roten Spuren",
       "type": "artefakt",
       "title": "Die Roten Spuren",
-      "status": "Auftrag offen (folgt der Gruppe)",
+      "status": "Auftrag läuft — „Die Suche nach dem zweiten Stein“ (Session 47 ff.)",
       "kurz": "Lisanas letzter Auftrag: den Weg des ersten Schlachtzugs folgen und aus der Dunkelheit einen blauen Stein bringen.",
       "aliases": [
         "Prophezeiung der Fee",
@@ -1601,6 +1601,251 @@
       "aliases": [],
       "held": false,
       "w": 78
+    },
+    {
+      "path": "Personen/Luidperga",
+      "type": "person",
+      "title": "Luidperga",
+      "status": "tot (tödliches Einnahmegift; keine Gewalteinwirkung — Session 54)",
+      "kurz": "Alte Erzählerin in Wasserfels, Trägerin der goldenen Maske; erzählte der Gruppe die Reichsgeschichte und warnte vor den Wesen zwischen den Wurzeln.",
+      "aliases": [],
+      "held": false,
+      "w": 85
+    },
+    {
+      "path": "Personen/Aitja Fichtenjagt",
+      "type": "person",
+      "title": "Aitja Fichtenjagt",
+      "status": "lebendig (Wasserfels; verfluchte die Gruppe)",
+      "kurz": "Wirtin und Köchin der „Tanzenden Forelle“ in Wasserfels; erhielt zwei Todesnachrichten und verfluchte die Gruppe.",
+      "aliases": [],
+      "held": false,
+      "w": 55
+    },
+    {
+      "path": "Personen/Jesko Talnor",
+      "type": "person",
+      "title": "Jesko Talnor",
+      "status": "lebendig (Kapitän auf dem Myrkan)",
+      "kurz": "Gnomen-Kapitän auf dem Myrkan; fährt Wasserfels–Drugonsfuhrt (~800 km, ~28 Tage) und nahm die Gruppe an Bord.",
+      "aliases": [],
+      "held": false,
+      "w": 45
+    },
+    {
+      "path": "Personen/Herr Janka",
+      "type": "person",
+      "title": "Herr Janka",
+      "status": "unbekannt (ausgestiegen am Schattenfeld)",
+      "kurz": "Schwarz gekuttelter, muskulöser Mann an Bord; „hierher geschickt“ — von wem, sagt er nicht.",
+      "aliases": [
+        "Janka"
+      ],
+      "held": false,
+      "w": 50
+    },
+    {
+      "path": "Personen/Sava Geiter",
+      "type": "person",
+      "title": "Sava Geiter",
+      "status": "lebendig (Schäfer)",
+      "kurz": "Schäfer mit kranker Herde — schwarze Hufe, eiternde Augen, furcht- und taube Schafe; wies Hilfe ab.",
+      "aliases": [],
+      "held": false,
+      "w": 35
+    },
+    {
+      "path": "Personen/Das Kind vom Altar",
+      "type": "person",
+      "title": "Das Kind vom Altar",
+      "status": "tot (seit etwa einer Woche; aufgefunden Session 52)",
+      "kurz": "Gefoltertes Kind (~10 Jahre, kastanienbraunes Haar, spitzes Ohr) auf dem Altar im Schlund der Finsternis — mit Worten des Säulenheiligen eingeritzt.",
+      "aliases": [
+        "Mädchen vom Altar",
+        "das gefolterte Kind"
+      ],
+      "held": false,
+      "w": 45
+    },
+    {
+      "path": "Orte/Wasserfels",
+      "type": "ort",
+      "title": "Wasserfels",
+      "status": "bestehend",
+      "kurz": "Dorf an der Einmündung der Windenden Winne in den Myrkan; Ausgangspunkt der Flussfahrt — Heimat der „Tanzenden Forelle“.",
+      "aliases": [],
+      "held": false,
+      "w": 60
+    },
+    {
+      "path": "Orte/Vorbrin",
+      "type": "ort",
+      "title": "Vorbrin",
+      "status": "bestehend",
+      "kurz": "Stadt auf dem Weg nach Wasserfels; hier offenbart Dorean seine Erhebung zum Schwertrichter — und die Decknamen.",
+      "aliases": [],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Orte/Dreywasser",
+      "type": "ort",
+      "title": "Dreywasser",
+      "status": "bestehend",
+      "kurz": "Flussstadt am Myrkan; Station der Jesko-Talnor-Fahrt — viele Soldatenboote.",
+      "aliases": [],
+      "held": false,
+      "w": 28
+    },
+    {
+      "path": "Orte/Beertal",
+      "type": "ort",
+      "title": "Beertal",
+      "status": "bestehend",
+      "kurz": "Nächster Halt der Flussfahrt nach Drugonsfuhrt — etwa zwei Wochen ab Wasserfels.",
+      "aliases": [],
+      "held": false,
+      "w": 22
+    },
+    {
+      "path": "Orte/Drugonsfuhrt",
+      "type": "ort",
+      "title": "Drugonsfuhrt",
+      "status": "bestehend",
+      "kurz": "Letzter mit dem Schiff befahrbarer Ort am Myrkan (~800 km flussaufwärts) — Richtung Seenland und Heratis.",
+      "aliases": [],
+      "held": false,
+      "w": 32
+    },
+    {
+      "path": "Orte/Das Schattenfeld",
+      "type": "ort",
+      "title": "Das Schattenfeld",
+      "status": "bestehend",
+      "kurz": "Riesiger Wald am Myrkan mit gerundeten Kuppen; Legende: unter der Erde gebannte Drachlinge in einem kopfstehenden Labyrinth.",
+      "aliases": [
+        "Schattenfeld"
+      ],
+      "held": false,
+      "w": 45
+    },
+    {
+      "path": "Orte/Der Schlund der Finsternis",
+      "type": "ort",
+      "title": "Der Schlund der Finsternis",
+      "status": "bestehend (Höhle von der Gruppe durchkämmt)",
+      "kurz": "Kultstätte an der Windenden Winne: schwarzsteinerne Tore, Panikraum, Folterkammer, Altar, angeketteter Varg und ein verzauberter Spiegel.",
+      "aliases": [
+        "Schlund der Finsternis",
+        "die Kult-Höhle an der Windenden Winne"
+      ],
+      "held": false,
+      "w": 78
+    },
+    {
+      "path": "Orte/Myrkan",
+      "type": "ort",
+      "title": "Myrkan",
+      "status": "bestehend",
+      "kurz": "Großer Fluss; von Wasserfels ~800 km flussaufwärts bis Drugonsfuhrt schiffbar — Heimat des Tiefenzahns.",
+      "aliases": [],
+      "held": false,
+      "w": 50
+    },
+    {
+      "path": "Orte/Windende Winne",
+      "type": "ort",
+      "title": "Windende Winne",
+      "status": "bestehend",
+      "kurz": "Fluss, mündet bei Wasserfels in den Myrkan; ~10 km hinauf liegt der Schlund der Finsternis.",
+      "aliases": [],
+      "held": false,
+      "w": 45
+    },
+    {
+      "path": "Orte/Fleadyne-Schrein",
+      "type": "ort",
+      "title": "Fleadyne-Schrein",
+      "status": "zerstört vorgefunden (Session 48)",
+      "kurz": "Zersplitterter Wegschrein südlich von Sarnburg — mutwillig zerstört; Sira legte Heublumen nieder.",
+      "aliases": [
+        "Fleadyneschrein",
+        "Fleidyne-Schrein"
+      ],
+      "held": false,
+      "w": 42
+    },
+    {
+      "path": "Artefakte/Die Goldene Maske",
+      "type": "artefakt",
+      "title": "Die Goldene Maske",
+      "status": "bei der Gruppe (Paian analysiert sie)",
+      "kurz": "Ausdruckslose Goldmaske aus Luidpergas Geheimfach — die Schrift-Kratzer an der Innenseite gleichen der Altar-Schrift.",
+      "aliases": [
+        "goldene ausdruckslose Maske"
+      ],
+      "held": false,
+      "w": 80
+    },
+    {
+      "path": "Artefakte/Der Spiegel (Schlund der Finsternis)",
+      "type": "artefakt",
+      "title": "Der Spiegel (Schlund der Finsternis)",
+      "status": "zerstört (Halfred, Session 53)",
+      "kurz": "Reich verzierter Spiegel im Altarraum — zeigt einen dunklen Raum, heilt sich mit dem Ring; dahinter ein nicht durchdringbarer „Vorhang“.",
+      "aliases": [
+        "verzierter Spiegel",
+        "der Spiegel im Schlund"
+      ],
+      "held": false,
+      "w": 68
+    },
+    {
+      "path": "Kreaturen/Tiefenzahn",
+      "type": "kreatur",
+      "title": "Tiefenzahn",
+      "status": "bestehend (Myrkan)",
+      "kurz": "Riesige wurmartige Flusskreatur im Myrkan — Strudel, „Maul mit tausenden Zähnen“.",
+      "aliases": [],
+      "held": false,
+      "w": 40
+    },
+    {
+      "path": "Kreaturen/Der angekettete Varg",
+      "type": "kreatur",
+      "title": "Der angekettete Varg",
+      "status": "unbekannt (im Schlund der Finsternis zurückgelassen)",
+      "kurz": "Riesenhafter angeketteter Varg im Schlund der Finsternis — schwarze Ranken wachsen aus ihm; „etwas Menschliches“ steckt in ihm.",
+      "aliases": [
+        "riesenhafter Varg"
+      ],
+      "held": false,
+      "w": 55
+    },
+    {
+      "path": "Kreaturen/Wesen zwischen den Wurzeln",
+      "type": "kreatur",
+      "title": "Wesen zwischen den Wurzeln",
+      "status": "unbekannt (beobachtet von Luidperga; Zusammenhang mit dem Schlund offen)",
+      "kurz": "Wesen mit goldenen Masken in Purpur, die zwischen den Wurzeln leben und „die Geschicke der Menschen spinnen“.",
+      "aliases": [
+        "Wesen mit goldenen Masken",
+        "Goldmasken"
+      ],
+      "held": false,
+      "w": 65
+    },
+    {
+      "path": "Fraktionen/Kaiserreich Selenia",
+      "type": "fraktion",
+      "title": "Kaiserreich Selenia",
+      "status": "bestehend (regiert von Selenius III.)",
+      "kurz": "Luidpergas Reichsgeschichte: 910–990 LZ — Regar/Selenius I., die vier Mondsteinkriege, die Rote Nacht, Selenius II. und III.",
+      "aliases": [
+        "Selenia"
+      ],
+      "held": false,
+      "w": 60
     }
   ]
 }

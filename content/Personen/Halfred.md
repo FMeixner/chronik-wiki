@@ -43,3 +43,13 @@ kurz: Jäger und Fährtensucher der Gruppe, trägt einen Dharst; überlebte Fels
 
 > [!warning] Widerspruch in der Chronik
 > Haupteintrag 30.05.2023: „H fängt nachts zu Kotzen an und trippt hart.“ Franzi-Notiz 30.05.: „der arme Dorean kotzte sich gute zwei Stunden die Seele aus dem Leib.“ Beide Stellen belassen; ungeklärt, wer den Sud vertragen hat — oder ob beide.
+
+
+## Sessions 47–56: Aufbruch in den Süden — Wasserfels, der Schlund der Finsternis, Flussfahrt
+
+- „Fühlt sich sehr wohl wieder in der Natur zu sein und führt uns meisterlich durch die Wildnis“ (Session 47).
+- Fragt den Wind und die Bäume, ob die Frevler einen Gefangenen haben — „was diese bejahen“ (Session 48); bittet die Linde um Unterstützung beim Grabausheben — ihr Dank begegnet „nur Hass … Hass auf alles Lebendige“; Alptraum: „ein riesiger Baum, dessen Wurzeln mit Blut getränkt werden“ (Session 48).
+- Deckname „Tim“ (Session 49).
+- Auf dem Pier von [[Wasserfels]]: möchte seinen Vater um Vergebung bitten — er verstehe „jetzt besser, warum sein Vater so handelt, wie er handelt und warum er die Welt so sieht, wie er sie sieht“; er sucht vielleicht die laufenden Bäume, „die er auf Jardans Karte gesehen hat“ (Session 50).
+- Im [[Der Schlund der Finsternis|Schlund]]: fragt sein Blatt, wo seine Freunde sind — die Bäume schicken ihn ins dunkle Loch; schießt „einen nach dem anderen Pfeil in die Ranken“ (Session 52); findet neben dem Tier-Loch eine „faustgroße weißliche Schuppe, fast wie Marmor“; macht den [[Der Spiegel (Schlund der Finsternis)|Spiegel]] nach Paiens Vorhang-Erkenntnis endgültig kaputt (Session 53).
+- Auf der Flussfahrt: Prügel mit [[Aikyr]] aus Langeweile; steigt am [[Das Schattenfeld|Schattenfeld]] aus, um die Nacht im Wald zu verbringen (Session 56).

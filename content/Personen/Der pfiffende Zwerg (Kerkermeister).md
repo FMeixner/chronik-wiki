@@ -14,3 +14,6 @@ kurz: Kommandoführender Zwerg im Kerker; pfeift stets dieselbe Melodie.
 
 - Spieler-Klarstellung (22.10.2026): Ein Gunwar-Priester; Name der Gruppe nach evtl. „… Isenblut“ — eine textseitige Bestätigung in der Chronik steht noch aus.
 
+
+
+- Das Motiv verfolgt [[Aikyr]] bis in Träume auf der Flussfahrt (Session 55): [[Rheva|Reva]] blickt ihn flehentlich an — „aber es kommt nur pfeifen aus ihrem Mund … das pfeifende Lied des Zwergenpriesters. und ihr Gesicht wird zu einer Fratze.“

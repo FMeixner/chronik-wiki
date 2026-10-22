@@ -38,3 +38,16 @@ kurz: Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid St
 - Zeigt [[Jadan]] den Splitter (Session 42) — Jadan ist überrascht, „dass er noch lebt": „Die Splitter würden sich schützen, mit dem was ihnen innenwohnt." Der Splitter bleibt bis zur Abreise bei Jadan (Session 43).
 - Findet mit Halfred flockenstieligen Birnenrötling zwischen Kiefern — „eine Zutat für das Gegengift gegen den Biss der Grauen" (Session 42).
 - Gibt sich Elquin Germersin gegenüber als Gunwarpriester zu erkennen (Session 45).
+
+
+## Sessions 47–56: Aufbruch in den Süden — Wasserfels, der Schlund der Finsternis, Flussfahrt
+
+- Traum vor dem Aufbruch (Session 47): Schwärze, Geruch eines alten Kellers, „als würden seine Nägel abbrechen“ und „sehr viel hängt davon ab“; ein roter Schemen (Banner/Umhang), Sturzgefühl — „grüner Stein, wie in den Katakomben in Palitan“.
+- Zweiter Traum (Session 49): Dunkelheit, Ziehen an den Fingernägeln, Stimmen in fremder Sprache, sie reden von „Zeit“; roter Schemen, „ein Schlag an seine Stirn, gefolgt von Schmerzen an die Kehle“.
+- Am zerstörten [[Fleadyne-Schrein]] „schockiert“; zornig: „dass wir nicht solche Frevler davon lassen“ — gegen Halfreds Rat, das große Ganze im Blick zu behalten. Grabsegen an der Linde: „er scheint hier nahe an seinem Gott zu sein, aber etwas fühlt sich ungut an“ (Session 48); danach Vermerk in der Chronik: „(zunehmendes Ticken)“.
+- Verdacht an [[Sava Geiter]]s Herde: die Drausche Sumpffäule (Session 49).
+- Vor dem schwarzen Loch erbittet er Gunwars Beistand — und ist sich „sicher, dass in der Tiefe dieses Loches ein Stück des Puzzles verborgen ist“; Sira sieht seine „Augen kurz grau, dann wieder normal“ werden, seine Kontur verschwimmt (Session 51). Trägt den [[Goldener Ring|Goldenen Ring]] — damit öffnet er beide Tore aus schwarzem Stein (Sessions 51–53) und setzt den [[Der Spiegel (Schlund der Finsternis)|Spiegel]] wieder zusammen.
+- Am Spiegel wird er „fasziniert von dem Gegenstand und seine Gottheit fühlt sich plötzlich sehr fern an“ (Session 53).
+- Das Hüeng-Talisman an seinem Gürtel leuchtet im Panikraum auf; Dorian beruhigt ihn mit dem Bambus-Wort des Hüengpriesters (Session 51).
+- Bei [[Luidperga]]: sieht ihren Geist, der „scheinbar wahllos durch den Raum“ geht; untersucht die Leiche — keine Gewalteinwirkung; beerdigt sie mit Aikyr (Session 54) und hält mit der Gruppe eine Andacht auf dem Totenanger (Session 55).
+- Deckname „Calandarius“ (Session 49). Auf der Flussfahrt: „fühlt eine Last von sich abfallen, als er das Ufer hinter sich sieht“; liest viel, analysiert die goldene Maske und die anderen magischen Gegenstände (Session 56).

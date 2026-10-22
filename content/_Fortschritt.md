@@ -5,8 +5,8 @@ title: _Fortschritt
 # Destillations-Fortschritt
 
 ## Stand
-- Verarbeitet: Sessions 01–46, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis zum erneuten Aufbruch aus [[Sarnburg]] (in-world zuletzt explizit: 14.07.997 LZ).
-- Nächster Abschnitt: beginnt mit dem Eintrag vom 28.05.2024 („Erneuter Aufbruch - Die Suche nach dem zweiten Stein“).
+- Verarbeitet: Sessions 01–56, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis „Leinen los“ (in-world zuletzt explizit: 21.07.997 LZ, das Schattenfeld auf der Myrkan-Fahrt).
+- Nächster Abschnitt: beginnt mit dem Eintrag vom 24.09.2024 („Gold auf Schwarz“).
 - Rohtext-Stand: Google Doc „Die Chronik“, Stand 21.10.2026.
 
 ## Konventionen
@@ -15,7 +15,7 @@ title: _Fortschritt
 - Spieler-Notizen (Franzi, Halfred) sind Chronik-Bestandteil und werden als Quelle geführt.
 - Spieler-Klarstellungen aus Gesprächen (zuletzt 22.10.2026) werden als solche gekennzeichnet und nicht mit Chronik-Text vermischt.
 - In-world-Daten werden wörtlich übernommen, auch bei Widersprüchen (z. B. 04.997 vs. 5.997; „29.6.997 LZ(?)“) — nie eigenmächtig korrigieren.
-- Chronik-Rechtschreibvarianten bleiben wörtlich (Teermark/Termark, Bodam/Bodan, Jadan/Jardan, Elf/Alb des Gesandten) — ggf. mit [sic].
+- Chronik-Rechtschreibvarianten bleiben wörtlich (Teermark/Termark, Bodam/Bodan, Jadan/Jardan, Midstadt/Midstad, Elf/Alb des Gesandten) — ggf. mit [sic].
 - Taxonomie (Nutzer-Entscheid 22.10.2026): Tiere unter `Tiere/` mit eigenem Typ `tier` (Donnerhuf und Sommertochter dorthin umgezogen); Kreaturen unter `Kreaturen/` mit Typ `kreatur`.
 - Wichtigkeits-Gewichtung (Nutzer-Auftrag 22.10.2026): manifest.json führt pro Seite `w` (0–100), berechnet aus Erwähnungsfrequenz in der Chronik, Recency (Position der letzten Erwähnung) und inhaltlicher Gravitas (1–3). Die Weboberfläche sortiert die Navigation danach und rankt die Suche danach; markante Seiten tragen einen Stern. Bei neuen Seiten grob mitabschätzen, nach größeren Batches neu berechnen.
 
@@ -24,7 +24,7 @@ title: _Fortschritt
 - Warum wird Doreans Feder nicht nass? — Von der Gruppe als bewusstes Mysterium bestätigt (22.10.2026); wird nicht weiter verfolgt.
 - Was ist in der Nacht auf den 27.04.997 LZ zwischen Dorean und Sira „passiert“? — Von der Gruppe als bewusstes Mysterium bestätigt (22.10.2026); wird nicht weiter verfolgt. Rekurrenz des Chronik-Verstummens: „passieren dinge“ in Palitan (Sessions 27/28) — gleiche Art, nicht verfolgt.
 - Verbleib des Amuletts mit fünfzackigem Stern (aus Fitzbans Gewand)? — offen.
-- Der pfiffende Kerkermeister-Zwerg: Laut Gruppe (22.10.2026) „ziemlich sicher“ identisch mit dem kinderabholenden Gunwar-Priester; Name der Gruppe nach evtl. „… Isenblut“ — textseitige Bestätigung steht aus.
+- Der pfiffende Kerkermeister-Zwerg: Laut Gruppe (22.10.2026) „ziemlich sicher“ identisch mit dem kinderabholenden Gunwar-Priester; Name der Gruppe nach evtl. „… Isenblut“ — textseitige Bestätigung steht aus. Neue Rekurrenz: In Aikyrs Traum (Session 55) pfeift [[Rheva|Reva]] genau „das pfeifende Lied des Zwergenpriesters“ — welche Verbindung besteht zwischen Reva und dem Kerker?
 - Wem gehört die leuchtende Klinge, die von hinten durch den Rachen des Wolfwesens stößt? (Session 26)
 - Wer ist „ER“, dessen Erwachen [[Nadiavin]] erwartet — der „Wächter dieser Welt“? (Session 25)
 - Doreans Bruder aus der Feenwasser-Vision — Identität und Bedeutung offen. (Session 23)
@@ -37,9 +37,9 @@ title: _Fortschritt
 - Glockenspiel-Melodie über dem Südost-Raum der Katakomben — was erklingt dort? (Session 34)
 - Wer ist der alte Mann mit traurigen Augen, der beim Tempeldiebstahl murmelnd zusieht und vor dem Portal wieder auftaucht? (Session 35)
 - Wer ist die schwarzgewandete Frau — und steht sie hinter den „Klingen in der Nacht“? (Session 35)
-- Das [[Herz der Gagamba]] leuchtet nach dem Diebstahl „angenehm“ (Session 36) — und hat eine Kante, „als wäre etwas abgebrochen“; in der Geisterwelt zieht davon ein dunkles Band weg (Session 37). Bedeutung?
+- Das [[Herz der Gagamba]] leuchtet nach dem Diebstahl „angenehm“ (Session 36) — und hat eine Kante, „als wäre etwas abgebrochen“; in der Geisterwelt zieht davon ein dunkles Band weg (Session 37). Jardan (Session 47): Die Kraft „wurde bereits an jemanden abgegeben“ — „Ein Schatten, ein Geist liegt auf diesem Gegenstand.“ Wem? Die Chronik vermerkt zweimal „(TICKEN!!!)“.
 - Doreans Dolchwunde (Attentat, Session 35): Ränder lila verfärbt — „ist sich unsicher ob das Gift noch wirkt“ (Session 38).
-- [[Goldener Ring]] aus den Katakomben: Halfred hat ihn gefunden (Spieler-Klarstellung 22.10.2026); der Haupteintrag „Aikyr“ (Session 38) bleibt als Widerspruch wörtlich stehen. Analyse bei [[Jadan]] läuft (Sessions 42/43).
+- [[Goldener Ring]]: Halfred hat ihn gefunden (Spieler-Klarstellung 22.10.2026); der Haupteintrag „Aikyr“ (Session 38) bleibt als Widerspruch wörtlich stehen. Jardans Analyse (Session 47): Kraft aus der göttlichen Domäne (Gottheit unbekannt), „er decke etwas auf und verstecke etwas“, erinnert an einen Spruch zur geheimen Botschaftsübermittlung. Funktion bewiesen an den Toren des Schlunds (Sessions 51–53). Offen: An Luidperga (Session 54) findet sich ein goldener Ring mit zerbrochenem schwarzem Stein — gleiche Machart? Zusammenhang?
 - Welchen „Splitter“ trägt Paian, den er [[Jadan]] zeigt (Sessions 42/43)? Die Chronik benennt ihn nicht — Kandidat: der [[Grüner Stein mit Spirale|Grüne Stein mit Spirale]] (Geschenk Fitzbans); und: „zeigt [er] dem anderen Splitter, dass er sich nicht schützen muss?“ (Spieler-Notiz, Session 42)
 - Wer ist die [[Die Alte über die Kreuzwege|Alte über die Kreuzwege]] aus Doreans Vision — und was „ruft nach ihm“, nachdem es seinen Weg gekreuzt hat? (Session 39; Paian kennt sie „im Zusammenhang mit einer Heiligen“)
 - Was „wartet möglicherweise“ in [[Sarnburg]] — wovor die Gruppe [[Jelinde]] warnt? (Session 37) Die Warnung blieb ohne erkennbare Folge; ob etwas damit zusammenhing (Gatta-Verhaftung? Verhaftung von Halfred und Dorian?), hält die Chronik nicht fest.
@@ -53,4 +53,20 @@ title: _Fortschritt
 - Schwarzes Schwert: aus Albträumen geschmiedet (Session 24) vs. Material Totenerz aus Esmoda (Session 27) — wie beides zusammenpasst, ungeklärt. (Myro, Session 41: Esmoda ist „die Stadt der Toten“ — rät von der Suche ab; ein Zwerg in [[Heratis]] kenne sich mit Feenwirken aus.)
 - Verbleib von Mao Tai nach dem Kopfwesen-Zwischenfall? (Session 27)
 - Chronik-Überschrift „Auf dem Mondpfad“ (Session 36), Text aber „Auf dem Feenpfad“ — Namensverwirrung belassen; der Feenpfad ist als eigener Ort geführt.
-- Gelöste Fragen (zur Referenz): „Tenkuri, ?“ (Session 36) — Tenkuri ist der Feenfürst, „Herr des Pfades“ (Session 37). Gattas Schicksal — Verhaftung (Session 41) und Hinrichtung (Session 44); die Hingerichtete war Gatta (Spieler-Klarstellung 22.10.2026). Ring-Finder: Halfred (Spieler-Klarstellung 22.10.2026; Chronik-Widerspruch bleibt dokumentiert). Taxonomie: Tiere eigene Kategorie `Tiere/` (Nutzer-Entscheid 22.10.2026). Esmoda als „Stadt der Toten“ (Session 41) auf der Esmoda-Seite nachgetragen.
+
+### Offene Fragen aus Sessions 47–56 (Batch 4)
+- Die [[Wesen zwischen den Wurzeln|Wesen mit goldenen Masken in Purpur]]: Wer sind sie? Luidpergas Warnung: „Meide ihren Pfad und berichte niemanden von ihnen Kommen und Gehen.“ Zusammenhang mit den [[Spinnenwesen]] aus Palitan, der [[Die Goldene Maske|goldenen Maske]] und dem [[Der Schlund der Finsternis|Schlund der Finsternis]] — offen. [[Paian]] träumt „von purpurnen Dingen“ (Session 50).
+- Der [[Der Spiegel (Schlund der Finsternis)|Spiegel]] im Schlund: Was ist der „Vorhang“ dahinter (Stoff ertastbar, nicht durchgriffen)? Diente er der Überwachung des Geschehens — und wer saß/amtierte dahinter? Warum fühlte sich Paiens Gottheit bei der Berührung „sehr fern“? Halfred zerstörte ihn endgültig (Session 53).
+- Der [[Der angekettete Varg|ankettete Varg]]: Wer oder was war er — „etwas Menschliches“ steckte in ihm? Warum ist er dort angekettet, mit Ranken im Leib? (Session 52)
+- Die faustgroße „weißliche Schuppe, fast wie Marmor“ neben dem Loch, „als wäre es von einem unglaublich starken Tier gegraben worden“ — welches Wesen gräbt im Schlund? (Session 53)
+- Das Ritual gegen das Land: die an der Linde kopfüber genagelte (vermutlich Fleadyne-)Priesterin, der zerstörte [[Fleadyne-Schrein]], [[Sava Geiter]]s kranke Herde ([[Paian]] vermutet Drausche Sumpffäule). Doreans These: „ein Ritual, um das Land zu vergiften?“ (Sessions 48/49). Die Fleadynepriesterin Hareike von der Gänseau ist „schon längst überfällig“ (Session 54) — war sie die Frau an der Linde? Chronik stellt es nicht explizit fest. Wer sind die etwa 10 „Frevler“ — und gehören sie zu den Wesen zwischen den Wurzeln?
+- [[Luidperga]]: Warum besaß die alte Erzählerin die goldene Maske, den purpurnen Stoff und das Buch der „Behandlungen“? Starb sie durch eigene Hand (leere Giftphiole, keine Gewalteinwirkung) — und warum ging ihr Geist „scheinbar wahllos durch den Raum“? (Session 54)
+- Das Buch der „Behandlungen“ (verglüht): Aufzeichnungen bis 500 Jahre zurück, ein Patient mit Nachnamen „Leyatan“ (952) — Zusammenhang mit dem in der Roten Nacht 932 ausgelöschten Geschlecht derer von Leytal (→ [[Kaiserreich Selenia]])? (Session 54)
+- [[Das Kind vom Altar]]: Identität; „der Tod ihrer Tochter“ bei der Nachricht an [[Aitja Fichtenjagt]] legt Aitjas Tochter nahe — Chronik explizit? Nein. Warum wurden dem Kind Worte des [[Der Säulenheilige|Säulenheiligen]] eingeritzt? Wer führte die „Behandlung“ tagelang durch? (Sessions 52–54)
+- [[Herr Janka]]: Von wem wurde er „hierher geschickt“? Warum wirkt er mit [[Jesko Talnor]] „sehr vertraut“, stieg laut diesem aber erst in Kronberg zu? Was will er im [[Das Schattenfeld|Schattenfeld]]? (Session 56)
+- Der [[Tiefenzahn]]: Was sind die „riesigen Würmer“ im Myrkan — Gefahr für die laufende Flussfahrt? (Session 56)
+- Paiens Entwicklung: das „(zunehmende Ticken)“, Augen „kurz grau“, verschwimmende Kontur (Session 51), Träume von Stimmen, die von „Zeit“ reden (Session 49), die Ferne seiner Gottheit am Spiegel (Session 53) — was geschieht mit ihm?
+- Der „zweite Stein“: Die Chronik betitelt den Aufbruch „Die Suche nach dem zweiten Stein“ (Session 47) — welcher Stein gemeint ist (der blaue Stein der [[Die Roten Spuren|Roten Spuren]]? ein Splitter des [[Geborstener Kristall|Geborstenen Kristalls]]?), hält sie an dieser Stelle nicht fest.
+- Siras Deckname in [[Vorbrin]]: Die Chronik bricht mitten im Satz ab — „Sira als ….“ (Session 49, wörtlich offen).
+
+- Gelöste Fragen (zur Referenz): „Tenkuri, ?“ (Session 36) — Tenkuri ist der Feenfürst, „Herr des Pfades“ (Session 37). Gattas Schicksal — Verhaftung (Session 41) und Hinrichtung (Session 44); die Hingerichtete war Gatta (Spieler-Klarstellung 22.10.2026). Ring-Finder: Halfred (Spieler-Klarstellung 22.10.2026; Chronik-Widerspruch bleibt dokumentiert). Taxonomie: Tiere eigene Kategorie `Tiere/` (Nutzer-Entscheid 22.10.2026). Esmoda als „Stadt der Toten“ (Session 41) auf der Esmoda-Seite nachgetragen. Jardans Analysen (Session 47) abgeschlossen und beide Gegenstände zurückgeholt: Ring (göttliche Domäne, „decke etwas auf und verstecke etwas“) und Herzkristall (Kraft bereits abgegeben; „Ein Schatten, ein Geist liegt auf diesem Gegenstand“).

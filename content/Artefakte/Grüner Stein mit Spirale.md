@@ -11,3 +11,6 @@ kurz: Geschenk Fitzbans an Paian — wirkt wie ein gewöhnlicher Stein.
 - Die Probe verlief ernüchternd: Er scheint ein gewöhnlicher Stein zu sein.
 - Herkunft und Wirkung: unbekannt.
 
+
+
+- Kehrt in [[Paian]]s Traum vor dem Aufbruch wieder (Session 47): Sturzgefühl — „und sieht grünen Stein, wie in den Katakomben in Palitan“.

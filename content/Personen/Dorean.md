@@ -35,3 +35,14 @@ kurz: Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden a
 - Wieder in [[Sarnburg]] (Session 41): erfährt, dass größere Mengen Geld von seiner Schwester und seinem Vater abgehoben wurden; er schreitet selbstsicher voran und „zetert wie ein echter Adliger" — die Wachen lassen die Gruppe unbehelligt vorbei.
 - Verhaftung (Session 44): gibt im Gefängnis einen selbst geschriebenen Brief vor — er komme aus Zinnenforst und solle fragen, ob man Gefangene als Arbeitskräfte schicken könne; eine Beamtin interessiert sich für ihre Namen, „eine dritte Person kommt dazu und wispert der Beamtin etwas zu" — Wachen sperren ihn mit [[Halfred]] ein. (Sira und Paian wollten zuvor herausfinden, was [[Gatta]] vorgeworfen wird; Dorian: Hochverrat sei ein schwerer Vorwurf, beim einfachen Volk werde „oft kurzer Prozess" gemacht.)
 - Erneut frei (Sessions 45/46): [[Elquin Germersin]] soll [[Pyrina]] und Schetzinek über den [[Zirkel der Zinnen]] ausrichten, dass der Auftrag vollbracht ist — wenn sie den Stein sehen wollen, sollen sie ihn und Halfred aus dem Gefängnis holen. Vor den Toren der Stadt bittet er Halfred, das [[Schwarzes Schwert|Schwarze Schwert]] bis [[Heratis]] zu verwahren — Halfred kann die Klinge nicht an sich nehmen, Dorean behält sie („Dorean schmunzelt erst, dann wird sein Gesicht schmerzerfüllt").
+
+
+## Sessions 47–56: Aufbruch in den Süden — Wasserfels, der Schlund der Finsternis, Flussfahrt
+
+- Erzählt an, wie er und Halfred aus [[Sarnburg]] entkommen sind — „bricht dann aber ab und schweigt“ (Session 47); schlägt eine Flussfahrt auf dem [[Myrkan]] vor: „damit könne man bis in das Seenland reisen, was nicht mehr weit von [[Heratis]] wäre“.
+- „Dorian spricht von Rache“ nach dem Fund an der Linde; Aikyr rückt ihm den Kopf zurecht. Seine Deutung: „Wenn man jemanden einschüchtern will, dann macht man so etwas in der Öffentlichkeit“ — also „ein Ritual, um das Land zu vergiften?“ (Session 48).
+- Offenbart vor [[Vorbrin]] (Session 49), „dass er zum Schwertrichter erhoben wurde, und das auch ein Teil des Grundes ist, warum er aus dem Gefängnis wieder rausgekommen ist“; meldet sich am Stadttor als „von Zinnenforst“.
+- Im Panikraum als Einziger klar; bemerkt das Leuchten des Hüeng-Talisman an Paians Gürtel und beruhigt Paian mit den Worten des Hüengpriesters: „Wie der Bambus im Wind sich beugt, doch niemals bricht …“ (Session 51).
+- Im [[Der Schlund der Finsternis|Schlund der Finsternis]] hackt er auf den [[Der angekettete Varg|Varg]] und die Ranken ein (Session 52); seine Berührung lässt den [[Der Spiegel (Schlund der Finsternis)|Spiegel]] „in 1000 Stücke“ zerspringen (Session 53).
+- Findet auf Luidpergas Schreibtisch Bücher und zerknüllte Pergamente (Session 54).
+- Auf der Flussfahrt: trainiert und liest Gesetzestexte (Session 56).

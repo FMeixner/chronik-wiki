@@ -328,3 +328,73 @@ Format-Hinweis: Dieses Format ist parsebar und Grundlage für die automatische R
 - Beteiligte: [[Aikyr]], [[Sira]], [[Dorean]], [[Halfred]], [[Paian]], Angerick, Almut Weißenstein
 - Ereignis: Aikyr beobachtet aus den Schatten den Schankraum; fünf Stadtwachen betreten die Taverne. Aikyr und Sira geben sich als „herrische Geschäftsinhaberin" Liara Fallwind (Tuchhändlerin aus [[Palitan]]) und ihr buckelnder Buchprüfer — an ihren Tisch setzen sich die Wachleute Angerick („groß, Glatze, ungepflegt und schmierig") und Almut Weißenstein („gepflegt mit roten Haaren, klarer Blick"); der Schankjunge fragt beim Bierbringen, „ob die jetzt auch vom Dunkelgrund bezahlt" werden. Almut weist Angerick zurecht und heimschickt ihn; später fragt sie, woher „er" den Namen [[Serka Dunkelgrund|Dunkelgrund]] kenne — er wäre „ein potenzieller Geschäftskunde und hat hier als Geschenk Kost und Logis bezahlt", Besprechung am Folgetag. Halfred und Dorian wandern im Regen außerhalb der Stadtmauern; Halfred sieht die Spinnenkreaturen aus den Katakomben vor seinem inneren Auge flüstern: „Gebt zurück, was ihr gestohlen habt." / „Ihr findet hier nichts als den Tod!" Dorean bittet ihn, das dunkle Schwert bis [[Heratis]] zu verwahren — doch Halfred „schafft es … nicht, die Klinge an sich zu nehmen"; Dorean behält sie („schmunzelt erst, dann wird sein Gesicht schmerzerfüllt"). Halfred huscht zur Taverne vor, flüstert Aikyrs Namen — Wiedersehen; die Gruppe verlässt die Taverne durch den Schankraum und trifft sich unter einem Baum im Regen.
 - Quelle: Chronik, Eintrag vom 21.05.2024
+
+## Session 47 - Erneuter Aufbruch - Die Suche nach dem zweiten Stein
+- Datum (in-world): 14./15.07.997 LZ
+- Orte: [[Sarnburg]] (Umgebung), Landstraße nach Süden, Wäldchen, [[Fleadyne-Schrein]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Jadan|Jardan]]
+- Ereignis: Paian träumt von Schwärze, altem Kellergeruch und einem roten Schemen; Wachen vom Aufbruch sind [[Sira]] und [[Aikyr]]. Bei Jardan: Der [[Goldener Ring|Ring mit dem schwarzen Stein]] trägt Kraft aus der göttlichen Domäne — „er decke etwas auf und verstecke etwas“; der [[Herz der Gagamba|Herzkristall]] „hat seine Kraft bereits an jemanden abgegeben“ — „Ein Schatten, ein Geist liegt auf diesem Gegenstand.“ Beide Gegenstände werden zurückgegeben (das Herz in einer schwarzmetallbeschlagenen Schatulle). Aufbruch nach Süden abseits des [[Der Große Weg|Großen Wegs]]; Dorean bricht die Erzählung der Flucht ab, schlägt eine Flussfahrt auf dem [[Myrkan]] bis ins Seenland vor; ein [[Fleadyne-Schrein|Fleadyneschrin]] an einer Wegkreuzung liegt zersplittert auf dem Weg zerstreut. +2 EP = 142 EP
+- Quelle: Chronik, Eintrag vom 28.05.2024
+
+## Session 48 - Unter der Linde
+- Datum (in-world): 15.–16.07.997 LZ
+- Orte: [[Fleadyne-Schrein]], Roggenfeld, Wald und Hein, die große Linde, Schäferhain
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Sava Geiter]]
+- Ereignis: Der Schrein wurde mutwillig zerstört; Blut-Fährte ins Roggenfeld, etwa 10 Fußpaare gabeln sich im Wald; Haarbündel mit Scalp, Schleifspur bergauf — eine nackte Frau hängt kopfüber an eine alte Linde genagelt. Die Gruppe bestattet sie; Paians Grabsegen: „er scheint hier nahe an seinem Gott zu sein, aber etwas fühlt sich ungut an“; die Linde schlägt Halfred „nur Hass … Hass auf alles Lebendige“ entgegen. Dorean liest ein Ritual: „Wenn man jemanden einschüchtern will, dann macht man so etwas in der Öffentlichkeit“ — also „ein Ritual, um das Land zu vergiften?“; die Chronik vermerkt „(zunehmendes Ticken)“. Halfred-Alptraum: ein riesiger Baum, „dessen Wurzeln mit Blut getränkt werden“. Am Morgen: Scheiterhaufen, ein Mann erschlägt totes Schaf — „Alle, bis auf eins“; das Lämmchen in Aikyrs Händen riecht nach Verwesung, „ein Auge des Lammes verfärbt sich schwarz“. +4 EP = 146 EP
+- Quelle: Chronik, Eintrag vom 04.06.2024
+
+## Session 49 - Tagesmampf
+- Datum (in-world): 16.–17.07.997 LZ
+- Orte: Schäferhain, [[Vorbrin]], Straße Richtung [[Wasserfels]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Sava Geiter]]
+- Ereignis: Der Schäfer Sava Geiter erzählt von kranken Schafen — „Hufe die schwarz werden, eiternde Augen, Schafe die nicht hören und keine Angst vor ihm oder den Schäferhunden haben“; Paian vermutet die Drausche Sumpffäule; der Schäfer weist Hilfe ab und schickt die Gruppe fort. Dorean offenbart, „dass er zum Schwertrichter erhoben wurde, und das auch ein Teil des Grundes ist, warum er aus dem Gefängnis wieder rausgekommen ist“; neue Namen an den Stadttoren: Dorean „von Zinnenforst“, Halfred als Tim, Paian als Calandarius, Aikyr unter eigenem Namen — „Sira als ….“ (Chronik wörtlich offen). In der Taverne „Drei randvolle Tölpeln“ Eklat um den „Tagesmampf“ (beinahe Schlägerei mit Wirt und Koch), Wechsel in die „Taverne zur Wagnerei“. Wasserfels als möglicher Einschiffungsort ins Auge gefasst. Paians Traum: Ziehen an den Fingernägeln, Stimmen von „Zeit“, roter Schemen, „ein Schlag an seine Stirn, gefolgt von Schmerzen an die Kehle“.
+- Quelle: Chronik, Eintrag vom 11.06.2024
+
+## Session 50 - Zur tanzenden Forelle
+- Datum (in-world): 17.07.997 LZ
+- Orte: [[Wasserfels]], Taverne „Tanzende Forelle", Pier
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Aitja Fichtenjagt]], [[Jesko Talnor]], [[Herr Janka]], [[Luidperga]]
+- Ereignis: Ankunft in Wasserfels (große Eiche auf dem Dorfplatz, Schmiede, „Tanzende Forelle" mit „Fisch zwischen zwei Wellen"). Kapitän [[Jesko Talnor]] fährt nach [[Drugonsfuhrt]] — „etwa 800 km flussaufwärts, etwa 28 Tage“ ([[Dreywasser]], [[Beertal]] als Stationen); Wirtin [[Aitja Fichtenjagt|Aitja]] zittert, als Sira „Kinderlieder“ erwähnt. Spaziergang zum Pier: [[Halfred]] will seinen Vater um Vergebung bitten; [[Paian]] fürchtet, dass es nach [[Unterwalde]] „kein Zurück mehr gibt“; [[Aikyr]] möchte „einen Wal fangen“. Die alte [[Luidperga]] erzählt die Geschichte des Reiches (→ [[Kaiserreich Selenia]]) und von Wesen zwischen den Wurzeln mit goldenen Masken in Purpur — „Meide ihren Pfad und berichte niemanden von ihnen Kommen und Gehen“; als junges Mädchen folgte sie einem bis an den [[Der Schlund der Finsternis|Schlund der Finsternis]], etwa 10 km die [[Windende Winne]] hinauf.
+- Quelle: Chronik, Eintrag vom 18.06.2024
+
+## Session 51 - Klopf, Klopf!
+- Datum (in-world): 18.07.997 LZ
+- Orte: [[Wasserfels]], [[Windende Winne]], Waldruinen, [[Der Schlund der Finsternis]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]]
+- Ereignis: Drei Boote mit je etwa 30 Soldaten und Wappen von [[Calten]] und Selenia fahren die Windende Winne flussaufwärts (Seeleute aus Winborn wollen nach Jählingen). Im Wald: Ruinen ohne Tierspuren, Senke abgestorbener Bäume, schwarzes Loch „etwa drei auf drei Schritt“. Paian erbittet Beistand Gunwars — „er ist sich sicher, dass in der Tiefe dieses Loches ein Stück des Puzzles verborgen ist“; Sira sieht seine Augen „kurz grau, dann wieder normal“ werden, seine Kontur verschwimmt. Großes Tor aus „festen Holzbalken, mit schwarzem Stein“: Mit dem [[Goldener Ring|Goldenen Ring]] an der Hand öffnet Paian es mühelos — „Ein vibrieren geht durch das Tor“. Dahinter zwei steinerne Wächter, graues, farbloses Fackellicht; ein Raum, dessen Panik alle außer Dorean erfasst; das Hüeng-Talisman an Paians Gürtel leuchtet, Dorian beruhigt Paian mit dem Bambus-Wort des Hüengpriesters. +6 EP = 152 EP
+- Quelle: Chronik, Eintrag vom 25.06.2024
+
+## Session 52 - Wer ist da ?!
+- Datum (in-world): fortlaufend (keine explizite Angabe; nach dem 18.07.997 LZ)
+- Orte: [[Der Schlund der Finsternis]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Der angekettete Varg|der riesige Varg]], schwarze Ranken
+- Ereignis: Halfred folgt den anderen auf den Bäumen Rat ins dunkle Loch. Paian sieht in der Geisterwelt: Die Panik geht „von dem ganzen Raum“ aus, nicht von den Statuen. Zweites schwarzes Tor — wieder mit dem Ring geöffnet. Achteckiger Raum mit vergittertem Hitze-Schacht und Deckengemälde; Folterkammer (Bett, Ketten, alte Blutreste, Eimer mit Unrat, Strichmännchen, Baum in brauner „Farbe“); Raum mit Streckbank, Kessel mit öliger Flüssigkeit, Fässer mit Lumpen. Altar mit übel zugerichteter Leiche: ein Kind von etwa 10 Jahren, kastanienbraunes Haar, spitzes Ohr, eingeritzte Symbole. Am Nordende: riesenhafter angeketteter [[Der angekettete Varg|Varg]], „schwarze Ranken kommen aus ihm“ — Kampf: das Wesen greift abwechselnd Gruppe, sich selbst und die Ranken an; Aikyr erkennt, „dass da noch etwas Menschliches in dem Wesen ist“, und beruhigt es; Paian wird von einer Ranke umschlungen, Sira vom Wesen „zur Seite geschmettert“. +10 EP = 162 EP
+- Quelle: Chronik, Eintrag vom 09.07.2024
+
+## Session 53 - Spieglein, Spieglein
+- Datum (in-world): fortlaufend (keine explizite Angabe)
+- Orte: [[Der Schlund der Finsternis]], Rast vor der Höhle
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]]
+- Ereignis: Paian paust die fremde Altar-Schrift ab; in der Brust des Kindes ist eingeritzt: „Wo die -terne flü— / und — Schatten tanzen / —-- Geheim– / —-----------keit“ — Sira erkennt „Teil der Worte, die der [[Der Säulenheilige|Säulenheilige]] an Aikyr gerichtet hat“. Das Kind wurde tagelang gefoltert (nicht-tödliche Wunden, Schriftzeichen als erste Verletzungen), weist Tier-Kratz- und Bissspuren auf und ist seit etwa einer Woche tot; Blutspuren führen nach Süden. Dorean berührt den Spiegel — er zerspringt „in 1000 Stücke“ und spiegelt dann die wahre Welt; daneben ein Loch, „als wäre es von einem unglaublich starken Tier gegraben worden“; Halfred findet eine „faustgroße weißliche Schuppe, fast wie Marmor“. Das Kind wird bestattet: Nach Paians Gebet „verglüht [es] und zerfällt zu Asche“. Im Säulensaal blitzt eine Deckenmalerei auf: „Licht und Schattenhafte Figur, die über einen blauen Himmel tanzt. Ein Mond. Ringsum Berge und Spitzen von Häusern.“ Paian setzt den Spiegel mit dem Ring zusammen — dahinter „als wäre es mit einem Vorhang abgehangen“; Stoff ertastbar, aber nicht durchgriffbar; „ein mächtiges Artefakt … mit einem Zweck“, vielleicht zur Überwachung des Geschehens — Paiens Gottheit „fühlt sich plötzlich sehr fern an“. Halfred macht den Spiegel wieder kaputt. +4 EP = 166 EP (gemeinsamer Ritus)
+- Quelle: Chronik, Eintrag vom 16.07.2024
+
+## Session 54 - Luidpergas Tod
+- Datum (in-world): fortlaufend (keine explizite Angabe)
+- Orte: [[Wasserfels]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Luidperga]], [[Aitja Fichtenjagt]], ansässiger Bauer
+- Ereignis: [[Luidperga]], sonst „immer eine der ersten in der Taverne“, bleibt aus — tot in ihrem Bett, friedlich, „getrocknetem Schaum um den Mund“, leere Phiole daneben; ein tödliches Einnahmegift, keine Gewalteinwirkung; ihr Geist „geht scheinbar wahllos durch den Raum“. Unter einer quietschenden Bohle ein Geheimfach: goldene ausdruckslose [[Die Goldene Maske|Maske]] (Kratzer an der Innenseite, „ähnlich der Schrift um den Altar, aber oft übereinander geschrieben“), purpurner Stoff (profan), ein Buch — weißer Stein auf dem Einband, darüber ein Halbkreis aus schwarzen Stein „wie eine Krone“ — verglüht Seite um Seite: Aufzeichnungen von „Behandlungen“, einer Art Folter, bis 500 Jahre zurück, mit Überlebensdauern der Patienten; ein Patient hieß mit Nachnamen „Leyatan“ (952). An Luidpergas Hals: ein goldener Ring mit zerbrochenem schwarzem Stein. Die Gruppe bringt [[Aitja Fichtenjagt|Aitja]] die Nachricht von Luidpergas Tod „sowie dem Tod ihrer Tochter“ — sie reagiert zornig, schmeißt die Gruppe raus und verflucht sie. Ein Bauer sagt, die Fleadynepriesterin Hareike von der Gänseau sei „schon längst überfällig“. Paian und Aikyr begraben Luidperga. +2 EP = 168 EP, ein Splitterpunkt
+- Quelle: Chronik, Eintrag vom 23.07.2024
+
+## Session 55 - Aufs Schiff
+- Datum (in-world): fortlaufend (keine explizite Angabe)
+- Orte: [[Wasserfels]], Totenanger, das Schiff von [[Jesko Talnor]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Jesko Talnor]], [[Herr Janka]], [[Rheva|Reva]] (Traum)
+- Ereignis: Nach langer Diskussion über das Geschehene Grab auf dem Totenanger, „an einer eher einsamen Stelle vor einem jungen Baum“; Andacht am Morgen geplant. Nacht an Bord: Aikyr träumt von modrigen Boden und Leichen, Gitterstäben, Winseln — [[Rheva|Reva]] blickt ihn flehentlich an, „aber es kommt nur pfeifen aus ihrem Mund … das pfeifende Lied des Zwergenpriesters. und ihr Gesicht wird zu einer Fratze.“ Aikyr wacht auf und pöbelt [[Herr Janka|Herrn Janka]] an, der schweigend an Deck steht.
+- Quelle: Chronik, Eintrag vom 03.09.2024
+
+## Session 56 - Leinen los
+- Datum (in-world): 19.–21.07.997 LZ
+- Orte: [[Wasserfels]], [[Myrkan]], [[Dreywasser]], [[Das Schattenfeld]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Jesko Talnor]], [[Herr Janka]], [[Tiefenzahn]]
+- Ereignis: Abfahrt am 19.07.997 LZ — Paian „fühlt eine Last von sich abfallen, als er das Ufer hinter sich sieht“. Jesko kommt aus Panbur, „hält es nicht lange bei seinen Frauen und Kinden aus“; [[Beertal]] nächster Halt, in etwa zwei Wochen. Bordalltag: Aikyr wird „fast wahnsinnig, weil er nichts zu tun hat“ (Angel in die Ecke, Prügel mit Halfred), Paian liest und analysiert die [[Die Goldene Maske|goldene Maske]], Dorean trainiert und liest Gesetzestexte. In [[Dreywasser]] viele Boote mit Soldaten aus Selenia, Calten und Winborn. Ein Tag später der Ruf „Tiefenzahn!!!“ — „etwas schwarz grau rötliches“ 20 bis 30 Meter unter der Wasseroberfläche, ein Strudel, „ein Maul mit tausenden Zähnen“; danach kehrt Ruhe ein — „eine Art riesige Würmer, die in dem Fluss leben“. Zwei Tage später (21.07.997 LZ) das [[Das Schattenfeld|Schattenfeld]]: Legende eines Morkai-Eremiten — „ein Gott habe die schlimmsten Drachlinge dort unter die Erde verbannt. Ein Labyrinth aus Gängen, die auf dem Kopf wären, sei dort.“ [[Herr Janka]] bittet, ausgesetzt zu werden — „Er sei hierher geschickt worden“, mehr sagt er nicht; laut Jesko stieg er erst in Kronberg (wenig nördlich von [[Sarnburg]]) zu. Halfred steigt ebenfalls aus, um die Nacht im Wald zu verbringen.
+- Quelle: Chronik, Eintrag vom 10.09.2024
