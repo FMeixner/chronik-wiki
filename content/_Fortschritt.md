@@ -37,7 +37,8 @@ title: _Fortschritt
 - Wer ist die schwarzgewandete Frau — und steht sie hinter den „Klingen in der Nacht"? (Session 35)
 - Das [[Herz der Gagamba]] leuchtet nach dem Diebstahl „angenehm" — Bedeutung? (Session 36)
 - Goldener Ring mit tiefschwarzem Stein ([[Halfred]], Session 32) — magisch, Unbekanntes.
-- Prinzessin Yi (Session 27) vs. Prinzessin von Zuyang (Session 19) — Identität offen; Kaiserin Yin „gefallen" (Session 26) vs. „Kaiserin Yi" als Macht (Session 27) — Widerspruch belassen.
+- Kaiserin-Frage (geklärt 22.10.2026, offizielle Lore im Splitterwiki): Die gefallene Kaiserin (Session 26, „Kaiserin Yin“) ist Hui Jin, die letzte Kaiserin Zhoujiangs; die dritte Macht neben General/Kommandant Wu und den Triaden (Session 27, „Kaiserin Yi“) ist ihre Tochter Hui Yi, die rechtmäßige Erbin — geflohen zur Klosterstadt Sentatau (Chronik: „Zentatau“). Chronik-Zitate bleiben unverändert wörtlich.
+- Prinzessin Yi (Session 27) vs. Prinzessin von Zuyang (Session 19) — ob das Sarnburger Gerücht dieselbe Prinzessin meint, bleibt offen. (Offizielle Lore: Das Reich heißt Zhoujiang; Chronik: „Zuyang“.)
 - Schwarzes Schwert: aus Albträumen geschmiedet (Session 24) vs. Material Totenerz aus Esmoda (Session 27) — wie beides zusammenpasst, ungeklärt.
 - Verbleib von Mao Tai nach dem Kopfwesen-Zwischenfall? (Session 27)
 - „Tenkuri, ?" — vor wem warnt Falk Bald auf dem Feenpfad? (Session 36)
