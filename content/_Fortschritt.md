@@ -16,9 +16,10 @@ title: _Fortschritt
 - Spieler-Klarstellungen aus Gesprächen (zuletzt 22.10.2026) werden als solche gekennzeichnet und nicht mit Chronik-Text vermischt.
 - In-world-Daten werden wörtlich übernommen, auch bei Widersprüchen (z. B. 04.997 vs. 5.997; „29.6.997 LZ(?)“) — nie eigenmächtig korrigieren.
 - Chronik-Rechtschreibvarianten bleiben wörtlich (Teermark/Termark, Bodam/Bodan, Jadan/Jardan, Elf/Alb des Gesandten) — ggf. mit [sic].
+- Taxonomie (Nutzer-Entscheid 22.10.2026): Tiere unter `Tiere/` mit eigenem Typ `tier` (Donnerhuf und Sommertochter dorthin umgezogen); Kreaturen unter `Kreaturen/` mit Typ `kreatur`.
+- Wichtigkeits-Gewichtung (Nutzer-Auftrag 22.10.2026): manifest.json führt pro Seite `w` (0–100), berechnet aus Erwähnungsfrequenz in der Chronik, Recency (Position der letzten Erwähnung) und inhaltlicher Gravitas (1–3). Die Weboberfläche sortiert die Navigation danach und rankt die Suche danach; markante Seiten tragen einen Stern. Bei neuen Seiten grob mitabschätzen, nach größeren Batches neu berechnen.
 
 ## Offene Fragen (aus dem Text; NICHT entschieden)
-- Taxonomie: Wohin gehören Tiere ([[Donnerhuf]], [[Sommertochter]], Laufvögel)? Aktuell unter Artefakte. Kreaturen laufen probehalber unter `Kreaturen/` mit eigenem Typ.
 - Zusammenhang zwischen [[Graue Wesen|grauen Wesen]] und [[Wesen der Finsternis|Wesen der Finsternis]] — Chronik ungeklärt; auch der Gruppe nicht bekannt (22.10.2026). Beide kämpften Seite an Seite unter [[Galkor Alquan]] (Session 21). Neue Überschneidung: „Biss der Grauen“ (Session 42) vs. Biss „durch ein Wesen der Finsternis“ (Session 43) im selben Lockstoff-Kontext.
 - Warum wird Doreans Feder nicht nass? — Von der Gruppe als bewusstes Mysterium bestätigt (22.10.2026); wird nicht weiter verfolgt.
 - Was ist in der Nacht auf den 27.04.997 LZ zwischen Dorean und Sira „passiert“? — Von der Gruppe als bewusstes Mysterium bestätigt (22.10.2026); wird nicht weiter verfolgt. Rekurrenz des Chronik-Verstummens: „passieren dinge“ in Palitan (Sessions 27/28) — gleiche Art, nicht verfolgt.
@@ -38,13 +39,13 @@ title: _Fortschritt
 - Wer ist die schwarzgewandete Frau — und steht sie hinter den „Klingen in der Nacht“? (Session 35)
 - Das [[Herz der Gagamba]] leuchtet nach dem Diebstahl „angenehm“ (Session 36) — und hat eine Kante, „als wäre etwas abgebrochen“; in der Geisterwelt zieht davon ein dunkles Band weg (Session 37). Bedeutung?
 - Doreans Dolchwunde (Attentat, Session 35): Ränder lila verfärbt — „ist sich unsicher ob das Gift noch wirkt“ (Session 38).
-- [[Goldener Ring]] aus den Katakomben: Wer fand ihn — Aikyr (Chronik Session 38) oder Halfred (Spieler-Notiz Session 32)? Widerspruch belassen. Analyse bei [[Jadan]] läuft (Sessions 42/43).
+- [[Goldener Ring]] aus den Katakomben: Halfred hat ihn gefunden (Spieler-Klarstellung 22.10.2026); der Haupteintrag „Aikyr“ (Session 38) bleibt als Widerspruch wörtlich stehen. Analyse bei [[Jadan]] läuft (Sessions 42/43).
 - Welchen „Splitter“ trägt Paian, den er [[Jadan]] zeigt (Sessions 42/43)? Die Chronik benennt ihn nicht — Kandidat: der [[Grüner Stein mit Spirale|Grüne Stein mit Spirale]] (Geschenk Fitzbans); und: „zeigt [er] dem anderen Splitter, dass er sich nicht schützen muss?“ (Spieler-Notiz, Session 42)
 - Wer ist die [[Die Alte über die Kreuzwege|Alte über die Kreuzwege]] aus Doreans Vision — und was „ruft nach ihm“, nachdem es seinen Weg gekreuzt hat? (Session 39; Paian kennt sie „im Zusammenhang mit einer Heiligen“)
 - Was „wartet möglicherweise“ in [[Sarnburg]] — wovor die Gruppe [[Jelinde]] warnt? (Session 37) Die Warnung blieb ohne erkennbare Folge; ob etwas damit zusammenhing (Gatta-Verhaftung? Verhaftung von Halfred und Dorian?), hält die Chronik nicht fest.
 - Der Elf mit der Narbe sah aus, „als hätte er [[Paian]] erkannt“ (Session 39) — welche Beziehung?
 - Wer ist „Dunkelgrund“, der potenzielle Geschäftskunde von Almut Weißenstein in einer Sarnburger Taverne? (Session 46) — der Name ist Doreans Familienname ([[Serka Dunkelgrund]], [[Bryntal]]); Zusammenhang offen.
-- Wer ist Duir, den Halfred um Verhüllung bittet (Session 39)? Womöglich der „Gott/Schutzgeist“ der Mondtor-Aktivierung (Session 21).
+- [[Duir]] ist Halfreds Mentor — ein Wesen aus Humus, Wald und Elementarem, vielleicht eine Fee (Spieler-Klarstellung 22.10.2026). Was genau er ist, wissen auch die Spieler nicht; ob die Mondtor-Aktivierung (Session 21) sein Wirken war, bleibt offen.
 - Umstände der Befreiung von Halfred und Dorian aus dem Sarnburger Gefängnis — die Chronik beschreibt sie in Sessions 44–46 nicht.
 - Javus Bracke „scheint uns nicht so recht erkannt zu haben(?)“ (Session 41/42) — Seltsamkeit oder Absicht?
 - Kaiserin-Frage (geklärt 22.10.2026, offizielle Lore im Splitterwiki): Die gefallene Kaiserin (Session 26, „Kaiserin Yin“) ist Hui Jin, die letzte Kaiserin Zhoujiangs; die dritte Macht neben General/Kommandant Wu und den Triaden (Session 27, „Kaiserin Yi“) ist ihre Tochter Hui Yi, die rechtmäßige Erbin — geflohen zur Klosterstadt Sentatau (Chronik: „Zentatau“). Chronik-Zitate bleiben unverändert wörtlich.
@@ -52,4 +53,4 @@ title: _Fortschritt
 - Schwarzes Schwert: aus Albträumen geschmiedet (Session 24) vs. Material Totenerz aus Esmoda (Session 27) — wie beides zusammenpasst, ungeklärt. (Myro, Session 41: Esmoda ist „die Stadt der Toten“ — rät von der Suche ab; ein Zwerg in [[Heratis]] kenne sich mit Feenwirken aus.)
 - Verbleib von Mao Tai nach dem Kopfwesen-Zwischenfall? (Session 27)
 - Chronik-Überschrift „Auf dem Mondpfad“ (Session 36), Text aber „Auf dem Feenpfad“ — Namensverwirrung belassen; der Feenpfad ist als eigener Ort geführt.
-- Gelöste Fragen (zur Referenz): „Tenkuri, ?“ (Session 36) — Tenkuri ist der Feenfürst, „Herr des Pfades“ (Session 37). Gattas Schicksal — Verhaftung (Session 41) und Hinrichtung (Session 44). Esmoda als „Stadt der Toten“ (Session 41) auf der Esmoda-Seite nachgetragen.
+- Gelöste Fragen (zur Referenz): „Tenkuri, ?“ (Session 36) — Tenkuri ist der Feenfürst, „Herr des Pfades“ (Session 37). Gattas Schicksal — Verhaftung (Session 41) und Hinrichtung (Session 44); die Hingerichtete war Gatta (Spieler-Klarstellung 22.10.2026). Ring-Finder: Halfred (Spieler-Klarstellung 22.10.2026; Chronik-Widerspruch bleibt dokumentiert). Taxonomie: Tiere eigene Kategorie `Tiere/` (Nutzer-Entscheid 22.10.2026). Esmoda als „Stadt der Toten“ (Session 41) auf der Esmoda-Seite nachgetragen.

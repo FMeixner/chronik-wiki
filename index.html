@@ -105,6 +105,7 @@ nav.wikinav { padding: 8px 0 30px; }
 .navitem.active { color: var(--gold-bright); border-left-color: var(--gold); background: rgba(201,162,39,.06); }
 .navitem .type-ic { flex: 0 0 auto; opacity: .75; }
 .navcount { margin-left: auto; font-size: 11.5px; color: var(--faint); }
+.nav-star { flex: 0 0 auto; color: var(--gold); opacity: .85; }
 
 /* ---------- Seitenkopf ---------- */
 .page-head { margin-bottom: 30px; }
@@ -277,12 +278,13 @@ details.session-card[open] .session-chev { transform: rotate(180deg); color: var
     artefakt: svg('<path d="M7 4h10l4 5-9 11L3 9z"/><path d="M3 9h18M7 4l5 16L17 4"/>', 15),
     fraktion: svg('<path d="M6 3v18M6 4h11l-2.5 3.5L17 11H6"/>'),
     kreatur: svg('<circle cx="12" cy="15" r="3.4"/><circle cx="6.5" cy="10.5" r="1.7"/><circle cx="12" cy="8.5" r="1.7"/><circle cx="17.5" cy="10.5" r="1.7"/>'),
+    tier: svg('<ellipse cx="12" cy="16" rx="3.4" ry="2.8"/><circle cx="6.6" cy="10.8" r="1.5"/><circle cx="12" cy="9.4" r="1.5"/><circle cx="17.4" cy="10.8" r="1.5"/>'),
     fortschritt: svg('<path d="M7 3h9a2 2 0 0 1 2 2v16l-3-2-3 2V5a2 2 0 0 0-2-2z"/><path d="M7 3a2 2 0 0 0-2 2v2"/>', 15),
     warn: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4L2.5 20h19z"/><path d="M12 10v4M12 17.2v.3"/></svg>'
   };
   var TYPE_LABELS = {
     uebersicht: "Übersicht", timeline: "Timeline", held: "Held", person: "Person",
-    ort: "Ort", artefakt: "Artefakt", fraktion: "Fraktion", kreatur: "Kreatur", fortschritt: "Vermerk"
+    ort: "Ort", artefakt: "Artefakt", fraktion: "Fraktion", kreatur: "Kreatur", tier: "Tier", fortschritt: "Vermerk"
   };
 
   /* ---------- Helpers ---------- */
@@ -440,14 +442,15 @@ details.session-card[open] .session-chev { transform: rotate(180deg); color: var
       { label: "Helden", open: true, items: pages.filter(function (p) { return p.held; }) },
       { label: "Personen", open: true, items: byType("person").filter(function (p) { return !p.held; }) },
       { label: "Orte", open: true, items: byType("ort") },
-      { label: "Artefakte & Tiere", open: true, items: byType("artefakt") },
+      { label: "Artefakte", open: true, items: byType("artefakt") },
+      { label: "Tiere", open: true, items: byType("tier") },
       { label: "Fraktionen", open: true, items: byType("fraktion") },
       { label: "Kreaturen", open: true, items: byType("kreatur") },
       { label: "Vermerke", open: false, items: byType("fortschritt") }
     ];
     groups.forEach(function (g) {
       if (!g.items || g.items.length === 0) return;
-      g.items.sort(function (a, b) { return a.title.localeCompare(b.title, "de"); });
+      g.items.sort(function (a, b) { return (b.w || 0) - (a.w || 0) || a.title.localeCompare(b.title, "de"); });
       var det = document.createElement("details");
       det.className = "navgroup";
       if (g.open) det.open = true;
@@ -461,7 +464,7 @@ details.session-card[open] .session-chev { transform: rotate(180deg); color: var
         a.className = "navitem";
         a.href = "#/" + encodePath(p.path);
         a.dataset.path = p.path;
-        a.innerHTML = (ICONS[p.held ? "held" : p.type] || "") + "<span>" + escapeHtml(p.title) + "</span>";
+        a.innerHTML = (ICONS[p.held ? "held" : p.type] || "") + "<span>" + escapeHtml(p.title) + "</span>" + ((p.w || 0) >= 70 ? '<svg class="nav-star" width="10" height="10" viewBox="0 0 24 24" fill="currentColor" aria-label="Zentraler Eintrag"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.6 7-6.2-3.7-6.2 3.7 1.6-7L2 9.2l7.1-.6z"/></svg>' : "");
         a.addEventListener("click", function () { document.body.classList.remove("nav-open"); });
         li.appendChild(a);
         ul.appendChild(li);
@@ -710,9 +713,9 @@ details.session-card[open] .session-chev { transform: rotate(180deg); color: var
       if (data) {
         if (data.raw.toLowerCase().indexOf(ql) >= 0) score = Math.max(score, 4);
       }
-      if (score > 0) results.push({ p: p, score: score });
+      if (score > 0) results.push({ p: p, score: score + Math.min(4, (p.w || 0) / 25) });
     });
-    results.sort(function (a, b) { return b.score - a.score || a.p.title.localeCompare(b.p.title, "de"); });
+    results.sort(function (a, b) { return b.score - a.score || (b.p.w || 0) - (a.p.w || 0) || a.p.title.localeCompare(b.p.title, "de"); });
     results = results.slice(0, 12);
     if (!results.length) {
       searchResults.innerHTML = '<div class="sr-empty">Nichts gefunden — die Chronik schweigt.</div>';

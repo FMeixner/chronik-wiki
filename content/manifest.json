@@ -43,7 +43,8 @@
         "Aden",
         "Wendir"
       ],
-      "held": false
+      "held": false,
+      "w": 25
     },
     {
       "path": "Personen/Aikyr",
@@ -55,7 +56,8 @@
         "Aikir",
         "Aykir"
       ],
-      "held": true
+      "held": true,
+      "w": 100
     },
     {
       "path": "Personen/Aragant",
@@ -64,7 +66,8 @@
       "status": "lebendig (Stand 06.04.997 LZ)",
       "kurz": "Kräuterkundiger von Unterwalde.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 23
     },
     {
       "path": "Personen/Assmus Jalander",
@@ -73,7 +76,8 @@
       "status": "verschwunden",
       "kurz": "Kauziger Erzmagus aus Arwingen, forschte an der Krankheit dort — verschwunden.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Personen/Bernd",
@@ -82,7 +86,8 @@
       "status": "unbekannt (vor über einem Jahr abgeholt)",
       "kurz": "Nachbarssohn aus dem Fischerdorf, gemeinsam mit Aden und Wendir abgeholt.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Personen/Bruder Ader",
@@ -91,7 +96,8 @@
       "status": "lebendig",
       "kurz": "Gunwar-Priester in Braunwacht; Predigten über Licht und Dunkelheit.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 24
     },
     {
       "path": "Personen/Darian",
@@ -100,7 +106,8 @@
       "status": "lebendig",
       "kurz": "Quirliger gnomischer Händler in Braunwacht.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 44
     },
     {
       "path": "Personen/Der pfiffende Zwerg (Kerkermeister)",
@@ -112,7 +119,8 @@
         "Pfiffende Zwerg",
         "Kerkermeister"
       ],
-      "held": false
+      "held": false,
+      "w": 27
     },
     {
       "path": "Personen/Dorean",
@@ -123,7 +131,8 @@
       "aliases": [
         "Dorian"
       ],
-      "held": true
+      "held": true,
+      "w": 88
     },
     {
       "path": "Personen/Dornentann",
@@ -134,7 +143,8 @@
       "aliases": [
         "Jolas Dornentann"
       ],
-      "held": false
+      "held": false,
+      "w": 23
     },
     {
       "path": "Personen/Endrik",
@@ -143,7 +153,8 @@
       "status": "unbekannt (vermutlich gefallen)",
       "kurz": "Dörfler aus Unterwalde; gab den Auftrag nach Falkenfelde und ermöglichte die Flucht aus dem Kerker.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 38
     },
     {
       "path": "Personen/Fira Isenfang",
@@ -152,7 +163,8 @@
       "status": "lebendig",
       "kurz": "Chefin des Zirkels der Zinnen in Sarnburg, Hüterin allen Wissens.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Personen/Fitzban der Große",
@@ -161,7 +173,8 @@
       "status": "verschwunden",
       "kurz": "Irrer alter Mann auf einem Findling, schützte die Gruppe mit einer Lichtkuppel vor einem schwarzen Drachen und verschwand.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 32
     },
     {
       "path": "Personen/Frau aus Falkenfelde",
@@ -172,7 +185,8 @@
       "aliases": [
         "Falkenfelderin"
       ],
-      "held": false
+      "held": false,
+      "w": 35
     },
     {
       "path": "Personen/Halfred",
@@ -181,7 +195,8 @@
       "status": "lebendig",
       "kurz": "Jäger und Fährtensucher der Gruppe, trägt einen Dharst; überlebte Felslawine und Wildkatze mit gebrochenem Schenkel.",
       "aliases": [],
-      "held": true
+      "held": true,
+      "w": 100
     },
     {
       "path": "Personen/Hannes",
@@ -190,7 +205,8 @@
       "status": "unbekannt",
       "kurz": "Mann der Falkenfelderin, diente im Kerker als Wächter.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 17
     },
     {
       "path": "Personen/Herzogin Gyldenau Syra",
@@ -199,7 +215,8 @@
       "status": "lebendig",
       "kurz": "Herzogin von Calten, unterzeichnete den Aufruf zum Kampf gegen die Dunkelheit.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Personen/Irma",
@@ -208,7 +225,8 @@
       "status": "lebendig",
       "kurz": "Misstrauische Bewohnerin des Fischerdorfs, Mutter der abgeholten Söhne.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 25
     },
     {
       "path": "Personen/Jadan",
@@ -219,7 +237,8 @@
       "aliases": [
         "Jardan"
       ],
-      "held": false
+      "held": false,
+      "w": 89
     },
     {
       "path": "Personen/Javus Bracke",
@@ -228,7 +247,8 @@
       "status": "lebendig",
       "kurz": "Zwerg mit geschwollener Nase, Informant in der Taverne von Braunwacht.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 45
     },
     {
       "path": "Personen/Jorg und Torg",
@@ -240,7 +260,8 @@
         "Jorg",
         "Torg"
       ],
-      "held": false
+      "held": false,
+      "w": 27
     },
     {
       "path": "Personen/Letasch",
@@ -249,7 +270,8 @@
       "status": "unbekannt (im Kerker zurückgelassen)",
       "kurz": "Siras geliebter Mensch; blieb im Kerker zurück.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 58
     },
     {
       "path": "Personen/Mariel",
@@ -260,7 +282,8 @@
       "aliases": [
         "Mariel's"
       ],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Personen/Minar",
@@ -269,7 +292,8 @@
       "status": "unbekannt (zuletzt Richtung Osten unterwegs)",
       "kurz": "Mysteriöser Wanderer, der sich als alter Freund der Gruppe ausgab.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Personen/Ola",
@@ -278,7 +302,8 @@
       "status": "lebendig",
       "kurz": "Freundliche Bewohnerin des Fischerdorfs.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 24
     },
     {
       "path": "Personen/Olinde",
@@ -287,7 +312,8 @@
       "status": "lebendig",
       "kurz": "Alte Dame vom Markt in Braunwacht, Tippgeberin.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Personen/Paian",
@@ -296,7 +322,8 @@
       "status": "lebendig",
       "kurz": "Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll; trägt das gestohlene Herz der Gagamba.",
       "aliases": [],
-      "held": true
+      "held": true,
+      "w": 100
     },
     {
       "path": "Personen/Rheva",
@@ -305,7 +332,8 @@
       "status": "unbekannt (im Kerker zurückgelassen)",
       "kurz": "Aikyrs Schwester, im Kerker zurückgelassen; kehrt in seinen Träumen wieder.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 31
     },
     {
       "path": "Personen/Rondrold",
@@ -314,7 +342,8 @@
       "status": "lebendig",
       "kurz": "Junger Mann aus Braunwacht, berichtete vom Aufruf des Gunwar-Hohepriesters.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Personen/Rupert",
@@ -323,7 +352,8 @@
       "status": "lebendig",
       "kurz": "Kauziger Heilmaterialhändler in Braunwacht.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Personen/Serka Dunkelgrund",
@@ -332,7 +362,8 @@
       "status": "unbekannt (im Kerker zurückgelassen)",
       "kurz": "Doreans Verwandte, im Kerker zurückgelassen.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 31
     },
     {
       "path": "Personen/Sira",
@@ -341,7 +372,8 @@
       "status": "lebendig",
       "kurz": "Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch; überlebte den Biss des Kopfwesens.",
       "aliases": [],
-      "held": true
+      "held": true,
+      "w": 100
     },
     {
       "path": "Personen/Telia",
@@ -350,7 +382,8 @@
       "status": "lebendig",
       "kurz": "Alte Heilerin des Fischerdorfs mit trüben Augen.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 23
     },
     {
       "path": "Personen/Theoboid Staubhüll",
@@ -359,7 +392,8 @@
       "status": "unbekannt (zuletzt gesehen beim Überfall, Session 02)",
       "kurz": "Örtlicher Gunwarpriester von Unterwalde, Paians Meister und Heilkundiger.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 17
     },
     {
       "path": "Personen/Varg (Schmied)",
@@ -368,7 +402,8 @@
       "status": "lebendig",
       "kurz": "Schmied in Braunwacht mit Geselle Roderik; schenkte Dorean ein Waffenpflegeset.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 13
     },
     {
       "path": "Personen/Walfar Warmus",
@@ -377,7 +412,8 @@
       "status": "lebendig",
       "kurz": "Erzmagus des 2. Hauses der Zirkel der Zinnen, sympathisch und neugierig auf die grauen Wesen.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Orte/Arwingen",
@@ -388,7 +424,8 @@
       "aliases": [
         "Arwinger Mark"
       ],
-      "held": false
+      "held": false,
+      "w": 40
     },
     {
       "path": "Orte/Braunwacht",
@@ -397,7 +434,8 @@
       "status": "bestehend",
       "kurz": "Stadt mit rund 3.000 Einwohnern und Stadtmauer, erste Station nach der Wildnis.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 45
     },
     {
       "path": "Orte/Bryntal",
@@ -406,7 +444,8 @@
       "status": "bestehend",
       "kurz": "Heimat der Dunkelgrunds, Doreans Verwandtschaft.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 18
     },
     {
       "path": "Orte/Calten",
@@ -415,7 +454,8 @@
       "status": "bestehend",
       "kurz": "Herzogtum mit der Herzogin Gyldenau Syra.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 32
     },
     {
       "path": "Orte/Caltentrutz",
@@ -424,7 +464,8 @@
       "status": "bestehend",
       "kurz": "Gewaltige Stadt mit 20.000 Einwohnern, Station auf dem Weg nach Sarnburg.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 22
     },
     {
       "path": "Orte/Der Große Weg",
@@ -435,7 +476,8 @@
       "aliases": [
         "Großer Weg"
       ],
-      "held": false
+      "held": false,
+      "w": 13
     },
     {
       "path": "Orte/Der Kerker (unbekannter Ort)",
@@ -447,7 +489,8 @@
         "Der Kerker",
         "Kerker"
       ],
-      "held": false
+      "held": false,
+      "w": 73
     },
     {
       "path": "Orte/Der unbenannte Wald",
@@ -459,7 +502,8 @@
         "Der grauenhafte Wald",
         "Toter Wald"
       ],
-      "held": false
+      "held": false,
+      "w": 13
     },
     {
       "path": "Orte/Die Felsspalte",
@@ -471,7 +515,8 @@
         "Felsspalte",
         "Loch im Fels"
       ],
-      "held": false
+      "held": false,
+      "w": 49
     },
     {
       "path": "Orte/Falkenfelde",
@@ -480,7 +525,8 @@
       "status": "verlassen",
       "kurz": "Wie ausgestorben wirkendes Dorf, Auslöser der gesamten Ereignisse.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 37
     },
     {
       "path": "Orte/Fischerdorf (namenlos)",
@@ -492,7 +538,8 @@
         "Das Fischerdorf",
         "Fischerdörfchen"
       ],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Orte/Heratis",
@@ -501,7 +548,8 @@
       "status": "bestehend",
       "kurz": "Heimat des Weinhändlers Dornentann.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 55
     },
     {
       "path": "Orte/Hof Hibbel",
@@ -512,7 +560,8 @@
       "aliases": [
         "Hibbel"
       ],
-      "held": false
+      "held": false,
+      "w": 19
     },
     {
       "path": "Orte/Midstadt",
@@ -521,7 +570,8 @@
       "status": "bestehend",
       "kurz": "Ziel der Kriegsregimenter von Gunwarkirche und Militär.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 47
     },
     {
       "path": "Orte/Rubensmark",
@@ -530,7 +580,8 @@
       "status": "bestehend",
       "kurz": "Station auf der Reise von Caltentrutz Richtung Sarnburg.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Orte/Sarnburg",
@@ -539,7 +590,8 @@
       "status": "bestehend",
       "kurz": "Metropole (240.000) mit Mondtor und Portalgilde; Ausgangspunkt der Flucht zum Mondpfad.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 80
     },
     {
       "path": "Orte/Südfang",
@@ -548,7 +600,8 @@
       "status": "bestehend",
       "kurz": "Stadt (60.000) am Glühberg in Zirken; Hauptsitz des 4. Hauses der Zirkel der Zinnen.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 48
     },
     {
       "path": "Orte/Südliche Zitadellen",
@@ -557,7 +610,8 @@
       "status": "bestehend",
       "kurz": "Region, durch die die Gruppe nach dem Fenstersturz flüchtet.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 13
     },
     {
       "path": "Orte/Unterwalde",
@@ -566,7 +620,8 @@
       "status": "überfallen (Bewohner verschleppt)",
       "kurz": "Heimatdorf der Gruppe und Ausgangspunkt der Chronik.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 84
     },
     {
       "path": "Orte/Verheerte Lande",
@@ -575,7 +630,8 @@
       "status": "nur in Visionen bekannt",
       "kurz": "Ödes, verderbtes Land aus Siras Vision.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 33
     },
     {
       "path": "Artefakte/Amulett mit fünfzackigem Stern",
@@ -586,16 +642,8 @@
       "aliases": [
         "Sternenamulett?"
       ],
-      "held": false
-    },
-    {
-      "path": "Artefakte/Donnerhuf",
-      "type": "artefakt",
-      "title": "Donnerhuf",
-      "status": "bei der Gruppe",
-      "kurz": "Aikyrs x-beiniger, zottiger Esel.",
-      "aliases": [],
-      "held": false
+      "held": false,
+      "w": 13
     },
     {
       "path": "Artefakte/Grüner Stein mit Spirale",
@@ -604,7 +652,8 @@
       "status": "unauffällig (unbekannt)",
       "kurz": "Geschenk Fitzbans an Paian — wirkt wie ein gewöhnlicher Stein.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 27
     },
     {
       "path": "Artefakte/Schwarze Schatulle",
@@ -613,16 +662,8 @@
       "status": "nur in Visionen",
       "kurz": "Pechschwarzes Kästchen auf einer Säule, das Licht und Gefühle aufsaugt.",
       "aliases": [],
-      "held": false
-    },
-    {
-      "path": "Artefakte/Sommertochter",
-      "type": "artefakt",
-      "title": "Sommertochter",
-      "status": "wieder bei Aikyr",
-      "kurz": "Aikyrs Stute, in einer Reisegruppe am Großen Weg wiedergefunden.",
-      "aliases": [],
-      "held": false
+      "held": false,
+      "w": 27
     },
     {
       "path": "Fraktionen/Graue Wesen",
@@ -631,7 +672,8 @@
       "status": "aktiv",
       "kurz": "Nachtaktive Kreaturen mit leblosen schwarzen Augen, die Menschen überfallen.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 46
     },
     {
       "path": "Fraktionen/Gunwarkirche",
@@ -642,7 +684,8 @@
       "aliases": [
         "Kirche des Gunwar"
       ],
-      "held": false
+      "held": false,
+      "w": 90
     },
     {
       "path": "Fraktionen/Teleshai",
@@ -651,7 +694,8 @@
       "status": "unbekannt (nach dem Überfall)",
       "kurz": "Siras Sippe, überwinterte in Unterwalde.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 43
     },
     {
       "path": "Fraktionen/Wesen der Finsternis",
@@ -663,7 +707,8 @@
         "Wesen aus Finsternis",
         "Dunkelheit"
       ],
-      "held": false
+      "held": false,
+      "w": 54
     },
     {
       "path": "Fraktionen/Zirkel der Zinnen",
@@ -674,7 +719,8 @@
       "aliases": [
         "Magierzirkel mit fünfzackigem Stern"
       ],
-      "held": false
+      "held": false,
+      "w": 58
     },
     {
       "path": "Kreaturen/Riesenhundertfüßer",
@@ -683,7 +729,8 @@
       "status": "bestehend (Revier in der Felsspalte)",
       "kurz": "Bis 8 Meter langer, giftiger Aasfresser mit Revier — Ursache von Doreans Sturz.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 18
     },
     {
       "path": "Personen/Aladia",
@@ -692,7 +739,8 @@
       "status": "lebendig",
       "kurz": "Kreatur aus Blättern im Feenwald; Frage gegen Dienst — Aikyr lehnte ab.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 24
     },
     {
       "path": "Personen/Balina",
@@ -701,7 +749,8 @@
       "status": "lebendig",
       "kurz": "Schmiedin in Südfang (Balinas Reiterladen); kannte Siras Sippe.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 33
     },
     {
       "path": "Personen/Der Säulenheilige",
@@ -713,7 +762,8 @@
         "Säulenheiliger",
         "Der Weise von Sarnburg"
       ],
-      "held": false
+      "held": false,
+      "w": 42
     },
     {
       "path": "Personen/Galkor Alquan",
@@ -722,16 +772,18 @@
       "status": "lebendig",
       "kurz": "Alb, führt die Grauen — „Der Herr Gunwar ruft euch zu sich“.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 47
     },
     {
       "path": "Personen/Gatta",
       "type": "person",
       "title": "Gatta",
-      "status": "tot (sehr wahrscheinlich — auf dem Henkersplatz von Sarnburg hingerichtet, Session 44)",
+      "status": "tot (Session 44 — hingerichtet in Sarnburg; als Spieler-Klarstellung bestätigt)",
       "kurz": "Besitzerin des Pfandhauses Plunder in Sarnburg; Tochter Zofars — verhaftet und hingerichtet.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 57
     },
     {
       "path": "Personen/Gunubran",
@@ -740,7 +792,8 @@
       "status": "lebendig",
       "kurz": "Berühmter Yonnuspriester; vermittelte den Zugang zu Jadan.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Personen/König des Waldes",
@@ -751,7 +804,8 @@
       "aliases": [
         "Herr des Waldes"
       ],
-      "held": false
+      "held": false,
+      "w": 36
     },
     {
       "path": "Personen/Lisana",
@@ -760,7 +814,8 @@
       "status": "lebendig",
       "kurz": "Fee, Hüterin des Feenwaldes; gab Halfred das Eichenblatt.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 47
     },
     {
       "path": "Personen/Myro von der Felsenbucht",
@@ -769,7 +824,8 @@
       "status": "lebendig",
       "kurz": "Gunwarpriester in Sarnburg; warnt vor Nachfrage nach Isenblut.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 40
     },
     {
       "path": "Personen/Perilax Köchelbart",
@@ -778,7 +834,8 @@
       "status": "tot (Session 21)",
       "kurz": "Zwerg; diente Gatta, beschattete die Gruppe — durch Bolzen getötet.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Personen/Prinzessin von Zuyang",
@@ -787,7 +844,8 @@
       "status": "unbekannt",
       "kurz": "Gerücht im Roten Lied: eine Prinzessin von Zuyang weilt in Sarnburg — Abgrenzung zu Prinzessin Yi.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Personen/Pyrina",
@@ -796,7 +854,8 @@
       "status": "lebendig",
       "kurz": "Doreans Schwester; arrogante Magierin, auf Mission für den Zirkel der Zinnen — kennt Esmoda und Totenerz.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 58
     },
     {
       "path": "Personen/Schlitzohr",
@@ -805,7 +864,8 @@
       "status": "unbekannt (entkommen)",
       "kurz": "Diebsjunge aus Sarnburg; Ohr an einen Pfahl genagelt, riss sich frei.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 37
     },
     {
       "path": "Orte/Blutgrasweite",
@@ -814,7 +874,8 @@
       "status": "bestehend",
       "kurz": "Weite Grasebene; dritter Splitter-Standort.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 72
     },
     {
       "path": "Orte/Catley",
@@ -823,7 +884,8 @@
       "status": "bestehend",
       "kurz": "1.500 km von Sarnburg — Ziel des Weißen Tors.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 22
     },
     {
       "path": "Orte/Feenwald",
@@ -832,7 +894,8 @@
       "status": "bestehend",
       "kurz": "Bunter Wald jenseits des Mondpfads; Lisana, König des Waldes, Aladia.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 40
     },
     {
       "path": "Orte/Feuertal",
@@ -841,7 +904,8 @@
       "status": "bestehend",
       "kurz": "Reisestation zwischen Südfang und Sarnburg.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Orte/Flammensenke",
@@ -850,7 +914,8 @@
       "status": "bestehend",
       "kurz": "„Schmelztiegel der Welt“ — zweiter Splitter-Standort; Heimat der Feuerläufer.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 44
     },
     {
       "path": "Orte/Glimmwacht",
@@ -859,7 +924,8 @@
       "status": "bestehend",
       "kurz": "Reisestation zwischen Südfang und Sarnburg.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Orte/Mondpfad",
@@ -868,7 +934,8 @@
       "status": "bestehend",
       "kurz": "Pfad zwischen den Welten; ewiges Dämmern, Sternenwolke.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 55
     },
     {
       "path": "Orte/Palitan",
@@ -877,7 +944,8 @@
       "status": "bestehend",
       "kurz": "Fremdartige Großstadt jenseits des Mondpfads; Machtzentrum Shushangs mit drei Mächten — und einem Tempel, dessen Herz die Gruppe stahl.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 68
     },
     {
       "path": "Orte/Wegkreuz",
@@ -886,7 +954,8 @@
       "status": "bestehend",
       "kurz": "Reisestation zwischen Südfang und Sarnburg.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Orte/Zirken",
@@ -895,7 +964,8 @@
       "status": "bestehend",
       "kurz": "Vulkangebirge mit Erzminen; an seinem Fuß Südfang.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Artefakte/Eichenblatt",
@@ -904,7 +974,8 @@
       "status": "in Halfreds Besitz",
       "kurz": "Lisanas Gabe: Kontakt zu jedem Wald — Preis: ein Stück Schicksal.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 49
     },
     {
       "path": "Artefakte/Feenwasser",
@@ -913,7 +984,8 @@
       "status": "in Doreans Flasche",
       "kurz": "Flüssigkeit aus Feenwald-Blüten; Dorean schmeckt seither nichts.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 21
     },
     {
       "path": "Artefakte/Geborstener Kristall",
@@ -925,7 +997,8 @@
         "Splitter",
         "Die Splitter"
       ],
-      "held": false
+      "held": false,
+      "w": 76
     },
     {
       "path": "Artefakte/Schwarzes Schwert",
@@ -936,7 +1009,8 @@
       "aliases": [
         "Schwert aus Albträumen"
       ],
-      "held": false
+      "held": false,
+      "w": 78
     },
     {
       "path": "Fraktionen/Fiura",
@@ -945,7 +1019,8 @@
       "status": "aktiv (Kult in Südfang)",
       "kurz": "Lokale Gottheit des Feuers, des Schlafes und des Todes.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 20
     },
     {
       "path": "Fraktionen/Gagamba",
@@ -956,7 +1031,8 @@
       "aliases": [
         "Göttin der Spinne"
       ],
-      "held": false
+      "held": false,
+      "w": 83
     },
     {
       "path": "Fraktionen/Hūeng",
@@ -967,7 +1043,8 @@
       "aliases": [
         "Gott der Toten"
       ],
-      "held": false
+      "held": false,
+      "w": 37
     },
     {
       "path": "Fraktionen/Portalgilde",
@@ -976,7 +1053,8 @@
       "status": "aktiv",
       "kurz": "Gilde der Mondtore: Sarnburg–Catley, Palitan — die Flucht der Gruppe ging durchs Palitaner Portal.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 39
     },
     {
       "path": "Fraktionen/Triaden",
@@ -985,7 +1063,8 @@
       "status": "aktiv",
       "kurz": "Dritte Macht in Shushang; kriminelle Vereinigung in Palitan — Gagamba ist ihre oberste Göttin.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 40
     },
     {
       "path": "Kreaturen/Finsterbann",
@@ -994,7 +1073,8 @@
       "status": "tot (Legende)",
       "kurz": "Uralter Drache; sein letzter Atemzug schenkte ihm die Fähigkeit zu sterben.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 33
     },
     {
       "path": "Kreaturen/Nadiavin",
@@ -1003,7 +1083,8 @@
       "status": "bestehend (Wächter am blauen Berg)",
       "kurz": "Kristalliner Wächter des Mondpfads — wacht, bis ER erwacht.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 34
     },
     {
       "path": "Personen/Irimbald Schätzineg",
@@ -1014,7 +1095,8 @@
       "aliases": [
         "Schätzineg"
       ],
-      "held": false
+      "held": false,
+      "w": 37
     },
     {
       "path": "Personen/Xing Tai",
@@ -1023,7 +1105,8 @@
       "status": "lebendig",
       "kurz": "Tempelvorsteher des Gagamba-Tempels; erzählte Dorean von der Geschichte des Herzens.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 22
     },
     {
       "path": "Personen/Mao Tai",
@@ -1032,7 +1115,8 @@
       "status": "unbekannt (seit dem Kopfwesen-Zwischenfall nicht mehr gesehen)",
       "kurz": "Alb aus dem Einwohnermeldeamt; in seinem Weinkeller hauste das Kopfwesen.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 36
     },
     {
       "path": "Personen/Pao Xun",
@@ -1041,7 +1125,8 @@
       "status": "lebendig",
       "kurz": "Fährmann zur Überfahrt ins Maskenzugviertel von Palitan.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 22
     },
     {
       "path": "Personen/Wilbolt Luchador",
@@ -1050,7 +1135,8 @@
       "status": "lebendig",
       "kurz": "Wirt des „Schwarzen Keilers“ im Hirschviertel von Palitan; Holzbein.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 22
     },
     {
       "path": "Personen/Zuh Tai",
@@ -1059,7 +1145,8 @@
       "status": "unbekannt",
       "kurz": "Hüne aus Palitan; Sira schwatzte ihm seine gelbe Seidenrobe ab.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 23
     },
     {
       "path": "Personen/Futu und Gerablong",
@@ -1071,7 +1158,8 @@
         "Futu",
         "Gerablong"
       ],
-      "held": false
+      "held": false,
+      "w": 25
     },
     {
       "path": "Personen/Meimai",
@@ -1080,7 +1168,8 @@
       "status": "lebendig",
       "kurz": "Wortführerin des Händlerrats von Palitan; gegen die Abmachungen mit den Triaden.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 22
     },
     {
       "path": "Personen/Prinzessin Yi",
@@ -1089,7 +1178,8 @@
       "status": "in Sicherheit gebracht (Zentatau)",
       "kurz": "Tochter der Kaiserin — wurde in Zentatau im fernen Aiun in Sicherheit gebracht.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 22
     },
     {
       "path": "Personen/Der Mandarin",
@@ -1101,7 +1191,8 @@
         "Mandarin",
         "Mandarin-Geist"
       ],
-      "held": false
+      "held": false,
+      "w": 40
     },
     {
       "path": "Personen/Der alte Mann mit traurigen Augen",
@@ -1110,7 +1201,8 @@
       "status": "unbekannt",
       "kurz": "Sah die Gruppe beim Tempeldiebstahl; tauchte vor dem Portal erneut in der Menge auf.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 27
     },
     {
       "path": "Personen/Die schwarzgewandete Frau",
@@ -1119,7 +1211,8 @@
       "status": "unbekannt (entkommen)",
       "kurz": "Attentäterin mit leerem Gesichtsausdruck; stach auf der Portalinsel auf Dorean ein.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 27
     },
     {
       "path": "Personen/Enhard Treublatt",
@@ -1128,7 +1221,8 @@
       "status": "lebendig",
       "kurz": "Karawane auf dem Feenpfad — Erze und Stoffe; 10 Wagen, 8 Reiter, etwa 20 Personen zu Fuß.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 24
     },
     {
       "path": "Personen/Taloran Ladrao",
@@ -1139,7 +1233,8 @@
       "aliases": [
         "Ladrao"
       ],
-      "held": false
+      "held": false,
+      "w": 45
     },
     {
       "path": "Personen/Jelinde",
@@ -1150,7 +1245,8 @@
       "aliases": [
         "Jelinde aus Brackenmühl an der Kastanienquelle"
       ],
-      "held": false
+      "held": false,
+      "w": 42
     },
     {
       "path": "Personen/Bodam",
@@ -1159,7 +1255,8 @@
       "status": "lebendig",
       "kurz": "Führer des letzten Wagens; hält Gnome allesamt für kriminell.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 37
     },
     {
       "path": "Personen/Falk Bald",
@@ -1170,7 +1267,8 @@
       "aliases": [
         "Falkbald"
       ],
-      "held": false
+      "held": false,
+      "w": 67
     },
     {
       "path": "Orte/Esmoda",
@@ -1179,7 +1277,8 @@
       "status": "nur dem Namen nach bekannt",
       "kurz": "Stadt, mit der das Material von Doreans Schwert in Verbindung gebracht wird: Totenerz.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 48
     },
     {
       "path": "Orte/Zentatau",
@@ -1188,7 +1287,8 @@
       "status": "bestehend",
       "kurz": "Ort im fernen Aiun; dorthin wurde Prinzessin Yi in Sicherheit gebracht.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 22
     },
     {
       "path": "Orte/Feenpfad",
@@ -1197,7 +1297,8 @@
       "status": "bestehend",
       "kurz": "Pfad jenseits des Palitaner Portals: pulsierende Steine, grüne Wälder und Auen — Heimat der Pfadwächter.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 54
     },
     {
       "path": "Orte/Brackenmühl an der Kastanienquelle",
@@ -1208,7 +1309,8 @@
       "aliases": [
         "Brackenmühl"
       ],
-      "held": false
+      "held": false,
+      "w": 26
     },
     {
       "path": "Orte/Katakomben unter Palitan",
@@ -1220,7 +1322,8 @@
         "Katakomben",
         "Spinnenhöhle"
       ],
-      "held": false
+      "held": false,
+      "w": 86
     },
     {
       "path": "Orte/Kaiserliches Archiv (Palitan)",
@@ -1232,7 +1335,8 @@
         "Kaiserliches Archiv",
         "Archiv von Palitan"
       ],
-      "held": false
+      "held": false,
+      "w": 35
     },
     {
       "path": "Artefakte/Herz der Gagamba",
@@ -1244,7 +1348,8 @@
         "Kristall",
         "das Herz"
       ],
-      "held": false
+      "held": false,
+      "w": 85
     },
     {
       "path": "Artefakte/Die drei Jadefiguren",
@@ -1257,7 +1362,8 @@
         "Jade-Spinne",
         "Jadeaffe"
       ],
-      "held": false
+      "held": false,
+      "w": 23
     },
     {
       "path": "Artefakte/Totenerz",
@@ -1266,7 +1372,8 @@
       "status": "Material (Vorkommen: Esmoda)",
       "kurz": "Sehr schwer zu bearbeitendes Material, aus dem normalerweise nur Rüstungen entstehen — Doreans Schwert besteht daraus.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 35
     },
     {
       "path": "Fraktionen/Phönixgeist",
@@ -1277,7 +1384,8 @@
       "aliases": [
         "Gott des Kreislaufs des Lebens"
       ],
-      "held": false
+      "held": false,
+      "w": 25
     },
     {
       "path": "Fraktionen/Gilde der Pfadwächter",
@@ -1288,7 +1396,8 @@
       "aliases": [
         "Pfadwächter"
       ],
-      "held": false
+      "held": false,
+      "w": 26
     },
     {
       "path": "Fraktionen/Händlerrat",
@@ -1299,7 +1408,8 @@
       "aliases": [
         "Händlerrat von Palitan"
       ],
-      "held": false
+      "held": false,
+      "w": 13
     },
     {
       "path": "Fraktionen/Feuerläufer",
@@ -1308,7 +1418,8 @@
       "status": "bestehend (nomadisch)",
       "kurz": "Dunkelhäutige Nomaden, die laut Futu und Gerablong in der Flammensenke leben.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 22
     },
     {
       "path": "Kreaturen/Spinnenwesen",
@@ -1319,7 +1430,8 @@
       "aliases": [
         "spinnenartige Kreaturen"
       ],
-      "held": false
+      "held": false,
+      "w": 42
     },
     {
       "path": "Kreaturen/Kopfwesen",
@@ -1330,7 +1442,8 @@
       "aliases": [
         "schwebender Kopf"
       ],
-      "held": false
+      "held": false,
+      "w": 13
     },
     {
       "path": "Personen/Tenkuri",
@@ -1339,7 +1452,8 @@
       "status": "unbekannt (Feenwelt)",
       "kurz": "Grünhäutiger Feenfürst, „Herr des Pfades“ — Falk Balds alte Warnung „Tenkuri, ?“ erstmals erklärt.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 53
     },
     {
       "path": "Personen/Die Alte über die Kreuzwege",
@@ -1348,7 +1462,8 @@
       "status": "unbekannt (nur in Doreans Vision)",
       "kurz": "„Die, die über die Kreuzwege wacht“ — warnt Dorean in einer Vision: Finsternis begleitet uns.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 27
     },
     {
       "path": "Personen/Gesandter des Gunwars",
@@ -1360,7 +1475,8 @@
         "Elf mit Narbe",
         "Alb mit der Narbe"
       ],
-      "held": false
+      "held": false,
+      "w": 51
     },
     {
       "path": "Personen/Elquin Germersin",
@@ -1369,7 +1485,8 @@
       "status": "lebendig",
       "kurz": "Drugon-Geselle bei Sarnburg; will am Hof Selenius vorsprechen — Bote zum Zirkel der Zinnen.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 25
     },
     {
       "path": "Orte/Teermark",
@@ -1380,7 +1497,8 @@
       "aliases": [
         "Termark"
       ],
-      "held": false
+      "held": false,
+      "w": 28
     },
     {
       "path": "Orte/Vardfeste",
@@ -1389,7 +1507,8 @@
       "status": "bestehend (laut Jadan)",
       "kurz": "Ort eines Angriffs durch ein Wesen der Finsternis — der Biss hinterlässt einen Lockstoff.",
       "aliases": [],
-      "held": false
+      "held": false,
+      "w": 25
     },
     {
       "path": "Kreaturen/Purpurkopf",
@@ -1400,7 +1519,8 @@
       "aliases": [
         "Seelenfänger"
       ],
-      "held": false
+      "held": false,
+      "w": 27
     },
     {
       "path": "Kreaturen/Nebelhetzer",
@@ -1411,7 +1531,8 @@
       "aliases": [
         "nebelhafte Wolfskreaturen"
       ],
-      "held": false
+      "held": false,
+      "w": 45
     },
     {
       "path": "Artefakte/Goldener Ring",
@@ -1422,7 +1543,8 @@
       "aliases": [
         "goldener Ring mit tiefschwarzem Stein"
       ],
-      "held": false
+      "held": false,
+      "w": 70
     },
     {
       "path": "Artefakte/Die Roten Spuren",
@@ -1434,7 +1556,8 @@
         "Prophezeiung der Fee",
         "Blauer Stein"
       ],
-      "held": false
+      "held": false,
+      "w": 90
     },
     {
       "path": "Artefakte/Schwarze Kutsche",
@@ -1446,7 +1569,38 @@
         "schwarzer Wagen",
         "metallbeschlagener Wagen"
       ],
-      "held": false
+      "held": false,
+      "w": 43
+    },
+    {
+      "path": "Tiere/Donnerhuf",
+      "type": "tier",
+      "title": "Donnerhuf",
+      "status": "bei der Gruppe",
+      "kurz": "Aikyrs x-beiniger, zottiger Esel.",
+      "aliases": [],
+      "held": false,
+      "w": 60
+    },
+    {
+      "path": "Tiere/Sommertochter",
+      "type": "tier",
+      "title": "Sommertochter",
+      "status": "wieder bei Aikyr",
+      "kurz": "Aikyrs Stute, in einer Reisegruppe am Großen Weg wiedergefunden.",
+      "aliases": [],
+      "held": false,
+      "w": 63
+    },
+    {
+      "path": "Personen/Duir",
+      "type": "person",
+      "title": "Duir",
+      "status": "unbekannt (Wesen aus Humus, Wald und Elementarem)",
+      "kurz": "Halfreds Mentor und Schutzgeist — Wesen aus Humus, Wald und Elementarem, vielleicht eine Fee; Halfred spricht über Bäume zu ihm.",
+      "aliases": [],
+      "held": false,
+      "w": 78
     }
   ]
 }
