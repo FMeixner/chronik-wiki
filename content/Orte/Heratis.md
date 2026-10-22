@@ -11,3 +11,6 @@ kurz: Heimat des Weinhändlers Dornentann.
 
 - [[Dornentann]] reist aus [[Südfang]] dorthin weiter (Session 17).
 
+- Auf [[Falk Bald]]s Route von der [[Teermark]] (Session 38): „Stadt Heratis (hier muss man den tiermarkt besuchen)"; von [[Sarnburg]] nach Heratis seien es 1000 km — vor [[Südfang]] auf die Heerstraße abbiegen (Session 43).
+- [[Myro von der Felsenbucht]] (Session 41): In Heratis „gibt es einen Zwergen, der sich gut mit Feenwirken auskennt" — Ansprechpartner für die Frage nach Doreans [[Schwarzes Schwert|Schwarzem Schwert]].
+- Dorean bittet [[Halfred]] (Session 46), das Schwarze Schwert bis Heratis zu verwahren.

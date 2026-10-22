@@ -12,3 +12,5 @@ kurz: Schwarzer Kristall aus dem Gagaba-Tempel: schaffende und zerstörende arka
 - In der Tempelhalle hält die Statue der Gagamba „einen schwarzen Stein, der das Licht zu verschlucken scheint" (Session 35); schon bei der ersten Begegnung: „In zwei Händen hält sie einen Kristall, der ihr Herz darstellt" (Session 26).
 - Diebstahl (Session 35): [[Paian]] betet nach einem Gebet an [[Gagamba]] — nimmt den Stein in die Hände, sieht einen geisterhaften Schemen, und plötzlich durchzuckt ihn Schmerz. Danach: Die Glieder der Gruppe werden schwer; Stimmen schimpfen: „Diebe" — „Klingen in der Nacht werden euch heimsuchen". Auf dem Weg zur Portalinsel wird [[Dorean]] von der [[Die schwarzgewandete Frau|schwarzgewandeten Frau]] niedergestochen.
 - Auf dem [[Feenpfad]] (Session 36): Paian greift nach dem Alptraum panisch danach — „Er ist noch da, leuchtet aber jetzt angenehm."
+
+- Beobachtung Paians auf dem [[Feenpfad]] (Session 37): An einer Kante des Herzens sieht es aus, „als wäre etwas abgebrochen" — in der Geisterwelt sieht er „hiervon ein dunkles Band wegziehen".

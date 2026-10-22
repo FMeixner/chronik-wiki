@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–36 · in-world bis 09.07.997 LZ",
+  "coverage": "Sessions 01–46 · in-world bis 14.07.997 LZ",
   "pages": [
     {
       "path": "index",
@@ -728,8 +728,8 @@
       "path": "Personen/Gatta",
       "type": "person",
       "title": "Gatta",
-      "status": "lebendig (auf Reisen)",
-      "kurz": "Besitzerin des Pfandhauses Plunder; Tochter Zofars.",
+      "status": "tot (sehr wahrscheinlich — auf dem Henkersplatz von Sarnburg hingerichtet, Session 44)",
+      "kurz": "Besitzerin des Pfandhauses Plunder in Sarnburg; Tochter Zofars — verhaftet und hingerichtet.",
       "aliases": [],
       "held": false
     },
@@ -1329,6 +1329,122 @@
       "kurz": "Schwebender Kopf mit herabhängenden Eingeweiden — hauste in Mao Tais Weinkeller; von Dorean getötet.",
       "aliases": [
         "schwebender Kopf"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Tenkuri",
+      "type": "person",
+      "title": "Tenkuri",
+      "status": "unbekannt (Feenwelt)",
+      "kurz": "Grünhäutiger Feenfürst, „Herr des Pfades“ — Falk Balds alte Warnung „Tenkuri, ?“ erstmals erklärt.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Die Alte über die Kreuzwege",
+      "type": "person",
+      "title": "Die Alte über die Kreuzwege",
+      "status": "unbekannt (nur in Doreans Vision)",
+      "kurz": "„Die, die über die Kreuzwege wacht“ — warnt Dorean in einer Vision: Finsternis begleitet uns.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Gesandter des Gunwars",
+      "type": "person",
+      "title": "Gesandter des Gunwars",
+      "status": "unbekannt (zuletzt auf dem Feenpfad)",
+      "kurz": "Elf/Alb mit gelben Augen und Narbe; suchte mit schwarzen Roben und schwarzem Wagen nach Midstadt-Spionen.",
+      "aliases": [
+        "Elf mit Narbe",
+        "Alb mit der Narbe"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Elquin Germersin",
+      "type": "person",
+      "title": "Elquin Germersin",
+      "status": "lebendig",
+      "kurz": "Drugon-Geselle bei Sarnburg; will am Hof Selenius vorsprechen — Bote zum Zirkel der Zinnen.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Teermark",
+      "type": "ort",
+      "title": "Teermark",
+      "status": "bestehend (Feenwelt)",
+      "kurz": "Heimat des Feenfürsten Tenkuri — und Falk Balds; dessen Fußroute nach Sarnburg führt über Heratis.",
+      "aliases": [
+        "Termark"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Vardfeste",
+      "type": "ort",
+      "title": "Vardfeste",
+      "status": "bestehend (laut Jadan)",
+      "kurz": "Ort eines Angriffs durch ein Wesen der Finsternis — der Biss hinterlässt einen Lockstoff.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Kreaturen/Purpurkopf",
+      "type": "kreatur",
+      "title": "Purpurkopf",
+      "status": "bestehend (Feenpfad)",
+      "kurz": "Rote Schlange mit sofort tödlichem Gift — windete sich um Aikyrs Arm; stellt gegen Bodam ihren Kragen auf.",
+      "aliases": [
+        "Seelenfänger"
+      ],
+      "held": false
+    },
+    {
+      "path": "Kreaturen/Nebelhetzer",
+      "type": "kreatur",
+      "title": "Nebelhetzer",
+      "status": "bestehend (Feenwelt)",
+      "kurz": "Nebelhafte Wolfskreaturen der Feenwelt — der Feenfürst Tenkuri bekämpft sie lieber als Orks.",
+      "aliases": [
+        "nebelhafte Wolfskreaturen"
+      ],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Goldener Ring",
+      "type": "artefakt",
+      "title": "Goldener Ring",
+      "status": "bei Jadan zur Analyse (Sessions 42/43)",
+      "kurz": "Ring mit tiefschwarzem, eingefasstem Stein aus den Katakomben unter dem Gagamba-Tempel — sehr mächtige Magie.",
+      "aliases": [
+        "goldener Ring mit tiefschwarzem Stein"
+      ],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Die Roten Spuren",
+      "type": "artefakt",
+      "title": "Die Roten Spuren",
+      "status": "Auftrag offen (folgt der Gruppe)",
+      "kurz": "Lisanas letzter Auftrag: den Weg des ersten Schlachtzugs folgen und aus der Dunkelheit einen blauen Stein bringen.",
+      "aliases": [
+        "Prophezeiung der Fee",
+        "Blauer Stein"
+      ],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Schwarze Kutsche",
+      "type": "artefakt",
+      "title": "Schwarze Kutsche",
+      "status": "unbekannt (zuletzt auf dem Feenpfad gesehen)",
+      "kurz": "Metallbeschlagener Wagen mit winzigen Luken, von dem unbestimmte Furcht ausgeht — rollte mit dem Gesandten des Gunwars.",
+      "aliases": [
+        "schwarzer Wagen",
+        "metallbeschlagener Wagen"
       ],
       "held": false
     }

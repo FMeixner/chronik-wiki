@@ -12,3 +12,5 @@ kurz: Zwerg in Sarnburg; beschattete die Gruppe im Auftrag Unbekannter, diente G
 - Die beiden kamen wohl aus [[Palitan]] (?) — erkannt an Dialekt und Kleidung; sie kannten [[Paian]]s Namen. Woher, ist unklar.
 - Seine Dienste seien teuer, aber er diene bereits [[Gatta]] und wollte die Gruppe zu ihr bringen.
 - Führung in der Nacht über Brücken des Flusses — dann fiel er, durch einen Bolzen durch den Hals, sofort tot (Session 21).
+
+- In Aikyrs Mittagstraum (Session 37) erlebt dieser die Szene erneut, „als Perilax uns aus der Taverne abgeholt hat" — mit den Worten „Warum haben wir es nicht kommen sehen?" (wörtlich; Sprecher unklar).

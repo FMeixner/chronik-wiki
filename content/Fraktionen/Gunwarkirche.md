@@ -17,3 +17,6 @@ kurz: Kirche des Gunwar, ruft zum Kampf gegen die Dunkelheit auf — Vieles dara
 - [[Galkor Alquan]] rief in der Fluchtnacht (Session 21) wiederholt: „Der Herr Gunwar ruft euch zu sich!“ — welche Rolle die Kirche dabei spielt, ist unklar.
 - Am [[Mondpfad]] (Session 26) wirkte Gunwar für [[Paian]] „ferner von ihm als je“.
 
+- Kaiser Selenius „hätte die Mittel für die Kirchen, insbesondere der Jonnus und Gunwarkirche gestrichen" ([[Myro von der Felsenbucht]], Session 41).
+- Auf dem [[Feenpfad]] (Session 39): Der [[Gesandter des Gunwars]] — Elf/Alb mit Narbe, im Gefolge des [[Schwarze Kutsche|schwarzen Wagens]] — klopft „Will niemand mit einem Gesandten des Gunwars reden?" an die Wagen; seine Männer in schwarzen Roben suchen einen „(er spuckt aus) abtrünnigen Gunwarpriester" — die Beschreibung des Gesuchten passt auf die Gruppe.
+- Das gegen [[Midstadt]] gezogene Heer der Kirche wurde zerschlagen; „ein paar der fanatischen Brüder" wurden auf der Midstadter Seite gesehen (Myro, Session 41).

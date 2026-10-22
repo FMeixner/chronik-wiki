@@ -30,3 +30,8 @@ kurz: Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf, 
 - Rammbock (Session 33): schiebt mit einer alten Tür das dichte, klebrige Spinnwebengeflecht beiseite und stürmt die Treppe hinunter.
 - Reiht einen Balken ab, um die frische Erdwand zum Einsturz zu bringen — dahinter der Brutraum der [[Spinnenwesen]] (Session 34).
 - Auf dem [[Feenpfad]] (Session 36): spricht mit [[Enhard Treublatt]]; hält mit der Gruppe die Wache am letzten Wagen.
+
+- Auf dem [[Feenpfad]] (Session 37): Eine rote Schlange — [[Purpurkopf]] („Seelenfänger", sofort tödliches Gift) — windet sich um seinen Unterarm; er beruhigt sie und setzt sie „ganz vorsichtig am Wegesrand ab". Mittagstraum: ein Varg, „dessen Geruch vertraut erscheint", trägt sein eigenes Gesicht; erneut der Kerker, Türen öffnen sich mit einem alten Schlüssel, „der im letzten schloss [sic] abbricht"; die Szene, als [[Perilax Köchelbart]] die Gruppe aus der Taverne abholte — „Warum haben wir es nicht kommen sehen?" (wörtlich; Sprecher unklar).
+- Wacht früh auf, „weil der Silber- und der Splittermond voll sind", und unterhält sich lange mit [[Sira]] (Session 44); entkommt mit Sira und Paian den Wachen — „ein unauffällig gekleideter Mann bleibt ihnen auf den Fersen" (Session 44).
+- „Der überglückliche Aikyr" holt [[Sommertochter]] und [[Donnerhuf]] von den Ställen ab (Session 41); Sommertochter „freut sich sehr", ihn zu sehen (Session 42).
+- Schauspiel mit [[Sira]] (Session 46): „herrische Geschäftsinhaberin und ihr buckelnden Buchprüfer" — als Liara Fallwind (Tuchhändlerin aus Palitan) und Buchprüfer horchen sie die Wachleute in einer Taverne aus; danach wachen sie abwechselnd am Fenster.

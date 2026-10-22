@@ -29,3 +29,10 @@ kurz: Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finste
 - Erhascht mehrfach Blicke auf die [[Spinnenwesen]] (Sessions 29/30); hört im Südost-Raum der Katakomben an der Decke „eine Melodie, wie ein Glockenspiel" (Session 34) und darüber Pochen, möglicherweise Schritte (Session 32).
 - Gräbt sich mit [[Halfred]] von unten durch die Decke bis zum [[Gagamba]]-Tempel (Session 35); beim Rückweg sieht sie den [[Der alte Mann mit traurigen Augen|alten Mann mit traurigen Augen]].
 - Auf dem [[Feenpfad]] (Session 36): spielt „das Lied der Wacht" auf der Nachtwache; [[Taloran Ladrao]] macht ihr „ein wenig schöne Augen".
+
+- Auf dem [[Feenpfad]] (Session 37): ringt [[Halfred]] das Versprechen ab, den Pfad nicht mehr zu verlassen; ist „ein wenig geknickt", weil sich Palitan und dieser Ort „nicht heimatlich anfühlen". Traum: schlägt ein Wesen mit einem Stein nieder, das auf ihr zusammenbricht — [[Paian]] lässt sie mit enttäuschtem Gesichtsausdruck liegen („Was für eine Enttäuschung du doch warst!").
+- Über den Ursprung ihrer Magie (Session 38): „die Magie kommt aus ihr selbst", am leichtesten fällt sie ihr, „wenn sie viele Leute positiv beeinflusst".
+- Gesucht (Session 39): Die Männer in schwarzen Roben suchen Spione aus [[Midstadt]] — „einen Vargen, eine Albin, einen Mann mit einer roten Feder am Hut und einen (er spuckt aus) abtrünnigen Gunwarpriester"; sie wollen Sira „mitnehmen und ihrem Herrn vorführen" — die Gruppe entkommt (Halfred bittet Duir um Verhüllung, Wind und kalter Regen).
+- Lockstoff (Session 43): war die erste erfolgreich behandelte Patientin eines Bisses der [[Wesen der Finsternis]] — „Jardan ist sichtlich stolz"; → [[Vardfeste]]
+- Flucht (Session 44): entkommt mit Aikyr und Paian den Sarnburger Wachen; „ein unauffällig gekleideter Mann" hetzt Wachen auf sie.
+- Alias „Liara Fallwind" (Session 46): gibt sich in einer Taverne als Tuchhändlerin aus [[Palitan]] aus — „Ross und Rabe" spielen die herrische Geschäftsinhaberin und ihren buckelnden Buchprüfer.

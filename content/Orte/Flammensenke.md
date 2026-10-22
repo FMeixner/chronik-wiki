@@ -11,3 +11,5 @@ kurz: „Schmelztiegel der Welt" — zweiter Splitter-Standort; Heimat der Feuer
 - Schilderung zweier Sarnburger (Session 26, „Schildkröte im Bambushain"): Es regnet dort Asche und Schwefel, der Fels ist schwarz und geborsten; Echsen speien Feuer.
 - Karawanen aus [[Palitan]] reisen in die Flammensenke (Start im Viertel „Drachenbauch").
 - Laut [[Futu und Gerablong]] (Session 27) leben dort [[Feuerläufer]] — dunkelhäutige Menschen, die nomadisch leben sollen.
+
+- Der Priester, der den Splitter aus der Flammensenke brachte, „starb kurz danach" (Doreans Erinnerung, im Gespräch mit [[Jadan]], Session 42).

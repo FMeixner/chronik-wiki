@@ -16,3 +16,6 @@ kurz: Aus Albträumen geschmiedetes Paktschwert aus Totenerz; die erste Seele is
 - Erste Pakt-Erfüllung (Session 27): Im Kampf gegen das [[Kopfwesen]] fragt die dunkle, rauchige Stimme in Dorians Kopf: „was bietest du mir, wenn ich ihn verschone?" — er bietet ihr eine Seele und handelt heraus, dass es keine seiner Freunde ist. Feenlady danach: „na gut, ich bin gespannt wem ihr noch begegnet."
 - „Eine Ruhe fährt in ihn ein" — blankes Schrecken erfüllt [[Halfred]] und [[Paian]] dabei „nicht vor dem Wesen, sondern vor Dorian" (Session 27).
 - In Paians Traum auf dem [[Feenpfad]] (Session 36) sticht Dorian es mit zufriedenem Lächeln durch [[Halfred]]s Rücken.
+
+- Als Doreans Vision von der [[Die Alte über die Kreuzwege|Alten über die Kreuzwege]] beginnt, geht seine Hand „langsam an das schwarze Schwert auf seinem Rücken" (Session 39); auf Paians Ansprache dazu antwortet er ausweichend (Session 40).
+- Halfred kann die Klinge nicht an sich nehmen, obwohl Dorean sie ihm bis [[Heratis]] zur Verwahrung geben will: „Halfred will danach greifen, schafft es aber nicht, die Klinge an sich zu nehmen. Dorean schmunzelt erst, dann wird sein Gesicht schmerzerfüllt." Er behält sie (Session 46).

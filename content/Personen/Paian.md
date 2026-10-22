@@ -30,3 +30,11 @@ kurz: Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid St
 - Innere Stimmen (Session 34): eine vertraute Stimme — vielleicht sein Pater — spricht unverständliche Worte; eine andere, zornig in einer fremden Sprache; Bilder von einer Treppe zu einer geheimen Tür direkt unter der Statue der [[Gagamba]]; „ein Gefühl des Verlangens … als wäre es nicht ein Gefühl von ihm selbst." Die vertraute Stimme: „...und den ernsten Männern – blind schon – wächst Verdacht."
 - Diebstahl (Session 35): betet nach einem Gebet an Gagamba und nimmt das [[Herz der Gagamba]] in die Hände — sieht einen geisterhaften Schemen, plötzlich durchzuckt ihn Schmerz. Versucht die [[Die schwarzgewandete Frau|schwarzgewandete Frau]] zu tackeln (scheitert); blutet leicht.
 - Traum auf dem [[Feenpfad]] (Session 36): Rücken an Rücken mit seinen Freunden, müde und gealtert, tiefe Furchen in den Gesichtern; bullige Kreaturen in alten Lederrüstungen; plötzlich sticht [[Dorean]] sein schwarzes Schwert durch [[Halfred]]s Rücken, „nun mit einem zufriedenen Lächeln im Gesicht". Paian wacht panisch auf — das Herz der Gagamba „ist noch da, leuchtet aber jetzt angenehm".
+
+- Auf dem [[Feenpfad]] (Session 37): Beobachtet am [[Herz der Gagamba]] eine Kante, „als wäre etwas abgebrochen" — in der Geisterwelt zieht ein dunkles Band davon weg.
+- Sein Talisman aus dem [[Hūeng]]-Tempel beginnt zu leuchten, als der metallbeschlagene Wagen und der Elf mit der Narbe auftauchen (Session 38).
+- Beschäftigt sich mit dem [[Goldener Ring|goldenen Ring]] aus den Katakomben (Session 38) und stellt „sehr mächtige Magie" fest; untersucht Doreans Dolchwunde — lila verfärbte Ränder.
+- Kennt die [[Die Alte über die Kreuzwege|Alte über die Kreuzwege]] „im Zusammenhang mit einer Heiligen" (Session 39); der Elf mit der Narbe sieht aus, als hätte er ihn erkannt.
+- Zeigt [[Jadan]] den Splitter (Session 42) — Jadan ist überrascht, „dass er noch lebt": „Die Splitter würden sich schützen, mit dem was ihnen innenwohnt." Der Splitter bleibt bis zur Abreise bei Jadan (Session 43).
+- Findet mit Halfred flockenstieligen Birnenrötling zwischen Kiefern — „eine Zutat für das Gegengift gegen den Biss der Grauen" (Session 42).
+- Gibt sich Elquin Germersin gegenüber als Gunwarpriester zu erkennen (Session 45).

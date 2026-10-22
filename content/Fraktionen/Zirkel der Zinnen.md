@@ -20,3 +20,5 @@ kurz: Mächtiger Magierzirkel mit dem Symbol des fünfzackigen Sterns; sucht das
 - [[Pyrina]], [[Dorean]]s Schwester, ist auf Mission für den Zirkel unterwegs ([[Palitan]], Session 26).
 - Auftrag in Palitan (Session 27): Die Zirkel suchen einen Gegenstand, der sich dort befindet und seit einigen Monaten aktiv geworden ist — „mächtige Strukturen die von schaffender und zerstörender Natur sind. Elemente und Gegensätze die nicht oft in einem Gegenstand gebannt werden." Es ist das [[Herz der Gagamba]]. Der Tempel und vielleicht auch der Gegenstand seien magisch gesichert; es gebe wohl geheime Tunnel unter der Stadt.
 - Zoll-Episode (Session 27): Auf [[Dorean]]s Empfehlungsschreiben hin sagt eine selenische Wache: „Zinnenforst? davon gibt es doch noch jemanden" — Bedeutung unklar (offen); die Wachen tragen blaue Handgelenks-Tätowierungen.
+
+- [[Elquin Germersin]] verspricht (Session 45), eine Nachricht an den Zirkel weiterzugeben — an [[Pyrina]] und Schetzinek: „dass der Auftrag vollbracht ist und wenn sie den Stein sehen wollen, sollen sie Dorian und Halfred aus dem Gefängnis holen." (Welcher Stein gemeint ist, hält die Chronik hier nicht fest.)
