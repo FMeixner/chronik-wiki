@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–16 · in-world bis 15.5.997 LZ",
+  "coverage": "Sessions 01–26 · in-world bis 06.07.997 LZ",
   "pages": [
     {
       "path": "index",
@@ -118,8 +118,8 @@
       "path": "Personen/Dorean",
       "type": "person",
       "title": "Dorean",
-      "status": "lebendig (genesend)",
-      "kurz": "Adlischer Freigeist der Gruppe; überlebte den Sturz in die Felsspalte schwer verletzt; zahlkräftig und großzügig.",
+      "status": "lebendig",
+      "kurz": "Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden an einen Pakt.",
       "aliases": [
         "Dorian"
       ],
@@ -131,7 +131,9 @@
       "title": "Dornentann",
       "status": "lebendig",
       "kurz": "Gemütlicher Weinhändler und Reisegefährte ab Hof Hibbel.",
-      "aliases": [],
+      "aliases": [
+        "Jolas Dornentann"
+      ],
       "held": false
     },
     {
@@ -212,9 +214,11 @@
       "path": "Personen/Jadan",
       "type": "person",
       "title": "Jadan",
-      "status": "unbekannt",
-      "kurz": "Alchemist bei Sarnburg, laut Endrik kann er „das korrigieren“.",
-      "aliases": [],
+      "status": "lebendig",
+      "kurz": "Der Alchemist bei Sarnburg; heilte Siras Mal, erzählte die Finsterbann-Legende.",
+      "aliases": [
+        "Jardan"
+      ],
       "held": false
     },
     {
@@ -533,7 +537,7 @@
       "type": "ort",
       "title": "Sarnburg",
       "status": "bestehend",
-      "kurz": "Reiseziel der Gruppe; dort soll der Alchemist Jadan „das korrigieren“.",
+      "kurz": "Metropole (240.000) mit Mondtor und Portalgilde; Ausgangspunkt der Flucht zum Mondpfad.",
       "aliases": [],
       "held": false
     },
@@ -542,7 +546,7 @@
       "type": "ort",
       "title": "Südfang",
       "status": "bestehend",
-      "kurz": "Hauptsitz des 4. Hauses der Zirkel der Zinnen; Zwischenstation nach Sarnburg.",
+      "kurz": "Stadt (60.000) am Glühberg in Zirken; Hauptsitz des 4. Hauses der Zirkel der Zinnen.",
       "aliases": [],
       "held": false
     },
@@ -678,6 +682,326 @@
       "title": "Riesenhundertfüßer",
       "status": "bestehend (Revier in der Felsspalte)",
       "kurz": "Bis 8 Meter langer, giftiger Aasfresser mit Revier — Ursache von Doreans Sturz.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Aladia",
+      "type": "person",
+      "title": "Aladia",
+      "status": "lebendig",
+      "kurz": "Kreatur aus Blättern im Feenwald; Frage gegen Dienst — Aikyr lehnte ab.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Balina",
+      "type": "person",
+      "title": "Balina",
+      "status": "lebendig",
+      "kurz": "Schmiedin in Südfang (Balinas Reiterladen); kannte Siras Sippe.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Der Säulenheilige",
+      "type": "person",
+      "title": "Der Säulenheilige",
+      "status": "lebendig",
+      "kurz": "Weiser auf einer Säule in Sarnburg; sein Aufgang riecht modrig.",
+      "aliases": [
+        "Säulenheiliger",
+        "Der Weise von Sarnburg"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Galkor Alquan",
+      "type": "person",
+      "title": "Galkor Alquan",
+      "status": "lebendig",
+      "kurz": "Alb, führt die Grauen — „Der Herr Gunwar ruft euch zu sich“.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Gatta",
+      "type": "person",
+      "title": "Gatta",
+      "status": "lebendig (auf Reisen)",
+      "kurz": "Besitzerin des Pfandhauses Plunder; Tochter Zofars.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Gunubran",
+      "type": "person",
+      "title": "Gunubran",
+      "status": "lebendig",
+      "kurz": "Berühmter Yonnuspriester; vermittelte den Zugang zu Jadan.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/König des Waldes",
+      "type": "person",
+      "title": "König des Waldes",
+      "status": "lebendig",
+      "kurz": "Herr des Feenwaldes; sein Kristall-Angebot lehnte Paian ab.",
+      "aliases": [
+        "Herr des Waldes"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Lisana",
+      "type": "person",
+      "title": "Lisana",
+      "status": "lebendig",
+      "kurz": "Fee, Hüterin des Feenwaldes; gab Halfred das Eichenblatt.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Myro von der Felsenbucht",
+      "type": "person",
+      "title": "Myro von der Felsenbucht",
+      "status": "lebendig",
+      "kurz": "Gunwarpriester in Sarnburg; warnt vor Nachfrage nach Isenblut.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Perilax Köchelbart",
+      "type": "person",
+      "title": "Perilax Köchelbart",
+      "status": "tot (Session 21)",
+      "kurz": "Zwerg; diente Gatta, beschattete die Gruppe — durch Bolzen getötet.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Prinzessin von Zuyang",
+      "type": "person",
+      "title": "Prinzessin von Zuyang",
+      "status": "unbekannt",
+      "kurz": "Gerücht: weilt in Sarnburg.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Pyrina",
+      "type": "person",
+      "title": "Pyrina",
+      "status": "lebendig",
+      "kurz": "Doreans Schwester; Magierin auf Mission für den Zirkel der Zinnen.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Schlitzohr",
+      "type": "person",
+      "title": "Schlitzohr",
+      "status": "unbekannt (entkommen)",
+      "kurz": "Diebsjunge aus Sarnburg; Ohr an einen Pfahl genagelt, riss sich frei.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Blutgrasweite",
+      "type": "ort",
+      "title": "Blutgrasweite",
+      "status": "bestehend",
+      "kurz": "Weite Grasebene; dritter Splitter-Standort.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Catley",
+      "type": "ort",
+      "title": "Catley",
+      "status": "bestehend",
+      "kurz": "1.500 km von Sarnburg — Ziel des Weißen Tors.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Feenwald",
+      "type": "ort",
+      "title": "Feenwald",
+      "status": "bestehend",
+      "kurz": "Bunter Wald jenseits des Mondpfads; Lisana, König des Waldes, Aladia.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Feuertal",
+      "type": "ort",
+      "title": "Feuertal",
+      "status": "bestehend",
+      "kurz": "Reisestation zwischen Südfang und Sarnburg.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Flammensenke",
+      "type": "ort",
+      "title": "Flammensenke",
+      "status": "bestehend",
+      "kurz": "„Schmelztiegel der Welt“; zweiter Splitter-Standort.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Glimmwacht",
+      "type": "ort",
+      "title": "Glimmwacht",
+      "status": "bestehend",
+      "kurz": "Reisestation zwischen Südfang und Sarnburg.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Mondpfad",
+      "type": "ort",
+      "title": "Mondpfad",
+      "status": "bestehend",
+      "kurz": "Pfad zwischen den Welten; ewiges Dämmern, Sternenwolke.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Palitan",
+      "type": "ort",
+      "title": "Palitan",
+      "status": "bestehend",
+      "kurz": "Fremdartige Großstadt jenseits des Mondpfads; 30-m-Tor.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Wegkreuz",
+      "type": "ort",
+      "title": "Wegkreuz",
+      "status": "bestehend",
+      "kurz": "Reisestation zwischen Südfang und Sarnburg.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Zirken",
+      "type": "ort",
+      "title": "Zirken",
+      "status": "bestehend",
+      "kurz": "Vulkangebirge mit Erzminen; an seinem Fuß Südfang.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Eichenblatt",
+      "type": "artefakt",
+      "title": "Eichenblatt",
+      "status": "in Halfreds Besitz",
+      "kurz": "Lisanas Gabe: Kontakt zu jedem Wald — Preis: ein Stück Schicksal.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Feenwasser",
+      "type": "artefakt",
+      "title": "Feenwasser",
+      "status": "in Doreans Flasche",
+      "kurz": "Flüssigkeit aus Feenwald-Blüten; Dorean schmeckt seither nichts.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Geborstener Kristall",
+      "type": "artefakt",
+      "title": "Geborstener Kristall",
+      "status": "zersplittert (5 Teile)",
+      "kurz": "Kristall in 5 Splittern; Zusammensetzung setzt den Kreislauf wieder in Gang.",
+      "aliases": [
+        "Splitter",
+        "Die Splitter"
+      ],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Schwarzes Schwert",
+      "type": "artefakt",
+      "title": "Schwarzes Schwert",
+      "status": "in Doreans Besitz",
+      "kurz": "Aus Albträumen geschmiedetes Paktschwert.",
+      "aliases": [
+        "Schwert aus Albträumen"
+      ],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Fiura",
+      "type": "fraktion",
+      "title": "Fiura",
+      "status": "aktiv (Kult in Südfang)",
+      "kurz": "Lokale Gottheit des Feuers, des Schlafes und des Todes.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Gagamba",
+      "type": "fraktion",
+      "title": "Gagamba",
+      "status": "aktiv",
+      "kurz": "Göttin der Spinne in Palitan; webt Netz und Schicksal.",
+      "aliases": [
+        "Göttin der Spinne"
+      ],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Hūeng",
+      "type": "fraktion",
+      "title": "Hūeng",
+      "status": "aktiv",
+      "kurz": "Gott der Toten in Palitan; Tempel im Garten der Asche.",
+      "aliases": [
+        "Gott der Toten"
+      ],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Portalgilde",
+      "type": "fraktion",
+      "title": "Portalgilde",
+      "status": "aktiv",
+      "kurz": "Gilde der Mondtore: Sarnburg–Catley, Palitan.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Triaden",
+      "type": "fraktion",
+      "title": "Triaden",
+      "status": "aktiv",
+      "kurz": "Kriminelle Vereinigung in Palitan.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Kreaturen/Finsterbann",
+      "type": "kreatur",
+      "title": "Finsterbann",
+      "status": "tot (Legende)",
+      "kurz": "Uralter Drache; sein letzter Atemzug schenkte ihm die Fähigkeit zu sterben.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Kreaturen/Nadiavin",
+      "type": "kreatur",
+      "title": "Nadiavin",
+      "status": "bestehend (Wächter am blauen Berg)",
+      "kurz": "Kristalliner Wächter des Mondpfads — wacht, bis ER erwacht.",
       "aliases": [],
       "held": false
     }
