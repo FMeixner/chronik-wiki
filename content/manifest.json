@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–26 · in-world bis 06.07.997 LZ",
+  "coverage": "Sessions 01–36 · in-world bis 09.07.997 LZ",
   "pages": [
     {
       "path": "index",
@@ -118,8 +118,8 @@
       "path": "Personen/Dorean",
       "type": "person",
       "title": "Dorean",
-      "status": "lebendig",
-      "kurz": "Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden an einen Pakt.",
+      "status": "lebendig (nach Dolch-Attentat verwundet)",
+      "kurz": "Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden an einen Pakt; schuldet der dunklen Fee eine Seele.",
       "aliases": [
         "Dorian"
       ],
@@ -178,7 +178,7 @@
       "path": "Personen/Halfred",
       "type": "person",
       "title": "Halfred",
-      "status": "lebendig (genesend)",
+      "status": "lebendig",
       "kurz": "Jäger und Fährtensucher der Gruppe, trägt einen Dharst; überlebte Felslawine und Wildkatze mit gebrochenem Schenkel.",
       "aliases": [],
       "held": true
@@ -294,7 +294,7 @@
       "type": "person",
       "title": "Paian",
       "status": "lebendig",
-      "kurz": "Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll.",
+      "kurz": "Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll; trägt das gestohlene Herz der Gagamba.",
       "aliases": [],
       "held": true
     },
@@ -339,7 +339,7 @@
       "type": "person",
       "title": "Sira",
       "status": "lebendig",
-      "kurz": "Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch.",
+      "kurz": "Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch; überlebte den Biss des Kopfwesens.",
       "aliases": [],
       "held": true
     },
@@ -670,7 +670,7 @@
       "type": "fraktion",
       "title": "Zirkel der Zinnen",
       "status": "aktiv",
-      "kurz": "Mächtiger Magierzirkel mit dem Symbol des fünfzackigen Sterns.",
+      "kurz": "Mächtiger Magierzirkel mit dem Symbol des fünfzackigen Sterns; sucht das Herz der Gagamba.",
       "aliases": [
         "Magierzirkel mit fünfzackigem Stern"
       ],
@@ -785,7 +785,7 @@
       "type": "person",
       "title": "Prinzessin von Zuyang",
       "status": "unbekannt",
-      "kurz": "Gerücht: weilt in Sarnburg.",
+      "kurz": "Gerücht im Roten Lied: eine Prinzessin von Zuyang weilt in Sarnburg — Abgrenzung zu Prinzessin Yi.",
       "aliases": [],
       "held": false
     },
@@ -794,7 +794,7 @@
       "type": "person",
       "title": "Pyrina",
       "status": "lebendig",
-      "kurz": "Doreans Schwester; Magierin auf Mission für den Zirkel der Zinnen.",
+      "kurz": "Doreans Schwester; arrogante Magierin, auf Mission für den Zirkel der Zinnen — kennt Esmoda und Totenerz.",
       "aliases": [],
       "held": false
     },
@@ -848,7 +848,7 @@
       "type": "ort",
       "title": "Flammensenke",
       "status": "bestehend",
-      "kurz": "„Schmelztiegel der Welt“; zweiter Splitter-Standort.",
+      "kurz": "„Schmelztiegel der Welt“ — zweiter Splitter-Standort; Heimat der Feuerläufer.",
       "aliases": [],
       "held": false
     },
@@ -875,7 +875,7 @@
       "type": "ort",
       "title": "Palitan",
       "status": "bestehend",
-      "kurz": "Fremdartige Großstadt jenseits des Mondpfads; 30-m-Tor.",
+      "kurz": "Fremdartige Großstadt jenseits des Mondpfads; Machtzentrum Shushangs mit drei Mächten — und einem Tempel, dessen Herz die Gruppe stahl.",
       "aliases": [],
       "held": false
     },
@@ -932,7 +932,7 @@
       "type": "artefakt",
       "title": "Schwarzes Schwert",
       "status": "in Doreans Besitz",
-      "kurz": "Aus Albträumen geschmiedetes Paktschwert.",
+      "kurz": "Aus Albträumen geschmiedetes Paktschwert aus Totenerz; die erste Seele ist der dunklen Fee geschuldet.",
       "aliases": [
         "Schwert aus Albträumen"
       ],
@@ -952,7 +952,7 @@
       "type": "fraktion",
       "title": "Gagamba",
       "status": "aktiv",
-      "kurz": "Göttin der Spinne in Palitan; webt Netz und Schicksal.",
+      "kurz": "Göttin der Spinne in Palitan, oberste Göttin der Triaden — ihr Herz wurde der Gruppe gestohlen.",
       "aliases": [
         "Göttin der Spinne"
       ],
@@ -963,7 +963,7 @@
       "type": "fraktion",
       "title": "Hūeng",
       "status": "aktiv",
-      "kurz": "Gott der Toten in Palitan; Tempel im Garten der Asche.",
+      "kurz": "Gott der Toten in Palitan; Tempel im Garten der Asche — vermuteter Gegenspieler der Spinne.",
       "aliases": [
         "Gott der Toten"
       ],
@@ -974,7 +974,7 @@
       "type": "fraktion",
       "title": "Portalgilde",
       "status": "aktiv",
-      "kurz": "Gilde der Mondtore: Sarnburg–Catley, Palitan.",
+      "kurz": "Gilde der Mondtore: Sarnburg–Catley, Palitan — die Flucht der Gruppe ging durchs Palitaner Portal.",
       "aliases": [],
       "held": false
     },
@@ -983,7 +983,7 @@
       "type": "fraktion",
       "title": "Triaden",
       "status": "aktiv",
-      "kurz": "Kriminelle Vereinigung in Palitan.",
+      "kurz": "Dritte Macht in Shushang; kriminelle Vereinigung in Palitan — Gagamba ist ihre oberste Göttin.",
       "aliases": [],
       "held": false
     },
@@ -1003,6 +1003,333 @@
       "status": "bestehend (Wächter am blauen Berg)",
       "kurz": "Kristalliner Wächter des Mondpfads — wacht, bis ER erwacht.",
       "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Irimbald Schätzineg",
+      "type": "person",
+      "title": "Irimbald Schätzineg",
+      "status": "lebendig",
+      "kurz": "Magister des 1. Hauses des Zirkels der Zinnen; sucht in Palitan das Herz der Gagamba.",
+      "aliases": [
+        "Schätzineg"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Xing Tai",
+      "type": "person",
+      "title": "Xing Tai",
+      "status": "lebendig",
+      "kurz": "Tempelvorsteher des Gagamba-Tempels; erzählte Dorean von der Geschichte des Herzens.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Mao Tai",
+      "type": "person",
+      "title": "Mao Tai",
+      "status": "unbekannt (seit dem Kopfwesen-Zwischenfall nicht mehr gesehen)",
+      "kurz": "Alb aus dem Einwohnermeldeamt; in seinem Weinkeller hauste das Kopfwesen.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Pao Xun",
+      "type": "person",
+      "title": "Pao Xun",
+      "status": "lebendig",
+      "kurz": "Fährmann zur Überfahrt ins Maskenzugviertel von Palitan.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Wilbolt Luchador",
+      "type": "person",
+      "title": "Wilbolt Luchador",
+      "status": "lebendig",
+      "kurz": "Wirt des „Schwarzen Keilers“ im Hirschviertel von Palitan; Holzbein.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Zuh Tai",
+      "type": "person",
+      "title": "Zuh Tai",
+      "status": "unbekannt",
+      "kurz": "Hüne aus Palitan; Sira schwatzte ihm seine gelbe Seidenrobe ab.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Futu und Gerablong",
+      "type": "person",
+      "title": "Futu und Gerablong",
+      "status": "lebendig",
+      "kurz": "Zwei Zwerge, die in Palitan arbeiten; erzählten von den Feuerläufern.",
+      "aliases": [
+        "Futu",
+        "Gerablong"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Meimai",
+      "type": "person",
+      "title": "Meimai",
+      "status": "lebendig",
+      "kurz": "Wortführerin des Händlerrats von Palitan; gegen die Abmachungen mit den Triaden.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Prinzessin Yi",
+      "type": "person",
+      "title": "Prinzessin Yi",
+      "status": "in Sicherheit gebracht (Zentatau)",
+      "kurz": "Tochter der Kaiserin — wurde in Zentatau im fernen Aiun in Sicherheit gebracht.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Der Mandarin",
+      "type": "person",
+      "title": "Der Mandarin",
+      "status": "Geist (Beamter-Geist im Archiv aktiv)",
+      "kurz": "Strenger Beamten-Geist; half der Gruppe beim Archiv-Einbruch und bei der Suche nach der dritten Jadefigur.",
+      "aliases": [
+        "Mandarin",
+        "Mandarin-Geist"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Der alte Mann mit traurigen Augen",
+      "type": "person",
+      "title": "Der alte Mann mit traurigen Augen",
+      "status": "unbekannt",
+      "kurz": "Sah die Gruppe beim Tempeldiebstahl; tauchte vor dem Portal erneut in der Menge auf.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Die schwarzgewandete Frau",
+      "type": "person",
+      "title": "Die schwarzgewandete Frau",
+      "status": "unbekannt (entkommen)",
+      "kurz": "Attentäterin mit leerem Gesichtsausdruck; stach auf der Portalinsel auf Dorean ein.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Enhard Treublatt",
+      "type": "person",
+      "title": "Enhard Treublatt",
+      "status": "lebendig",
+      "kurz": "Karawane auf dem Feenpfad — Erze und Stoffe; 10 Wagen, 8 Reiter, etwa 20 Personen zu Fuß.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Taloran Ladrao",
+      "type": "person",
+      "title": "Taloran Ladrao",
+      "status": "lebendig",
+      "kurz": "Pfadwächter („Auge des Pfades“); macht Sira schöne Augen.",
+      "aliases": [
+        "Ladrao"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Jelinde",
+      "type": "person",
+      "title": "Jelinde",
+      "status": "lebendig",
+      "kurz": "Anführerin des Trecks auf dem Feenpfad; aus Brackenmühl an der Kastanienquelle.",
+      "aliases": [
+        "Jelinde aus Brackenmühl an der Kastanienquelle"
+      ],
+      "held": false
+    },
+    {
+      "path": "Personen/Bodam",
+      "type": "person",
+      "title": "Bodam",
+      "status": "lebendig",
+      "kurz": "Führer des letzten Wagens; hält Gnome allesamt für kriminell.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Personen/Falk Bald",
+      "type": "person",
+      "title": "Falk Bald",
+      "status": "lebendig",
+      "kurz": "Grimmiger älterer Wachmann der Karawane; warnt vor „Tenkuri“.",
+      "aliases": [
+        "Falkbald"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Esmoda",
+      "type": "ort",
+      "title": "Esmoda",
+      "status": "nur dem Namen nach bekannt",
+      "kurz": "Stadt, mit der das Material von Doreans Schwert in Verbindung gebracht wird: Totenerz.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Zentatau",
+      "type": "ort",
+      "title": "Zentatau",
+      "status": "bestehend",
+      "kurz": "Ort im fernen Aiun; dorthin wurde Prinzessin Yi in Sicherheit gebracht.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Feenpfad",
+      "type": "ort",
+      "title": "Feenpfad",
+      "status": "bestehend",
+      "kurz": "Pfad jenseits des Palitaner Portals: pulsierende Steine, grüne Wälder und Auen — Heimat der Pfadwächter.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Orte/Brackenmühl an der Kastanienquelle",
+      "type": "ort",
+      "title": "Brackenmühl an der Kastanienquelle",
+      "status": "bestehend",
+      "kurz": "Heimat Jelindes, der Anführerin des Trecks auf dem Feenpfad.",
+      "aliases": [
+        "Brackenmühl"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Katakomben unter Palitan",
+      "type": "ort",
+      "title": "Katakomben unter Palitan",
+      "status": "bestehend (ungenutzt, Spinnenwesen-Brut)",
+      "kurz": "Geheimes Gangsystem unter Palitan: Leichenraum, Spinnenhöhlen, eine Stele — unter dem Gagamba-Tempel gegraben.",
+      "aliases": [
+        "Katakomben",
+        "Spinnenhöhle"
+      ],
+      "held": false
+    },
+    {
+      "path": "Orte/Kaiserliches Archiv (Palitan)",
+      "type": "ort",
+      "title": "Kaiserliches Archiv (Palitan)",
+      "status": "bestehend",
+      "kurz": "Palitans zentrale Schriftrollen-Insel; Geister fehlerhafter Beamter zetern — Quelle der Katakomben-Karte.",
+      "aliases": [
+        "Kaiserliches Archiv",
+        "Archiv von Palitan"
+      ],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Herz der Gagamba",
+      "type": "artefakt",
+      "title": "Herz der Gagamba",
+      "status": "in Paians Besitz (gestohlen)",
+      "kurz": "Schwarzer Kristall aus dem Gagamba-Tempel: schaffende und zerstörende arkane Strukturen — vom Zirkel gesucht, von Paian gestohlen.",
+      "aliases": [
+        "Kristall",
+        "das Herz"
+      ],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Die drei Jadefiguren",
+      "type": "artefakt",
+      "title": "Die drei Jadefiguren",
+      "status": "im Besitz der Gruppe (in der Stele versenkt)",
+      "kurz": "Jade-Spinne, Phönix und Affe aus den Katakomben — Schlüssel zur Steinstele unter Palitan.",
+      "aliases": [
+        "Jadefiguren",
+        "Jade-Spinne",
+        "Jadeaffe"
+      ],
+      "held": false
+    },
+    {
+      "path": "Artefakte/Totenerz",
+      "type": "artefakt",
+      "title": "Totenerz",
+      "status": "Material (Vorkommen: Esmoda)",
+      "kurz": "Sehr schwer zu bearbeitendes Material, aus dem normalerweise nur Rüstungen entstehen — Doreans Schwert besteht daraus.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Phönixgeist",
+      "type": "fraktion",
+      "title": "Phönixgeist",
+      "status": "aktiv",
+      "kurz": "Gott des Kreislaufs des Lebens in Palitan: Wiedergeburt nach dem Halten der Gebote — Bambus-Weisheit.",
+      "aliases": [
+        "Gott des Kreislaufs des Lebens"
+      ],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Gilde der Pfadwächter",
+      "type": "fraktion",
+      "title": "Gilde der Pfadwächter",
+      "status": "aktiv",
+      "kurz": "Gilde auf dem Feenpfad; wacht über den Pfad — ihr „Auge des Pfades“ reitet mit der Karawane.",
+      "aliases": [
+        "Pfadwächter"
+      ],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Händlerrat",
+      "type": "fraktion",
+      "title": "Händlerrat",
+      "status": "aktiv",
+      "kurz": "Rat der Händler von Palitan; Wortführerin ist Meimai.",
+      "aliases": [
+        "Händlerrat von Palitan"
+      ],
+      "held": false
+    },
+    {
+      "path": "Fraktionen/Feuerläufer",
+      "type": "fraktion",
+      "title": "Feuerläufer",
+      "status": "bestehend (nomadisch)",
+      "kurz": "Dunkelhäutige Nomaden, die laut Futu und Gerablong in der Flammensenke leben.",
+      "aliases": [],
+      "held": false
+    },
+    {
+      "path": "Kreaturen/Spinnenwesen",
+      "type": "kreatur",
+      "title": "Spinnenwesen",
+      "status": "bestehend (Katakomben unter Palitan)",
+      "kurz": "Spinnenartige Kreaturen mit menschenartigen Gesichtern — Wandlöcher, Giftstacheln, Brutkammer.",
+      "aliases": [
+        "spinnenartige Kreaturen"
+      ],
+      "held": false
+    },
+    {
+      "path": "Kreaturen/Kopfwesen",
+      "type": "kreatur",
+      "title": "Kopfwesen",
+      "status": "tot (Session 27)",
+      "kurz": "Schwebender Kopf mit herabhängenden Eingeweiden — hauste in Mao Tais Weinkeller; von Dorean getötet.",
+      "aliases": [
+        "schwebender Kopf"
+      ],
       "held": false
     }
   ]

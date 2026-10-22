@@ -188,3 +188,73 @@ Format-Hinweis: Dieses Format ist parsebar und Grundlage für die automatische R
 - Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Pyrina]]
 - Ereignis: Wolfskampf: [[Sira]] wird niedergeworfen; ihr Zauber entgleitet — „ein Ruck durch die Welt“, die Farben verschwinden (außer dem roten Glühen in den Augen der Wesen); [[Paian]]s Gebet: „Gunwar wirkt hier ferner von ihm als je“ — doch „Gunwar hilft denen die sich selber helfen“; Halfred lenkt ab, Dorean versetzt den finalen Hieb, Aikyr nimmt den anderen Wolf in den Schwitzkasten — eine leuchtende Klinge stößt von hinten durch dessen Rachen (wem sie gehört: unklar). Paian erinnert sich an Erzählungen seines Paters zum „Grauen Schleier“ (entsteht, wenn viel Magie an einem Ort gewirkt wird oder an sehr magischen Orten ein Zauber misslingt; Geschichten von sterbenden Kleinstlebewesen und entvölkerten Landstrichen). Durch das Wabern auf dem Plateau — Ankunft in [[Palitan]] (05.07.997), hinter der Gruppe ein ~30 m hohes bläuliches Tor; etwa 7 Tage Pfadreise. Bürgerkrieg in Zuyang (Kaiserin Yin gefallen — obwohl Dorian sie in [[Sarnburg]] vermutete; General Wu am Gewinnen (?)); [[Portalgilde]]: Öffnung in 8 Tagen, 5–8 Tage Reise, ca. 10 Tage offen; Karawane Richtung [[Flammensenke]] im Viertel „Drachenbauch“; Taverne „Schildkröte im Bambushain“ (Ente, Sake, Badehaus; 15 Lunare all in all). Siras Traum: Wiege, dicke kleine Hände, zwei Alben, traurige Eltern, die rückwärts aus dem immer dunkler werdenden Raum gehen. Paian auf dem Weg zum [[Hūeng]]-Tempel (Straßen der Wunder); Dorean: Familiengilden-Konto vor ca. 4 Monden von seiner Schwester persönlich leergeräumt; Sira, Halfred, Aikyr in den Hallen der [[Gagamba]]. Cliffhanger: Hinter [[Dorean]] fällt sein Name — er dreht sich um und steht vor seinen Schwestern, darunter [[Pyrina]] (arrogante Magierin, auf Mission für den [[Zirkel der Zinnen]]).
 - Quelle: Chronik, Einträge vom 17.11.2023 und 18.11.2023
+
+## Session 27 - (ohne Titel in der Chronik)
+- Datum (in-world): 06.07.997 LZ bis 08.07.997 LZ
+- Orte: [[Palitan]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Pyrina]], [[Irimbald Schätzineg]], [[Xing Tai]], [[Mao Tai]], [[Pao Xun]]
+- Ereignis: Gespräch mit [[Pyrina]]: [[Dorean]] erzählt ihr in Stücken die Geschichte der Gruppe; sie fragt nach der Stadt [[Esmoda]] — das Material seines Schwertes sei [[Totenerz]]; Abendessen im „Lothus im Mondenschein" verabredet. [[Irimbald Schätzineg]] (Magister des 1. Hauses des [[Zirkel der Zinnen]]) sucht einen seit Monaten aktiven Gegenstand „von schaffender und zerstörender Natur" — das [[Herz der Gagamba]] im [[Gagamba]]-Tempel; die [[Triaden]] seien die dritte Macht in Shushang; geheime Tunnel unter der Stadt, Eingänge oft an den Inselmauern. Überfahrt ins Maskenzugviertel (50 Telare, Waffenabgabe, Fährmann [[Pao Xun]]). [[Paian]] im [[Phönixgeist]]-Tempel (Bambus-Weisheit, rotes Seidenband). Unter den Leuten: [[Prinzessin Yi]] in [[Zentatau]] in Sicherheit; [[Meimai]] gegen Abmachungen mit den Triaden; die Zwerge [[Futu und Gerablong]]; [[Feuerläufer]] in der [[Flammensenke]]. Auftritt von [[Sira]] und [[Aikyr]]: „Lichterspiel Ross und Rabe" — 10 Lunare und 230 Telare. Paians Alptraum (Kerker, Pater-Stimme). 07.07.: Umzug ins Hirschviertel; Zolltor („Zinnenforst? davon gibt es doch noch jemanden"; blaue Handgelenks-Tätowierungen); Taverne „Schwarzer Keiler" ([[Wilbolt Luchador]]); anonymes Säckel mit Lunaren, grünem Steinschlüssel und Brief (Zugang zu Stadtkarten im Archiv); [[Kaiserliches Archiv (Palitan)|Archiv]]-Besuch (zeternde Beamtengeister, Katakomben-Karte abgezeichnet); Tempelvorsteher [[Xing Tai]] über das Herz; nächtlicher Archiv-Einbruch ([[Der Mandarin|Mandarin-Geist]] hilft, gefaltete Karte: zwei Gänge zum Tempel); Halfreds Alptraum. 08.07.: Kaimauer-Eingang ist glatte Wand; Dorian bucht Mondtor-Passage; [[Sira]] folgt [[Mao Tai]] — das [[Kopfwesen]] beißt sie, sie wird bewusstlos; [[Dorean]] zieht das [[Schwarzes Schwert|Schwarze Schwert]] — erste Pakt-Erfüllung: eine Seele (keine seiner Freunde); in Siras Traum beschimpft [[Letasch]] sie, Paian geleitet sie als Licht zurück. +8 EP = 94 EP.
+- Quelle: Chronik, Eintrag vom 18.11.2023
+
+## Session 28 - In die Katakomben
+- Datum (in-world): 08.07.997 LZ (fortlaufend)
+- Orte: [[Palitan]], [[Katakomben unter Palitan]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Mao Tai]]
+- Ereignis: Nach dem Kopfwesen-Zwischenfall: [[Paian]] ersteht 3 Heiltränke im [[Hūeng]]-Tempel (60 Lunare; der Priester rät zum Tiger-/Spinnengeist-Tempel). Abstieg durch [[Mao Tai]]s Weinkeller: Schritte und Schleifspuren im Staub, Holztür mit Kratzspuren und zwei abgebrochenen Fingernägeln; Leichenraum mit Gestank, gestapelten Leichen und Körperteilen — [[Aikyr]] erbricht sich, [[Halfred]] bleibt draußen. Fallgrube mit Speeren: Aikyr und [[Dorean]] stürzen — gerettet durch eine Brücke aus gleißendem Licht („sein Herr hat ihn erhöht"); Symboltür; kreisrunder Raum mit Brackwasser, Wandlöchern und weißem Klebrigem (Netze „einer größeren Spinnenart"). „dinge passieren + 2 ep 98 EP".
+- Quelle: Chronik, Eintrag vom 19.11.2023
+
+## Session 29 - Spinnenhöhle
+- Datum (in-world): fortlaufend nach dem 08.07.997 LZ (keine explizite Angabe)
+- Orte: [[Katakomben unter Palitan]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]]
+- Ereignis: Geschossfalle — [[Sira]] wird schwer getroffen; beim Patzer der Selbstheilung fühlt sie sich „wieder in den Klauen des schwebenden Kopfes" und stürzt bewusstlos. Erste Blicke auf [[Spinnenwesen]]: spinnenartige Kreaturen mit menschenartigen Gesichtern, die sich in Wandlöcher zurückziehen. Kuppelraum mit vier Säulen (drei zertrümmert). [[Halfred]] findet die erste [[Die drei Jadefiguren|Jadefigur]]: eine archaische Spinne mit rundem Leib — Paian erkennt einen alten, unvollständigen Zauber darin. +2 EP = 100 EP.
+- Quelle: Chronik, Eintrag vom 21.11.2023
+
+## Session 30 - Die 3 Figuren
+- Datum (in-world): fortlaufend (keine explizite Angabe)
+- Orte: [[Katakomben unter Palitan]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]]
+- Ereignis: Tür nahezu geräuschlos geöffnet (Pins aus den Scharnieren — Aikyr). Langer Gang: grünlich glimmende Flechten (sterben bei Berührung), eingemeißelte Muster; hüfthohe Steinstele, auf die die Muster zulaufen — drei kreisrunde Einbuchtungen (die Jade-Spinne passt); silbrig-klebriger Tropfen aus einem gähnenden Loch in der Decke auf Paians Hand. Rücksuche: [[Halfred]] findet eine vogelartige Jadestatue in einem Hohlraum — Paian erkennt den Phönixgeist des [[Hūeng]]. Die vierte Säule des Kuppelraums bricht plötzlich zusammen, alle kommen gerade noch rechtzeitig raus. Im Leichenraum sieht Paian hunderte Schemen („als gäbe es hier ein Tor in die Geisterwelt") und erinnert sich an Poltergeister-Geschichten. Dorian wühlt in Unterwäsche im blutigen Morast.
+- Quelle: Chronik, Eintrag vom 28.11.2023
+
+## Session 31 - Der Jadeaffe
+- Datum (in-world): fortlaufend (keine explizite Angabe)
+- Orte: [[Katakomben unter Palitan]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Der Mandarin]]
+- Ereignis: Paian ruft den [[Der Mandarin|Mandarin-Geist]]: zornig (von seinen Steuerbüchern weggeholt), will mit keinem Geist sprechen — spürt aber die gesuchte Statuette im Leichenraum; die Energie ist im Süden stärker. Die Gruppe trägt Leiche um Leiche in den Vorraum; unter hohl klingendem Stein zieht [[Halfred]] die verkrustete dritte [[Die drei Jadefiguren|Jadefigur]] aus dem Morast: ein Affe, menschenartig mit langen haarigen Armen. [[Paian]] spricht für jede Leiche ein kurzes Gebet, verfällt beinahe in eine Trance — eine Flamme von seinen Fingerspitzen überzieht die Körper, sie zerfallen zu Asche. +4 EP = 104 EP.
+- Quelle: Chronik, Eintrag vom 12.12.2023
+
+## Session 32 - Endlich unter dem Tempel?
+- Datum (in-world): fortlaufend (keine explizite Angabe)
+- Orte: [[Palitan]], [[Katakomben unter Palitan]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Zuh Tai]]
+- Ereignis: Rast oben — Paian mahnt, an die Flucht zu denken und nicht „in blutigen Fetzen am Feentor" aufzutauchen. [[Sira]] schwatzt dem Hünen [[Zuh Tai]] die gelbe Seidenrobe ab; [[Halfred]] findet mottenzerfressene Kleidung im ersten Stock. Die drei Statuetten in der Stele glühen grünlich — die Steintür schiebt sich zur Seite: Treppe mit fingerdicken Spinnenseidenfäden, Holztür fällt aus den Angeln. Nordraum: [[Aikyr]] findet einen grünen Jadetalisman (wie die Archiv-Beamten), [[Halfred]] einen goldenen Ring mit tiefschwarzem Stein (magisch, Unbekanntes). Im Südraum hört Sira auf Aikyrs Schultern Pochen über sich, möglicherweise Schritte.
+- Quelle: Chronik, Eintrag vom 18.12.2023
+
+## Session 33 - (ohne Titel in der Chronik)
+- Datum (in-world): fortlaufend (keine explizite Angabe)
+- Orte: [[Katakomben unter Palitan]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]]
+- Ereignis: Aikyr rammmt die spinnwebenverhangene Treppe mit einer alten Tür; [[Halfred]] schießt reflexartig auf ein [[Spinnenwesen]] und trifft (es entkommt rasselnd, fauchend). Erdreich-Raum: Aikyr wird von spitzen Stacheln in den Nacken getroffen — Gift, „fängt vor dem Mund an zu schäumen", sehr geschwächt; plötzlich stehen fünf der spinnenartigen Kreaturen da, die „aus Myriaden Augen" anstarren. Paian merkt an: Die Gruppe ist nicht mehr unter dem Tempel, sondern eher nach Norden gekommen. +4 EP = 108 EP.
+- Quelle: Chronik, Eintrag vom 09.01.2024
+
+## Session 34 - (ohne Titel in der Chronik)
+- Datum (in-world): fortlaufend (keine explizite Angabe)
+- Orte: [[Katakomben unter Palitan]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]]
+- Ereignis: Paians innere Stimmen: eine vertraute Stimme (vielleicht sein Pater) und eine zornige in einer fremden Sprache; Vision einer geheimen Tür direkt unter der Gagamba-Statue; „ein Gefühl des Verlangens … als wäre es nicht ein Gefühl von ihm selbst"; die vertraute Stimme: „...und den ernsten Männern – blind schon – wächst Verdacht." Rückzug — die Wesen folgen in zwei Metern Abstand ([[Dorean]] Nachhut); [[Halfred]] steckt sich frischen, reichen Humus in die Tasche; Aikyr reißt einen Balken ab, die Wand bricht: dahinter der Brutraum (pulsierende weiße „Dinger", Maden). Rückzug zur Treppe; im Südost-Raum ist der Mörtel brüchig, und Sira hört an der Decke eine Melodie wie ein Glockenspiel. +6 EP = 114 EP.
+- Quelle: Chronik, Eintrag vom 16.01.2024
+
+## Session 35 - Diebstahl und Flucht
+- Datum (in-world): fortlaufend (keine explizite Angabe)
+- Orte: [[Katakomben unter Palitan]], [[Palitan]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]]
+- Ereignis: [[Sira]] und [[Halfred]] lösen Steine aus der Decke, graben sich hoch — alabasterne Bodenplatte — und stehen im [[Gagamba]]-Tempel: riesige, säulengesäumte Halle, enorme Statue mit vielen Armen, ein schwarzer Stein, „der das Licht verschlucken zu scheint". [[Paian]] betet zu Gagamba und nimmt das [[Herz der Gagamba]] an sich: geisterhafter Schemen, Schmerz. Rückweg: Sira sieht einen [[Der alte Mann mit traurigen Augen|alten Mann mit traurigen Augen]], die Glieder werden schwer, Stimmen schimpfen: „Diebe" — „Klingen in der Nacht werden euch heimsuchen". Auf der Portalinsel rammt die [[Die schwarzgewandete Frau|schwarzgewandete Frau]] [[Dorean]] einen Dolch in die Seite (Paians Tackle scheitert); die Gruppe trifft die Geleitschutz-Gruppe und fährt durchs Portal — Dorian sieht in der Menge den alten Mann. +10 EP = 124 EP.
+- Quelle: Chronik, Eintrag vom 20.02.2024
+
+## Session 36 - Auf dem Mondpfad
+- Datum (in-world): 09.07.997 LZ
+- Orte: [[Feenpfad]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Enhard Treublatt]], [[Taloran Ladrao]], [[Jelinde]], [[Bodam]], [[Falk Bald]]
+- Ereignis: Ein „Plopp" — die Gruppe steht (laut Überschrift „auf dem Mondpfad", laut Text auf dem Feenpfad) auf dem [[Feenpfad]]: leuchtend pulsierende Steine auf breiter Straße, grüne Wälder und Auen, am Horizont nebelverhangene Gebirge. Sie schließen sich der Karawane des [[Enhard Treublatt]] an (Erze und Stoffe; 10 Wagen, 8 Reiter, etwa 20 zu Fuß) — [[Taloran Ladrao]] („Auge des Pfades") weist [[Halfred]] streng zurecht, Anführerin ist [[Jelinde aus Brackenmühl an der Kastanienquelle]] (die 6-tägige Reise in 4 Tagen). Paians Traum: Freunde müde und gealtert, bullige Kreaturen in alten Lederrüstungen — [[Dorean]] sticht mit zufriedenem Lächeln sein schwarzes Schwert durch Halfreds Rücken; Paian wacht panisch auf, das Herz der Gagamba „leuchtet jetzt angenehm". Gespräch mit [[Bodam]] („Gnome allesamt kriminell"); Wache am letzten Wagen mit [[Falk Bald]], der vor „Tenkuri, ?" warnt; Sira spielt das Lied der Wacht; Dorian geht Falk Bald „mit obskuren Tatsachen auf den Sack".
+- Quelle: Chronik, Eintrag vom 27.02.2024
