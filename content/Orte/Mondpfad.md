@@ -3,7 +3,7 @@ type: ort
 title: Mondpfad
 aliases: []
 status: bestehend
-kurz: Pfad zwischen den Welten: ewiges Dämmern, Sternenwolke, kristallener Boden — nach Palitan etwa 7 Tage.
+kurz: Pfad zwischen den Welten: ewiges Dämmern, Sternenwolke, kristallener Boden — nach Palitan etwa 7 Tage; offizielle Portalverbindung Palitan–Sarnburg.
 ---
 # Mondpfad
 
@@ -16,3 +16,8 @@ kurz: Pfad zwischen den Welten: ewiges Dämmern, Sternenwolke, kristallener Bode
 - Ausgang nach [[Palitan]]: ein Wabern wie ein Vorhang im Wind auf dem Plateau hinter der Kristalltreppe (Session 26).
 - Vgl. [[Jadan]] (Session 18): „Catley-Aldentrutz (Schwarzes Tor) Mondpfad, der umkämpfte Pfad."
 - Abgrenzung (Session 36): Nach dem Portal von Palitan hört die Gruppe ein „Plopp" und steht auf dem [[Feenpfad]] — die Chronik-Überschrift jener Passage lautet zwar „Auf dem Mondpfad", der Text aber „Auf dem Feenpfad".
+
+## Offizielle Bedeutung und Spieler-Klarstellung (2026)
+
+- Offizielle Geografie (Splitterwiki: Palitan): Palitan ist eine Portalstadt — „Über einen Mondpfad führt die Seidenstraße nach Sarnburg." Der Mondpfad ist also die offizielle Portalverbindung zwischen dem fernen Osten (Zhoujiang) und Sarnburg; der Reiseatlas bildet sie als gestrichelte Fernverbindung (keine maßstäbliche Landroute).
+- Spieler-Klarstellung (23.10.2026): Die Gruppe „purzelte" in [[Sarnburg]] durch ein flackerndes Portal (chronikalisch: die Mondtor-Flucht, Session 21) auf den Mondpfad und wurde so nach [[Palitan]] getragen — das Weitläufige der Verbindung bestätigt den Eindruck einer Reise „ans andere Ende der Welt".

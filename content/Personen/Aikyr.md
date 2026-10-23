@@ -3,7 +3,7 @@ type: person
 title: Aikyr
 aliases: [Aikir, Aykir]
 status: lebendig
-kurz: Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf; lernt Lichtmagie bei Sira — seit dem Seenland: Rage und Leuchten aus den Fäusten; trägt die Kriegspeitsche.
+kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt.
 ---
 # Aikyr
 
@@ -60,3 +60,16 @@ kurz: Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf; 
 - Löst am Höhlenskelett die Metallwicklung — „eine Art Peitsche aus Metall und Kettengliedern“ (→ [[Die Kriegspeitsche]], Session 64); fängt den von Halfred herabgeworfenen Kristall (Session 65).
 - Improvisiert mit Halfred in „langer, nervenzerreibender Arbeit“ eine Handaxt für den Floßbau (Session 65); wird im Kampf vom [[Troll]] gewürgt (Session 65); schleift mit Sommertochter [sic] die Trollleiche aus der Höhle (Session 66).
 - Schnitzt Paian ein Grabdenkmal (Session 66).
+
+## Sessions 67–76: Handschuh des Glücks — Seeschlangenleder und Verkostung
+
+- Sommertochter-Rettung (Session 67): matscht Sommertochter und Donnerhuf ein und lenkt die panische Stute, damit sie nicht in den Sumpf galoppiert („Patzer 1 1 2 3“) — „Aikyr nahezu panisch“; mit einem Lianenseil ziehen alle zusammen Sommertochter aus dem Morast.
+- Donnerhuf-Suche (Session 68): „Aikyrs sensible Nase“ verfolgt die Fährte; er fragt den Wind via Feenblatt — Antwort nur „Tod tod tod!“.
+- Altreu-Kampf (Session 69): stürmt auf einen der Schützen zu — „aus vollem Sprint einen Ellenbogen ins Gesicht“; schleppt den Bewusstlosen zurück und versucht den ausgerenkten Kiefer zu richten (… „fügt ihm dabei aber so viel Spermzen [sic] zu, dass er wieder ohnmächtig wird“).
+- Olmen-Mord (Session 71): „wirft sich auf Dorian entgegen, umschlingt ihn mit seinen Pranken und hält ihn in einem eisernen Griff“; verpackt das Schwarze Schwert „dick in Schlafsäcke“ und verschnürzt es fest.
+- Nebelkreaturen (Session 72): zieht ein Wesen mit seiner Peitsche von Halfred weg; „Mit letzter Kraft rammt aikyr den letzten der Wesen um“; packt den bewusstlosen Halfred auf [[Sommertochter]].
+- Feenmarkt (Session 73): Blumenkranz für [[Dara]]; wählt den „perfekten handschuh des glücks“ (für einen Menschentag außergewöhnliches Glück; Preis: zwei Menschentage außergewöhnliches Pech in den nächsten Jahren); kauft das Wassergetränk der Meer-Fee und die Kiste mit der immer wiederkehrenden Münze (darin 1 Solar) — zahlt mit der Gürtelschnalle vom Skelett der Feenwelt (das er in [[Feenwald]] gefunden hatte); Danius’ Barbierboot lässt ihn lachen (siehe Halfreds Wasserfläschchen).
+- Joka-Pakt (Session 73): macht mit [[Paian]] aus, „wenn ‚alles vorbei‘ ist“ nach Lamera zu reisen, um den Joka-Baum niederzubrennen.
+- Mondlabyrinth (Session 74): folgt „den gerüchen von paian, sira und dem meer“, dann dem Geruch von Gischt und Salz; im Altarraum erzählt er die Legende seiner Vorfahren (Vaigar) vom Fall des Splittermondes: „die welt erst endet, wenn alle drei Monde gefallen sind“ — die kommende Konstellation „erinnert“ daran (Chronik bricht hier ab).
+- Ausrüstung (Session 75): geschupptes Seeschlangenleder (schwere Fellrüstung HQ5, erhöhte Schadensreduktion, stabil, bequem, Kälteresistenz; „herr der bestien“) von [[Taldor Eisenhand]].
+- Verkostung (Session 76): in der Brauereigilde mit Paian; „ewig Dunkles“ — „Er beachtet die 3 Paians nicht die ihm sagen er solle langsamer machen“; „Die beiden kommen rabenstamm [sic] am verwinkelten Wachposten an.“

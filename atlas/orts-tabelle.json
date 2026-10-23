@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "stand": "Sessions 01-66",
+  "stand": "Sessions 01-76",
   "mapId": "story",
   "canvas": {
     "width": 1600,
@@ -334,7 +334,7 @@
       "y": 280,
       "type": "Geheimnis",
       "lotse": "#/Orte/Mondpfad",
-      "notes": "Magischer Pfad Richtung Feenwald.",
+      "notes": "Magischer Pfad Richtung Feenwald; zugleich Portalverbindung nach Zhoujiang (Palitan) — keine Landroute, Distanz nicht maßstäblich.",
       "belege": [
         "Session 21",
         "Session 22",
@@ -381,7 +381,7 @@
       "y": 180,
       "type": "Stadt",
       "lotse": "#/Orte/Palitan",
-      "notes": "Grosse Stadt mit Kaiserlichem Archiv und Katakomben (Sessions 26-35).",
+      "notes": "Grosse Stadt mit Kaiserlichem Archiv und Katakomben (Sessions 26-35); liegt in Zhoujiang (Takasadu) im fernen Osten Lorakis — auf der Karte als Zhoujiang-Inset (Fernbereich) dargestellt, Distanz nicht maßstäblich; Verbindung nur über den Mondpfad (Portal).",
       "belege": [
         "Session 26",
         "Session 27",
@@ -398,7 +398,7 @@
       "y": 215,
       "type": "Untergrund",
       "lotse": "#/Orte/Katakomben unter Palitan",
-      "notes": "Gruenes Steingewoelbe unter Palitan; Spinnenwesen und der geborstene Kristall.",
+      "notes": "Gruenes Steingewoelbe unter Palitan (Zhoujiang-Fernbereich); Spinnenwesen und der geborstene Kristall.",
       "belege": [
         "Session 28",
         "Session 29",
@@ -554,11 +554,12 @@
       "aliases": [
         "seenland"
       ],
-      "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Herathis; Durchquerung der Gruppe ab 01.09.997 LZ, Angriffe der Zwielichthetzer.",
+      "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Heratis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer; der winterliche Weitermarsch nach Heratis fuehrte erneut durchs Seenland (Sessions 67-72).",
       "belege": [
         "Session 62",
         "Session 63",
-        "Session 64"
+        "Session 64",
+        "Sessions 67-71"
       ]
     },
     {
@@ -571,11 +572,12 @@
       "aliases": [
         "höhle im seenland"
       ],
-      "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; momentaner Standort der Gruppe (Sessions 64-66).",
+      "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; Lager der Gruppe in den Sessions 64-67 („Der Schwarm“), danach Abbruch und Wintermarsch nach Heratis.",
       "belege": [
         "Session 64",
         "Session 65",
-        "Session 66"
+        "Session 66",
+        "Session 67"
       ]
     },
     {
@@ -585,16 +587,18 @@
       "y": 1030,
       "type": "Ziel",
       "lotse": "#/Orte/Heratis",
-      "notes": "Reiseziel: der Zwerg, der sich mit Feenwirken auskennt (Sarnburg-Heratis ≈ 1000 km) — doch das Schwarze Schwert verbietet Dorean die Stadt (Session 61).",
+      "notes": "Freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner); Ankunft der Gruppe am 08.10.997 LZ (Session 72) nach wochenlangem Wintermarsch durchs Seenland — Mordserie, Magistratswahl, Ritual-Nacht (Sessions 72-76). Sarnburg-Heratis ≈ 1000 km.",
       "belege": [
-        "Sessions 37+, als Ziel erwaehnt"
+        "Sessions 37+, als Ziel erwaehnt",
+        "Session 72",
+        "Sessions 73-76"
       ],
       "offiziell": true,
       "offiziellerName": "Herathis"
     }
   ],
   "geographie": {
-    "grundlage": "Topografie nach offizieller Lorakis-Geographie (Splitterwiki / Uhrwerk Verlag): Der Myrkan entspringt in den Myrkanbergen im Suedwesten und fliesst nach Norden (Wasserfels, Dreywasser, Beertal, Drugonsfurt). Sarnburg liegt zwischen Draugisbergen und Grossen Zirken an der Halunde. Die Grossen Zirken ziehen sich zwischen Sarnburg und Suedfang; Suedfang liegt am Fuss des Gluehbergs. Die Arwinger Mark liegt im Suedosten an der Kristallsee (Westgrenze Kynhold, Hauptort Arwingen, Suedliche Zitadellen suedlich davon). Herathis (Chronik: Heratis) liegt am Elyrischen Golf im aeussersten Suedwesten. Palitan liegt jenseits des Mondpfads in Zhoujiang. Die Karte bleibt schematisch.",
+    "grundlage": "Topografie nach offizieller Lorakis-Geographie (Splitterwiki / Uhrwerk Verlag): Der Myrkan entspringt in den Myrkanbergen im Suedwesten und fliesst nach Norden (Wasserfels, Dreywasser, Beertal, Drugonsfurt). Sarnburg liegt zwischen Draugisbergen und Grossen Zirken an der Halunde. Die Grossen Zirken ziehen sich zwischen Sarnburg und Suedfang; Suedfang liegt am Fuss des Gluehbergs. Die Arwinger Mark liegt im Suedosten an der Kristallsee (Westgrenze Kynhold, Hauptort Arwingen, Suedliche Zitadellen suedlich davon). Herathis (Chronik: Heratis) liegt am Elyrischen Golf im aeussersten Suedwesten. Palitan (mit Katakomben) liegt im fernen Nordosten/Osten Lorakis in Zhoujiang (Takasadu, „Land des Phönix“) am Jadeband — jenseits des Mondpfads, der als Portalverbindung nach Sarnburg fuehrt. Auf der Karte ist Palitan daher als Zhoujiang-Inset (Fernbereich) dargestellt; die Distanz ist nicht maßstäblich. Die Karte bleibt schematisch.",
     "offizielleNamen": {
       "zirken": "Groe Zirken",
       "beertal": "Freistadt Beertal",

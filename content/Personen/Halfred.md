@@ -3,7 +3,7 @@ type: person
 title: Halfred
 aliases: []
 status: lebendig
-kurz: Jäger und Fährtensucher der Gruppe, trägt einen Dharst; nach der Geistreise im Seenland trägt er eine Borken-Hand mit glühenden Steinadern — eine Stimme hat ihm eine Bürde auferlegt.
+kurz: Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.
 ---
 # Halfred
 
@@ -65,3 +65,13 @@ kurz: Jäger und Fährtensucher der Gruppe, trägt einen Dharst; nach der Geistr
 - Entdeckt in der Höhlendecke „viele kleine blau leuchtende Kristalle“, löst einen und lässt ihn Aikyr fallen (Session 65; → [[Monstein]]).
 - Im Trollkampf „von unzähligen Ratten angegriffen“; als der Kristall aus Paians Tasche purzelt, greift er ihn — Geistreise: eine Stimme auferlegt ihm eine Bürde, wörtlich: „Endlich habe ich jemanden gefunden, dem ich sein Innerstes anvertrauen kann. Mein Opfer war nicht umsonst. Hüte sein Geheimnis, denn sie werden kommen um es an sich zu reißen — um es zu beschmutzen. Und verzeiht mir. Verzeiht mir, dass ich diese Bürde jetzt an euch weiter reiche.“ Er spürt „eine Verbindung zum Wurzelwerk in der Höhle“, kontrolliert es — „und lässt den [[Troll]] von Wurzeln durchbohren“ (Session 65).
 - Danach: Seine Hand ist „hölzern überzogen mit einer Schicht aus Borke und Rinde … Teile bis hinter das Handgelenk. Einzelne kleine Knospen und winzige Blätter sind hier und da auszumachen. Zwischen und teilweise unter den Schichten der Rinde sind feine Adern aus warmweiß glühenden Stein zu sehen, die sich wie die Wurzeln einer alten Eiche um deine Hand schlängeln“ — er spürt und bewegt sie weiter; verbringt den Folgetag draußen „mit seiner Hand und dem Stein“ (Sessions 65/66).
+
+## Sessions 67–76: Vom Wind verleugnet — Wasserfläschchen und Labyrinth
+
+- Donnerhuf-Suche (Session 68): Er entdeckt Spuren, doch die Fährte verliert sich; Aikyrs Frage an den Wind (via Feenblatt) wird nur mit „Tod tod tod!“ beantwortet — Halfred „geht weinend auf die Knie“. Sein Rat: „nichts im sumpf ist uns freundlich gesinnt“ — ein weiter Bogen nach Süden am gelben Feuerschein vorbei.
+- Kampf gegen Altreus Bande (Session 69): hält die Zeltplane für den Schützen frei, jagt Altreu einen Pfeil in die Schulter; gegen den verhüllten Mann „schlägt [er] auf ihn mit dornenbewährten Fäusten ein“.
+- Nebelkreaturen (Session 72): Wird umgerissen; „kratzen mit ihren messerartigen Krallen auf ihn ein“; „Halfred Blutet aus zahlreichen Wunden, eine rote Pfütze bildet sich unter ihm“ — Paian stabilisiert ihn knapp.
+- Feenmarkt (Session 73): kauft das Wasserfläschchen, „das sich niemals leert, es schmeckt wie das letzte was ein ertrunkener getrunken hat“ — Preis: ein Jahr Verzicht auf Kräutertee. Kuriosität: „halfred öffnet das fläschen, aber das wasser kommt nicht heraus, aikyr lacht ihn aus.“
+- Deckname (Session 73): Von Dorian mit den Winterbesorgungen betraut (Winterkleidung, „unser zelt winterfest zu machen was sehr stresst“); hat Mühe mit der Tarn-Identität „Tim“ und stellt sich fast als „Tim Winterzelt … vom Spektrum“ vor.
+- Mondlabyrinth (Session 74): Seine Odyssee — „von tausend gedanken abgelenkt“, „verläuft sich heillos“, hetzt schweißüberströmt über eine Stunde; „er fühlt sich von den göttern verlassen. Denkt an [[Duir]] und die ruhe die er versucht hat ihm beizubringen“ — dann gelingt es ihm „gemütlich gehend … ohne in eine sackgasse zu lauf[en]“.
+- Ausrüstung (Session 75): Tuchrüstung und Langbogen (Q3, Ferndistanz, treffsicher, Waffenschaden +1) von [[Taldor Eisenhand]].

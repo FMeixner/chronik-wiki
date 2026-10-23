@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–66 · in-world fortlaufend ab 01.09.997 LZ",
+  "coverage": "Sessions 01–76 · in-world fortlaufend ab ca. 11.10.997 LZ",
   "pages": [
     {
       "path": "index",
@@ -51,7 +51,7 @@
       "type": "person",
       "title": "Aikyr",
       "status": "lebendig",
-      "kurz": "Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf; seit dem Seenland: Rage und Leuchten aus den Fäusten; trägt die Kriegspeitsche.",
+      "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt.",
       "aliases": [
         "Aikir",
         "Aykir"
@@ -126,8 +126,8 @@
       "path": "Personen/Dorean",
       "type": "person",
       "title": "Dorean",
-      "status": "lebendig",
-      "kurz": "Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden an einen Pakt; schuldet der dunklen Fee eine Seele; das Schwert hat ihm Heratis verboten.",
+      "status": "lebendig; Schwertrichter",
+      "kurz": "Adliger Schwertrichter; vom Schwarzen Schwert gepeinigt — die „Lady“ fordert Seelen; Bruder Ilmar schickt Häscher hinter ihm her.",
       "aliases": [
         "Dorian"
       ],
@@ -193,7 +193,7 @@
       "type": "person",
       "title": "Halfred",
       "status": "lebendig",
-      "kurz": "Jäger und Fährtensucher der Gruppe; nach der Geistreise im Seenland trägt er eine Borken-Hand mit glühenden Steinadern — eine Bürde.",
+      "kurz": "Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.",
       "aliases": [],
       "held": true,
       "w": 100
@@ -319,8 +319,8 @@
       "path": "Personen/Paian",
       "type": "person",
       "title": "Paian",
-      "status": "dem Tode nahe (an die Höhle im Seenland gebunden)",
-      "kurz": "Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll; dem Tode nahe — eine Stimme auferlegt ihm die Bürde des ‚Letzten‘.",
+      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert",
+      "kurz": "Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.",
       "aliases": [],
       "held": true,
       "w": 100
@@ -370,7 +370,7 @@
       "type": "person",
       "title": "Sira",
       "status": "lebendig",
-      "kurz": "Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch (tot); trägt Balinas Kette — das Zeichen der geflügelten Boten.",
+      "kurz": "Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.",
       "aliases": [],
       "held": true,
       "w": 100
@@ -545,8 +545,8 @@
       "path": "Orte/Heratis",
       "type": "ort",
       "title": "Heratis",
-      "status": "bestehend",
-      "kurz": "Reiseziel der Gruppe im Südwesten — doch das Schwarze Schwert verbietet Dorean die Stadt (Session 61).",
+      "status": "bestehend; Aufenthalt der Gruppe seit 8.10.997 LZ",
+      "kurz": "Freie Reichsstadt (60 000) im äußersten Südwesten — Ankunft am 8.10.997 LZ: Mordserie, Magistratswahl, Feenmarkt.",
       "aliases": [],
       "held": false,
       "w": 55
@@ -588,7 +588,7 @@
       "type": "ort",
       "title": "Sarnburg",
       "status": "bestehend",
-      "kurz": "Metropole (240.000) mit Mondtor und Portalgilde; Ausgangspunkt der Flucht zum Mondpfad.",
+      "kurz": "Metropole (240.000) mit Mondtor und Portalgilde; Ausgangspunkt der Flucht zum Mondpfad — und portalnaher Ausgang des Feenpfads aus Palitan.",
       "aliases": [],
       "held": false,
       "w": 80
@@ -932,7 +932,7 @@
       "type": "ort",
       "title": "Mondpfad",
       "status": "bestehend",
-      "kurz": "Pfad zwischen den Welten; ewiges Dämmern, Sternenwolke.",
+      "kurz": "Pfad zwischen den Welten: ewiges Dämmern, Sternenwolke, kristallener Boden — nach Palitan etwa 7 Tage; offizielle Portalverbindung Palitan–Sarnburg.",
       "aliases": [],
       "held": false,
       "w": 55
@@ -942,7 +942,7 @@
       "type": "ort",
       "title": "Palitan",
       "status": "bestehend",
-      "kurz": "Fremdartige Großstadt jenseits des Mondpfads; Machtzentrum Shushangs mit drei Mächten — und einem Tempel, dessen Herz die Gruppe stahl.",
+      "kurz": "Handelsstadt am Unterlauf des Jadebands in Zhoujiang — am anderen Ende des Kontinents; Portalstadt mit Mondpfad-Verbindung nach Sarnburg; Tempel, dessen Herz die Gruppe stahl.",
       "aliases": [],
       "held": false,
       "w": 68
@@ -1004,8 +1004,8 @@
       "path": "Artefakte/Schwarzes Schwert",
       "type": "artefakt",
       "title": "Schwarzes Schwert",
-      "status": "in Doreans Besitz",
-      "kurz": "Aus Albträumen geschmiedetes Paktschwert aus Totenerz; die erste Seele ist der dunklen Fee geschuldet — und es verbietet Dorean Heratis.",
+      "status": "verwahrt bei Taldor Eisenhand (in der Box, Session 72)",
+      "kurz": "Aus Albträumen geschmiedetes Paktschwert aus Totenerz; laut Taldor „kein feeisches artefakt“ — es kommt aus einer dunkleren Domäne. Zieht weiter an Dorean.",
       "aliases": [
         "Schwert aus Albträumen"
       ],
@@ -1295,7 +1295,7 @@
       "type": "ort",
       "title": "Feenpfad",
       "status": "bestehend",
-      "kurz": "Pfad jenseits des Palitaner Portals: pulsierende Steine, grüne Wälder und Auen — Heimat der Pfadwächter.",
+      "kurz": "Pfad jenseits des Palitaner Portals: pulsierende Steine, grüne Wälder und Auen — Heimat der Pfadwächter; offizieller Rückweg der Gruppe aus Palitan.",
       "aliases": [],
       "held": false,
       "w": 54
@@ -1539,8 +1539,8 @@
       "path": "Artefakte/Goldener Ring",
       "type": "artefakt",
       "title": "Goldener Ring",
-      "status": "bei der Gruppe (Paian trägt ihn; öffnete die Tore im Schlund, Sessions 51–53)",
-      "kurz": "Ring mit tiefschwarzem, eingefasstem Stein aus den Katakomben unter dem Gagamba-Tempel; Jardan: Kraft aus göttlicher Domäne, „decke etwas auf und verstecke etwas“ — öffnet die schwarzsteinernen Tore im Schlund.",
+      "status": "bei der Gruppe; getragen von Paian — Sarvenna warnt, ihn anzuziehen",
+      "kurz": "Ring mit tiefschwarzem, eingefasstem Stein aus den Katakomben unter dem Gagamba-Tempel — sehr mächtige Magie; identisches Exemplar an einer Mordtoten.",
       "aliases": [
         "goldener Ring mit tiefschwarzem Stein"
       ],
@@ -1577,8 +1577,8 @@
       "path": "Tiere/Donnerhuf",
       "type": "tier",
       "title": "Donnerhuf",
-      "status": "bei der Gruppe",
-      "kurz": "Aikyrs x-beiniger, zottiger Esel.",
+      "status": "lebendig (seit Session 70 zurück)",
+      "kurz": "Aikyrs Esel; verschwand im Mückenschwarm und kehrte am Südrand des Seenlands zurück.",
       "aliases": [],
       "held": false,
       "w": 60
@@ -1587,8 +1587,8 @@
       "path": "Tiere/Sommertochter",
       "type": "tier",
       "title": "Sommertochter",
-      "status": "wieder bei Aikyr",
-      "kurz": "Aikyrs Stute, in einer Reisegruppe am Großen Weg wiedergefunden.",
+      "status": "lebendig",
+      "kurz": "Aikyrs Stute; versank im Sumpf, gerettet; trug den verwundeten Halfred nach Herathis.",
       "aliases": [],
       "held": false,
       "w": 63
@@ -1852,8 +1852,8 @@
       "path": "Orte/Das Seenland",
       "type": "ort",
       "title": "Das Seenland",
-      "status": "bestehend",
-      "kurz": "Moor- und Seengebiet südlich von Drugonsfuhrt — Durchquerung auf dem Weg nach Heratis; Angriffe nebelhafter Wolfswesen.",
+      "status": "bestehend; Durchquerung abgeschlossen (Sessions 62–72)",
+      "kurz": "Moor- und Seengebiet südlich von Drugonsfuhrt — Durchquerung auf dem Weg nach Heratis; Nebelhetzer, Mückenschwarm, Räuberbande; im Süden kehrt Leben zurück.",
       "aliases": [
         "Seenland"
       ],
@@ -1864,8 +1864,8 @@
       "path": "Orte/Die Höhle im Seenland",
       "type": "ort",
       "title": "Die Höhle im Seenland",
-      "status": "bestehend (Paian an sie gebunden)",
-      "kurz": "Höhle aus aneinander gelehnten Felsen — Monstein-Sternenhimmel, Skelett mit Kriegspeitsche, Trollkampf; Paian kollabiert außerhalb.",
+      "status": "bestehend (Paian an sie gebunden); von der Gruppe verlassen (Session 67)",
+      "kurz": "Höhle aus aneinander gelehnten Felsen im Seenland — Monstein-Sternenhimmel, seltsames Skelett mit Kriegspeitsche, Trollkampf; Paian kollabiert außerhalb, Heilung misslingt innerhalb.",
       "aliases": [
         "Höhle im Seenland",
         "die Höhle"
@@ -1971,8 +1971,8 @@
       "path": "Personen/Witti Sohn des Vollus",
       "type": "person",
       "title": "Witti Sohn des Vollus",
-      "status": "unbekannt (noch nicht getroffen)",
-      "kurz": "Ansprechpartner der geflügelten Boten in der Taverne am verwinkelten Wachposten auf dem Weg nach Heratis.",
+      "status": "angetroffen (Wirt im Verwinkelten Wachposten, Session 73)",
+      "kurz": "Mürrischer Wirt des Verwinkelten Wachpostens in Herathis; eigentlich Kontakt der geflügelten Boten — doch am Türrahmen steht nun Carans Würfelpaar.",
       "aliases": [
         "Witti"
       ],
@@ -2017,6 +2017,262 @@
       "title": "Tyrgan",
       "status": "unbekannt (nur erwähnt)",
       "kurz": "Markgraf in Widderbock (nordöstlich) — möglicher Ansprechpartner zur Kontensperrung des Zinnenforsts.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Orte/Der Feenmarkt",
+      "type": "ort",
+      "title": "Der Feenmarkt",
+      "status": "bestehend; liegt „teilweise in der Feenwelt“",
+      "kurz": "Markt in endlosen Höhlen im inneren des Herration — Friedensgebot, Handelspflicht, Fees-Feilware von Augen über Handschuhe bis Schlüsseln.",
+      "aliases": [
+        "Feenmarkt"
+      ],
+      "held": false,
+      "w": 50
+    },
+    {
+      "path": "Orte/Das Mondlabyrinth",
+      "type": "ort",
+      "title": "Das Mondlabyrinth",
+      "status": "bestehend (Ionnus-Heiligtum); Tureks Mordort",
+      "kurz": "Marmornes Ionnus-Heiligtum am Klippenrand des Herration — im Altarraum-Becken spiegeln sich bei Tag die drei Monde; jeder durchschreitet es anders.",
+      "aliases": [
+        "Mondlabyrinth, das Labyrinth"
+      ],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Orte/Der Joka-Baum",
+      "type": "ort",
+      "title": "Der Joka-Baum",
+      "status": "bestehend (einziger Baum seiner Art, Lamera)",
+      "kurz": "Blutgetränkter Baum im Norden von Patalis [sic] — seine Blüten und Nüsse sind extrem wirksame Heilmittel; Lieferungen laufen nach Herathis.",
+      "aliases": [
+        "Jokabaum, Joka-Baum"
+      ],
+      "held": false,
+      "w": 20
+    },
+    {
+      "path": "Fraktionen/Carans lange Messer",
+      "type": "fraktion",
+      "title": "Carans lange Messer",
+      "status": "geschwächt (niedergestreckt); Symbol: zwei Würfel",
+      "kurz": "Herathiser Untergrundorganisation — seit Jahren aktiv, jüngst niedergestreckt, versuchte Turek umzubringen; Würfelpaar als Zeichen.",
+      "aliases": [
+        "Carans Messer"
+      ],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Fraktionen/Die Lichte Herrin",
+      "type": "fraktion",
+      "title": "Die Lichte Herrin",
+      "status": "unbekannt — „eine Macht, die es auf Lorakis nicht geben sollte“",
+      "kurz": "Mysteriöse Dienst-Herrin Tureks — „sein Schatten hat ihn wohl nie losgelassen“; was sie will und woher sie kommt, ist offen.",
+      "aliases": [],
+      "held": false,
+      "w": 35
+    },
+    {
+      "path": "Personen/Angrima",
+      "type": "person",
+      "title": "Angrima",
+      "status": "im Seenland verblieben (Session 70)",
+      "kurz": "Priesterin mit eingebranntem Morkai-Symbol — rettet Paian in einer Seance und bleibt als Helferin der Flüchtlinge im Sumpf.",
+      "aliases": [
+        "Tochter der Neugier"
+      ],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Personen/Altreu",
+      "type": "person",
+      "title": "Altreu",
+      "status": "tot (Session 69)",
+      "kurz": "Räuberführer im Seenland — Fell, Axt, Gottes-Ketten und ein Beutel mit Priester-Trophäen; von Paian mit Dorians Schwert getötet.",
+      "aliases": [],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Olmen von Bockenbrück",
+      "type": "person",
+      "title": "Olmen von Bockenbrück",
+      "status": "tot (ermordet in Session 71)",
+      "kurz": "Fischer-Anführer aus Mirwald — gütiger Gastfreund der Gruppe; im Schlaf von Dorean (Schwarzes Schwert) ermordet.",
+      "aliases": [
+        "Olmen"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Taldor Eisenhand",
+      "type": "person",
+      "title": "Taldor Eisenhand",
+      "status": "lebendig; Schmied am Unterhang des Heration (Heratis)",
+      "kurz": "Zwergenschmied in Herathis — Verwahrer des Schwarzen Schwerts in einer Box; verschmolz Kelba Feenflügel; rüstet die Gruppe aus.",
+      "aliases": [],
+      "held": false,
+      "w": 40
+    },
+    {
+      "path": "Personen/Waslow",
+      "type": "person",
+      "title": "Waslow",
+      "status": "lebendig; Alchemist in Heratis („Stille Phiole“)",
+      "kurz": "Alchemist in Herathis — half Taldor bei Kelbas Feenflügel-Verschmelzung; Brauer von „Das letzte Aufgebot“ und „Das letzte Mahl“.",
+      "aliases": [
+        "dunrunat"
+      ],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Personen/Sarvenna Kaltquell",
+      "type": "person",
+      "title": "Sarvenna Kaltquell",
+      "status": "lebendig; in Heratis (Ionnus-Kreis)",
+      "kurz": "Tureks Freundin und Vertraute — enthüllt die Lichte Herrin, das Mond-Dreieck in vier Nächten und warnt Paian vor dem Ring.",
+      "aliases": [
+        "Sarvenna"
+      ],
+      "held": false,
+      "w": 35
+    },
+    {
+      "path": "Personen/Turek",
+      "type": "person",
+      "title": "Turek",
+      "status": "tot (Sessions 72/73; zerstückelt aufgefunden)",
+      "kurz": "Alter Ionnus-Priester, Mordopfer im Mondlabyrinth — diente einst der Lichten Herrin und hinterließ ein verstecktes Blatt im Buchrücken.",
+      "aliases": [
+        "Turik"
+      ],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Personen/Bormund",
+      "type": "person",
+      "title": "Bormund",
+      "status": "lebendig; Hauptmann der Wache in Heratis",
+      "kurz": "Ermittlungshauptmann der Mordserie — kam Carans langen Messern mit harten Verhören auf die Schliche; riegelt das Rathaus ab.",
+      "aliases": [],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Tidara",
+      "type": "person",
+      "title": "Tidara",
+      "status": "lebendig; Fadengängerin in Ausbildung (Heratis)",
+      "kurz": "Junge Fadengängerin, führte die Gruppe zum Feenmarkt — trauert, seit die Mordserie die Stadt ergriff.",
+      "aliases": [],
+      "held": false,
+      "w": 20
+    },
+    {
+      "path": "Personen/Tovene",
+      "type": "person",
+      "title": "Tovene",
+      "status": "tot (ermordet vor dem Rathaus, Session 73)",
+      "kurz": "Freundliche Fadengängerin, erstochen vor dem Rathaus — trug einen goldenen Ring mit schwarzem Stein wie Paian; ihr Geist fehlt.",
+      "aliases": [
+        "Tuvene, Tuleve"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Dara",
+      "type": "person",
+      "title": "Dara",
+      "status": "lebendig; Schankmagd im Verwinkelten Wachposten (Heratis)",
+      "kurz": "Nervöse Gnomin mit goldener Lockenmähne — bewirtet die Gruppe im Gruppenzimmer; ihre Mutter hat die schwarzen Seepocken.",
+      "aliases": [],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Kelba von Tylajon",
+      "type": "person",
+      "title": "Kelba von Tylajon",
+      "status": "lebendig; Magistratskandidat in Heratis",
+      "kurz": "„Der fette Zwerg“ — favorisierter Magistratskandidat, dem Taldor Feenflügel in den Leib verschmolz; Adressat der K.-I.-Briefe; Ziel der Gruppe vor der Ritual-Nacht.",
+      "aliases": [
+        "Kelba, der fette Zwerg, K. I."
+      ],
+      "held": false,
+      "w": 40
+    },
+    {
+      "path": "Personen/Terso Teris",
+      "type": "person",
+      "title": "Terso Teris",
+      "status": "lebendig; Magistratskandidat (Heratis)",
+      "kurz": "Favorit bei der Wahl zum obersten Magistraten — „hatte den posten schon 7 mal“; die Chronik schreibt auch „Teso Teris“.",
+      "aliases": [
+        "Teso Teris"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Ilmar",
+      "type": "person",
+      "title": "Ilmar",
+      "status": "lebendig (nicht angetroffen); älterer Bruder Doreans, Erbe des Hauses Dunkelgrund",
+      "kurz": "Dorians dunkel gewordener Bruder — dulde keinen Schatten neben sich, schickt Häscher, jagt „den Stein aus Palitan“.",
+      "aliases": [],
+      "held": false,
+      "w": 20
+    },
+    {
+      "path": "Personen/Iliada",
+      "type": "person",
+      "title": "Iliada",
+      "status": "lebendig; Ionnus-Tempel (Heratis), Familie Isenblut",
+      "kurz": "Frau mit kurzgeschorenem Haar im Ionnus-Tempel — lauscht an Türen, lächelt zu lange; gehört zur Familie Kelbas.",
+      "aliases": [
+        "Ilaria"
+      ],
+      "held": false,
+      "w": 20
+    },
+    {
+      "path": "Personen/Gerion",
+      "type": "person",
+      "title": "Gerion",
+      "status": "tot (Mordopfer, Sessions 72/73)",
+      "kurz": "Zunftmeister der Brauer — in seiner eigenen Braupfanne aufgefunden; große klaffende Schwertwunden, eingeschlagener Schädel.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Brinrand Jitzeburg",
+      "type": "person",
+      "title": "Brinrand Jitzeburg",
+      "status": "lebendig; Brauereigilde Heratis",
+      "kurz": "150-Kilo-Wirt der Brauereigilde — führer durch Hopfenzunder, Weizen Geschwader und ewig Dunkles; Quelle der Herathia-Legende.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Rofbiel Wieselbrühl",
+      "type": "person",
+      "title": "Rofbiel Wieselbrühl",
+      "status": "unbekannt (nur erwähnt)",
+      "kurz": "Zwerg, der sich „wohl mit Feen und ihren Packten auskennt“ — Angrimas Empfehlung; seit 8 Jahren nicht gesehen.",
       "aliases": [],
       "held": false,
       "w": 12

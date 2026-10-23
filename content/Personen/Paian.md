@@ -2,8 +2,8 @@
 type: person
 title: Paian
 aliases: []
-status: dem Tode nahe (an die Höhle im Seenland gebunden)
-kurz: Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll; trägt das gestohlene Herz der Gagamba — dem Tode nahe, eine Stimme auferlegt ihm die Bürde des „Letzten“.
+status: stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert
+kurz: Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.
 ---
 # Paian
 
@@ -63,3 +63,16 @@ kurz: Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid St
 - Danach schwebt er „durch die Dunkelheit, auf eine ewige Mauer und ein einfaches Tor zu. Eine Stimme spricht mit ihm …“ — er schreckt keuchend auf (Session 66).
 - Ist an die Höhle gebunden: Am Höhleneingang bricht er wiederholt zusammen — „ein brennender Schmerz“ — und „die Schmerzen werden augenblicklich besser“, sobald er zurück in der Höhle ist; der mit Holzasche, Wasser und Dreck zurückgeklebte Monstein bringt „keine Veränderung“; abends, wenn das Licht der Steine erlischt, bricht er erneut zusammen (Session 66).
 - Abschiedsmale: Aikyr schnitzt ihm ein Grabdenkmal; Sira schreibt „Paians Melodie“ mit Kohle an die Höhlenwand (Session 66).
+
+## Sessions 67–76: Nahtod, Seance und die Ankunft in Herathis
+
+- Nahtod-Finale (Session 67): Paian „krümmt sich und dreht sich auf die Seite mit einer Hand auf der Brust. Er keucht, dass er glaubt zu sterben.“ Halfreds Heilversuch scheitert — „in der Höhle [ist] kein Funken Lebensenergie mehr zu finden“. Draußen heilt Paian seinen Körper vollständig, „doch seine Seele scheint immernoch seinen Körper verlassen zu wollen“; Siras Zauber „geh noch nicht“ hält sie zurück („spürt wie etwas an seine Seele zerrt“); seine gewohnte Selbstheilung „funktioniert nicht“.
+- Von Angrima gerettet (Session 69): Die Priesterin hat ihn „gespürt“ („er sie hierher geführt habe“) und heilt ihn in einer Seance — „Seine Augen öffnen sich, trüb und unfokussiert, aber sie leben.“ Zum Abschied wünscht sie, „dass Lucia über seine Wege wacht“.
+- „Seine Augen liegen tief in den Augenhöhlen und er sieht um Jahre gealtert aus“ (Session 68, nach der improvisierten Salbe aus Kräutern und Melkfett) — die bislang offene Frage „altert um Jahre?“ ist damit durch Chronik-Text bestätigt.
+- Dharst-Gnade (Session 70): Während Sira den gefangenen Räuber (Priestermörder mit Todessehnsucht) heilen will, „erlöst“ Paian ihn mit seinem Dharst; die Leichen werden mit Dorian im Moor versenkt.
+- Schwert-Bannung (Session 71): Bei Dorians Olmen-Mord bannt er „mit der Hilfe Gunwars und unter aufbietung all seiner Kräfte … die Wesenheit, die von Dorian Besitz ergriffen hat“.
+- Heratis (Sessions 72–76): Gebet zum Schutze Halfreds im Kampf gegen die Nebelkreaturen; stabilisiert Halfred „kurz bevor er unwiederbringlich verloren ist“; Gunwartempel-Andacht — der Priester erzählt ihm (als Priester erkannt) von den Morden: „die 3 opfer mit großen klingen und eher hackend niedergestreckt“. Auf dem Feenmarkt öffnet er die Truhe mit den drei Schlössern — seine Hose verschwindet, darin „ein kompass der nicht nach norden zeigt. er zeigt nach südwesten“.
+- Der Ring (Sessions 73/74): An der ermordeten Fadengängerin [[Tovene]] entdeckt er „ein goldener ring mit einer schwarzen stein. wie der ring den paian hat“; [[Sarvenna Kaltquell]] „warnt paian den ring anzuziehen“.
+- Joka-Baum (Session 73, kritisch): Der Baum im Norden von Patalis [sic] liefert Baumsaft-Elixiere der Heilung („extrem Potent!!!“) und apfelgroße Joka-Nüsse; das einzige Exemplar steht in Lamera und trägt „nur Früchte wenn man das Blut der Menschen die auf Lamera geboren wurden auf seinen wurzeln vergießt“; dort gibt es die Jokablüten-Lotterie. „Paian ist davon überzeugt, dass man diesen Baum niederbrennen muss“ — Pakt mit [[Aikyr]], wenn „alles vorbei“ ist, dorthin zu reisen.
+- Mondlabyrinth (Session 74): Ihn „entspannt die ruhe“; er findet [[Sira]], „die den tränen nahe ist“.
+- Ausrüstung (Session 75): mittlere Tuchrüstung und personalisierte „Stabkeule“ von [[Taldor Eisenhand]].

@@ -2,8 +2,8 @@
 type: artefakt
 title: Goldener Ring
 aliases: [goldener Ring mit tiefschwarzem Stein]
-status: bei Jadan zur Analyse (Sessions 42/43)
-kurz: Ring mit tiefschwarzem, eingefasstem Stein aus den Katakomben unter dem Gagamba-Tempel — sehr mächtige Magie.
+status: bei der Gruppe; getragen von Paian — Sarvenna warnt, ihn anzuziehen
+kurz: Ring mit tiefschwarzem, eingefasstem Stein aus den Katakomben unter dem Gagamba-Tempel — sehr mächtige Magie; identisches Exemplar an einer Mordtoten.
 ---
 # Goldener Ring
 
@@ -23,4 +23,9 @@ kurz: Ring mit tiefschwarzem, eingefasstem Stein aus den Katakomben unter dem Ga
 
 > [!warning] Parallele in der Chronik
 > Bei [[Luidperga]] (Session 54) findet die Gruppe an einer eisernen Kette „einen goldenen Ring mit einem zerbrochenen schwarzen Stein“ — dieselbe Machart? Die Chronik stellt keinen Zusammenhang her; das Exemplar der Gruppe ist unversehrt. Widerspruch/Frage offen.
+
+## Sessions 67–76: Tuvenes Ring und Sarvennas Warnung
+
+- Zweites Exemplar (Session 73): Die ermordete Fadengängerin [[Tovene]] trägt „ein goldener ring mit einer schwarzen stein. wie der ring den paian hat" — dieselbe Machart wie der Ring der Gruppe; ob ein Zusammenhang besteht, hält die Chronik nicht fest (offen). Paians Blick in die Geisterwelt findet „nicht den Geist von tuleve" [sic].
+- Warnung (Session 74): [[Sarvenna Kaltquell]] „warnt paian den ring anzuziehen“ — warum, führt sie nicht aus (offen; zeitlich kurz vor der Mond-Dreieck-Nacht 13./14.10.997 LZ).
 - Status: bei der Gruppe; getragen von [[Paian]].

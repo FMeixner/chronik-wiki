@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "wikiBase": "https://fmeixner.github.io/chronik-wiki/",
   "wegfaktor": 1.4,
   "modeLabels": {
@@ -229,7 +229,7 @@
       "y": 25.45,
       "name": "Mondpfad",
       "type": "Geheimnis",
-      "notes": "Magischer Pfad Richtung Feenwald.",
+      "notes": "Magischer Pfad Richtung Feenwald; zugleich Portalverbindung nach Zhoujiang (Palitan) — keine Landroute.",
       "lotse": "#/Orte/Mondpfad"
     },
     {
@@ -259,7 +259,7 @@
       "y": 16.36,
       "name": "Palitan",
       "type": "Stadt",
-      "notes": "Grosse Stadt mit Kaiserlichem Archiv und Katakomben (Sessions 26-35).",
+      "notes": "Grosse Stadt mit Kaiserlichem Archiv und Katakomben (Sessions 26-35); liegt in Zhoujiang (Takasadu), im fernen Osten Lorakis — Zhoujiang-Inset, Distanz nicht maßstäblich; Mondpfad-Portalverbindung nach Sarnburg.",
       "lotse": "#/Orte/Palitan"
     },
     {
@@ -269,7 +269,7 @@
       "y": 19.55,
       "name": "Katakomben unter Palitan",
       "type": "Untergrund",
-      "notes": "Gruenes Steingewoelbe unter Palitan; Spinnenwesen und der geborstene Kristall.",
+      "notes": "Gruenes Steingewoelbe unter Palitan (Zhoujiang-Inset); Spinnenwesen und der geborstene Kristall.",
       "lotse": "#/Orte/Katakomben unter Palitan"
     },
     {
@@ -369,7 +369,7 @@
       "y": 30.45,
       "name": "Das Seenland",
       "type": "Naturmarke",
-      "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Herathis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer.",
+      "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Heratis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer; Wintermarsch der Gruppe gen Heratis (Sessions 67-72).",
       "lotse": "#/Orte/Das Seenland"
     },
     {
@@ -379,7 +379,7 @@
       "y": 38.18,
       "name": "Die Höhle im Seenland",
       "type": "Untergrund",
-      "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; momentaner Standort der Gruppe (Sessions 64-66).",
+      "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; Lager der Gruppe (Sessions 64-67), danach Wintermarsch nach Heratis.",
       "lotse": "#/Orte/Die Höhle im Seenland"
     },
     {
@@ -389,16 +389,16 @@
       "y": 93.64,
       "name": "Heratis",
       "type": "Ziel",
-      "notes": "Reiseziel: der Zwerg, der sich mit Feenwirken auskennt (Sarnburg-Heratis ≈ 1000 km) — doch das Schwarze Schwert verbietet Dorean die Stadt (Session 61).",
+      "notes": "Ankunft der Gruppe am 08.10.997 LZ (Session 72): freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner) — Mordserie, Magistratswahl, Ritual-Nacht; momentaner Aufenthalt (Sessions 72-76).",
       "lotse": "#/Orte/Heratis"
     }
   ],
   "routes": [
     {
       "id": "r1",
-      "label": "Der Weg der Gruppe (Sessions 01–66)",
+      "label": "Der Weg der Gruppe (Sessions 01–76)",
       "color": "#fbbf24",
-      "statusIndex": 48,
+      "statusIndex": 49,
       "waypoints": [
         {
           "markerId": "unterwalde",
@@ -506,7 +506,8 @@
         },
         {
           "markerId": "palitan",
-          "caption": "S 26 · Durch das Wabern nach Palitan (29.6.997 LZ(?) bis 06.07.997 LZ)"
+          "caption": "S 26 · Durch das Wabern nach Palitan (29.6.997 LZ(?) bis 06.07.997 LZ)",
+          "portal": true
         },
         {
           "markerId": "katakomben",
@@ -526,11 +527,13 @@
         },
         {
           "markerId": "feenpfad",
-          "caption": "S 36 · Auf dem Mondpfad (09.07.997 LZ)"
+          "caption": "S 36 · Auf dem Mondpfad (09.07.997 LZ)",
+          "portal": true
         },
         {
           "markerId": "sarnburg",
-          "caption": "S 41 · Wieder in Sarnburg (13.07.997 LZ)"
+          "caption": "S 41 · Wieder in Sarnburg (13.07.997 LZ)",
+          "portal": true
         },
         {
           "markerId": "jadans-huette",
@@ -595,6 +598,10 @@
         {
           "markerId": "hoehle-im-seenland",
           "caption": "S 64 · Drugons Geschenk"
+        },
+        {
+          "markerId": "heratis",
+          "caption": "S 72 · Ankunft in Heratis (8.10.997 LZ)"
         }
       ]
     }

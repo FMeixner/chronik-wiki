@@ -3,7 +3,7 @@ type: person
 title: Sira
 aliases: []
 status: lebendig
-kurz: Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch (tot); trägt Balinas Kette — das Zeichen der geflügelten Boten.
+kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.
 ---
 # Sira
 
@@ -57,3 +57,15 @@ kurz: Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finste
 - Erbarmt sich, beim Seenland-Auskundschaften mit [[Halfred]] zu gehen (Session 60); zieht Paian „ausgelassen auf die Tanzfläche“ — der kriegt einen hochroten Kopf (Session 61).
 - Alptraum in Drugonsfurt (Session 61, wörtlich): Sie hört Geräusche, geht nach unten — „hinter dem Tresen ein Gurgeln … sie sieht einen schwarzen Schemen, der über Arikarion gebeugt ist und ihn würgt. seine Augen treten aus den Höhlen hervor. Sie greift nach dem Schemen, zieht an ihm und sieht, dass der Schemen ihr eigenes Gesicht trägt. Sie wacht schweißgebadet auf.“ Am Morgen „völlig übernächtigt“; fragt den verwirrten Wirt, ob er hier sicher wäre.
 - Im Seenland: wirft im Trollkampf Lichtklingen (Session 65); erinnert sich, dass Halfred zwei Steine aus der Decke gelöst hat (Session 66); schreibt mit Kohle „Paians Melodie“ an die Höhlenwand und spielt sie den anderen vor (Session 66).
+
+## Sessions 67–76: „geh noch nicht“ — Seemannstruhe und trauernde Tidara
+
+- Paian-Rettung (Session 67): entdeckt den Mückenschwarm; ihr Zauber „geh noch nicht“ hält Paians Seele zurück (sie „spürt wie etwas an seine Seele zerrt“).
+- Kampfnächte (Sessions 69/72): hält Halfred die Zeltplane auf; die verhüllte Frau „flüchtet sich in ihre Arme“; vor Herathis lässt sie ihre Lichtkugel „erstrahlen“ und „durchbohrt zwei der Kreaturen“ mit „Klingen aus Licht“.
+- Donnerhuf (Session 70): entdeckt im Schilf dessen Satteltasche; nimmt am anderen Seeufer einen Feuerschein wahr.
+- Olmen-Abend und -Tod (Sessions 70/71): Ihr Lied lässt Olmens Fischer tauen auf; beim Mord „eilt sie zu dem am Boden liegenden Olmen, doch für ihn kommt jede Hilfe zu spät“.
+- Verwinkelter Wachposten (Session 73): sucht am Tür-rahmen „nach dem Symbol einer eingeritzen Feder“ — „findet aber nur ausgekranzt [sic] das Symbol zweier Würfel, das Symbol Carans“.
+- Feenmarkt (Session 73): nimmt die verfluchte Seemannstruhe (darin Wackersteine und 18 daumengroße Edelsteine — „beim juvelier wohl so 600 Lunare wert“) und von der Schlüsselmeisterin den „schlüssel der zu einem ort der vergangenheit“ führt.
+- Trauer (Session 73): Das Gespräch mit [[Tidara]] eskaliert — „sie trauert und weiß nicht genau was wir von ihr wollen“ (worüber, bleibt offen).
+- Mondlabyrinth (Session 74): geht als erste hinein, „fühlt sich alleine“, tappt von Sackgasse zu Sackgasse und ist „den tränen nahe“ — Paian findet sie, gemeinsam treten sie in den Altarraum.
+- Heratis (Sessions 73/76): spielt im Säufermond (die Leute finden es gut); begleitet den Zauberhandwerker-Besuch (der junge Gnom: die Magie „scheint schwieriger zu greifen zu sein“).

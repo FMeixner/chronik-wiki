@@ -2,8 +2,8 @@
 type: person
 title: Dorean
 aliases: [Dorian]
-status: lebendig
-kurz: Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden an einen Pakt; schuldet der dunklen Fee eine Seele; das Schwert hat ihm Heratis verboten.
+status: lebendig; Schwertrichter
+kurz: Adliger Schwertrichter; vom Schwarzen Schwert gepeinigt — die „Lady“ fordert Seelen; Bruder Ilmar schickt Häscher hinter ihm her.
 ---
 # Dorean
 
@@ -58,3 +58,14 @@ kurz: Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden a
 - Die kalte schnarrende Stimme des [[Schwarzes Schwert|Schwarzen Schwerts]] (Session 61, wörtlich): „Ich weiß was du vor hast, ich weiß wohin du gehst!, du wirst einen anderen Pfad einschlagen“ / „du gehst nicht nach [[Heratis]], du gehst nicht in die Feenstadt“ — auf „Sonst was?“ überkommt ihn „das Verlangen, sein schwarzes Schwert zu ziehen und den Wirt niederstrecken, was er mühevoll niederringt“. Er drängt die Gruppe am Morgen zum Aufbruch und eröffnet außerhalb der Stadt: Das Schwert hat ihm Heratis „unter Androhung das Leben des Wirtes zu beenden“ verboten.
 - Im Sumpf: Stimme in seinem Kopf — „Ich werde alle töten, die dir lieb und teuer sind!“ (Session 62).
 - Deutet den verdorrten Kreis um die Höhle: sowas passiere, „wenn man große Mengen Magie aus der Umgebung zieht“ — „so oder so ähnlich hätte es seine Schwester erzählt“ (Session 66); verteidigt im Trollkampf seine Gefährten (Session 65).
+
+## Sessions 67–76: Olmens Seele — Häscher und das tränenförmige Schild
+
+- Führung (Session 68): Nach der verlorenen Donnerhuf-Fährte übernimmt er die Gruppe: „Er übernimmt die Führung, versucht den Rest zu motivieren, was gut funktioniert.“
+- Altreu (Session 69): geht „mit seinem Darst [sic]“ auf Altreu los; schreit einem Räuber hinterher, „dass sein Anführer Tod [sic] ist“.
+- Olmen-Mord (Session 71): Die Stimme des [[Schwarzes Schwert|Schwarzen Schwerts]] (schmeichelnd: „tapferen Wanderer“; „dass sein Weg mit Leichen gepflastert sein wird“) fordert: „Bring mir Olmens Seele“ — Dorian ermordet den schlafenden [[Olmen von Bockenbrück]]; „Dorian weicht mühelos Halfreds Angriff aus“; erst [[Paian]]s Bannung (mit Gunwars Hilfe) beendet den Zustand. Danach stapft er wortlos Richtung Sumpf; Paian folgt, nach langem Gespräch kehren beide zurück. Aikyr verschnüret das Schwert dick in Schlafsäcke.
+- Heratis (Session 72): geht vor der Stadt „auf die Knie“; die Stimme: „ich werde dich lehren mir zu gehorchen“; im Kampf: „Mische dich nicht ein… es sei denn du willst, dass sie alle sterben“. Er wirft sich schützend zwischen Halfred und die Kreaturen.
+- Der Brief der Schwester (Session 73): Ein schwer gerüsteter Alb überbringt ein gesiegeltes Schriftstück (Siegel: Fingerabdruck — „dorian hatte sich mit seiner schwester als kinder mit fingerabdrücken gesiegelte nachrichten geschickt“). Warnung: Der ältere Bruder [[Ilmar]] „wäre dunkel geworden udn [sic] würde keinen Schatten neben sich dulden“; er schicke Häscher; „er wäre in selenia gesucht“; „Und der Stein aus Palitan [sic] solle nicht in falsche hände geraten“; „wenn dorian der brief erreicht, werden ihn auch andere finden.“
+- Ermittlungen (Sessions 73/74): Fragt [[Witti Sohn des Vollus|Witti]] nach Wache, Stadt und Würfeln („er scheint mehr zu wissen, aber traut sich nicht mehr zu sagen“); bei [[Taldor Eisenhand]]: kennt die Isenbluts und Tuver [sic].
+- Ausrüstung (Sessions 75/76): großes tränenförmiges Schild (unerwartet leicht) von Taldor; Raben-Amulett des Zauberhandwerkers (Schaden zurückwerfen, „nur ein mal im vollen Splittermond“).
+- Der Zug des Schwerts bleibt (Session 76): „wie ein dünner Faden aus Eis in deinem Innern … Es zieht, es zerrt, es nagt an deinem Gleichgewicht.“

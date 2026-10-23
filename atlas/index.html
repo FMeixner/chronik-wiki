@@ -217,7 +217,7 @@
    ================================================================ */
 var CONFIG = {
   title: "Reiseatlas – Chronik-Wiki",
-  subtitle: "Splittermond-Chronik · Sessions 01–66 · topografische Karte nach Lorakis-Vorlage",
+  subtitle: "Splittermond-Chronik · Sessions 01–76 · topografische Karte nach Lorakis-Vorlage",
   // Relativer Pfad zur Daten-JSON (oder absolut). Kann per URL-Parameter
   // ?data=andere.json übersteuert werden.
   dataUrl: "atlas-daten.json",
@@ -387,7 +387,7 @@ function normalize(raw) {
         color: typeof r.color === "string" && r.color ? r.color : "#fbbf24",
         waypoints: (Array.isArray(r.waypoints) ? r.waypoints : [])
           .filter(function (w) { return w && w.markerId && ids[w.markerId]; })
-          .map(function (w) { return { markerId: w.markerId, caption: typeof w.caption === "string" ? w.caption : "" }; }),
+          .map(function (w) { return { markerId: w.markerId, caption: typeof w.caption === "string" ? w.caption : "", portal: !!w.portal }; }),
         statusIndex: typeof r.statusIndex === "number" ? r.statusIndex : -1
       };
     });
@@ -577,7 +577,13 @@ function renderMarkers() {
    Mehrfach begangene Strecken (Hin- und Rueckwege) werden alternierend auf
    geografisch entgegengesetzte Seiten gebogen und bei weiterer Nutzung
    zusaetzlich staerker aufgebogen, sodass sich Linien nicht mehr decken. */
-function legPath(a, b, r, edgeUse) {
+function legPath(a, b, r, edgeUse, w) {
+  // Portal-Traversal (Mondpfad/Wabern nach Zhoujiang-Palitan bzw. Rueckweg):
+  // gerade, gepunktete Feen-Linie statt Kurve — keine Landroute, km entfallen.
+  if (w && w.portal) {
+    return '<line x1="' + a.x + '" y1="' + a.y + '" x2="' + b.x + '" y2="' + b.y +
+      '" stroke="#a83fae" stroke-width="2.5" stroke-dasharray="0.1 9" stroke-linecap="round" opacity="0.9" vector-effect="non-scaling-stroke" />';
+  }
   // Geometrie im Bildpixelraum (Prozent * Bildbreite/-hoehe) rechnen,
   // damit die Senkrechte auf dem Bild senkrecht bleibt.
   var W = 1600, H = 1100;
@@ -625,7 +631,7 @@ function renderOverlay() {
         r.waypoints.forEach(function (w) {
           var m = byId(w.markerId);
           if (m && m.mapId === activeMap) {
-            if (last) inner += legPath(last, m, r, edgeUse);
+            if (last) inner += legPath(last, m, r, edgeUse, w);
             last = m;
           } else { last = null; }
         });
@@ -730,10 +736,13 @@ function renderRouteSection() {
     r.waypoints.forEach(function (w, i) {
       var m = byId(w.markerId);
       var onMap = m && m.mapId === activeMap;
-      var leg = null;
+      var leg = null, portal = false;
       if (onMap && prev && prev.mapId === activeMap) {
-        leg = kmOf(prev, m);
-        if (leg != null) { total += leg; anyLeg = true; }
+        if (w.portal) { portal = true; }
+        else {
+          leg = kmOf(prev, m);
+          if (leg != null) { total += leg; anyLeg = true; }
+        }
       }
       var link = m ? linkFor(m) : null;
       rows += '<div class="wprow' + (onMap ? "" : " dimmed") + '">' +
@@ -743,9 +752,10 @@ function renderRouteSection() {
           ? '<a class="wpname wplink" href="' + esc(link) + '" target="_blank" rel="noreferrer">' + esc(m.name || "(unbenannt)") + "</a>"
           : '<span class="wpname">' + esc(m ? (m.name || "(unbenannt)") : "(entfernt)") + "</span>") +
         (w.caption ? ' <span class="wpcap">· ' + esc(w.caption) + "</span>" : "") +
+        (portal ? ' <span class="wpcap">· Portal/Mondpfad — keine Landroute</span>' : "") +
         (r.statusIndex === i ? ' <span class="statusChip">Status quo</span>' : "") +
         "</span>" +
-        '<span class="wpleg">' + (leg != null ? "+ " + fmtKm(leg) : (prev ? "–" : "")) + "</span>" +
+        '<span class="wpleg">' + (portal ? "Portal" : (leg != null ? "+ " + fmtKm(leg) : (prev ? "–" : ""))) + "</span>" +
         "</div>";
       prev = m;
     });
