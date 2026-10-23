@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "stand": "Sessions 01-56",
+  "version": 3,
+  "stand": "Sessions 01-66",
   "mapId": "story",
   "canvas": {
     "width": 1600,
@@ -316,12 +316,12 @@
       "x": 724,
       "y": 352,
       "type": "Geheimnis",
-      "lotse": null,
+      "lotse": "#/Orte/Jadans Hütte",
       "aliases": [
         "jadans hütte",
         "jadan's hütte"
       ],
-      "notes": "Wohnhaus des Alchemisten Jadan, „3 Haeuser weiter“ beim Yonnuspriester. (Noch keine Wiki-Seite.)",
+      "notes": "Wohnhaus des Alchemisten Jadan, „3 Haeuser weiter“ beim Yonnuspriester.",
       "belege": [
         "Session 42",
         "Session 43"
@@ -505,9 +505,10 @@
       "aliases": [
         "schattenfeld"
       ],
-      "notes": "Flussnahes Gebiet am Myrkan; momentaner Standort der Gruppe (21.07.997 LZ).",
+      "notes": "Flussnahes Gebiet am Myrkan; Zwischenstation der Flussfahrt (21.07.997 LZ).",
       "belege": [
-        "Session 56"
+        "Session 56",
+        "Session 57"
       ]
     },
     {
@@ -517,9 +518,11 @@
       "y": 310,
       "type": "Stadt",
       "lotse": "#/Orte/Beertal",
-      "notes": "Ort am Myrkan, flussab von Dreywasser (Session 56 erwaehnt).",
+      "notes": "Freistadt am Myrkan, flussab von Dreywasser; Zwischenstopp der Schifffahrt (10.08.997 LZ, Sessions 57/58).",
       "belege": [
-        "Session 56 (erwaehnt)"
+        "Session 56 (erwaehnt)",
+        "Session 57",
+        "Session 58"
       ],
       "offiziell": true,
       "offiziellerName": "Freistadt Beertal"
@@ -531,12 +534,49 @@
       "y": 160,
       "type": "Dorf",
       "lotse": "#/Orte/Drugonsfuhrt",
-      "notes": "Furt/Ort am Unterlauf des Myrkan (Session 56 erwaehnt). Kalibriert: 800 km von Wasserfels.",
+      "notes": "Furt/Ort am Unterlauf des Myrkan. Kalibriert: 800 km von Wasserfels. Endpunkt der Schifffahrt, Aufenthalt der Gruppe (Sessions 59-61).",
       "belege": [
-        "Session 56 (erwaehnt)"
+        "Session 56 (erwaehnt)",
+        "Session 59",
+        "Session 60",
+        "Session 61"
       ],
       "offiziell": true,
       "offiziellerName": "Drugonsfurt"
+    },
+    {
+      "id": "seenland",
+      "name": "Das Seenland",
+      "x": 400,
+      "y": 335,
+      "type": "Naturmarke",
+      "lotse": "#/Orte/Das Seenland",
+      "aliases": [
+        "seenland"
+      ],
+      "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Herathis; Durchquerung der Gruppe ab 01.09.997 LZ, Angriffe der Zwielichthetzer.",
+      "belege": [
+        "Session 62",
+        "Session 63",
+        "Session 64"
+      ]
+    },
+    {
+      "id": "hoehle-im-seenland",
+      "name": "Die Höhle im Seenland",
+      "x": 460,
+      "y": 420,
+      "type": "Untergrund",
+      "lotse": "#/Orte/Die Höhle im Seenland",
+      "aliases": [
+        "höhle im seenland"
+      ],
+      "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; momentaner Standort der Gruppe (Sessions 64-66).",
+      "belege": [
+        "Session 64",
+        "Session 65",
+        "Session 66"
+      ]
     },
     {
       "id": "heratis",
@@ -544,8 +584,8 @@
       "x": 190,
       "y": 1030,
       "type": "Ziel",
-      "lotse": null,
-      "notes": "Naechstes Reiseziel: der Zwerg, der sich mit Feenwirken auskennt (Sarnburg-Heratis ≈ 1000 km).",
+      "lotse": "#/Orte/Heratis",
+      "notes": "Reiseziel: der Zwerg, der sich mit Feenwirken auskennt (Sarnburg-Heratis ≈ 1000 km) — doch das Schwarze Schwert verbietet Dorean die Stadt (Session 61).",
       "belege": [
         "Sessions 37+, als Ziel erwaehnt"
       ],

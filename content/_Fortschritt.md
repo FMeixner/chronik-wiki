@@ -5,8 +5,8 @@ title: _Fortschritt
 # Destillations-Fortschritt
 
 ## Stand
-- Verarbeitet: Sessions 01–56, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis „Leinen los“ (in-world zuletzt explizit: 21.07.997 LZ, das Schattenfeld auf der Myrkan-Fahrt).
-- Nächster Abschnitt: beginnt mit dem Eintrag vom 24.09.2024 („Gold auf Schwarz“).
+- Verarbeitet: Sessions 01–66, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis „Die Lichter in der Höhle“ (in-world fortlaufend ab 01.09.997 LZ, Durchquerung des Seenlands).
+- Nächster Abschnitt: beginnt mit dem Eintrag vom 14.01.2025 („Der Schwarm“).
 - Rohtext-Stand: Google Doc „Die Chronik“, Stand 21.10.2026.
 
 ## Konventionen
@@ -70,3 +70,21 @@ title: _Fortschritt
 - Siras Deckname in [[Vorbrin]]: Die Chronik bricht mitten im Satz ab — „Sira als ….“ (Session 49, wörtlich offen).
 
 - Gelöste Fragen (zur Referenz): „Tenkuri, ?“ (Session 36) — Tenkuri ist der Feenfürst, „Herr des Pfades“ (Session 37). Gattas Schicksal — Verhaftung (Session 41) und Hinrichtung (Session 44); die Hingerichtete war Gatta (Spieler-Klarstellung 22.10.2026). Ring-Finder: Halfred (Spieler-Klarstellung 22.10.2026; Chronik-Widerspruch bleibt dokumentiert). Taxonomie: Tiere eigene Kategorie `Tiere/` (Nutzer-Entscheid 22.10.2026). Esmoda als „Stadt der Toten“ (Session 41) auf der Esmoda-Seite nachgetragen. Jardans Analysen (Session 47) abgeschlossen und beide Gegenstände zurückgeholt: Ring (göttliche Domäne, „decke etwas auf und verstecke etwas“) und Herzkristall (Kraft bereits abgegeben; „Ein Schatten, ein Geist liegt auf diesem Gegenstand“).
+### Offene Fragen aus Sessions 57–66 (Batch 5)
+- Die [[Die Erleuchteten]]: Wer steht hinter dem Orden mit dem schwarzen Banner und goldenen Schwert — und wer sind die „Ketzer“, gegen die er zieht? Er wirbt genau dort, wo die [[Gunwarkirche]] an Glaubwürdigkeit verliert. (Sessions 57/58)
+- [[Jesko Talnor]]s Päckchen: Der Winborner Hauptmann drückt ihm „ein Bündel“ in die Hand („Ab hier sollte es sicher sein“) — Inhalt und Auftrag unbekannt. (Session 59)
+- Chronik-Zeile „tochter der neuntöterin“ (Session 59) — unverständlich, wörtlich belassen. Wer ist gemeint ([[Sira]]? [[Balina]]?)?
+- Die Stimme des [[Schwarzes Schwert|Schwarzen Schwerts]]: „Ich werde alle töten, die dir lieb und teuer sind!“ (Session 62) — und ihr Verhältnis zu Siras Alptraum derselben Nacht: Der Schemen, der [[Arikarion]] würgt, trägt Siras eigenes Gesicht (Session 61). Zusammenhänge offen.
+- Die [[Nebelhetzer|Zwielichthetzer]]: Wer schickte sie gegen die Gruppe? [[Aikyr]] spekuliert, „dass vllt der Zwerg einen Feenpakt geschlossen hat“ (Session 64) — welcher Zwerg gemeint ist, hält die Chronik nicht fest.
+- Halfreds Geistreise-Stimme: „Endlich habe ich jemanden gefunden, dem ich sein Innerstes anvertrauen kann … Mein Opfer war nicht umsonst. Hüte sein Geheimnis, denn sie werden kommen um es an sich zu reißen“ — wer spricht, wessen Geheimnis ist es, wessen „Opfer“, und wer wird kommen? (Sessions 65/66)
+- Paians Bürde: „Du wirst der Letzte sein …“ — was genau bindet ihn an die Höhle bzw. die [[Monstein]]e? Warum kollabiert er außerhalb, warum bringt das Zurückkleben des Kristalls nichts? Und woher kennt die Stimme Paians Herkunft („Sohn von Hamund und Isotta Bergmann“)? (Sessions 65/66)
+- Der verdorrte Kreis um die Höhle: Doreans Deutung — sowas passiere, „wenn man große Mengen Magie aus der Umgebung zieht“ („so oder so ähnlich hätte es seine Schwester erzählt“) — was genau ist dort geschehen? (Session 66)
+- Die Lingua-Dracis-Abwandlung der Masken-Schrift ist nirgends entziffert; der Beertaler Bibliothekar wirkt selbst überrascht („nicht aufgezeichnet? geklaut?“). Die [[Sturmreich]]-Aufzeichnungen sind der einzige Hinweis — was sagt die Schrift? ([[Meister Mavarik]] sollte sie prüfen; Ergebnis nicht überliefert.) (Sessions 57/58)
+- Kontensperrung: Die Konten des Zinnenforsts wurden „auf Geheiß des Kaisers vor 5 Wochen gesperrt“ — warum? Zusammenhang mit [[Dorean]]s Familie und dem [[Zirkel der Zinnen]] offen; möglicher Ansprechpartner: Markgraf [[Tyrgan]] in Widderbock. (Session 60)
+- Drei Gesuchte in Drugonsfuhrt, „deren Beschreibung auf ihn, Sira und Dorain [sic] zutreffen könnte“ — wer sucht die drei, und warum? (Session 61)
+- Tempel-leer-Krise reichsweit: „Viele tempel stehen leer, die Priester verschwinden oder ihre Wunder/Heilungen gehen fehl“ (Beertaler Gerücht) — Ursache? (Session 57)
+- „Mjesko“ [sic]: Arikarion meint, „ein Gast“ treibe sich öfter im Seenland herum — die Chronik-Stelle ist unverständlich, wörtlich belassen (nicht mit [[Jesko Talnor]] zusammenzuführen). (Session 60)
+- Halfreds Kette: „hat jetzt mehr Holzplättchen als zuvor“ — was trägt er da, und woher kamen die neuen Plättchen (Wald-Nacht am [[Das Schattenfeld|Schattenfeld]])? (Session 57)
+- „Der Jäger“: Halfred erinnert sich, „dass der Jäger meinte wir sollen ALLEM aus dem Weg gehen, nichts Gutes ist im Sumpf“ — wessen Ratschlag gemeint ist ([[Arikarion]]?), hält die Chronik nicht fest. (Session 64)
+
+Gelöst (zur Referenz): [[Letasch]] — tot; nach Siras Bericht an Arikarion bestätigt die Chronik in Session 60: „LETASCH IST TOT! CONFIRMED!!“ Die Beertaler Lingua-Dracis-Stelle der [[Die Goldene Maske|goldenen Maske]] ist als Abwandlung der alten Drachlingssprache identifiziert (Sessions 57/58); die nebelhaften Wolfskreaturen der Feenwelt heißen nach Paians Identifikation „Zwielichthetzer“ — auf der [[Nebelhetzer]]-Seite zusammengeführt (Session 64).

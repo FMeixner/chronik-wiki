@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–56 · in-world bis 21.07.997 LZ",
+  "coverage": "Sessions 01–66 · in-world fortlaufend ab 01.09.997 LZ",
   "pages": [
     {
       "path": "index",
@@ -51,7 +51,7 @@
       "type": "person",
       "title": "Aikyr",
       "status": "lebendig",
-      "kurz": "Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf, lernt Lichtmagie bei Sira.",
+      "kurz": "Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf; seit dem Seenland: Rage und Leuchten aus den Fäusten; trägt die Kriegspeitsche.",
       "aliases": [
         "Aikir",
         "Aykir"
@@ -126,8 +126,8 @@
       "path": "Personen/Dorean",
       "type": "person",
       "title": "Dorean",
-      "status": "lebendig (nach Dolch-Attentat verwundet)",
-      "kurz": "Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden an einen Pakt; schuldet der dunklen Fee eine Seele.",
+      "status": "lebendig",
+      "kurz": "Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden an einen Pakt; schuldet der dunklen Fee eine Seele; das Schwert hat ihm Heratis verboten.",
       "aliases": [
         "Dorian"
       ],
@@ -193,7 +193,7 @@
       "type": "person",
       "title": "Halfred",
       "status": "lebendig",
-      "kurz": "Jäger und Fährtensucher der Gruppe, trägt einen Dharst; überlebte Felslawine und Wildkatze mit gebrochenem Schenkel.",
+      "kurz": "Jäger und Fährtensucher der Gruppe; nach der Geistreise im Seenland trägt er eine Borken-Hand mit glühenden Steinadern — eine Bürde.",
       "aliases": [],
       "held": true,
       "w": 100
@@ -267,8 +267,8 @@
       "path": "Personen/Letasch",
       "type": "person",
       "title": "Letasch",
-      "status": "unbekannt (im Kerker zurückgelassen)",
-      "kurz": "Siras geliebter Mensch; blieb im Kerker zurück.",
+      "status": "tot (bestätigt, Session 60)",
+      "kurz": "Siras geliebter Mensch; blieb im Kerker zurück — die Chronik bestätigt seinen Tod.",
       "aliases": [],
       "held": false,
       "w": 58
@@ -319,8 +319,8 @@
       "path": "Personen/Paian",
       "type": "person",
       "title": "Paian",
-      "status": "lebendig",
-      "kurz": "Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll; trägt das gestohlene Herz der Gagamba.",
+      "status": "dem Tode nahe (an die Höhle im Seenland gebunden)",
+      "kurz": "Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll; dem Tode nahe — eine Stimme auferlegt ihm die Bürde des ‚Letzten‘.",
       "aliases": [],
       "held": true,
       "w": 100
@@ -370,7 +370,7 @@
       "type": "person",
       "title": "Sira",
       "status": "lebendig",
-      "kurz": "Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch; überlebte den Biss des Kopfwesens.",
+      "kurz": "Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch (tot); trägt Balinas Kette — das Zeichen der geflügelten Boten.",
       "aliases": [],
       "held": true,
       "w": 100
@@ -546,7 +546,7 @@
       "type": "ort",
       "title": "Heratis",
       "status": "bestehend",
-      "kurz": "Heimat des Weinhändlers Dornentann.",
+      "kurz": "Reiseziel der Gruppe im Südwesten — doch das Schwarze Schwert verbietet Dorean die Stadt (Session 61).",
       "aliases": [],
       "held": false,
       "w": 55
@@ -568,7 +568,7 @@
       "type": "ort",
       "title": "Midstadt",
       "status": "bestehend",
-      "kurz": "Ziel der Kriegsregimenter von Gunwarkirche und Militär.",
+      "kurz": "Kriegsziel: Der Gunwarpriester-Zug scheiterte an Midstadt; ein großer Krieg steht bevor (Gerüchte Sessions 57–60).",
       "aliases": [],
       "held": false,
       "w": 47
@@ -1005,7 +1005,7 @@
       "type": "artefakt",
       "title": "Schwarzes Schwert",
       "status": "in Doreans Besitz",
-      "kurz": "Aus Albträumen geschmiedetes Paktschwert aus Totenerz; die erste Seele ist der dunklen Fee geschuldet.",
+      "kurz": "Aus Albträumen geschmiedetes Paktschwert aus Totenerz; die erste Seele ist der dunklen Fee geschuldet — und es verbietet Dorean Heratis.",
       "aliases": [
         "Schwert aus Albträumen"
       ],
@@ -1527,9 +1527,10 @@
       "type": "kreatur",
       "title": "Nebelhetzer",
       "status": "bestehend (Feenwelt)",
-      "kurz": "Nebelhafte Wolfskreaturen der Feenwelt — der Feenfürst Tenkuri bekämpft sie lieber als Orks.",
+      "kurz": "Nebelhafte Wolfskreaturen der Feenwelt — Paian nennt sie ‚Zwielichthetzer‘; wie Tiere aussehend, aber deutlich intelligenter; Hinterhaltsjäger.",
       "aliases": [
-        "nebelhafte Wolfskreaturen"
+        "nebelhafte Wolfskreaturen",
+        "Zwielichthetzer"
       ],
       "held": false,
       "w": 45
@@ -1702,7 +1703,7 @@
       "type": "ort",
       "title": "Beertal",
       "status": "bestehend",
-      "kurz": "Nächster Halt der Flussfahrt nach Drugonsfuhrt — etwa zwei Wochen ab Wasserfels.",
+      "kurz": "Stadt am Myrkan, Zwischenstopp der Schifffahrt — verödeter Gunwartempel, Erleuchteten-Werbung, Bibliothek (Sessions 57/58).",
       "aliases": [],
       "held": false,
       "w": 22
@@ -1712,7 +1713,7 @@
       "type": "ort",
       "title": "Drugonsfuhrt",
       "status": "bestehend",
-      "kurz": "Letzter mit dem Schiff befahrbarer Ort am Myrkan (~800 km flussaufwärts) — Richtung Seenland und Heratis.",
+      "kurz": "Letzter mit dem Schiff befahrbarer Ort am Myrkan (~800 km flussaufwärts) — Taverne ‚Fernes Tor‘; Ausgangspunkt der Seenland-Durchquerung.",
       "aliases": [],
       "held": false,
       "w": 32
@@ -1780,7 +1781,7 @@
       "type": "artefakt",
       "title": "Die Goldene Maske",
       "status": "bei der Gruppe (Paian analysiert sie)",
-      "kurz": "Ausdruckslose Goldmaske aus Luidpergas Geheimfach — die Schrift-Kratzer an der Innenseite gleichen der Altar-Schrift.",
+      "kurz": "Ausdruckslose Goldmaske aus Luidpergas Geheimfach — die Schrift-Kratzer sind eine Lingua-Dracis-Abwandlung, verknüpft mit Sturmreich.",
       "aliases": [
         "goldene ausdruckslose Maske"
       ],
@@ -1846,6 +1847,179 @@
       ],
       "held": false,
       "w": 60
+    },
+    {
+      "path": "Orte/Das Seenland",
+      "type": "ort",
+      "title": "Das Seenland",
+      "status": "bestehend",
+      "kurz": "Moor- und Seengebiet südlich von Drugonsfuhrt — Durchquerung auf dem Weg nach Heratis; Angriffe nebelhafter Wolfswesen.",
+      "aliases": [
+        "Seenland"
+      ],
+      "held": false,
+      "w": 50
+    },
+    {
+      "path": "Orte/Die Höhle im Seenland",
+      "type": "ort",
+      "title": "Die Höhle im Seenland",
+      "status": "bestehend (Paian an sie gebunden)",
+      "kurz": "Höhle aus aneinander gelehnten Felsen — Monstein-Sternenhimmel, Skelett mit Kriegspeitsche, Trollkampf; Paian kollabiert außerhalb.",
+      "aliases": [
+        "Höhle im Seenland",
+        "die Höhle"
+      ],
+      "held": false,
+      "w": 50
+    },
+    {
+      "path": "Orte/Jadans Hütte",
+      "type": "ort",
+      "title": "Jadans Hütte",
+      "status": "bestehend",
+      "kurz": "Wohnhaus des Alchemisten Jadan bei Sarnburg — Splitter-Analyse und Prophezeiungs-Deutung (Sessions 42/43).",
+      "aliases": [
+        "Jardans Hütte"
+      ],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Orte/Sturmreich",
+      "type": "ort",
+      "title": "Sturmreich",
+      "status": "historisch (zerschlagen)",
+      "kurz": "Historischer Landstrich unter den ‚flüsternden Brüdern‘ — in Beertals Bibliothek mit der Altar-Schrift verknüpft.",
+      "aliases": [
+        "sturmreich"
+      ],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Fraktionen/Die geflügelten Boten",
+      "type": "fraktion",
+      "title": "Die geflügelten Boten",
+      "status": "aktiv",
+      "kurz": "Boten-Netzwerk mit Feder-Zeichen — Balinas Kette mit schwarzer Feder; Arikarion vermittelt Sira und den Freunden Hilfe.",
+      "aliases": [
+        "geflügelte Boten"
+      ],
+      "held": false,
+      "w": 45
+    },
+    {
+      "path": "Fraktionen/Die Erleuchteten",
+      "type": "fraktion",
+      "title": "Die Erleuchteten",
+      "status": "aktiv",
+      "kurz": "Kriegerischer Orden mit schwarzem Banner und goldenem Schwert — ‚Schild und zorngeballte Faust des Kaisers‘; Werbung in Beertal.",
+      "aliases": [
+        "Erleuchtete"
+      ],
+      "held": false,
+      "w": 35
+    },
+    {
+      "path": "Kreaturen/Troll",
+      "type": "kreatur",
+      "title": "Troll",
+      "status": "tot (Höhle im Seenland)",
+      "kurz": "Großes humanoides Wesen mit gelber Haut und Rattenbegleitung — von Halfreds Wurzeln durchbohrt (Session 65).",
+      "aliases": [
+        "troll"
+      ],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Artefakte/Monstein",
+      "type": "artefakt",
+      "title": "Monstein",
+      "status": "vorhanden (Höhlendecke; Kristalle bei Halfred und Paian)",
+      "kurz": "Blau leuchtende Kristalle der Höhlendecke — das Frühlings-Sternenfirmament; Paians Leben hängt an ihrem Licht.",
+      "aliases": [
+        "Monstein-Kristalle"
+      ],
+      "held": false,
+      "w": 40
+    },
+    {
+      "path": "Artefakte/Die Kriegspeitsche",
+      "type": "artefakt",
+      "title": "Die Kriegspeitsche",
+      "status": "in Aikyrs Besitz",
+      "kurz": "Peitsche aus Metall und Kettengliedern vom seltsamen Skelett in der Höhle — Aikyr nennt sie ‚ein Geschenk Dragons‘.",
+      "aliases": [
+        "Kriegspeitsche"
+      ],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Personen/Arikarion",
+      "type": "person",
+      "title": "Arikarion",
+      "status": "lebendig",
+      "kurz": "Elf-Wirt des ‚Fernen Tors‘ in Drugonsfuhrt; kennt Letasch und Sira seit Kindertagen — vermittelt die geflügelten Boten und die Route durchs Seenland.",
+      "aliases": [],
+      "held": false,
+      "w": 55
+    },
+    {
+      "path": "Personen/Witti Sohn des Vollus",
+      "type": "person",
+      "title": "Witti Sohn des Vollus",
+      "status": "unbekannt (noch nicht getroffen)",
+      "kurz": "Ansprechpartner der geflügelten Boten in der Taverne am verwinkelten Wachposten auf dem Weg nach Heratis.",
+      "aliases": [
+        "Witti"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Meister Mavarik",
+      "type": "person",
+      "title": "Meister Mavarik",
+      "status": "unbekannt",
+      "kurz": "Experte für alte Sprachen an der Beertaler Bibliothek — sollte die Lingua-Dracis-Stelle der goldenen Maske prüfen.",
+      "aliases": [
+        "Mavarik"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Varun Nareiko",
+      "type": "person",
+      "title": "Varun Nareiko",
+      "status": "unbekannt",
+      "kurz": "Blonder Mensch an der Goldenen Halle in Drugonsfuhrt — erzählte der Gruppe über den Drugontempel.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Osip Sidurenko",
+      "type": "person",
+      "title": "Osip Sidurenko",
+      "status": "unbekannt (nur erwähnt)",
+      "kurz": "Fürst von Drugonsfurth, wohnt in der Kleinen Burg.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Tyrgan",
+      "type": "person",
+      "title": "Tyrgan",
+      "status": "unbekannt (nur erwähnt)",
+      "kurz": "Markgraf in Widderbock (nordöstlich) — möglicher Ansprechpartner zur Kontensperrung des Zinnenforsts.",
+      "aliases": [],
+      "held": false,
+      "w": 12
     }
   ]
 }

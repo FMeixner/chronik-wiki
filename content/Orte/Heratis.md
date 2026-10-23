@@ -3,7 +3,7 @@ type: ort
 title: Heratis
 aliases: []
 status: bestehend
-kurz: Heimat des Weinhändlers Dornentann.
+kurz: Reiseziel im Südwesten — doch das Schwarze Schwert verbietet Dorean die Stadt (Session 61).
 ---
 # Heratis
 
@@ -17,3 +17,6 @@ kurz: Heimat des Weinhändlers Dornentann.
 
 
 - Route dorthin (Session 47): [[Dorean]] schlägt eine Flussfahrt auf dem [[Myrkan]] vor — „damit könne man bis in das Seenland reisen, was nicht mehr weit von Heratis wäre“; [[Halfred]] soll das Schwarze Schwert dorthin bis zur Verwahrung bringen (Session 46).
+
+- Route dorthin (Session 59, [[Arikarion]] wörtlich): „nach Süden durch das [[Das Seenland|Seenland]]. Dann sollten wir auf die Heerstraße von Dreybar nach Herathis stoßen und der nach Westen folgen.“ — sicher: „Die Taverne am verwinkelten Wachposten“, Ansprechpartner [[Witti Sohn des Vollus]], Zeichen: Kette mit schwarzer Feder.
+- Verbot der Stadt (Session 61): Doreans [[Schwarzes Schwert]] hat ihm Heratis untersagt — „du gehst nicht nach Heratis, du gehst nicht in die Feenstadt“ — „unter Androhung das Leben des Wirtes zu beenden“; die Gruppe bricht stattdessen ins Seenland auf.

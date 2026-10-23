@@ -3,7 +3,7 @@ type: person
 title: Sira
 aliases: []
 status: lebendig
-kurz: Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch; überlebte den Biss des Kopfwesens.
+kurz: Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finsternis; Liebesband zu Letasch (tot); trägt Balinas Kette — das Zeichen der geflügelten Boten.
 ---
 # Sira
 
@@ -46,3 +46,14 @@ kurz: Elfische Bardin der Gruppe, widerfahren wiederkehrende Visionen der Finste
 - Erkennt in den dem Kind eingeritzten Worten („Wo die -terne flü— …“) „Teil der Worte, die der [[Der Säulenheilige|Säulenheilige]] an Aikyr gerichtet hat“ (Session 53); wird vom um sich schlagenden [[Der angekettete Varg|Varg]] „in wilder Wut … zur Seite geschmettert“ (Session 52); schickt ihre Lichtkugel im Säulensaal nach oben — die Deckenmalerei blitzt kurz auf, „was ihr viel Kraft abverlangt“ (Session 53).
 - Auf der Überfahrt schlägt sie die Asche des bestatteten Kindes in ihren Mantel (Session 53).
 - Deckname (Session 49): Die Chronik lässt offen, unter welchem Namen Sira sich meldet — wörtlich: „Sira als ….“.
+
+
+## Sessions 57–66: Beertal und Drugonsfuhrt — die geflügelten Boten, der Alptraum
+
+- In Beertal mit Paian bei der Menschentraube um die [[Die Erleuchteten|Erleuchteten]]; fragt Umstehende, „um welche Ketzer es sich haltet“ — die Antwort: Die „alten Götter“ hätten sie verraten, der Gunwarpriester-Zug gegen [[Midstadt]] „scheint gescheitert zu sein und habe sich dann auf die Seite Midstadts geschlagen“ (Session 57); Paian hallt danach die Worte nach: „und Gunwar hat uns vor den Augen der Welt verraten, verspricht uns das ewige Leben … Speichellecker Midstadts in den Farben Schwarz und Rot“ (Session 58).
+- Beobachtet am Beertaler Gunwartempel die beschmierten Wände, die faustgroßen Steine und die verkohlte Einrichtung; zieht Paian vom Platz, als der Bettler mit dem eingebrannten Gunwar-Zeichen flüstert (Session 58).
+- Entdeckt in der Taverne „Fernes Tor“ in [[Drugonsfuhrt]] „am Türrahmen eine Feder eingeritzt“ — „sie glaubt, dass das vielleicht ein Zeichen der [[Teleshai]] ist“ (Session 59).
+- Erzählt [[Arikarion]] die Geschichte der Gruppe (inkl. Letasch); er wirkt betroffen und vermittelt die [[Die geflügelten Boten|geflügelten Boten]]; auf seine Frage, ob Letasch ihr je „eine Kette mit einer schwarzen Feder gegeben“ hat, erzählt sie, dass [[Balina]] aus [[Südfang]] ihr genau so eine geschenkt hat (Session 59).
+- Erbarmt sich, beim Seenland-Auskundschaften mit [[Halfred]] zu gehen (Session 60); zieht Paian „ausgelassen auf die Tanzfläche“ — der kriegt einen hochroten Kopf (Session 61).
+- Alptraum in Drugonsfurt (Session 61, wörtlich): Sie hört Geräusche, geht nach unten — „hinter dem Tresen ein Gurgeln … sie sieht einen schwarzen Schemen, der über Arikarion gebeugt ist und ihn würgt. seine Augen treten aus den Höhlen hervor. Sie greift nach dem Schemen, zieht an ihm und sieht, dass der Schemen ihr eigenes Gesicht trägt. Sie wacht schweißgebadet auf.“ Am Morgen „völlig übernächtigt“; fragt den verwirrten Wirt, ob er hier sicher wäre.
+- Im Seenland: wirft im Trollkampf Lichtklingen (Session 65); erinnert sich, dass Halfred zwei Steine aus der Decke gelöst hat (Session 66); schreibt mit Kohle „Paians Melodie“ an die Höhlenwand und spielt sie den anderen vor (Session 66).

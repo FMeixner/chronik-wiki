@@ -2,8 +2,8 @@
 type: person
 title: Paian
 aliases: []
-status: lebendig
-kurz: Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll; trägt das gestohlene Herz der Gagamba.
+status: dem Tode nahe (an die Höhle im Seenland gebunden)
+kurz: Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid Staubhüll; trägt das gestohlene Herz der Gagamba — dem Tode nahe, eine Stimme auferlegt ihm die Bürde des „Letzten“.
 ---
 # Paian
 
@@ -51,3 +51,15 @@ kurz: Priester der Gruppe mit Geistblick und Heilkunde, Schüler des Theoboid St
 - Das Hüeng-Talisman an seinem Gürtel leuchtet im Panikraum auf; Dorian beruhigt ihn mit dem Bambus-Wort des Hüengpriesters (Session 51).
 - Bei [[Luidperga]]: sieht ihren Geist, der „scheinbar wahllos durch den Raum“ geht; untersucht die Leiche — keine Gewalteinwirkung; beerdigt sie mit Aikyr (Session 54) und hält mit der Gruppe eine Andacht auf dem Totenanger (Session 55).
 - Deckname „Calandarius“ (Session 49). Auf der Flussfahrt: „fühlt eine Last von sich abfallen, als er das Ufer hinter sich sieht“; liest viel, analysiert die goldene Maske und die anderen magischen Gegenstände (Session 56).
+
+
+## Sessions 57–66: Beertal und Drugonsfuhrt — die goldene Maske, die Bürde, die Höhle
+
+- Analysiert die [[Die Goldene Maske|goldene Maske]]: Sie „wehrt sich vehement dagegen, ihre Geheimnisse preiszugeben“ — ein Lichtblitz lässt ihn „fast einen ganzen Tag nur verschwommen sehen“, die Ohren klingen; auf der Flussfahrt brütet er „beinahe zwei Wochen über der goldenen Maske, die ihre Geheimnisse nur langsam preisgibt“ (Sessions 57/59).
+- In Beertal mit Sira zur Bibliothek; spricht eine Wache auf Bibliothek und Gunwartempel an — er reagiert „grimmig, sogar verächtlich“; wird ohne Empfehlungsschreiben nicht eingelassen; der Bibliothekar will die Lingua-Dracis-Stelle [[Meister Mavarik]] zeigen (Session 58). Am verödeten Gunwartempel greift ihn ein Bettler „fest an der Schulter“: „es ist nicht die Zeit zu handel, Bruder… tu ihnen nicht den gefallen“ (Session 58).
+- In Drugonsfuhrt: isst Würstchenkotelett mit Zwiebelsoße (Session 59); kauft neue Heilmittel und Verbände (Session 60); schläft im Sumpf „sehr viel“ — die Gruppe hofft, er habe sich „nicht das Sumpffieber eingefangen“ (Session 62).
+- Identifiziert die nebelhaften Angreifer als „Zwielichthetzer“ — „Wesen aus der Feenwelt, die zwar wie Tiere aussehen aber deutlich intelligenter sind“; sie wechseln „in der Dämmerung von der Feenwelt ins Diesseits“, folgen ihren Opfern unnachgiebig und greifen am liebsten aus dem Hinterhalt an (Session 64; → [[Nebelhetzer]]).
+- Im Trollkampf niedergeschlagen und gewürgt (Session 65) — Nahtod-Erlebnis (Vorlesetext, wörtlich): „So fühlt sich also sterben an … Dein Tag ist nicht heute Paian, Sohn von Hamund und Isotta Bergmann. Der Schützling von Tioboid Staubhüll hat noch eine Aufgabe zu erfüllen, bevor er sich an die Seite seines Meisters gesellen darf, der bereits hier auf ihn wartet. Du wirst der Letzte sein, der zwischen einer alles verschlingenden Finsternis und den tapfer sich dagegen aufbäumenden Herzen stehen wird. Flamme, brenne, wenn die Dunkelheit sich nähert. Trotze dem Sterben des Lichts, entfesselt in Zorn.“
+- Danach schwebt er „durch die Dunkelheit, auf eine ewige Mauer und ein einfaches Tor zu. Eine Stimme spricht mit ihm …“ — er schreckt keuchend auf (Session 66).
+- Ist an die Höhle gebunden: Am Höhleneingang bricht er wiederholt zusammen — „ein brennender Schmerz“ — und „die Schmerzen werden augenblicklich besser“, sobald er zurück in der Höhle ist; der mit Holzasche, Wasser und Dreck zurückgeklebte Monstein bringt „keine Veränderung“; abends, wenn das Licht der Steine erlischt, bricht er erneut zusammen (Session 66).
+- Abschiedsmale: Aikyr schnitzt ihm ein Grabdenkmal; Sira schreibt „Paians Melodie“ mit Kohle an die Höhlenwand (Session 66).

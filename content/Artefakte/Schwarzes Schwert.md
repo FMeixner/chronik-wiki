@@ -19,3 +19,7 @@ kurz: Aus Albträumen geschmiedetes Paktschwert aus Totenerz; die erste Seele is
 
 - Als Doreans Vision von der [[Die Alte über die Kreuzwege|Alten über die Kreuzwege]] beginnt, geht seine Hand „langsam an das schwarze Schwert auf seinem Rücken" (Session 39); auf Paians Ansprache dazu antwortet er ausweichend (Session 40).
 - Halfred kann die Klinge nicht an sich nehmen, obwohl Dorean sie ihm bis [[Heratis]] zur Verwahrung geben will: „Halfred will danach greifen, schafft es aber nicht, die Klinge an sich zu nehmen. Dorean schmunzelt erst, dann wird sein Gesicht schmerzerfüllt." Er behält sie (Session 46).
+
+- In Drugonsfuhrt (Session 61): Die „kalte schnarrende Stimme“ zu Dorian — „Ich weiß was du vor hast, ich weiß wohin du gehst!, du wirst einen anderen Pfad einschlagen“ / „du gehst nicht nach Heratis, du gehst nicht in die Feenstadt“; auf „Sonst was?“ das Verlangen, den Wirt Arikarion niederzustrecken (mühevoll niedergerungen). Das Schwert verbietet Dorean Heratis „unter Androhung das Leben des Wirtes zu beenden“ — Dorean drängt die Gruppe noch am Morgen zum Aufbruch.
+- Drohung im Sumpf (Session 62): Stimme in Doreans Kopf — „Ich werde alle töten, die dir lieb und teuer sind!“
+- Nähe zu Siras Alptraum in derselben Nacht (Session 61): Der schwarze Schemen, der Arikarion würgt, trägt Siras eigenes Gesicht — ob die Stimme des Schwerts und der Schemen zusammenhängen, hält die Chronik nicht fest (offen).

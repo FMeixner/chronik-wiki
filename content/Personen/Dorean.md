@@ -2,8 +2,8 @@
 type: person
 title: Dorean
 aliases: [Dorian]
-status: lebendig (nach Dolch-Attentat verwundet)
-kurz: Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden an einen Pakt; schuldet der dunklen Fee eine Seele.
+status: lebendig
+kurz: Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden an einen Pakt; schuldet der dunklen Fee eine Seele; das Schwert hat ihm Heratis verboten.
 ---
 # Dorean
 
@@ -46,3 +46,15 @@ kurz: Adlischer Freigeist der Gruppe; trägt das Schwarze Schwert — gebunden a
 - Im [[Der Schlund der Finsternis|Schlund der Finsternis]] hackt er auf den [[Der angekettete Varg|Varg]] und die Ranken ein (Session 52); seine Berührung lässt den [[Der Spiegel (Schlund der Finsternis)|Spiegel]] „in 1000 Stücke“ zerspringen (Session 53).
 - Findet auf Luidpergas Schreibtisch Bücher und zerknüllte Pergamente (Session 54).
 - Auf der Flussfahrt: trainiert und liest Gesetzestexte (Session 56).
+
+
+## Sessions 57–66: Beertal und Drugonsfuhrt — das Schwert verbietet Heratis
+
+- In Beertal mit Halfred am Hafen: Bier und Gerüchte — „Schlechte Vorzeichen für die kommende Ernte“, befürchtete Hungersnot, leere Tempel, verschwindende Priester, misslingende Wunder (Session 57); ist „froh, dass sich nicht alles verändert hat“ — „Auf Dirnen und Tavernen“ (Session 58).
+- Stellt sich in der Bibliothek „als Adeliger und Schwertrichter“ vor und bringt Paian so an die Informationen: eine „Abwandlung der Lingua drakis [sic]“, bereits aufgezeichnet zum Thema [[Sturmreich]] — ob entziffert: keine Aufzeichnungen, der Bibliothekar wirkt „, als wäre er selbst überrascht“ (Session 58).
+- Isst in Drugonsfurt „des Kaisers Pilzroulade“ (Session 59); gönnen sich mit Aikyr „noch ein paar Bier“ (Session 60).
+- Bei der Gnomischen Handelsbank in Drugonsfurth [sic]: Der nervöse Bankier berichtet, „dass die Konten der Zinnenforsts auf Geheiß des Kaisers vor 5 Wochen gesperrt wurden“; möglicher Ansprechpartner: Markgraf [[Tyrgan]] in Widderbock (Session 60).
+- Arikarion gibt ihm „einen Säckel Geld“; Dorian will es zurückzahlen, Arikarion winkt ab (Session 61).
+- Die kalte schnarrende Stimme des [[Schwarzes Schwert|Schwarzen Schwerts]] (Session 61, wörtlich): „Ich weiß was du vor hast, ich weiß wohin du gehst!, du wirst einen anderen Pfad einschlagen“ / „du gehst nicht nach [[Heratis]], du gehst nicht in die Feenstadt“ — auf „Sonst was?“ überkommt ihn „das Verlangen, sein schwarzes Schwert zu ziehen und den Wirt niederstrecken, was er mühevoll niederringt“. Er drängt die Gruppe am Morgen zum Aufbruch und eröffnet außerhalb der Stadt: Das Schwert hat ihm Heratis „unter Androhung das Leben des Wirtes zu beenden“ verboten.
+- Im Sumpf: Stimme in seinem Kopf — „Ich werde alle töten, die dir lieb und teuer sind!“ (Session 62).
+- Deutet den verdorrten Kreis um die Höhle: sowas passiere, „wenn man große Mengen Magie aus der Umgebung zieht“ — „so oder so ähnlich hätte es seine Schwester erzählt“ (Session 66); verteidigt im Trollkampf seine Gefährten (Session 65).

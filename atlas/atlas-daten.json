@@ -219,8 +219,8 @@
       "y": 32,
       "name": "Jadans Hütte",
       "type": "Geheimnis",
-      "notes": "Wohnhaus des Alchemisten Jadan, „3 Haeuser weiter“ beim Yonnuspriester. (Noch keine Wiki-Seite.)",
-      "lotse": null
+      "notes": "Wohnhaus des Alchemisten Jadan, „3 Haeuser weiter“ beim Yonnuspriester.",
+      "lotse": "#/Orte/Jadans Hütte"
     },
     {
       "id": "mondpfad",
@@ -339,7 +339,7 @@
       "y": 35.45,
       "name": "Das Schattenfeld",
       "type": "Geheimnis",
-      "notes": "Flussnahes Gebiet am Myrkan; momentaner Standort der Gruppe (21.07.997 LZ).",
+      "notes": "Flussnahes Gebiet am Myrkan; Zwischenstation der Flussfahrt (21.07.997 LZ).",
       "lotse": "#/Orte/Das Schattenfeld"
     },
     {
@@ -349,7 +349,7 @@
       "y": 28.18,
       "name": "Beertal",
       "type": "Stadt",
-      "notes": "Ort am Myrkan, flussab von Dreywasser (Session 56 erwaehnt).",
+      "notes": "Freistadt am Myrkan, flussab von Dreywasser; Zwischenstopp der Schifffahrt (Sessions 57/58).",
       "lotse": "#/Orte/Beertal"
     },
     {
@@ -359,8 +359,28 @@
       "y": 14.55,
       "name": "Drugonsfuhrt",
       "type": "Dorf",
-      "notes": "Furt/Ort am Unterlauf des Myrkan (Session 56 erwaehnt). Kalibriert: 800 km von Wasserfels.",
+      "notes": "Furt/Ort am Unterlauf des Myrkan. Kalibriert: 800 km von Wasserfels. Endpunkt der Schifffahrt (Sessions 59-61).",
       "lotse": "#/Orte/Drugonsfuhrt"
+    },
+    {
+      "id": "seenland",
+      "mapId": "story",
+      "x": 25,
+      "y": 30.45,
+      "name": "Das Seenland",
+      "type": "Naturmarke",
+      "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Herathis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer.",
+      "lotse": "#/Orte/Das Seenland"
+    },
+    {
+      "id": "hoehle-im-seenland",
+      "mapId": "story",
+      "x": 28.75,
+      "y": 38.18,
+      "name": "Die Höhle im Seenland",
+      "type": "Untergrund",
+      "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; momentaner Standort der Gruppe (Sessions 64-66).",
+      "lotse": "#/Orte/Die Höhle im Seenland"
     },
     {
       "id": "heratis",
@@ -369,16 +389,16 @@
       "y": 93.64,
       "name": "Heratis",
       "type": "Ziel",
-      "notes": "Naechstes Reiseziel: der Zwerg, der sich mit Feenwirken auskennt (Sarnburg-Heratis ≈ 1000 km).",
-      "lotse": null
+      "notes": "Reiseziel: der Zwerg, der sich mit Feenwirken auskennt (Sarnburg-Heratis ≈ 1000 km) — doch das Schwarze Schwert verbietet Dorean die Stadt (Session 61).",
+      "lotse": "#/Orte/Heratis"
     }
   ],
   "routes": [
     {
       "id": "r1",
-      "label": "Der Weg der Gruppe (Sessions 01–56)",
+      "label": "Der Weg der Gruppe (Sessions 01–66)",
       "color": "#fbbf24",
-      "statusIndex": 44,
+      "statusIndex": 48,
       "waypoints": [
         {
           "markerId": "unterwalde",
@@ -559,6 +579,22 @@
         {
           "markerId": "schattenfeld",
           "caption": "S 56 · Leinen los (19.–21.07.997 LZ)"
+        },
+        {
+          "markerId": "beertal",
+          "caption": "S 57 · Gold auf Schwarz (22.07.–10.08.997 LZ)"
+        },
+        {
+          "markerId": "drugonsfuhrt",
+          "caption": "S 59 · Die geflügelten Boten (10.–28.08.997 LZ)"
+        },
+        {
+          "markerId": "seenland",
+          "caption": "S 62 · Durch den Sumpf (ab 01.09.997 LZ)"
+        },
+        {
+          "markerId": "hoehle-im-seenland",
+          "caption": "S 64 · Drugons Geschenk"
         }
       ]
     }

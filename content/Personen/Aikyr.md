@@ -3,7 +3,7 @@ type: person
 title: Aikyr
 aliases: [Aikir, Aykir]
 status: lebendig
-kurz: Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf, lernt Lichtmagie bei Sira.
+kurz: Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf; lernt Lichtmagie bei Sira — seit dem Seenland: Rage und Leuchten aus den Fäusten; trägt die Kriegspeitsche.
 ---
 # Aikyr
 
@@ -45,3 +45,18 @@ kurz: Varg und Reckenheld der Gruppe, Besitzer von Sommertochter und Donnerhuf, 
 - Auf dem Pier von [[Wasserfels]] fragt er die anderen, was sie tun wollen, „wenn alles vorbei ist“: Er möchte „einen Wal fangen“ — das heitert Halfred und Paian auf (Session 50).
 - Traum auf dem Schiff (Session 55): modriger Boden, Leichen, Gitterstäbe — [[Rheva|Reva]], seine Schwester, blickt ihn flehentlich an, „aber es kommt nur pfeifen aus ihrem Mund … das pfeifende Lied des Zwergenpriesters. und ihr Gesicht wird zu einer Fratze.“ Danach pöbelt er [[Herr Janka|Herrn Janka]] an, der schweigend an Deck steht.
 - Flussfahrt auf dem [[Myrkan]] (Session 56): wird „fast wahnsinnig, weil er nichts zu tun hat“, pfeffert die Angel von [[Jesko Talnor]] in die Ecke und prügelt sich aus Langeweile mit [[Halfred]].
+
+
+## Sessions 57–66: Beertal und Drugonsfuhrt — Ragelerst, Kriegspeitsche, Floßbau
+
+- In Beertal „ungeduldig und der Erste von Bord und ist zügig verschwunden“: kauft sich ein Waffenpflegeset für die langen Stunden auf dem Boot und sucht eine Dirne auf (Session 57); kommt „nach einem ausgiebigen Schäferstündchen“ in die Taverne „am Hafen“ — Dorian bemerkt, dass er „ganz ausgelassen wirkt“ (Session 57).
+- Auf der Flussfahrt: wetzt „sein Messer und jede Klinge, die er in die Finger kriegt“ und „schnippt mit seiner Peitsche kleine Steinchen von der Reling des Boote[s]“, fordert jeden heraus, es ihm gleichzutun (Session 59).
+- In Drugonsfurt lacht er sich „zügig eine rothaarige Dame an, die die größten Brüste hat, die er je gesehen hat“ — Ausritt, der „mit einem Schäferstündchen an einem See endet“; erzählt Dorean danach davon „mit detailverliebter Hingabe“ (Sessions 59/60).
+- Sucht in der Goldenen Halle (Drugontempel) vergeblich eine neue Peitsche; stattdessen Lehrstunden in Lederarbeiten mit Paian — „Können handwerk um 2 steigern“ (Session 60).
+- Spielt mit Sira „eine Geschichte von einem verzauberten Varg, der von einer Gruppe Helden gerettet wird“ — „es kommt enorm gut an, die Leute spenden tosenden Applaus“; leider nur 9 Telare Spenden (Session 61). Hört von einer betrunkene Wache von drei Gesuchten, „deren Beschreibung auf ihn, Sira und Dorain [sic] zutreffen könnte“ (Session 61).
+- Neue Fähigkeit (Session 63): Als Halfred angefallen wird, „verfällt [er] in Rage und ein Leuchten bricht aus seinen Fäusten hervor“ — danach ist er „von seinen neu gewonnenen Fähigkeiten völlig begeistert“ (Session 64).
+- Zeigt beim Abendessen im Sumpf, „was er bereits alles über den Sumpf gelernt hat“ — beeindruckend: eine Liane mit vielen Fasern, „aus denen man vermutlich auch ein Seil knüpfen könnte“ (Session 62); hört Halfred nachts bei den Gesprächen über Monde, Triebe und die Magietheorie der wolfshaften Bewohner der Schwarzen Wälder zu (Session 62).
+- Zieht im Seenland „den Tag über einen Birkenstamm hinter sich her“ — er will ein Floß bauen (Session 64) und widmet es zunächst Drugon („die Kriegspeitsche [war] ein Geschenk Dragons“); nach dem Trollkampf widerruft er: „Drugon ihm erst die Waffe und dann den Troll gebracht“ (Sessions 64–66).
+- Löst am Höhlenskelett die Metallwicklung — „eine Art Peitsche aus Metall und Kettengliedern“ (→ [[Die Kriegspeitsche]], Session 64); fängt den von Halfred herabgeworfenen Kristall (Session 65).
+- Improvisiert mit Halfred in „langer, nervenzerreibender Arbeit“ eine Handaxt für den Floßbau (Session 65); wird im Kampf vom [[Troll]] gewürgt (Session 65); schleift mit Sommertochter [sic] die Trollleiche aus der Höhle (Session 66).
+- Schnitzt Paian ein Grabdenkmal (Session 66).

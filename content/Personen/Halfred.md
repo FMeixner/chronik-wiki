@@ -3,7 +3,7 @@ type: person
 title: Halfred
 aliases: []
 status: lebendig
-kurz: Jäger und Fährtensucher der Gruppe, trägt einen Dharst; überlebte Felslawine und Wildkatze mit gebrochenem Schenkel.
+kurz: Jäger und Fährtensucher der Gruppe, trägt einen Dharst; nach der Geistreise im Seenland trägt er eine Borken-Hand mit glühenden Steinadern — eine Stimme hat ihm eine Bürde auferlegt.
 ---
 # Halfred
 
@@ -53,3 +53,15 @@ kurz: Jäger und Fährtensucher der Gruppe, trägt einen Dharst; überlebte Fels
 - Auf dem Pier von [[Wasserfels]]: möchte seinen Vater um Vergebung bitten — er verstehe „jetzt besser, warum sein Vater so handelt, wie er handelt und warum er die Welt so sieht, wie er sie sieht“; er sucht vielleicht die laufenden Bäume, „die er auf Jardans Karte gesehen hat“ (Session 50).
 - Im [[Der Schlund der Finsternis|Schlund]]: fragt sein Blatt, wo seine Freunde sind — die Bäume schicken ihn ins dunkle Loch; schießt „einen nach dem anderen Pfeil in die Ranken“ (Session 52); findet neben dem Tier-Loch eine „faustgroße weißliche Schuppe, fast wie Marmor“; macht den [[Der Spiegel (Schlund der Finsternis)|Spiegel]] nach Paiens Vorhang-Erkenntnis endgültig kaputt (Session 53).
 - Auf der Flussfahrt: Prügel mit [[Aikyr]] aus Langeweile; steigt am [[Das Schattenfeld|Schattenfeld]] aus, um die Nacht im Wald zu verbringen (Session 56).
+
+## Sessions 57–66: Beertal und Drugonsfuhrt — Durchquerung des Seenlands
+
+- Taucht am Morgen des 22.07.997 LZ wieder aus dem Wald auf, „ein wenig zerzaust“ — seine Kette „hat jetzt mehr Holzplättchen als zuvor“ (Session 57).
+- Am Beertaler Hafen mit Dorian Bier trinkend: Gerüchte über bevorstehende Hungersnot, verschwindende Priester, misslingende Wunder; beobachtet die seltsame Stimmung in der Stadt (Sessions 57/58).
+- Hat in Drugonsfuhrt „wieder Albträume“ (Session 60); fragt Arikarion nach dem Seenland — „Vier Ohren hören mehr als zwei“, Sira geht mit.
+- Führt die Gruppe nach Doreans Ansprache durch das nördliche Seenland: „sicher und nicht allzu dreckig“ durch die ersten Ausläufer, rechtzeitiger Nachthalt, am zweiten Tag „erstaunlich trocken durchs Moor“; nächtliche Gespräche mit [[Aikyr]] über Monde, Triebe und die Magietheorie der wolfshaften Bewohner der Schwarzen Wälder (Session 62).
+- Wird nachts „von einem schattenhaften Wolfswesen angefallen“ ([[Nebelhetzer]]-Angriff, Session 63); am Folgemorgen „niedergeschlagen und sieht noch fertiger aus, als die anderen“ (Session 64).
+- Sieht im Nebel ein Licht und erinnert sich, „dass der Jäger meinte wir sollen ALLEM aus dem Weg gehen, nichts Gutes ist im Sumpf“ — großer Bogen, viel Zeitverlust (Session 64); zieht mit Aikyr den Birkenstamm fürs Floß.
+- Entdeckt in der Höhlendecke „viele kleine blau leuchtende Kristalle“, löst einen und lässt ihn Aikyr fallen (Session 65; → [[Monstein]]).
+- Im Trollkampf „von unzähligen Ratten angegriffen“; als der Kristall aus Paians Tasche purzelt, greift er ihn — Geistreise: eine Stimme auferlegt ihm eine Bürde, wörtlich: „Endlich habe ich jemanden gefunden, dem ich sein Innerstes anvertrauen kann. Mein Opfer war nicht umsonst. Hüte sein Geheimnis, denn sie werden kommen um es an sich zu reißen — um es zu beschmutzen. Und verzeiht mir. Verzeiht mir, dass ich diese Bürde jetzt an euch weiter reiche.“ Er spürt „eine Verbindung zum Wurzelwerk in der Höhle“, kontrolliert es — „und lässt den [[Troll]] von Wurzeln durchbohren“ (Session 65).
+- Danach: Seine Hand ist „hölzern überzogen mit einer Schicht aus Borke und Rinde … Teile bis hinter das Handgelenk. Einzelne kleine Knospen und winzige Blätter sind hier und da auszumachen. Zwischen und teilweise unter den Schichten der Rinde sind feine Adern aus warmweiß glühenden Stein zu sehen, die sich wie die Wurzeln einer alten Eiche um deine Hand schlängeln“ — er spürt und bewegt sie weiter; verbringt den Folgetag draußen „mit seiner Hand und dem Stein“ (Sessions 65/66).
