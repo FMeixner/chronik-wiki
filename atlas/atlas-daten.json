@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "wikiBase": "https://fmeixner.github.io/chronik-wiki/",
   "wegfaktor": 1.4,
   "modeLabels": {
@@ -14,10 +14,10 @@
   },
   "calibration": {
     "story": {
-      "x1": 55.94,
-      "y1": 79.55,
-      "x2": 85,
-      "y2": 95.45,
+      "x1": 29.06,
+      "y1": 50.91,
+      "x2": 40,
+      "y2": 14.55,
       "km": 800
     }
   },
@@ -25,8 +25,8 @@
     {
       "id": "unterwalde",
       "mapId": "story",
-      "x": 59.38,
-      "y": 10.91,
+      "x": 73.13,
+      "y": 69.55,
       "name": "Unterwalde",
       "type": "Dorf",
       "notes": "Heimatdorf der Gruppe; Ueberwinterung 996/997 LZ. Ausgangspunkt der Chronik.",
@@ -35,8 +35,8 @@
     {
       "id": "falkenfelde",
       "mapId": "story",
-      "x": 63.13,
-      "y": 14.55,
+      "x": 75.63,
+      "y": 65.91,
       "name": "Falkenfelde",
       "type": "Dorf",
       "notes": "Ausgestorbenes Nachbardorf, Ausloeser des ersten Abenteuers (06.04.997 LZ).",
@@ -45,8 +45,8 @@
     {
       "id": "suedliche-zitadellen",
       "mapId": "story",
-      "x": 40.63,
-      "y": 20.91,
+      "x": 78.13,
+      "y": 77.73,
       "name": "Südliche Zitadellen",
       "type": "Gebirge",
       "notes": "Gebirge; der Kerker der Gruppe lag in seiner Naehe („nahe des Meeres“).",
@@ -55,8 +55,8 @@
     {
       "id": "kerker",
       "mapId": "story",
-      "x": 40.94,
-      "y": 18.64,
+      "x": 75.31,
+      "y": 81.82,
       "name": "Der Kerker",
       "type": "Geheimnis",
       "notes": "Unbekannter Ort der Gefangenschaft nach dem Fest von Unterwalde; Flucht per Fenstersturz.",
@@ -65,8 +65,8 @@
     {
       "id": "felsspalte",
       "mapId": "story",
-      "x": 37.5,
-      "y": 22.73,
+      "x": 70,
+      "y": 85.45,
       "name": "Die Felsspalte",
       "type": "Naturmarke",
       "notes": "Kuenstlicher Hohlraum im Fels; Doreans schwerer Sturz (Session 06).",
@@ -75,8 +75,8 @@
     {
       "id": "unbenannter-wald",
       "mapId": "story",
-      "x": 31.56,
-      "y": 28.64,
+      "x": 65.63,
+      "y": 77.27,
       "name": "Der unbenannte Wald",
       "type": "Wald",
       "notes": "Gefaehrliches Waldgebiet westlich der Suedlichen Zitadellen; die Gruppe mied ihn zunaechst.",
@@ -85,8 +85,8 @@
     {
       "id": "fischerdorf",
       "mapId": "story",
-      "x": 25,
-      "y": 35,
+      "x": 60,
+      "y": 94.55,
       "name": "Fischerdorf (namenlos)",
       "type": "Dorf",
       "notes": "Namenloses Fischerdorf an der Kueste; Proviant und Boot.",
@@ -95,8 +95,8 @@
     {
       "id": "braunwacht",
       "mapId": "story",
-      "x": 31.56,
-      "y": 39.55,
+      "x": 51.25,
+      "y": 93.64,
       "name": "Braunwacht",
       "type": "Dorf",
       "notes": "Erster laengerer Aufenthalt nach der Kueste; Javus Brackes Gasthaus-Geschichte.",
@@ -105,8 +105,8 @@
     {
       "id": "grosser-weg",
       "mapId": "story",
-      "x": 40,
-      "y": 43.64,
+      "x": 60.94,
+      "y": 85.91,
       "name": "Der Große Weg",
       "type": "Verkehrsweg",
       "notes": "Wegstrecke zwischen Braunwacht und Caltentrutz.",
@@ -115,8 +115,8 @@
     {
       "id": "hof-hibbel",
       "mapId": "story",
-      "x": 37.5,
-      "y": 45.91,
+      "x": 68.13,
+      "y": 80.91,
       "name": "Hof Hibbel",
       "type": "Gehöft",
       "notes": "Gehöft als Raststation auf dem Grossen Weg.",
@@ -125,8 +125,8 @@
     {
       "id": "caltentrutz",
       "mapId": "story",
-      "x": 42.5,
-      "y": 49.09,
+      "x": 77.5,
+      "y": 73.64,
       "name": "Caltentrutz",
       "type": "Dorf",
       "notes": "Zwischenstation der Reise (15.05.997 LZ).",
@@ -135,18 +135,18 @@
     {
       "id": "arwingen",
       "mapId": "story",
-      "x": 45.94,
-      "y": 43.18,
+      "x": 87.81,
+      "y": 65.91,
       "name": "Arwingen",
-      "type": "Dorf",
+      "type": "Stadt",
       "notes": "Zwischenstation Richtung Suedfang.",
       "lotse": "#/Orte/Arwingen"
     },
     {
       "id": "rubensmark",
       "mapId": "story",
-      "x": 49.38,
-      "y": 47.27,
+      "x": 54.38,
+      "y": 59.55,
       "name": "Rubensmark",
       "type": "Dorf",
       "notes": "Zollstation auf der Heerstrasse (19.05.997 LZ).",
@@ -155,8 +155,8 @@
     {
       "id": "zirken",
       "mapId": "story",
-      "x": 46.56,
-      "y": 39.09,
+      "x": 58.13,
+      "y": 55.91,
       "name": "Zirken",
       "type": "Gebirge",
       "notes": "Vulkangebirge, Durchquerung Anfang Saatmond 997 LZ.",
@@ -165,8 +165,8 @@
     {
       "id": "sudfang",
       "mapId": "story",
-      "x": 64.38,
-      "y": 62.73,
+      "x": 48.75,
+      "y": 71.82,
       "name": "Südfang",
       "type": "Stadt",
       "notes": "Stadt am Fuss des Gluehberges (60.000 Einwohner); Taverne „Fiures Ruh“, Gunwartempel.",
@@ -175,8 +175,8 @@
     {
       "id": "wegkreuz",
       "mapId": "story",
-      "x": 52.81,
-      "y": 50.45,
+      "x": 46.56,
+      "y": 65,
       "name": "Wegkreuz",
       "type": "Verkehrsweg",
       "notes": "Wegstation auf der Rueckreise nach Sarnburg.",
@@ -185,8 +185,8 @@
     {
       "id": "glimmwacht",
       "mapId": "story",
-      "x": 56.88,
-      "y": 54.09,
+      "x": 45.31,
+      "y": 53.64,
       "name": "Glimmwacht",
       "type": "Dorf",
       "notes": "Wegstation auf der Rueckreise nach Sarnburg.",
@@ -195,18 +195,18 @@
     {
       "id": "feuertal",
       "mapId": "story",
-      "x": 59.69,
-      "y": 59.09,
+      "x": 44.5,
+      "y": 44.09,
       "name": "Feuertal",
-      "type": "Naturmarke",
+      "type": "Dorf",
       "notes": "Letzte Station vor Sarnburg.",
       "lotse": "#/Orte/Feuertal"
     },
     {
       "id": "sarnburg",
       "mapId": "story",
-      "x": 67.81,
-      "y": 54.55,
+      "x": 43.75,
+      "y": 34.55,
       "name": "Sarnburg",
       "type": "Stadt",
       "notes": "Zentrale Stadt der Chronik: Pfandhaus Plunder, Gunwartempel, Jadans Huetten-Viertel.",
@@ -215,17 +215,18 @@
     {
       "id": "jadans-huette",
       "mapId": "story",
-      "x": 71.25,
-      "y": 51.36,
+      "x": 45.25,
+      "y": 32,
       "name": "Jadans Hütte",
       "type": "Geheimnis",
-      "notes": "Wohnhaus des Alchemisten Jadan, „3 Haeuser weiter“ beim Yonnuspriester. (Noch keine Wiki-Seite.)"
+      "notes": "Wohnhaus des Alchemisten Jadan, „3 Haeuser weiter“ beim Yonnuspriester. (Noch keine Wiki-Seite.)",
+      "lotse": null
     },
     {
       "id": "mondpfad",
       "mapId": "story",
-      "x": 75.63,
-      "y": 44.55,
+      "x": 55,
+      "y": 25.45,
       "name": "Mondpfad",
       "type": "Geheimnis",
       "notes": "Magischer Pfad Richtung Feenwald.",
@@ -234,8 +235,8 @@
     {
       "id": "feenwald",
       "mapId": "story",
-      "x": 80.63,
-      "y": 41.82,
+      "x": 61.88,
+      "y": 20.91,
       "name": "Feenwald",
       "type": "Wald",
       "notes": "Heimat der Feen; Begegnungen mit Tenkuri und dem Feentor.",
@@ -244,8 +245,8 @@
     {
       "id": "feenpfad",
       "mapId": "story",
-      "x": 76.88,
-      "y": 51.82,
+      "x": 59.38,
+      "y": 32.73,
       "name": "Feenpfad",
       "type": "Geheimnis",
       "notes": "Weg im Feenreich; Galkor Alquans schwarze Kutsche (Sessions 36-41).",
@@ -254,8 +255,8 @@
     {
       "id": "palitan",
       "mapId": "story",
-      "x": 89.38,
-      "y": 31.82,
+      "x": 87.5,
+      "y": 16.36,
       "name": "Palitan",
       "type": "Stadt",
       "notes": "Grosse Stadt mit Kaiserlichem Archiv und Katakomben (Sessions 26-35).",
@@ -264,8 +265,8 @@
     {
       "id": "katakomben",
       "mapId": "story",
-      "x": 89.69,
-      "y": 33.18,
+      "x": 89.06,
+      "y": 19.55,
       "name": "Katakomben unter Palitan",
       "type": "Untergrund",
       "notes": "Gruenes Steingewoelbe unter Palitan; Spinnenwesen und der geborstene Kristall.",
@@ -274,8 +275,8 @@
     {
       "id": "fleadyne-schrein",
       "mapId": "story",
-      "x": 64.69,
-      "y": 65.91,
+      "x": 40.94,
+      "y": 40.91,
       "name": "Fleadyne-Schrein",
       "type": "Kultstätte",
       "notes": "Schrein der Fleadyne suedlich von Sarnburg, Unterwegslager mit der grossen Linde.",
@@ -284,17 +285,18 @@
     {
       "id": "schaeferhain",
       "mapId": "story",
-      "x": 61.56,
-      "y": 70.91,
+      "x": 38.13,
+      "y": 45.91,
       "name": "Schäferhain",
       "type": "Dorf",
-      "notes": "Rastort nach dem Fleadyne-Schrein. (Noch keine Wiki-Seite.)"
+      "notes": "Rastort nach dem Fleadyne-Schrein. (Noch keine Wiki-Seite.)",
+      "lotse": null
     },
     {
       "id": "vorbrin",
       "mapId": "story",
-      "x": 59.06,
-      "y": 75.45,
+      "x": 35.31,
+      "y": 49.82,
       "name": "Vorbrin",
       "type": "Dorf",
       "notes": "Dorf auf der Strasse Richtung Wasserfels.",
@@ -303,8 +305,8 @@
     {
       "id": "wasserfels",
       "mapId": "story",
-      "x": 55.94,
-      "y": 79.55,
+      "x": 29.06,
+      "y": 50.91,
       "name": "Wasserfels",
       "type": "Stadt",
       "notes": "Stadt an der Muendung der Windenden Winne in den Myrkan; Taverne „Tanzende Forelle“.",
@@ -313,8 +315,8 @@
     {
       "id": "schlund",
       "mapId": "story",
-      "x": 52.81,
-      "y": 85.45,
+      "x": 26.88,
+      "y": 60,
       "name": "Der Schlund der Finsternis",
       "type": "Kultstätte",
       "notes": "Kultstätte an der Windenden Winne; Luidpergas Ende und der Spiegel (Sessions 51-54).",
@@ -323,8 +325,8 @@
     {
       "id": "dreywasser",
       "mapId": "story",
-      "x": 64.38,
-      "y": 85.91,
+      "x": 33.75,
+      "y": 43.64,
       "name": "Dreywasser",
       "type": "Dorf",
       "notes": "Ort am Myrkan, flussab von Wasserfels; Schiffsreise (Session 56).",
@@ -333,8 +335,8 @@
     {
       "id": "schattenfeld",
       "mapId": "story",
-      "x": 71.88,
-      "y": 89.55,
+      "x": 36.25,
+      "y": 35.45,
       "name": "Das Schattenfeld",
       "type": "Geheimnis",
       "notes": "Flussnahes Gebiet am Myrkan; momentaner Standort der Gruppe (21.07.997 LZ).",
@@ -343,18 +345,18 @@
     {
       "id": "beertal",
       "mapId": "story",
-      "x": 77.5,
-      "y": 92.73,
+      "x": 38.25,
+      "y": 28.18,
       "name": "Beertal",
-      "type": "Dorf",
+      "type": "Stadt",
       "notes": "Ort am Myrkan, flussab von Dreywasser (Session 56 erwaehnt).",
       "lotse": "#/Orte/Beertal"
     },
     {
       "id": "drugonsfuhrt",
       "mapId": "story",
-      "x": 85,
-      "y": 95.45,
+      "x": 40,
+      "y": 14.55,
       "name": "Drugonsfuhrt",
       "type": "Dorf",
       "notes": "Furt/Ort am Unterlauf des Myrkan (Session 56 erwaehnt). Kalibriert: 800 km von Wasserfels.",
@@ -363,11 +365,12 @@
     {
       "id": "heratis",
       "mapId": "story",
-      "x": 93.75,
-      "y": 86.36,
+      "x": 11.88,
+      "y": 93.64,
       "name": "Heratis",
       "type": "Ziel",
-      "notes": "Naechstes Reiseziel: der Zwerg, der sich mit Feenwirken auskennt (Sarnburg-Heratis ≈ 1000 km)."
+      "notes": "Naechstes Reiseziel: der Zwerg, der sich mit Feenwirken auskennt (Sarnburg-Heratis ≈ 1000 km).",
+      "lotse": null
     }
   ],
   "routes": [

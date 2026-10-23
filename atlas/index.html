@@ -217,7 +217,7 @@
    ================================================================ */
 var CONFIG = {
   title: "Reiseatlas – Chronik-Wiki",
-  subtitle: "Splittermond-Chronik · Sessions 01–56 · schematische Story-Karte",
+  subtitle: "Splittermond-Chronik · Sessions 01–56 · topografische Karte nach Lorakis-Vorlage",
   // Relativer Pfad zur Daten-JSON (oder absolut). Kann per URL-Parameter
   // ?data=andere.json übersteuert werden.
   dataUrl: "atlas-daten.json",
@@ -229,7 +229,7 @@ var CONFIG = {
 
   // Karten-Tabs: id muss mit den mapId-Werten in der Daten-JSON übereinstimmen.
   maps: [
-    { id: "story", label: "Chronik-Karte (schematisch)", image: "karte.svg" }
+    { id: "story", label: "Chronik-Karte", image: "karte.svg" }
   ],
 
   // Farbpalette der Marker-Typen (Schlüssel = type in der Daten-JSON).
@@ -573,6 +573,42 @@ function renderMarkers() {
   }
 }
 
+/* Zeichnet eine Routeleg als quadratiche Bezier-Kurve mit senkrechtem Bogen.
+   Mehrfach begangene Strecken (Hin- und Rueckwege) werden alternierend auf
+   geografisch entgegengesetzte Seiten gebogen und bei weiterer Nutzung
+   zusaetzlich staerker aufgebogen, sodass sich Linien nicht mehr decken. */
+function legPath(a, b, r, edgeUse) {
+  // Geometrie im Bildpixelraum (Prozent * Bildbreite/-hoehe) rechnen,
+  // damit die Senkrechte auf dem Bild senkrecht bleibt.
+  var W = 1600, H = 1100;
+  var md = mapDef(activeMap);
+  if (md && md.w) { W = md.w; H = md.h; }
+  var ax = a.x / 100 * W, ay = a.y / 100 * H;
+  var bx = b.x / 100 * W, by = b.y / 100 * H;
+  var key = (a.id < b.id) ? a.id + "~" + b.id : b.id + "~" + a.id;
+  var k = edgeUse[key] || 0;
+  edgeUse[key] = k + 1;
+  var dx = bx - ax, dy = by - ay;
+  var len = Math.hypot(dx, dy);
+  if (len < 12) {
+    return '<line x1="' + a.x + '" y1="' + a.y + '" x2="' + b.x + '" y2="' + b.y +
+      '" stroke="' + r.color + '" stroke-width="2" stroke-dasharray="7 4" opacity="0.85" vector-effect="non-scaling-stroke" />';
+  }
+  // Kanonische Richtung (kleinere Id -> groessere Id) fuer eine stabile Senkrechte:
+  var cdx = (a.id < b.id) ? dx : -dx;
+  var cdy = (a.id < b.id) ? dy : -dy;
+  var plen = Math.hypot(cdx, cdy);
+  var px = -cdy / plen, py = cdx / plen;
+  var side = (k % 2 === 0) ? 1 : -1;
+  var mag = Math.min(60, Math.max(8, len * 0.18)) * (1 + Math.floor(k / 2) * 1.6);
+  var cx = (ax + bx) / 2 + px * mag * side;
+  var cy = (ay + by) / 2 + py * mag * side;
+  return '<path d="M' + (a.x) + "," + (a.y) +
+    " Q" + (Math.round(cx / W * 10000) / 100) + "," + (Math.round(cy / H * 10000) / 100) +
+    " " + (b.x) + "," + (b.y) +
+    '" fill="none" stroke="' + r.color + '" stroke-width="2" stroke-dasharray="7 4" opacity="0.85" vector-effect="non-scaling-stroke" />';
+}
+
 function renderOverlay() {
   var svg = qs("#overlay");
   var inner = "";
@@ -584,19 +620,14 @@ function renderOverlay() {
     }
     if (routesVisible) {
       DATA.routes.forEach(function (r) {
-        var pts = [];
+        var edgeUse = {};
         var last = null;
         r.waypoints.forEach(function (w) {
           var m = byId(w.markerId);
           if (m && m.mapId === activeMap) {
-            if (last) pts.push(last.x + "," + last.y + " " + m.x + "," + m.y);
+            if (last) inner += legPath(last, m, r, edgeUse);
             last = m;
           } else { last = null; }
-        });
-        pts.forEach(function (seg) {
-          inner += '<line x1="' + seg.split(" ")[0].split(",")[0] + '" y1="' + seg.split(" ")[0].split(",")[1] +
-            '" x2="' + seg.split(" ")[1].split(",")[0] + '" y2="' + seg.split(" ")[1].split(",")[1] +
-            '" stroke="' + r.color + '" stroke-width="2" stroke-dasharray="7 4" opacity="0.85" vector-effect="non-scaling-stroke" />';
         });
       });
     }
@@ -1018,3 +1049,4 @@ init();
 </script>
 </body>
 </html>
+
