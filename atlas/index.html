@@ -1,0 +1,1020 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Reiseatlas – Chronik-Wiki</title>
+<style>
+  :root {
+    --bg: #1c1917; --panel: #292524; --deep: #171412;
+    --line: #44403c; --line2: #57534e;
+    --text: #e7e5e4; --muted: #a8a29e; --faint: #78716c;
+    --amber: #d4a24a; --amber-hi: #fbbf24;
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif;
+    display: flex; flex-direction: column; overflow: hidden;
+  }
+  header {
+    display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+    padding: 10px 16px; background: var(--panel); border-bottom: 1px solid var(--line);
+  }
+  .brand h1 { margin: 0; font: 600 17px/1.2 Georgia, "Times New Roman", serif; color: #fde68a; letter-spacing: .02em; }
+  .brand p { margin: 1px 0 0; font-size: 10px; color: var(--faint); }
+  .tabs { display: flex; border: 1px solid var(--line2); border-radius: 8px; overflow: hidden; }
+  .tab {
+    padding: 7px 12px; font-size: 12px; font-weight: 500; border: 0; cursor: pointer;
+    background: var(--panel); color: var(--muted);
+  }
+  .tab:hover { color: var(--text); }
+  .tab.active { background: var(--amber); color: #1c1917; }
+  .actions { margin-left: auto; display: flex; gap: 8px; align-items: center; }
+  .btn {
+    padding: 7px 12px; font-size: 12px; font-weight: 500; border-radius: 8px; cursor: pointer;
+    background: var(--panel); color: var(--text); border: 1px solid var(--line2);
+  }
+  .btn:hover { border-color: #8a8178; }
+  .btn.on { background: var(--amber); color: #1c1917; border-color: var(--amber); }
+  .chk { display: flex; gap: 6px; align-items: center; font-size: 12px; color: var(--muted); cursor: pointer; }
+  main { flex: 1; display: flex; overflow: hidden; }
+  #viewport { position: relative; flex: 1; overflow: hidden; background: var(--deep); touch-action: none; cursor: grab; }
+  #viewport.measuring { cursor: crosshair; }
+  #stage { position: absolute; top: 0; left: 0; transform-origin: 0 0; }
+  #stage img { display: block; width: 100%; height: 100%; user-select: none; pointer-events: none; }
+  #ph {
+    position: absolute; inset: 0; display: none; pointer-events: none;
+    background:
+      repeating-linear-gradient(0deg, rgba(87,83,78,.25) 0 1px, transparent 1px 48px),
+      repeating-linear-gradient(90deg, rgba(87,83,78,.25) 0 1px, transparent 1px 48px),
+      radial-gradient(ellipse at 35% 30%, #34302a 0%, #211e1b 70%);
+  }
+  #ph span {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    font: italic 15px Georgia, serif; color: var(--faint); letter-spacing: .06em;
+  }
+  #overlay { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+  .marker { position: absolute; transform: translate(-50%, -50%); padding: 7px; margin: -7px; cursor: pointer; }
+  .marker .dot {
+    width: 14px; height: 14px; border-radius: 50%;
+    border: 2px solid #0c0a09; box-shadow: 0 1px 3px rgba(0,0,0,.7);
+  }
+  .marker .lbl {
+    position: absolute; left: 24px; top: 50%; transform: translateY(-50%);
+    white-space: nowrap; font-size: 10px; padding: 2px 6px; border-radius: 4px;
+    background: rgba(12,10,9,.78); color: #f5f5f4;
+  }
+  .badge {
+    position: absolute; transform: translate(-50%, -190%); pointer-events: none;
+    min-width: 19px; height: 19px; padding: 0 4px; border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 11px; font-weight: 700; color: #1c1917; border: 1px solid #0c0a09;
+  }
+  .mdot { position: absolute; transform: translate(-50%, -50%); pointer-events: none; width: 10px; height: 10px; border-radius: 50%; background: var(--amber-hi); border: 1px solid #0c0a09; }
+  @keyframes statusPulse {
+    0% { box-shadow: 0 0 0 0 rgba(251,191,36,.55); }
+    70% { box-shadow: 0 0 0 12px rgba(251,191,36,0); }
+    100% { box-shadow: 0 0 0 0 rgba(251,191,36,0); }
+  }
+  .marker .dot.status { animation: statusPulse 1.8s infinite; }
+  .statusChip { display: inline-block; padding: 0 6px; border-radius: 8px; background: #fbbf24; color: #1c1917; font-size: 10px; font-weight: 700; margin-left: 6px; vertical-align: middle; }
+  #card {
+    position: absolute; z-index: 40; width: 240px; display: none;
+    background: rgba(28,25,23,.97); border: 1px solid var(--line2); border-radius: 10px;
+    padding: 12px; box-shadow: 0 10px 30px rgba(0,0,0,.55); font-size: 12px;
+  }
+  #card h3 { margin: 0 0 3px; font-size: 13px; display: flex; gap: 7px; align-items: center; }
+  #card .cdot { width: 11px; height: 11px; border-radius: 50%; flex: none; }
+  #card .meta { margin: 0 0 7px; font-size: 10px; color: var(--faint); }
+  #card .note { color: #d6d3d1; max-height: 72px; overflow: hidden; white-space: pre-line; }
+  #card .note.none { color: var(--faint); font-style: italic; }
+  #card .actions { margin-top: 10px; }
+  #card a.go {
+    display: block; text-align: center; padding: 7px 8px; border-radius: 7px;
+    background: var(--amber-hi); color: #1c1917; font-weight: 600; text-decoration: none; font-size: 12px;
+  }
+  #card a.go:hover { background: #fcd34d; }
+  #banner {
+    position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 50; display: none;
+    background: #b45309; color: #fff7ed; padding: 7px 12px; border-radius: 8px;
+    font-size: 12px; box-shadow: 0 4px 14px rgba(0,0,0,.4); max-width: 90%;
+  }
+  #banner button { margin-left: 8px; background: none; border: 0; color: inherit; cursor: pointer; font-size: 14px; }
+  #measureLabel { position: absolute; z-index: 30; pointer-events: none; display: none; }
+  #measureLabel span {
+    padding: 3px 8px; border-radius: 6px; background: var(--amber-hi); color: #1c1917;
+    font-size: 11px; font-weight: 700; white-space: nowrap;
+  }
+  #hint {
+    position: absolute; bottom: 8px; left: 10px; z-index: 20; pointer-events: none;
+    font-size: 11px; color: var(--faint); background: rgba(28,25,23,.82); padding: 4px 9px; border-radius: 6px;
+  }
+  #modeBanner {
+    position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 30; display: none;
+    background: var(--amber); color: #1c1917; font-weight: 600; padding: 6px 12px; border-radius: 8px;
+    font-size: 12px; box-shadow: 0 4px 14px rgba(0,0,0,.4);
+  }
+  aside {
+    width: 320px; flex: none; background: var(--panel); border-left: 1px solid var(--line);
+    overflow-y: auto; display: flex; flex-direction: column;
+  }
+  aside section { padding: 12px 13px; border-bottom: 1px solid var(--line); }
+  aside h2 {
+    margin: 0 0 9px; font-size: 10px; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--faint); font-weight: 600; display: flex; gap: 6px; align-items: center;
+  }
+  aside h2 .rdot { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+  .wprow { display: flex; gap: 8px; align-items: center; padding: 3px 0; font-size: 12px; }
+  .wpnum {
+    flex: none; width: 20px; height: 20px; border-radius: 10px; display: flex;
+    align-items: center; justify-content: center; font-size: 10px; font-weight: 700; color: #1c1917;
+  }
+  .wpbody { flex: 1; min-width: 0; }
+  .wpname { color: var(--text); }
+  a.wplink { color: #fcd34d; text-decoration: none; }
+  a.wplink:hover { text-decoration: underline; }
+  .wpcap { color: var(--faint); font-size: 11px; }
+  .wpleg { flex: none; font-size: 11px; color: var(--muted); white-space: nowrap; }
+  .dimmed { opacity: .45; }
+  .rtotal { margin-top: 6px; padding-top: 6px; border-top: 1px dashed var(--line2); font-size: 11px; color: var(--muted); }
+  select, input[type="number"], input[type="text"] {
+    background: var(--deep); border: 1px solid var(--line2); border-radius: 8px;
+    color: var(--text); padding: 6px 8px; font-size: 12px; outline: none; width: 100%;
+  }
+  select:focus, input:focus { border-color: var(--amber); }
+  .selrow { display: flex; gap: 6px; margin-bottom: 8px; }
+  .result { background: var(--deep); border: 1px solid var(--line); border-radius: 8px; padding: 10px; font-size: 11.5px; }
+  .result p { margin: 2px 0; }
+  .result .head { color: #fde68a; font-weight: 600; margin-bottom: 4px; }
+  .lbl-k { color: var(--faint); }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-top: 9px; }
+  .grid2 label { font-size: 10px; color: var(--faint); display: block; }
+  .grid2 input { margin-top: 2px; }
+  .mlist { list-style: none; margin: 0; padding: 0; }
+  .mlist li { display: flex; gap: 8px; align-items: center; padding: 3px 0; font-size: 12px; }
+  .mlist .md { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+  .mlist button.mname {
+    flex: 1; text-align: left; background: none; border: 0; color: var(--text);
+    font: inherit; padding: 3px 5px; border-radius: 5px; cursor: pointer; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .mlist button.mname:hover { background: var(--deep); }
+  .mlist .go { background: none; border: 0; color: var(--amber); cursor: pointer; font-size: 12px; padding: 2px 4px; text-decoration: none; }
+  .foot { margin-top: auto; padding: 10px 13px; font-size: 10px; color: var(--faint); }
+  @media (max-width: 880px) {
+    main { flex-direction: column; }
+    #viewport { height: 54vh; flex: none; }
+    aside { width: 100%; flex: 1; border-left: 0; border-top: 1px solid var(--line); }
+    .brand p { display: none; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="brand"><h1 id="brandTitle">Reiseatlas</h1><p id="brandSub"></p></div>
+    <nav class="tabs" id="tabs"></nav>
+    <div class="actions">
+      <button class="btn" id="btnMeasure">Distanz messen</button>
+      <label class="chk"><input type="checkbox" id="chkRoutes" checked /> Route zeigen</label>
+      <button class="btn" id="btnReset">Ansicht zurücksetzen</button>
+    </div>
+  </header>
+  <main>
+    <div id="viewport">
+      <div id="stage">
+        <div id="ph"><span id="phLabel"></span></div>
+        <img id="mapImg" alt="Karte" draggable="false" />
+        <svg id="overlay" viewBox="0 0 100 100" preserveAspectRatio="none"></svg>
+        <div id="markers"></div>
+        <div id="badges"></div>
+        <div id="mdots"></div>
+      </div>
+      <div id="card"></div>
+      <div id="measureLabel"><span></span></div>
+      <div id="modeBanner"></div>
+      <div id="banner"></div>
+      <div id="hint"></div>
+    </div>
+    <aside id="sidebar">
+      <section id="secRoutes"><h2><span class="rdot" id="rdot"></span><span id="rTitle">Reiseweg</span></h2><div id="routeBody"></div></section>
+      <section id="secTravel"><h2>Reise berechnen</h2><div id="travelBody"></div></section>
+      <section id="secList"><h2 id="listTitle">Landmarken</h2><ul class="mlist" id="mlist"></ul></section>
+      <div class="foot" id="foot"></div>
+    </aside>
+  </main>
+
+<script>
+"use strict";
+
+/* ================================================================
+   1) KONFIGURATION — hier pro Projekt anpassen (Dual-Use-Datei)
+   ----------------------------------------------------------------
+   Dieselbe HTML-Datei dient mehreren Welten: pro Einsatz eine Kopie
+   ins jeweilige Quartz-Repository legen (z. B. content/atlas.html),
+   diesen Konfigurationsblock anpassen und die passende Daten-JSON
+   danebenlegen (Export aus der Kartenwerkstatt, Format v3).
+   ================================================================ */
+var CONFIG = {
+  title: "Reiseatlas – Chronik-Wiki",
+  subtitle: "Splittermond-Chronik · Sessions 01–56 · schematische Story-Karte",
+  // Relativer Pfad zur Daten-JSON (oder absolut). Kann per URL-Parameter
+  // ?data=andere.json übersteuert werden.
+  dataUrl: "atlas-daten.json",
+  // Beschriftung des Marker-Links, wenn ein Lotse-Ziel gesetzt ist:
+  lotseLabel: "Zur Chronik ↗",
+  // Beschriftung des Fallback-Links (Wiki-Name → Basis-URL + Slug):
+  wikiLabel: "Im Wiki öffnen ↗",
+  showCalibrationLine: false,
+
+  // Karten-Tabs: id muss mit den mapId-Werten in der Daten-JSON übereinstimmen.
+  maps: [
+    { id: "story", label: "Chronik-Karte (schematisch)", image: "karte.svg" }
+  ],
+
+  // Farbpalette der Marker-Typen (Schlüssel = type in der Daten-JSON).
+  types: {
+    "Dorf": "#b08d57", "Stadt": "#d4a24a", "Gebirge": "#8a8578",
+    "Wald": "#5f9e4c", "Naturmarke": "#7fae5c", "Verkehrsweg": "#4a7fb0",
+    "Gehöft": "#c2a36b", "Geheimnis": "#a83fae", "Kultstätte": "#b0453a",
+    "Untergrund": "#6e5a3e", "Ziel": "#fbbf24", "Sonstiges": "#9aa3ad"
+  },
+  typeFallback: "#9aa3ad",
+
+  // Reisemodi, falls die Daten-JSON keine speeds/modeLabels mitbringt.
+  modes: [
+    { key: "foot", label: "zu Fuß", km: 32 },
+    { key: "horse", label: "Pferd/Wagen", km: 50 },
+    { key: "ship", label: "Schiff (Myrkan)", km: 29 }
+  ]
+};
+
+/* ================================================================
+   2) BEISPIEL-/NOTFALL-DATEN
+   Nur sichtbar, wenn dataUrl nicht geladen werden kann (Vorschau
+   oder fehlende Datei). Auf dem Wiki braucht es nur die JSON.
+   ================================================================ */
+var FALLBACK_DATA = {
+  version: 3,
+  wikiBase: "",
+  wegfaktor: 1.4,
+  modeLabels: { foot: "zu Fuß", horse: "Pferd", rail: "Flugschiff" },
+  speeds: { foot: 30, horse: 55, rail: 210 },
+  calibration: { beispiel: { x1: 12, y1: 80, x2: 78, y2: 25, km: 520 } },
+  markers: [
+    { id: "w1", mapId: "beispiel", x: 12, y: 80, name: "Hafenstadt Vailum", type: "Stadt", notes: "Heimathafen der Gruppe. Start der Reise im Frühjahr.", lotse: "beispiel-chronik.md#session-01-aufbruch" },
+    { id: "w2", mapId: "beispiel", x: 28, y: 72, name: "Alte Zollstraße", type: "Verkehrsweg", notes: "Wachposten am Flussübergang.", lotse: "beispiel-chronik.md#session-02-der-flussuebergang" },
+    { id: "w3", mapId: "beispiel", x: 40, y: 60, name: "Karawanserei Rabenhorst", type: "Ruine", notes: "Verlassene Raststätte; Nachtlager mit Zwischenfall.", lotse: "beispiel-chronik.md#session-03-nachtlichter" },
+    { id: "w4", mapId: "beispiel", x: 30, y: 48, name: "Furt bei Melander", type: "Naturmarke", notes: "Nur bei Niedrigwasser passierbar.", lotse: "beispiel-chronik.md#session-04-die-furt" },
+    { id: "w5", mapId: "beispiel", x: 52, y: 42, name: "Stadt Kolaron", type: "Stadt", notes: "Gerichtsverhandlung und ein alter Freund.", lotse: "beispiel-chronik.md#session-05-kolaron" },
+    { id: "w6", mapId: "beispiel", x: 64, y: 32, name: "Paschhöhe", type: "Naturmarke", notes: "Schwerer Pass; drei Tage im Schneesturm.", lotse: "beispiel-chronik.md#session-06-schnee" },
+    { id: "w7", mapId: "beispiel", x: 75, y: 26, name: "Grenzfestung Termand", type: "Festung", notes: "Letzter Außenposten vor dem Niemandsland.", lotse: "beispiel-chronik.md#session-07-termand" },
+    { id: "w8", mapId: "beispiel", x: 84, y: 16, name: "Die Gläserne Pforte", type: "Geheimnis", notes: "Das Ziel der Reise. Niemand kehrte zurück.", lotse: "beispiel-chronik.md#session-08-die-pforte" }
+  ],
+  routes: [
+    {
+      id: "r1", label: "Der Weg der Gruppe", color: "#fbbf24", statusIndex: 7,
+      waypoints: [
+        { markerId: "w1", caption: "Aufbruch im Frühjahr" },
+        { markerId: "w2", caption: "Papiere und Bestechung" },
+        { markerId: "w3", caption: "Nachtlager, Wache in der Ruine" },
+        { markerId: "w4", caption: "Hochwasser zwingt zum Umweg" },
+        { markerId: "w5", caption: "Zwei Wochen Aufenthalt" },
+        { markerId: "w6", caption: "Drei Tage Schneesturm" },
+        { markerId: "w7", caption: "Vorräte für die letzte Etappe" },
+        { markerId: "w8", caption: "Der Finale" }
+      ]
+    }
+  ]
+};
+
+/* ================================================================
+   3) HILFSFUNKTIONEN & ZUSTAND
+   ================================================================ */
+function clamp(v, a, b) { return Math.min(b, Math.max(a, v)); }
+function qs(s) { return document.querySelector(s); }
+function slugify(s) {
+  return String(s).trim().toLowerCase()
+    .replace(/['’"„“”.,:;!?()]/g, "")
+    .replace(/\s+/g, "-");
+}
+function fmtKm(k) { return k == null ? "–" : (k < 10 ? k.toFixed(1) : String(Math.round(k))) + " km"; }
+function fmtDays(d) {
+  if (!isFinite(d) || d <= 0) return "–";
+  if (d < 1) return Math.max(1, Math.round(d * 24)) + " Stunden";
+  var days = Math.round(d * 10) / 10;
+  if (d >= 7) return days + " Tage (≈ " + (Math.round((d / 7) * 10) / 10) + " Wochen)";
+  return days + " Tage";
+}
+function esc(s) {
+  return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+    return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+  });
+}
+
+var DATA = null;              // normalisierte Projektdaten
+var activeMap = CONFIG.maps.length ? CONFIG.maps[0].id : null;
+var views = {};               // mapId -> { scale, tx, ty }
+var metas = {};               // mapId -> { w, h } (Bildgröße)
+var imgOk = {};               // mapId -> Bild geladen?
+var container = { w: 0, h: 0 };
+var measureMode = false, measurePts = [];
+var cardId = null, cardPinned = false, hoverTimer = null;
+var routesVisible = true;
+var travel = { from: "", to: "", speeds: null, wegfaktor: 1.4 };
+
+function mapDef(id) {
+  for (var i = 0; i < CONFIG.maps.length; i++) if (CONFIG.maps[i].id === id) return CONFIG.maps[i];
+  return null;
+}
+function colorFor(t) { return CONFIG.types[t] || CONFIG.typeFallback; }
+function byId(id) {
+  if (!DATA) return null;
+  for (var i = 0; i < DATA.markers.length; i++) if (DATA.markers[i].id === id) return DATA.markers[i];
+  return null;
+}
+function activeMarkers() {
+  if (!DATA) return [];
+  return DATA.markers.filter(function (m) { return m.mapId === activeMap; })
+    .sort(function (a, b) { return a.name.localeCompare(b.name); });
+}
+function resolveLotse(m) {
+  if (!m.lotse) return null;
+  if (/^https?:/i.test(m.lotse)) return m.lotse;
+  var base = DATA && DATA.wikiBase ? DATA.wikiBase.replace(/\/?$/, "/") : "";
+  return base + m.lotse.replace(/^\/+/, "");
+}
+function linkFor(m) {
+  var lotse = resolveLotse(m);
+  if (lotse) return lotse;
+  if (m.name && DATA && DATA.wikiBase) return DATA.wikiBase.replace(/\/?$/, "/") + slugify(m.name);
+  return null;
+}
+function modes() {
+  if (DATA && DATA.speeds) {
+    return Object.keys(DATA.speeds).map(function (k) {
+      return { key: k, label: (DATA.modeLabels && DATA.modeLabels[k]) || k, km: DATA.speeds[k] };
+    });
+  }
+  return CONFIG.modes.map(function (m) { return { key: m.key, label: m.label, km: m.km }; });
+}
+
+/* ================================================================
+   4) DATEN LADEN & NORMALISIEREN
+   ================================================================ */
+function normalize(raw) {
+  var d = raw || {};
+  var mapIds = CONFIG.maps.map(function (m) { return m.id; });
+  var markers = (Array.isArray(d.markers) ? d.markers : [])
+    .filter(function (m) { return m && typeof m.x === "number" && typeof m.y === "number" && mapIds.indexOf(m.mapId) >= 0; })
+    .map(function (m, i) {
+      return {
+        id: m.id || "m" + i, mapId: m.mapId,
+        x: clamp(m.x, 0, 100), y: clamp(m.y, 0, 100),
+        name: typeof m.name === "string" ? m.name : "",
+        type: typeof m.type === "string" ? m.type : "Sonstiges",
+        notes: typeof m.notes === "string" ? m.notes : "",
+        lotse: typeof m.lotse === "string" ? m.lotse : ""
+      };
+    });
+  var ids = {};
+  markers.forEach(function (m) { ids[m.id] = 1; });
+  var routes = (Array.isArray(d.routes) ? d.routes : [])
+    .map(function (r, i) {
+      return {
+        id: r.id || "r" + i,
+        label: typeof r.label === "string" && r.label ? r.label : "Reiseweg",
+        color: typeof r.color === "string" && r.color ? r.color : "#fbbf24",
+        waypoints: (Array.isArray(r.waypoints) ? r.waypoints : [])
+          .filter(function (w) { return w && w.markerId && ids[w.markerId]; })
+          .map(function (w) { return { markerId: w.markerId, caption: typeof w.caption === "string" ? w.caption : "" }; }),
+        statusIndex: typeof r.statusIndex === "number" ? r.statusIndex : -1
+      };
+    });
+  var calibration = {};
+  if (d.calibration && typeof d.calibration === "object") {
+    mapIds.forEach(function (k) {
+      if (d.calibration[k] && typeof d.calibration[k].km === "number") calibration[k] = d.calibration[k];
+    });
+  }
+  var speeds = null;
+  if (d.speeds && typeof d.speeds === "object") {
+    speeds = {};
+    Object.keys(d.speeds).forEach(function (k) { speeds[k] = Math.max(1, Number(d.speeds[k]) || 1); });
+  }
+  return {
+    markers: markers, routes: routes, calibration: calibration,
+    speeds: speeds,
+    modeLabels: d.modeLabels && typeof d.modeLabels === "object" ? d.modeLabels : null,
+    wikiBase: typeof d.wikiBase === "string" ? d.wikiBase : "",
+    wegfaktor: Number(d.wegfaktor) > 0 ? Number(d.wegfaktor) : 1.4
+  };
+}
+
+function banner(msg) {
+  var b = qs("#banner");
+  if (!msg) { b.style.display = "none"; return; }
+  b.innerHTML = esc(msg) + " <button title=\"Ausblenden\">×</button>";
+  b.style.display = "block";
+  b.querySelector("button").onclick = function () { banner(null); };
+}
+
+function loadData() {
+  var param = "";
+  try { param = new URLSearchParams(location.search).get("data"); } catch (e) {}
+  var url = param || CONFIG.dataUrl;
+  var done = function (d, warn) {
+    DATA = d;
+    var ms = modes();
+    travel.speeds = {};
+    ms.forEach(function (m) { travel.speeds[m.key] = m.km; });
+    travel.wegfaktor = DATA.wegfaktor;
+    travel.from = ""; travel.to = "";
+    banner(warn || null);
+    afterData();
+  };
+  var useFallback = function (err) {
+    done(normalize(FALLBACK_DATA),
+      "Hinweis: \"" + url + "\" konnte nicht geladen werden" +
+      (err ? " (" + err + ")" : "") + " – es werden eingebaute Beispieldaten angezeigt.");
+  };
+  if (typeof fetch !== "function") { useFallback("kein fetch"); return; }
+  fetch(url)
+    .then(function (res) {
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      return res.json();
+    })
+    .then(function (j) { done(normalize(j), null); })
+    .catch(function (e) { useFallback(e && e.message ? e.message : "Fehler"); });
+}
+
+/* ================================================================
+   5) VIEWPORT-GEOMETRI (wie in der Kartenwerkstatt)
+   ================================================================ */
+function geom() {
+  var meta = metas[activeMap];
+  if (!meta || !container.w || !container.h) return null;
+  var k = Math.min(container.w / meta.w, container.h / meta.h);
+  var dispW = meta.w * k, dispH = meta.h * k;
+  return { dispW: dispW, dispH: dispH, offX: (container.w - dispW) / 2, offY: (container.h - dispH) / 2, meta: meta };
+}
+function view() {
+  if (!views[activeMap]) views[activeMap] = { scale: 1, tx: 0, ty: 0 };
+  return views[activeMap];
+}
+function pctToScreen(x, y) {
+  var g = geom();
+  if (!g) return null;
+  var v = view();
+  return {
+    sx: g.offX + v.tx + v.scale * (x / 100) * g.dispW,
+    sy: g.offY + v.ty + v.scale * (y / 100) * g.dispH
+  };
+}
+function kmOf(a, b) {
+  var g = geom();
+  if (!g || !DATA) return null;
+  var c = DATA.calibration[activeMap];
+  if (!c) return null;
+  var w = g.meta.w, h = g.meta.h;
+  var d1 = Math.hypot((b.x - a.x) / 100 * w, (b.y - a.y) / 100 * h);
+  var d2 = Math.hypot((c.x2 - c.x1) / 100 * w, (c.y2 - c.y1) / 100 * h);
+  if (d2 < 1) return null;
+  return d1 * (c.km / d2);
+}
+function applyTransform() {
+  var g = geom();
+  var stage = qs("#stage");
+  if (!g) { stage.style.display = "none"; return; }
+  stage.style.display = "block";
+  stage.style.width = g.dispW + "px";
+  stage.style.height = g.dispH + "px";
+  var v = view();
+  stage.style.transform = "translate(" + (g.offX + v.tx) + "px, " + (g.offY + v.ty) + "px) scale(" + v.scale + ")";
+  positionCard();
+  positionMeasureLabel();
+}
+
+/* ================================================================
+   6) RENDERN
+   ================================================================ */
+function renderTabs() {
+  var tabs = qs("#tabs");
+  tabs.innerHTML = "";
+  CONFIG.maps.forEach(function (md) {
+    var b = document.createElement("button");
+    b.className = "tab" + (md.id === activeMap ? " active" : "");
+    b.textContent = md.label;
+    b.onclick = function () { setMap(md.id); };
+    tabs.appendChild(b);
+  });
+}
+
+function routeWaypointInfo() {
+  var info = {};
+  if (!DATA || !routesVisible) return info;
+  DATA.routes.forEach(function (r) {
+    var n = 0;
+    r.waypoints.forEach(function (w) {
+      n++;
+      var m = byId(w.markerId);
+      if (!m || m.mapId !== activeMap) return;
+      if (!info[w.markerId]) info[w.markerId] = { n: n, color: r.color, status: r.statusIndex === n - 1 };
+    });
+  });
+  return info;
+}
+
+function renderMarkers() {
+  var layer = qs("#markers");
+  var bl = qs("#badges");
+  layer.innerHTML = "";
+  bl.innerHTML = "";
+  if (!DATA) return;
+  var wp = routeWaypointInfo();
+  activeMarkers().forEach(function (m) {
+    var el = document.createElement("div");
+    el.className = "marker";
+    el.setAttribute("data-marker-id", m.id);
+    el.style.left = m.x + "%";
+    el.style.top = m.y + "%";
+    var dot = document.createElement("div");
+    dot.className = "dot";
+    dot.style.backgroundColor = colorFor(m.type);
+    if (wp[m.id]) dot.style.boxShadow = "0 0 0 3px " + wp[m.id].color + "66";
+    if (wp[m.id] && wp[m.id].status) dot.className = "dot status";
+    el.appendChild(dot);
+    if (m.name) {
+      var l = document.createElement("span");
+      l.className = "lbl";
+      l.textContent = m.name;
+      el.appendChild(l);
+    }
+    el.addEventListener("pointerenter", function () { openCard(m.id); });
+    el.addEventListener("pointerleave", function () { closeCard(m.id); });
+    layer.appendChild(el);
+  });
+  if (routesVisible) {
+    DATA.routes.forEach(function (r) {
+      var n = 0;
+      r.waypoints.forEach(function (w) {
+        n++;
+        var m = byId(w.markerId);
+        if (!m || m.mapId !== activeMap) return;
+        var b = document.createElement("div");
+        b.className = "badge";
+        b.style.background = r.color;
+        b.style.left = m.x + "%";
+        b.style.top = m.y + "%";
+        b.textContent = n;
+        bl.appendChild(b);
+      });
+    });
+  }
+}
+
+function renderOverlay() {
+  var svg = qs("#overlay");
+  var inner = "";
+  if (DATA) {
+    var cal = DATA.calibration[activeMap];
+    if (cal && CONFIG.showCalibrationLine) {
+      inner += '<line x1="' + cal.x1 + '" y1="' + cal.y1 + '" x2="' + cal.x2 + '" y2="' + cal.y2 +
+        '" stroke="#d4a24a" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.45" vector-effect="non-scaling-stroke" />';
+    }
+    if (routesVisible) {
+      DATA.routes.forEach(function (r) {
+        var pts = [];
+        var last = null;
+        r.waypoints.forEach(function (w) {
+          var m = byId(w.markerId);
+          if (m && m.mapId === activeMap) {
+            if (last) pts.push(last.x + "," + last.y + " " + m.x + "," + m.y);
+            last = m;
+          } else { last = null; }
+        });
+        pts.forEach(function (seg) {
+          inner += '<line x1="' + seg.split(" ")[0].split(",")[0] + '" y1="' + seg.split(" ")[0].split(",")[1] +
+            '" x2="' + seg.split(" ")[1].split(",")[0] + '" y2="' + seg.split(" ")[1].split(",")[1] +
+            '" stroke="' + r.color + '" stroke-width="2" stroke-dasharray="7 4" opacity="0.85" vector-effect="non-scaling-stroke" />';
+        });
+      });
+    }
+  }
+  if (measurePts.length === 2) {
+    inner += '<line x1="' + measurePts[0].x + '" y1="' + measurePts[0].y + '" x2="' + measurePts[1].x + '" y2="' + measurePts[1].y +
+      '" stroke="#fbbf24" stroke-width="2" vector-effect="non-scaling-stroke" />';
+  }
+  svg.innerHTML = inner;
+  var ml = qs("#mdots");
+  ml.innerHTML = "";
+  if (measurePts.length >= 1) {
+    measurePts.forEach(function (p) {
+      var d = document.createElement("div");
+      d.className = "mdot";
+      d.style.left = p.x + "%";
+      d.style.top = p.y + "%";
+      ml.appendChild(d);
+    });
+  }
+}
+
+function positionMeasureLabel() {
+  var el = qs("#measureLabel");
+  if (measurePts.length !== 2) { el.style.display = "none"; return; }
+  var mid = { x: (measurePts[0].x + measurePts[1].x) / 2, y: (measurePts[0].y + measurePts[1].y) / 2 };
+  var s = pctToScreen(mid.x, mid.y);
+  if (!s) { el.style.display = "none"; return; }
+  var km = kmOf(measurePts[0], measurePts[1]);
+  el.querySelector("span").textContent = km != null ? fmtKm(km) : "Maßstab fehlt";
+  el.style.display = "block";
+  el.style.left = s.sx + "px";
+  el.style.top = s.sy + "px";
+  el.style.transform = "translate(-50%, -140%)";
+}
+
+/* --- Hover-/Klick-Karte --- */
+function openCard(id) {
+  if (hoverTimer) { clearTimeout(hoverTimer); hoverTimer = null; }
+  cardId = id; cardPinned = false;
+  renderCard();
+}
+function closeCard(id) {
+  if (cardPinned) return;
+  if (cardId !== id) return;
+  if (hoverTimer) clearTimeout(hoverTimer);
+  hoverTimer = setTimeout(function () { if (cardId === id && !cardPinned) { cardId = null; renderCard(); } }, 160);
+}
+function pinCard(id) {
+  if (hoverTimer) { clearTimeout(hoverTimer); hoverTimer = null; }
+  cardId = id; cardPinned = true;
+  renderCard();
+}
+function unpinCard() {
+  cardId = null; cardPinned = false;
+  renderCard();
+}
+function renderCard() {
+  var card = qs("#card");
+  var m = cardId ? byId(cardId) : null;
+  if (!m) { card.style.display = "none"; return; }
+  var s = pctToScreen(m.x, m.y);
+  if (!s) { card.style.display = "none"; return; }
+  var link = linkFor(m);
+  card.innerHTML =
+    '<h3><span class="cdot" style="background:' + colorFor(m.type) + '"></span>' + esc(m.name || "(unbenannt)") + '</h3>' +
+    '<p class="meta">' + esc(m.type) + " · " + esc(mapDef(m.mapId) ? mapDef(m.mapId).label : m.mapId) + "</p>" +
+    '<p class="note' + (m.notes ? "" : " none") + '">' + esc(m.notes || "Keine Notiz – Details im verlinkten Artikel.") + "</p>" +
+    (link
+      ? '<div class="actions"><a class="go" href="' + esc(link) + '" target="_blank" rel="noreferrer">' +
+        esc(m.lotse ? CONFIG.lotseLabel : CONFIG.wikiLabel) + "</a></div>"
+      : "");
+  var above = m.y > 22;
+  var cl = clamp(s.sx, 130, Math.max(130, container.w - 130));
+  card.style.left = cl + "px";
+  card.style.top = s.sy + "px";
+  card.style.transform = above ? "translate(-50%, calc(-100% - 16px))" : "translate(-50%, 16px)";
+  card.style.display = "block";
+  card.onpointerenter = function () { if (hoverTimer) { clearTimeout(hoverTimer); hoverTimer = null; } };
+  card.onpointerleave = function () { closeCard(m.id); };
+  card.onpointerdown = function (e) { e.stopPropagation(); };
+}
+function positionCard() { if (cardId) renderCard(); }
+
+/* ================================================================
+   7) SEITENLEISTE (Reiseweg · Reise · Landmarken)
+   ================================================================ */
+function renderRouteSection() {
+  var sec = qs("#secRoutes"), body = qs("#routeBody");
+  if (!DATA || !DATA.routes.length) { sec.style.display = "none"; return; }
+  sec.style.display = "block";
+  var only = DATA.routes.length === 1;
+  qs("#rTitle").textContent = only ? DATA.routes[0].label : "Reiseweg";
+  qs("#rdot").style.background = only ? DATA.routes[0].color : "#9aa3ad";
+  var html = "";
+  DATA.routes.forEach(function (r) {
+    var total = 0, anyLeg = false;
+    var rows = "";
+    var prev = null;
+    r.waypoints.forEach(function (w, i) {
+      var m = byId(w.markerId);
+      var onMap = m && m.mapId === activeMap;
+      var leg = null;
+      if (onMap && prev && prev.mapId === activeMap) {
+        leg = kmOf(prev, m);
+        if (leg != null) { total += leg; anyLeg = true; }
+      }
+      var link = m ? linkFor(m) : null;
+      rows += '<div class="wprow' + (onMap ? "" : " dimmed") + '">' +
+        '<span class="wpnum" style="background:' + esc(r.color) + '">' + (i + 1) + "</span>" +
+        '<span class="wpbody">' +
+        (link
+          ? '<a class="wpname wplink" href="' + esc(link) + '" target="_blank" rel="noreferrer">' + esc(m.name || "(unbenannt)") + "</a>"
+          : '<span class="wpname">' + esc(m ? (m.name || "(unbenannt)") : "(entfernt)") + "</span>") +
+        (w.caption ? ' <span class="wpcap">· ' + esc(w.caption) + "</span>" : "") +
+        (r.statusIndex === i ? ' <span class="statusChip">Status quo</span>' : "") +
+        "</span>" +
+        '<span class="wpleg">' + (leg != null ? "+ " + fmtKm(leg) : (prev ? "–" : "")) + "</span>" +
+        "</div>";
+      prev = m;
+    });
+    var cal = DATA.calibration[activeMap];
+    html += (only ? "" : "<h2><span class=\"rdot\" style=\"background:" + esc(r.color) + "\"></span>" + esc(r.label) + "</h2>") + rows +
+      (anyLeg ? '<div class="rtotal">Gesamt auf dieser Karte: ' + fmtKm(total) + (cal ? " · Luftlinie × Umwege folgt im Rechner" : "") + "</div>" : "");
+    var stIdx = r.statusIndex;
+    var stWp = stIdx >= 0 && r.waypoints[stIdx] ? byId(r.waypoints[stIdx].markerId) : null;
+    if (stWp) {
+      html += '<div class="rtotal">Status quo: Station ' + (stIdx + 1) + " – " + esc(stWp.name || "(unbenannt)") + "</div>";
+    }
+  });
+  body.innerHTML = html;
+}
+
+function renderTravelSection() {
+  var body = qs("#travelBody");
+  if (!DATA) { body.innerHTML = ""; return; }
+  var cal = DATA.calibration[activeMap];
+  var ms = activeMarkers();
+  if (!cal) { body.innerHTML = '<p class="wpcap">Für diese Karte liegt keine Kalibrierung vor – Reisezeiten nicht berechenbar.</p>'; return; }
+  if (ms.length < 2) { body.innerHTML = '<p class="wpcap">Mindestens zwei Landmarken auf dieser Karte nötig.</p>'; return; }
+  var opts = '<option value="">Von …</option>';
+  ms.forEach(function (m) { opts += '<option value="' + esc(m.id) + '"' + (travel.from === m.id ? " selected" : "") + ">" + esc(m.name || "(unbenannt)") + "</option>"; });
+  var opts2 = '<option value="">Nach …</option>';
+  ms.forEach(function (m) { opts2 += '<option value="' + esc(m.id) + '"' + (travel.to === m.id ? " selected" : "") + ">" + esc(m.name || "(unbenannt)") + "</option>"; });
+  var modeRows = "";
+  modes().forEach(function (m) {
+    modeRows += '<label>' + esc(m.label) + " (km/Tag)" +
+      '<input type="number" min="1" step="any" data-mode="' + esc(m.key) + '" value="' + travel.speeds[m.key] + '" /></label>';
+  });
+  body.innerHTML =
+    '<div class="selrow"><select id="selFrom">' + opts + "</select><select id=\"selTo\">" + opts2 + "</select></div>" +
+    '<div id="travelResult"></div>' +
+    '<div class="grid2">' + modeRows +
+    '<label>Umweg-Faktor<input type="number" min="1" step="0.1" id="inpWeg" value="' + travel.wegfaktor + '" /></label>' +
+    "</div>";
+  qs("#selFrom").onchange = function () { travel.from = this.value; renderTravelResult(); };
+  qs("#selTo").onchange = function () { travel.to = this.value; renderTravelResult(); };
+  qs("#inpWeg").oninput = function () {
+    var v = Number(this.value);
+    travel.wegfaktor = v > 0 ? v : 1;
+    renderTravelResult();
+  };
+  body.querySelectorAll("input[data-mode]").forEach(function (inp) {
+    inp.oninput = function () {
+      var v = Number(this.value);
+      travel.speeds[this.getAttribute("data-mode")] = v > 0 ? v : 1;
+      renderTravelResult();
+    };
+  });
+  renderTravelResult();
+}
+
+function renderTravelResult() {
+  var el = qs("#travelResult");
+  if (!el) return;
+  var a = byId(travel.from), b = byId(travel.to);
+  if (!a || !b || a.id === b.id) { el.innerHTML = '<p class="wpcap">Start und Ziel wählen.</p>'; return; }
+  var luft = kmOf(a, b);
+  if (luft == null) { el.innerHTML = '<p class="wpcap">Maßstab fehlt.</p>'; return; }
+  var strecke = luft * travel.wegfaktor;
+  var rows = "";
+  modes().forEach(function (m) {
+    rows += "<p><span class=\"lbl-k\">" + esc(m.label) + " (" + travel.speeds[m.key] + " km/Tag):</span> " +
+      fmtDays(strecke / travel.speeds[m.key]) + "</p>";
+  });
+  el.innerHTML =
+    '<div class="result"><p class="head">' + esc(a.name || "(unbenannt)") + " → " + esc(b.name || "(unbenannt)") + "</p>" +
+    "<p><span class=\"lbl-k\">Luftlinie:</span> " + fmtKm(luft) + "</p>" +
+    "<p><span class=\"lbl-k\">Strecke (×" + travel.wegfaktor + " Umwege):</span> " + fmtKm(strecke) + "</p>" +
+    rows + "</div>";
+}
+
+function renderListSection() {
+  var ul = qs("#mlist");
+  var ms = activeMarkers();
+  qs("#listTitle").textContent = "Landmarken (" + ms.length + ")";
+  ul.innerHTML = "";
+  ms.forEach(function (m) {
+    var li = document.createElement("li");
+    var dot = document.createElement("span");
+    dot.className = "md";
+    dot.style.backgroundColor = colorFor(m.type);
+    li.appendChild(dot);
+    var btn = document.createElement("button");
+    btn.className = "mname";
+    btn.textContent = (m.name || "(unbenannt)") + " · " + m.type;
+    btn.onclick = function () { centerOn(m); };
+    li.appendChild(btn);
+    var link = linkFor(m);
+    if (link) {
+      var a = document.createElement("a");
+      a.className = "go";
+      a.href = link;
+      a.target = "_blank";
+      a.rel = "noreferrer";
+      a.textContent = "↗";
+      a.title = m.lotse ? CONFIG.lotseLabel : CONFIG.wikiLabel;
+      li.appendChild(a);
+    }
+    ul.appendChild(li);
+  });
+}
+
+function centerOn(m) {
+  var g = geom();
+  if (!g) return;
+  var v = view();
+  v.tx = container.w / 2 - g.offX - v.scale * (m.x / 100) * g.dispW;
+  v.ty = container.h / 2 - g.offY - v.scale * (m.y / 100) * g.dispH;
+  applyTransform();
+  pinCard(m.id);
+}
+
+/* ================================================================
+   8) INTERAKTION: Pan · Zoom · Messen · Klick-Lotse
+   ================================================================ */
+function renderAll() {
+  applyTransform();
+  renderMarkers();
+  renderOverlay();
+  renderRouteSection();
+  renderTravelSection();
+  renderListSection();
+  positionMeasureLabel();
+  positionCard();
+}
+
+var drag = null;
+function setupViewport() {
+  var vp = qs("#viewport");
+  vp.addEventListener("pointerdown", function (e) {
+    var mk = e.target.closest("[data-marker-id]");
+    drag = {
+      sx: e.clientX, sy: e.clientY, tx: view().tx, ty: view().ty,
+      moved: false, markerId: mk ? mk.getAttribute("data-marker-id") : null
+    };
+    try { vp.setPointerCapture(e.pointerId); } catch (err) {}
+  });
+  vp.addEventListener("pointermove", function (e) {
+    if (!drag) return;
+    var dx = e.clientX - drag.sx, dy = e.clientY - drag.sy;
+    if (Math.abs(dx) + Math.abs(dy) > 4) drag.moved = true;
+    if (!drag.moved) return;
+    var v = view();
+    v.tx = drag.tx + dx;
+    v.ty = drag.ty + dy;
+    applyTransform();
+  });
+  vp.addEventListener("pointerup", function (e) {
+    var d = drag;
+    drag = null;
+    if (!d || d.moved) return;
+    if (d.markerId) {
+      var m = byId(d.markerId);
+      if (!m) return;
+      var link = linkFor(m);
+      if (m.lotse && link) {
+        window.open(link, "_blank", "noreferrer");
+      } else {
+        pinCard(m.id);
+      }
+      return;
+    }
+    if (measureMode) { addMeasurePoint(e); return; }
+    unpinCard();
+  });
+  vp.addEventListener("pointercancel", function () { drag = null; });
+  vp.addEventListener("wheel", function (e) {
+    e.preventDefault();
+    var g = geom();
+    if (!g) return;
+    var v = view();
+    var r = vp.getBoundingClientRect();
+    var cx = e.clientX - r.left, cy = e.clientY - r.top;
+    var factor = e.deltaY < 0 ? 1.13 : 1 / 1.13;
+    var scale = clamp(v.scale * factor, 0.15, 8);
+    var lx = (cx - (v.tx + g.offX)) / v.scale;
+    var ly = (cy - (v.ty + g.offY)) / v.scale;
+    v.tx = cx - g.offX - scale * lx;
+    v.ty = cy - g.offY - scale * ly;
+    v.scale = scale;
+    applyTransform();
+  }, { passive: false });
+
+  var ro = new ResizeObserver(function () {
+    var r = vp.getBoundingClientRect();
+    container = { w: r.width, h: r.height };
+    applyTransform();
+  });
+  ro.observe(vp);
+
+  window.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") {
+      unpinCard();
+      if (measureMode) toggleMeasure();
+    }
+  });
+}
+
+function addMeasurePoint(e) {
+  var el = imgOk[activeMap] ? qs("#mapImg") : qs("#ph");
+  var r = el.getBoundingClientRect();
+  if (r.width < 2) return;
+  var x = clamp((e.clientX - r.left) / r.width * 100, 0, 100);
+  var y = clamp((e.clientY - r.top) / r.height * 100, 0, 100);
+  if (measurePts.length >= 2) measurePts = [{ x: x, y: y }];
+  else measurePts = measurePts.concat([{ x: x, y: y }]);
+  renderOverlay();
+  positionMeasureLabel();
+}
+
+function toggleMeasure() {
+  measureMode = !measureMode;
+  measurePts = [];
+  qs("#btnMeasure").className = "btn" + (measureMode ? " on" : "");
+  qs("#viewport").className = measureMode ? "measuring" : "";
+  var mb = qs("#modeBanner");
+  if (measureMode) {
+    mb.textContent = "Messmodus: zwei Punkte anklicken (Esc beendet)";
+    mb.style.display = "block";
+  } else {
+    mb.style.display = "none";
+  }
+  renderOverlay();
+  positionMeasureLabel();
+}
+
+/* ================================================================
+   9) KARTENBILD & START
+   ================================================================ */
+function setMap(id) {
+  activeMap = id;
+  measurePts = [];
+  if (measureMode) toggleMeasure();
+  unpinCard();
+  var img = qs("#mapImg");
+  var def = mapDef(id);
+  imgOk[id] = false;
+  if (def && def.image) { img.src = def.image; }
+  else { img.removeAttribute("src"); metas[id] = { w: 1600, h: 1000 }; imgOk[id] = false; applyTransform(); }
+  var ph = qs("#ph");
+  ph.style.display = "block";
+  qs("#phLabel").textContent = def ? "Karte: " + def.label + (def.image ? " (Bild wird geladen …)" : " (kein Bild konfiguriert)") : "";
+  renderTabs();
+  renderAll();
+}
+
+function setupImage() {
+  var img = qs("#mapImg");
+  img.onload = function () {
+    metas[activeMap] = { w: img.naturalWidth || 1600, h: img.naturalHeight || 1000 };
+    imgOk[activeMap] = true;
+    qs("#ph").style.display = "none";
+    applyTransform();
+    renderAll();
+  };
+  img.onerror = function () {
+    metas[activeMap] = { w: 1600, h: 1000 };
+    imgOk[activeMap] = false;
+    var def = mapDef(activeMap);
+    qs("#phLabel").textContent = def
+      ? "Bild \"" + (def.image || "") + "\" nicht gefunden – Platzhalter aktiv"
+      : "";
+    qs("#ph").style.display = "block";
+    applyTransform();
+    renderAll();
+  };
+}
+
+function afterData() {
+  renderTabs();
+  setMap(activeMap);
+  renderAll();
+}
+
+function init() {
+  qs("#brandTitle").textContent = CONFIG.title;
+  document.title = CONFIG.title;
+  qs("#brandSub").textContent = CONFIG.subtitle;
+  qs("#btnMeasure").onclick = toggleMeasure;
+  qs("#btnReset").onclick = function () {
+    views[activeMap] = { scale: 1, tx: 0, ty: 0 };
+    applyTransform();
+  };
+  qs("#chkRoutes").onchange = function () {
+    routesVisible = this.checked;
+    renderMarkers();
+    renderOverlay();
+    renderRouteSection();
+  };
+  setupViewport();
+  setupImage();
+  qs("#hint").textContent = "Mausrad zoomt · Ziehen schwenkt · Hover zeigt Vorschau · Klick auf Wegpunkt lotst zur Chronik";
+  qs("#foot").textContent = "Read-only-Karte · Daten: " + CONFIG.dataUrl + " · Update: JSON aus der Kartenwerkstatt ersetzen";
+  loadData();
+}
+
+init();
+</script>
+</body>
+</html>
