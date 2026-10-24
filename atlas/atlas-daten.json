@@ -391,14 +391,34 @@
       "type": "Ziel",
       "notes": "Ankunft der Gruppe am 08.10.997 LZ (Session 72): freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner) — Mordserie, Magistratswahl; Ritual-Nacht (13./14.10.997 LZ) unter dem Herathion vereitelt (Sessions 77-83); Abreise per Schiff nach Süden (Session 86).",
       "lotse": "#/Orte/Heratis"
+    },
+    {
+      "id": "therum",
+      "mapId": "story",
+      "x": 35,
+      "y": 94.55,
+      "name": "Therum",
+      "type": "Stadt",
+      "notes": "Landung der Maravas Tochter nach Sturm und Finsterwasser (Session 92, „deutlich suedlicher“ als geplant); Silberkrug, Sturmvogel, Gunwartempel; Abreise am 03.11.997 LZ mit Magister Medipho Richtung Wandratis (Sessions 92-94).",
+      "lotse": "#/Orte/Therum"
+    },
+    {
+      "id": "galpinius",
+      "mapId": "story",
+      "x": 40,
+      "y": 86.36,
+      "name": "Galpinius",
+      "type": "Stadt",
+      "notes": "Ankunft am 05.12.997 LZ (Session 95): voellig ueberfuellte Kleinstadt, weil die Furgstrasse wegen Orks im Pass gesperrt ist; Tanniem und Elyra erloest; Gespraech mit Vorsteher Ugisold Kurandero bevorstehend (Session 96).",
+      "lotse": "#/Orte/Galpinius"
     }
   ],
   "routes": [
     {
       "id": "r1",
-      "label": "Der Weg der Gruppe (Sessions 01–86)",
+      "label": "Der Weg der Gruppe (Sessions 01–96)",
       "color": "#fbbf24",
-      "statusIndex": 49,
+      "statusIndex": 51,
       "waypoints": [
         {
           "markerId": "unterwalde",
@@ -602,8 +622,17 @@
         {
           "markerId": "heratis",
           "caption": "S 72 · Ankunft in Heratis (8.10.997 LZ)"
+        },
+        {
+          "markerId": "therum",
+          "caption": "S 92 · Land in Sicht (Therum)"
+        },
+        {
+          "markerId": "galpinius",
+          "caption": "S 95 · Ankunft in Galpinius (5.12.997 LZ)"
         }
       ]
     }
   ]
 }
+

@@ -81,3 +81,12 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 - Steigerungen (Session 83): „im Rampenlicht zu Hause“ [wörtlich „im rampenlicht zuhause“] und „zerschmetterndes Licht“.
 - Dorians Melodie (Session 84): Nach dem Sprung Dorians in den Riss „legt ihre Hand an den Felsen, wo vor wenigen Minuten noch der Spalt war durch den Dorian verschwunden ist“ — sie schreibt „in Blut Noten auf den Fels, Dorians Melodie.“
 - Alptraum in der Ritual-Nacht (Session 83, beim Griff des Schwerts): „Du siehst dich selbst – ein Neugeborenes, in einer Wiege aus Licht. Und über dir stehen deine Eltern. … Dann tritt Letasch hervor. Majestätisch. Unnahbar. ‚Du bist eine Enttäuschung‘, sagt er. ‚Damals wie heute.‘“ — was der Traum über [[Letasch]] (tot, Session 60) und Siras Herkunft sagt, ist offen.
+
+
+## Sessions 87–96: Ewige See und Finsterwasser
+
+- Deck (Session 87): hält Halfred „eine Weile den Eimer“, übt mit Aikyr Jonglieren; bei der Rettung Davos schickt sie „eine Lichtkugel hin“ zum treibenden Schemen und organisiert die Matrosen am Seil: „schaffen es mit gemeinsamen Kräften den zitternden Aikyr und die zwei Leblosen körper an Bord zu hieven.“ [sic]
+- Paians Lebensfunke (Session 88): Der Sira-Start: „Deine Finger streichen über seine Stirn – und sie fühlen sich an, als würdest Du Eis berühren.“ — „In Paian scheint noch ein Lebensfunken zu ruhen, Siira [sic] hält diesen magisch am glimmen.“
+- Finsterwasser (Sessions 88/89): „Schwarzes Wasser drückt sich durch die Bordwand, berührt Sira und ein elektrischer Schlag durchzuckt sie.“; ihre Lichtkugel in der Tiefe erstirbt („ein dunkles Pulsieren geht durch das Schiff und die Kugel erstirbt“); dann wirft sie Lichtklingen aufs Auge — „Sira wirft ihre letzte Lichtklinge auf das Auge (krit 71SP!!!!). Die Tentakel ersterben, das dunkel zieht sich in die Tiefen zurück.“ (→ [[Finsterwasser]])
+- An Bord (Session 90): „Sira spielt ein Lied, erst die niedergeschlagene Stimmung aufnehmend, aber dann zuversicht ausstrahlend“; liest Aikyr eine Geschichte vor; im Silberkrug ist sie „genervt von uns und setzt sich zu einer Gruppe von Händlern, die hier überwintern“ (Session 93).
+- Katakomben (Session 94): errichtet mit Wulfast „eine Barriere aus schimmerndem Licht“ gegen die Ghulen.

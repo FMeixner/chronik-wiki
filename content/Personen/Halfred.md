@@ -84,3 +84,12 @@ kurz: Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschch
 - Duirs Ruf (Session 83): Wurzeln brechen aus totem Boden — „Gewaltige Wurzeln schlingen sich um die Risse im Vulkanglas … Brüllen stumm in der Sprache von Duir – der uralten Eiche, die dein Ruf erreicht hat, über Meere und Berge hinweg.“; Warnung des Erzählers: „Was du geopfert hast, ist nicht mehr rückgängig zu machen.“; die Kraft „wird wild … gehorcht – aber nur noch gerade eben. Du weißt nicht, ob sie bald zwischen Freund und Feind noch unterscheiden kann.“ — was Halfred geopfert hat, hält die Chronik nicht fest (offen). Steigerung: „Weg durch die Natur“ [wörtlich „weg durch die natur“].
 - Alptraum (Session 83): Der Traum der Baumriesen kippt — „Ihre Rinde trieft – mit Blut. Unter ihren Wurzeln: Leiber. Zerfetzt. Bekannt. … Ein Knochensplitter zwischen deinen Zähnen. Der letzte Bissen. Weil du überlebt hast.“ — die Verkehrung seiner Session-77-Träumerei; Deutung offen.
 - Kopfgeld (Sessions 84/85): „Vor allem auf die Burschen Halfred und Dorian ist die Summe gewaltig“ (Bormund); [[Wulfast]] trägt einen Steckbrief mit den Gesichtern Dorians und Halfreds.
+
+
+## Sessions 87–96: Ranken, Sturmvogel, Katakomben-Wache
+
+- Deck (Session 87): fragt den Kapitän nach Arbeit und moppt („Von Hinten nach vorne und von innen nach außen!“); beim Leck: „Halfred schlägt einen Pfeil in die Bordwand und Ranken sprießen heraus und verschließen einen Teil der Bordwand.“ — und er geht „durch knietiefes, dann hüfttiefes eiskaltes Wasser“ nach vorn.
+- Finsterwasser-Kampf (Session 89): „Halfred klettert in windeseile die Takelage nach oben“ — „Und in der Tiefe sieht er etwas schwarzes, wie ein Auge oder ein pulsierendes Herz. Er ruft die Kräfte der Natur um die Maravas Tochter zu Stärken. Er lässt Ranken an zerstörten teilen wachsen, die die Tentakel ablenken.“
+- Reparaturen (Session 90): „Halfred hilft unermüdlich der Mannschaft das Schiff zu reparieren.“
+- Therum (Sessions 92/93): stimmt mit Aikyr für [[Epena]]; im Silberkrug gibt er Aikyr „die bauchige Phiole mit ‚dem letzten Aufgebot‘“ (→ [[Das letzte Aufgebot]]); im Sturmvogel „stammelt er erst, taut aber langsam auf“ vor dem bärtigen Wildniskundigen, verabschiedet sich und „setzt sich zu Aikyr“.
+- Katakomben (Sessions 94/95): bleibt außerhalb am Lager zurück — die Chronik nennt keinen Grund (offen); Wulfasts Rückweg führt zu „Halfreds Feuer“: „Berichten Halfred vom geschehenen. Reden dann über unseren weitern Weg.“

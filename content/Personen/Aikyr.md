@@ -2,8 +2,8 @@
 type: person
 title: Aikyr
 aliases: [Aikir, Aykir]
-status: lebendig
-kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt.
+status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89)
+kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.
 ---
 # Aikyr
 
@@ -83,3 +83,16 @@ kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glück
 - Die Goldene Suppenküche (Session 84): Sein Glückshandschuh gewinnt dort alles auf Rot — „Betrug!“-Rufe, Flucht, drei Männer in der Gasse, Rettung durch [[Wulfast]] (→ [[Die Goldene Suppenküche]]). Mit dem Sonnenaufgang verblasst der Handschuh: „Was eben noch Zeichen von Triumph war, wird stumpf, wird grau, wird gewöhnlich. … Ein Bettlerhandschuh.“ (Session 85)
 - Wulfast (Sessions 84–86): Nachtgespräch bis Sonnenaufgang, Aikyrs Drohung („ihn Platt zu machen, falls er seinen Freunden in der Nacht was antut“); am Abreisetag sitzt Wulfast mit am Tisch; Pläne, „weiter anch süden [sic] zu reisen per schiff“ (Session 85).
 - Alptraum in der Ritual-Nacht (Session 83, beim Griff des Schwerts): „Hinter ihr: Rehva. Deine Schwester. Ihre Augen flehen. … Und dann: Myrro. Dein Bruder. Verloren in der Dunkelheit. Verloren durch deine Schwäche.“ — Schreibweise „Rehva“ [sic] (→ [[Rheva]]); wer Myrro ist, hält die Chronik nicht fest (offen).
+
+
+## Sessions 87–96: Ewige See, Finsterwasser, Verjüngung, Medipho
+
+- Wale (Session 87): Der Aikyr-Start: „Nur du und der Wal.“ — „Als wärst du wieder ein Kind, in den Wäldern von Unterwalde, auf den Schultern deines Vaters, dem Himmel so nah wie nie. Als gäbe es keine Narben, keinen Schmerz, kein Damals.“; „Aikyr hatte ursprünglich vor eines dieser Tiere zu jagen, doch so majestätischen Wesen kann er nichts zu Leide tun.“ (→ [[Wale]])
+- Das Leck (Session 87): Bei den Eisschollen schippt er „mit zwei Eimern Wasser“; dann die Rettung: „bindet sich das [Seil] um den Bauch und Springt ins Wasser. Er glaubr [sic] seine Augäpfel und alles andere würden gefrieren, schafft es aber die beiden Körper zu packen.“
+- Finsterwasser (Sessions 88/89): „Das schwarze Wasser … umgreift Aikyr und versucht ihn von Deck zu ziehen“ — er reißt „die Luke zu [[Sommertochter]] und Donnerhuf auf“; im Kampf wirft er sich schützend vor [[Sira]] — „Ein Strahl aus Säure zerfrisst ihm das Fell und das Fleisch bis auf die Knochen.“ (→ [[Finsterwasser]])
+- Verjüngung (Session 89): Im Kampf trinkt er „das letzte Aufgebot“: „Doch statt der erwarteten Wirkung kommen Kindheitserinnerungen in ihm hoch (er wird in den nächsten 4 minuten um 5 Jahre verjüngt).“ (→ [[Das letzte Aufgebot]])
+- Schwindsucht-Angst (Session 90): „er fühlt sich anders“ — „große Sorgen, dass er die Schwindsucht hat, weil seine Schultern eine wenig schmaler sind und seine Stimme sich leicht verändert hat“; später: „Aykir [sic] scheint ein klein wenig kleiner geworden zu sein. Er ist deprimiert, und glaubt dass er die schrumpfsucht [sic] hat und nichts von ihm übrig bleibt. Er lässt sich von Sira eine Geschichte vorlesen“; nach Telenas Dank ist er „ein wenig ungehalten“: „die scheiße klebt uns an den hacken“.
+- Therum (Sessions 92/93): Mediphos Kommentar über „Aikyrs schmale Oberarme“ nimmt er nicht gut auf; im Sturmvogel schiebt er „seine Kurzen vor sich her“ — die Schankmaid nennt ihn „Trauerhaar“ und fragt, „warum seine lefzen unten sein…“ [sic].
+- Katakomben (Session 94): halluziniert auf der Verfolgung („glaubt, dass wir auf der Spur einer Bestie sind“); zerteilt einen Ghul mit der Klingenpeitsche; erwürgt [[Medipho]].
+- Heuschober (Session 95): Er redet dem Vogel zu — „dank seiner überragenden Einfühlsgabe (Krit, doppel 10)“ bleibt das Vögelchen sitzen; über die erfrorene Wegesrand-Leiche: „Aikyr glaub, dass das Trem war.“
+- Galpinius (Session 96): geht mit Sira und Wulfast zu Kurandero — „Gehen zum größten Haus der Stadt, stehen davor.“

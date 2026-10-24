@@ -12,3 +12,6 @@ kurz: Aikyrs mumifizierte Eidechse — durch den Inhalt eines Notfall-Fläschche
 - Danach (Sessions 84/85): Kokandrillis schrumpft — „als sie nur noch hundsgroß ist“, dann handtellergroß; „doch anstatt zu vertrocknen, bleibt sie handtellergroß und beißt ihm zärtlich in den Finger“; in der Morgenstunde nistet sie sich in Aikyrs Fell ein: „sie quietscht leise, zufrieden. Vielleicht ist es Dank. Vielleicht einfach nur Freude.“
 - Chronik-Schreibungen: „Kokandrillis“ und „Kokandrilis“ (Session 83) · „Coccindrilis“ (Session 85) — alle wörtlich; die Seite läuft unter „Kokandrillis“.
 - Offen: Was in dem Fläschchen war; was die Echse nun ist (unsterblich? dauerhaft lebendig?); warum ausgerechnet die mumifizierte Eidechse wiederbelebt wurde.
+
+
+- Auf See (Session 87): Im Aikyr-Start an der Reling: „Coccindrilis kriecht unter deinem Mantel hervor, zwitschert einen hellen, vergnügten Laut. Als hätte selbst das kleine Herz der Echse gespürt, dass die Welt eben ein Stück weiter, ein Stück tiefer geworden ist.“

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "stand": "Sessions 01-86",
+  "stand": "Sessions 01-96",
   "mapId": "story",
   "canvas": {
     "width": 1600,
@@ -596,10 +596,36 @@
       ],
       "offiziell": true,
       "offiziellerName": "Herathis"
+    },
+    {
+      "id": "therum",
+      "name": "Therum",
+      "x": 560,
+      "y": 1040,
+      "type": "Stadt",
+      "lotse": "#/Orte/Therum",
+      "notes": "Windschiefe Kleinstadt am Meer, „deutlich suedlicher“ als Nampelo getroffen (Session 92); Silberkrug, Sturmvogel, Basalt-Gunwartempel; Abreise am 03.11.997 LZ mit Magister Medipho Richtung Wandratis (Sessions 92-94).",
+      "belege": [
+        "Session 92",
+        "Session 93"
+      ]
+    },
+    {
+      "id": "galpinius",
+      "name": "Galpinius",
+      "x": 640,
+      "y": 950,
+      "type": "Stadt",
+      "lotse": "#/Orte/Galpinius",
+      "notes": "Kleinstadt am Rand des Winters, voellig ueberfuellt wegen der gesperrten Furgstrasse (Orks im Pass); Ankunft am 05.12.997 LZ (Session 95); Tanniem und Elyra erloest; Kurandero-Cliffhanger (Session 96).",
+      "belege": [
+        "Session 95",
+        "Session 96"
+      ]
     }
   ],
   "geographie": {
-    "grundlage": "Topografie nach offizieller Lorakis-Geographie (Splitterwiki / Uhrwerk Verlag): Der Myrkan entspringt in den Myrkanbergen im Suedwesten und fliesst nach Norden (Wasserfels, Dreywasser, Beertal, Drugonsfurt). Sarnburg liegt zwischen Draugisbergen und Grossen Zirken an der Halunde. Die Grossen Zirken ziehen sich zwischen Sarnburg und Suedfang; Suedfang liegt am Fuss des Gluehbergs. Die Arwinger Mark liegt im Suedosten an der Kristallsee (Westgrenze Kynhold, Hauptort Arwingen, Suedliche Zitadellen suedlich davon). Herathis (Chronik: Heratis) liegt am Elyrischen Golf im aeussersten Suedwesten. Palitan (mit Katakomben) liegt im fernen Nordosten/Osten Lorakis in Zhoujiang (Takasadu, „Land des Phönix“) am Jadeband — jenseits des Mondpfads, der als Portalverbindung nach Sarnburg fuehrt. Auf der Karte ist Palitan daher als Zhoujiang-Inset (Fernbereich) dargestellt; die Distanz ist nicht maßstäblich. Die Karte bleibt schematisch.",
+    "grundlage": "Topografie nach offizieller Lorakis-Geographie (Splitterwiki / Uhrwerk Verlag): Der Myrkan entspringt in den Myrkanbergen im Suedwesten und fliesst nach Norden (Wasserfels, Dreywasser, Beertal, Drugonsfurt). Sarnburg liegt zwischen Draugisbergen und Grossen Zirken an der Halunde. Die Grossen Zirken ziehen sich zwischen Sarnburg und Suedfang; Suedfang liegt am Fuss des Gluehbergs. Die Arwinger Mark liegt im Suedosten an der Kristallsee (Westgrenze Kynhold, Hauptort Arwingen, Suedliche Zitadellen suedlich davon). Herathis (Chronik: Heratis) liegt am Elyrischen Golf im aeussersten Suedwesten. Palitan (mit Katakomben) liegt im fernen Nordosten/Osten Lorakis in Zhoujiang (Takasadu, „Land des Phönix“) am Jadeband — jenseits des Mondpfads, der als Portalverbindung nach Sarnburg fuehrt. Auf der Karte ist Palitan daher als Zhoujiang-Inset (Fernbereich) dargestellt; die Distanz ist nicht maßstäblich. Die Karte bleibt schematisch. Die Seereise der Sessions 87-92 fuehrte ueber die Ewige See (offizielles westliches Randmeer) die Suedkueste entlang nach Patalis (offizielles Koenigreich an der Westkueste Dragoreas); Zwingard ist eine offizielle Region; das Bergkoenigreich Blauschlucht (offiziell Westergrom, Zwerge der Furgand; Chronik „Furgant (Vulkanzwerge)“) liegt auf halbem Weg der Furgstrasse.",
     "offizielleNamen": {
       "zirken": "Groe Zirken",
       "beertal": "Freistadt Beertal",
@@ -608,3 +634,4 @@
     }
   }
 }
+

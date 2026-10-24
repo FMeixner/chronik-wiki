@@ -5,8 +5,8 @@ title: _Fortschritt
 # Destillations-Fortschritt
 
 ## Stand
-- Verarbeitet: Sessions 01–86, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis „Maravas Tochter“ (14.10.997 LZ, Ritual-Nacht und Abreise in Heratis). EP-Stand: 271.
-- Nächster Abschnitt: beginnt mit „Stecht in See“ (Session 87), ab Chronik-Zeile ca. 3497.
+- Verarbeitet: Sessions 01–96, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis zum Kurandero-Cliffhanger in Galpinius (5./6.12.997 LZ). EP-Stand: 313.
+- Nächster Abschnitt: beginnt mit der Recap-Meta-Session vom 02.12.2025 („Talk about the Story“, ab Chronik-Zeile ca. 4113); nächste Spielsession: „Das Rathaus von Galpinius“ (09.12.2025, ab ca. Zeile 4119).
 - Rohtext-Stand: Google Doc „Die Chronik“, Stand 21.10.2026.
 
 ## Konventionen
@@ -15,7 +15,7 @@ title: _Fortschritt
 - Spieler-Notizen (Franzi, Halfred) sind Chronik-Bestandteil und werden als Quelle geführt.
 - Spieler-Klarstellungen aus Gesprächen (zuletzt 23.10.2026) werden als solche gekennzeichnet und nicht mit Chronik-Text vermischt.
 - In-world-Daten werden wörtlich übernommen, auch bei Widersprüchen (z. B. 04.997 vs. 5.997; „29.6.997 LZ(?)“) — nie eigenmächtig korrigieren.
-- Chronik-Rechtschreibvarianten bleiben wörtlich (Teermark/Termark, Bodam/Bodan, Jadan/Jardan, Midstadt/Midstad, Elf/Alb des Gesandten; neu u. a. Heratis/Herathis/Herratis, Drugonsfuhrt/Drugonsfurt, Tovene/Tuvene/tuleve, Terso/Teso Teris, Iliada/Ilaria, Wulfast/Wulffast, Aris/Ares, Kokandrillis/Kokandrilis/Coccindrilis, Iosaris/„losaris“ [sic], Sandera Kavandel/Karbandel, Herathine/Heratine) — ggf. mit [sic].
+- Chronik-Rechtschreibvarianten bleiben wörtlich (Teermark/Termark, Bodam/Bodan, Jadan/Jardan, Midstadt/Midstad, Elf/Alb des Gesandten; neu u. a. Heratis/Herathis/Herratis, Drugonsfuhrt/Drugonsfurt, Tovene/Tuvene/tuleve, Terso/Teso Teris, Iliada/Ilaria, Wulfast/Wulffast, Aris/Ares, Kokandrillis/Kokandrilis/Coccindrilis, Iosaris/„losaris“ [sic], Sandera Kavandel/Karbandel, Herathine/Heratine; neu (Batch 8) u. a. Telena/Tilena, Therum/Terum, Medipho/Medifo, Kurandero/Curandero (ab Folgeabschnitt „Ugisold Curandero“), Furgstraße/Furchstraße, Nampelo/Nampela, Wulfras/Wulfrik [sic], Siira [sic], „Familie Taldar“ [sic]; Jaguarwälder (offizielle Lore: Jaguardschungel)) — ggf. mit [sic].
 - Taxonomie (Nutzer-Entscheid 22.10.2026): Tiere unter `Tiere/` mit eigenem Typ `tier` (Donnerhuf und Sommertochter dorthin umgezogen); Kreaturen unter `Kreaturen/` mit Typ `kreatur`.
 - Wichtigkeits-Gewichtung (Nutzer-Auftrag 22.10.2026): manifest.json führt pro Seite `w` (0–100), berechnet aus Erwähnungsfrequenz in der Chronik, Recency (Position der letzten Erwähnung) und inhaltlicher Gravitas (1–3). Die Weboberfläche sortiert die Navigation danach und rankt die Suche danach; markante Seiten tragen einen Stern. Bei neuen Seiten grob mitabschätzen, nach größeren Batches neu berechnen.
 
@@ -122,7 +122,25 @@ Gelöst (zur Referenz, Batch 6): Paians Nahtod überstanden — Seance (Session 
 - Der Kult nach Kelbas Tod: Wer ist „Die Führung des Zirkels“ (Session 79) — und wer führt den Kult weiter („Noch sind nicht alle Teile von Herathis unter unserem Einfluss“)? Bormund verspricht, „noch den letzten Verschwörer ins Licht zu zerren“ (Session 84).
 - Kopfgeld in Selenia: Wer treibt die Fahndung (auf [[Halfred]] und [[Dorean]] „ist die Summe gewaltig“) — [[Ilmar]]? Der [[Zirkel der Zinnen]]? (Sessions 84/85)
 - Selenius' neue Flotte im Militärhafen von Herathis — gegen wen gebaut? (Session 78)
-- [[Maravas Tochter]]: Ist das gebuchte Schiff tatsächlich die „Maravas Tochter“ (Sessionstitel nahelegend, die Chronik hält es nicht ausdrücklich fest)? Wer ist Kapitän Tetsulan, der nach Gesetzesproblemen fragt — und der zweite Maat Malarai? (Session 86)
+- [[Maravas Tochter]]: Ist das gebuchte Schiff tatsächlich die „Maravas Tochter“ (Sessionstitel nahelegend, die Chronik hält es nicht ausdrücklich fest)? Wer ist Kapitän Tetsulan, der nach Gesetzesproblemen fragt — und der zweite Maat Malarai? (Session 86) → gelöst (Batch 8): Die Überfahrt erfolgte auf der Maravas Tochter (Sessions 87–92); Tetsulan ist ihr Kapitän.
 - Wulfasts Warnung: „höhere Mächte … über die wir vermutlich keine Kontrolle haben und vielleicht niemals haben werden“ — was weiß sein Orden wirklich über die Gruppe? (Session 85)
 
 Gelöst (zur Referenz, Batch 7): Die Mordserie — [[Tovene]] fiel den „besten Meuchlern“ des Iosaris-Kults zum Opfer, „Verrat von Toleve“ (Session 79). Die Identität der [[Die Lichte Herrin|Lichten Herrin]] — der Kult verkündet sie als Iosaris, gefallene Göttin des Lichts (Session 79). Die Ritual-Nacht — Maledistas Befreiung aus dem Glaskerker vereitelt, der Riss schloss sich (Session 83). Die Magistratswahl — Kelba gewann und starb unter Maledistas Urteil (Sessions 83/84). Taldors Box — hielt nicht; das Schwarze Schwert wurde entfernt (Session 81). „Das letzte Mahl“ — obsolet, Kelba ist tot (Session 83). Dorians Pakt — er nahm das Angebot an („Du wirst mir gehören“), verweigerte den Preis („Töte sie, Dorean. Alle.“) und verging im Weltriss, „als Mensch. In seinem letzten, eigenen Entschluss“ (Session 83).
+
+### Offene Fragen aus Sessions 87–96 (Batch 8)
+- Mediphos wahres Ziel: „gar nicht nach Ymanda sonder nach W*****(akustisch nicht verstanden)“ (Session 92) — wo wollte er wirklich hin, und was sind seine „Forschungen“ in [[Wandratis]] (Session 93)?
+- Die Vögel Trem, Trom und Tram: Wie sind sie [[Tanniem von Zillia]] und [[Elyra]] zuzuordnen — die Altersangaben „24, 20 und 16 Jahre alt“ (Session 94) passen nicht zu 7 und 14 Jahren Vogelzeit (Session 96); ein dritter Vogel blieb im Käfig. War die erfrorene Leiche am Wegesrand „Trem“ („Aikyr glaub, dass das Trem war“, Session 95) — nackt und bartlos, was zur Rückverwandlung passt; wie er entkam und erfroren ist, hält die Chronik nicht fest. (Sessions 93–95)
+- Sessionstitel „Diener der dunklen Mutter“ (Session 94): Der Text nennt keinen Götzendienst Mediphos — besteht ein Bezug zu [[Die Lichte Herrin|Iosaris]] als „Dunkle Mutter“ (Batch 7)? Und wer sind die „konsorten“ aus der Annonce? (Sessions 92/94)
+- Das Artefakt von der Stele („gewachsen, nicht gebaut“, Session 94): Natur und Herkunft — Verbleib bei der Gruppe; wer waren die vier Gequälten, die es am Leben hielt; was bedeuten die übermalten Wand-Symbole (weiße Linien, schwarz darüber)?
+- Mediphos Ring mit schwarzem gesplittertem Stein im Seidensäckchen (Session 94) — gleiche Machart wie Paiens [[Goldener Ring]] und Tuvenes Ring (vgl. Batch 6)? Zusammenhang offen.
+- [[Das letzte Aufgebot]]: Wie viele Fläschchen existieren (eins getrunken, eine zweite bauchige Phiole bei Aikyr — neben welchem anderen Trank?); ist die Verjüngung um 5 Jahre dauerhaft; und was hat es mit Selenius' Mondgarde auf sich, für die Waslow es gebraut hat? (Sessions 74/89/93)
+- Halfred blieb vor den Katakomben zurück (Session 94) — Grund ungenannt.
+- Therum: Welcher „König erlässt neue Gesetze“ (Session 92) — Patalis-Regent oder anderer? Und warum landete das Schiff „deutlich südlicher“ als geplant (Steuerung? Sturmversatz?)?
+- Galpinius: Der Orks-Auftrag — [[Bronbron Knack]]s Spender-Listen und das ausstehende Gespräch mit [[Ugisold Kurandero]] (Cliffhanger, Session 96); die nächtlichen [[Rattlinge]]; warum griffen weder Galpinius' Wache noch die Zwerge der [[Blauschlucht]] gegen die Orks im Pass ein? (Sessions 95/96)
+- [[Finsterwasser]]: Zusammenhang mit den [[Wesen der Finsternis|Wesen der Finsternis]] (Pater Staubhüll: „Wesen der Dunkelheit“, Session 88)? Und: Wie viel Wahrheit steckt hinter Telenas Erzählung von den [[Seidige Schwestern|Seidigen Schwestern]] und ihrer Frau Tolki? (Sessions 88–90)
+- Paians Kult-Regalia (purpurner Mantel, Ring mit schwarzem Stein, goldene Maske) — Verbleib nach der Ritual-Nacht weiterhin offen (Batch 7).
+
+Gelöst (zur Referenz, Batch 8): Die Maravas-Tochter-Frage — die Überfahrt erfolgte auf der Maravas Tochter, Kapitän Tetsulan (Sessions 87–92). Medipho — als Folterer entlarvt (Schlafgift, Katakomben) und tot (von Aikyr erwürgt, Session 94). Die Vögel — (teilweise) Mediphos verwandelte Lehrlinge: [[Tanniem von Zillia]] (7 Jahre) und [[Elyra]] (14 Jahre), in Galpinius erlöst (Sessions 95/96). Die Überfahrt über die Ewige See — überstanden, Landung in Therum (Session 92).
+
+Lore-Abgleich (Splitterwiki, 24.10.2026): [[Patalis]], die [[Die Ewige See|Ewige See]], [[Zwingard]], die [[Blauschlucht]] (offiziell Westergrom, Zwerge der Furgand; Chronik „Furgant (Vulkanzwerge)“) und [[Epena]] sind offizielle Lorakis-Orte; [[Therum]], [[Galpinius]], [[Nampelo]], [[Ymanda]], [[Wandratis]], [[Catarana]] und die [[Die Furgstraße|Furgstraße]] bleiben weiße Flecken der Chronik.
+

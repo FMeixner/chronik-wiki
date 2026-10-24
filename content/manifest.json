@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–86 · in-world fortlaufend ab 14.10.997 LZ",
+  "coverage": "Sessions 01–96 · in-world fortlaufend ab 5.12.997 LZ",
   "pages": [
     {
       "path": "index",
@@ -50,8 +50,8 @@
       "path": "Personen/Aikyr",
       "type": "person",
       "title": "Aikyr",
-      "status": "lebendig",
-      "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt.",
+      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89)",
+      "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.",
       "aliases": [
         "Aikir",
         "Aykir"
@@ -2319,8 +2319,8 @@
       "path": "Orte/Maravas Tochter",
       "type": "ort",
       "title": "Maravas Tochter",
-      "status": "liegend; Schiff im Zivilhafen von Heratis — Abreise der Gruppe nach Süden bevorstehend",
-      "kurz": "Schiff im Zivilhafen von Herathis — hier heuerte Zingrim an; bei Kapitän Tetsulan bucht die Gruppe die Überfahrt nach Süden.",
+      "status": "schwer beschädigt (zwei der drei Masten gebrochen) — überstand Sturm und Finsterwasser; Therum erreicht (Session 92)",
+      "kurz": "Schiff der Gruppe über die Ewige See — Eisschollen-Leck, Sturm und Finsterwasser-Kampf (Sessions 87–89); Landung bei Therum; Tetsulan will es in eine Werft bringen.",
       "aliases": [
         "Marava's Tochter"
       ],
@@ -2474,6 +2474,311 @@
       ],
       "held": false,
       "w": 40
+    },
+    {
+      "path": "Personen/Medipho",
+      "type": "person",
+      "title": "Medipho",
+      "status": "tot (Session 94 — von Aikyr erwürgt)",
+      "kurz": "Schlaksiger Magister (~50, dreckig-purpurne Robe, ein Auge fehlt) — sucht „Schwertvolk“ für eine Reise „nach Ymanda“; trägt drei Vogelkäfige; in seinen Katakomben als Folterer entlarvt.",
+      "aliases": [
+        "Magister Medipho",
+        "Medifo"
+      ],
+      "held": false,
+      "w": 55
+    },
+    {
+      "path": "Personen/Tetsulan",
+      "type": "person",
+      "title": "Tetsulan",
+      "status": "lebendig; Kapitän der Maravas Tochter (zuletzt: Therum, Sessions 92 ff.)",
+      "kurz": "Kapitän der Maravas Tochter — „Mensch mit dreieckigem Hut und beinahe pechschwarzer Haut“; führte die Gruppe durch Sturm, Eisschollen und Finsterwasser.",
+      "aliases": [],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Personen/Davo",
+      "type": "person",
+      "title": "Davo",
+      "status": "lebendig (Sessions 87/88 — über Bord gegangen, gerettet)",
+      "kurz": "Junger Matrose der Maravas Tochter — beim Eisschollen-Leck über Bord gespült; von Paian aus dem Eiswasser gerettet, von Gunwar und Sinbara bewahrt.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Telena",
+      "type": "person",
+      "title": "Telena",
+      "status": "lebendig; kräftige Matrosin, rechte Hand des Kapitäns (Maravas Tochter)",
+      "kurz": "Kräftige Matrosin (~40) auf der Maravas Tochter — verlor ihre Frau Tolki an ein Finsterwasser; kniet im Gunwartempel von Therum.",
+      "aliases": [
+        "Tilena"
+      ],
+      "held": false,
+      "w": 18
+    },
+    {
+      "path": "Personen/Tanniem von Zillia",
+      "type": "person",
+      "title": "Tanniem von Zillia",
+      "status": "zurückverwandelt (Mensch, Session 95); unterwegs zu seiner Familie",
+      "kurz": "Mediphos letzter Lehrling — 7 Jahre ein leuchtend blauer Vogel; im Heuschober von Galpinius zurückverwandelt („…welches Jahr haben wir?“).",
+      "aliases": [
+        "Tanniem"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Elyra",
+      "type": "person",
+      "title": "Elyra",
+      "status": "zurückverwandelt (Mensch, Session 96); unterwegs nach Therum",
+      "kurz": "Mediphos zweite Lehrling, aus Evatia — 14 Jahre ein Vogel; will in Therum als Heilerin arbeiten.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Bronbron Knack",
+      "type": "person",
+      "title": "Bronbron Knack",
+      "status": "lebendig; Seidenhändler (gestrandet in Galpinius, Taverne „7 zünftige Erbsenählerinnen“)",
+      "kurz": "Dicklicher Gnom — transportiert seit 40 Jahren Seide nach Zwingard; wegen der gesperrten Furgstraße gestrandet („Seide gegen Brot und Zwiebeln“); bietet Spender-Listen für die Ork-Jagd an.",
+      "aliases": [
+        "Bronbron"
+      ],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Mertano Verell",
+      "type": "person",
+      "title": "Mertano Verell",
+      "status": "lebendig; Wirtin des Silberkrugs (Therum, Obertadt)",
+      "kurz": "„Die pausbackige Wirt“ [sic] des Silberkrugs — „in feine Tücher gehüllt“, empfängt die Gruppe überschwenglich.",
+      "aliases": [],
+      "held": false,
+      "w": 8
+    },
+    {
+      "path": "Personen/Ugisold Kurandero",
+      "type": "person",
+      "title": "Ugisold Kurandero",
+      "status": "lebendig (nur erwähnt); Vorsteher von Galpinius",
+      "kurz": "„Dem Vorsteher von Galpinius“ (Bronbron Knack) — das Gespräch über die Orks im Pass steht bevor (Session 96, Cliffhanger).",
+      "aliases": [
+        "Curandero"
+      ],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Orte/Die Ewige See",
+      "type": "ort",
+      "title": "Die Ewige See",
+      "status": "bestehend; das große Meer — überquert auf der Fahrt nach Süden (Sessions 87–92)",
+      "kurz": "Endloses, graues, winterwütendes Meer — Heimat singender Wale, Eisschollen-Stürme und Jagdgebiet des Finsterwassers.",
+      "aliases": [
+        "Ewige See"
+      ],
+      "held": false,
+      "w": 20
+    },
+    {
+      "path": "Orte/Therum",
+      "type": "ort",
+      "title": "Therum",
+      "status": "bestehend; Kleinstadt am Meer — Landung der Gruppe (Session 92, „deutlich südlicher“)",
+      "kurz": "Windschiefe Kleinstadt mit Schieferdächern und bunten Wimpeln am Hang — Silberkrug, Sturmvogel, Basalt-Gunwartempel; Ausgangspunkt der Reise mit Medipho.",
+      "aliases": [
+        "Terum"
+      ],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Orte/Galpinius",
+      "type": "ort",
+      "title": "Galpinius",
+      "status": "bestehend; überfüllte Kleinstadt — Ankunft der Gruppe am 5.12.997 LZ (Session 95)",
+      "kurz": "Kleinstadt im Winter, „völlig überfüllt“ von Gestrandeten der gesperrten Furgstraße — Taverne „7 zünftige Erbsenählerinnen“, nächtliche Rattlinge; Vorsteher Ugisold Kurandero.",
+      "aliases": [],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Orte/Mediphos Katakomben",
+      "type": "ort",
+      "title": "Mediphos Katakomben",
+      "status": "verschüttet (Eingang, Session 94)",
+      "kurz": "20–50 Jahre altes Höhlenlabyrinth hinter einer Felsspalte zwischen Therum und Galpinius — blutiger Brunnen, Labor, Folterkammer, Gläser-Sammlung und eine Stele mit glasigem Artefakt; Ort von Mediphos Ende.",
+      "aliases": [],
+      "held": false,
+      "w": 35
+    },
+    {
+      "path": "Orte/Die Furgstraße",
+      "type": "ort",
+      "title": "Die Furgstraße",
+      "status": "gesperrt (Orks im Pass, Winter; Session 95)",
+      "kurz": "Verkehrsweg von Galpinius nach Zwingard — Bronbron Knack transportierte hier 40 Jahre Seide; Blizzards und Orks; die Blauschlucht liegt auf halbem Weg.",
+      "aliases": [
+        "Furchstraße"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Orte/Epena",
+      "type": "ort",
+      "title": "Epena",
+      "status": "nur erwähnt (Reiseziel der Überfahrt, nicht erreicht)",
+      "kurz": "Noch ~300 km entfernt — erstes Ziel der Überfahrt; Aikyr und Halfred stimmten dafür, abgewählt.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Orte/Nampelo",
+      "type": "ort",
+      "title": "Nampelo",
+      "status": "nur erwähnt (Hafen im Osten, nicht angelaufen)",
+      "kurz": "Hafenstadt im Osten — Tetsulans Werft-Ziel; gewann die Abstimmung, wurde aber „deutlich südlicher“ verfehlt.",
+      "aliases": [
+        "Nampela"
+      ],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Orte/Ymanda",
+      "type": "ort",
+      "title": "Ymanda",
+      "status": "nur erwähnt (angebliches Reiseziel Mediphos)",
+      "kurz": "Land am „alten Weg“ — Mediphos offizielles Reiseziel; tatsächlich wollte er die Gruppe „kurz nach Ymanda“ loswerden.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Orte/Wandratis",
+      "type": "ort",
+      "title": "Wandratis",
+      "status": "nur erwähnt (Reiseziel der Abreise aus Therum)",
+      "kurz": "„Richtung Wandratis. Dort gehe Medipho seinen Forschungen nach.“",
+      "aliases": [],
+      "held": false,
+      "w": 8
+    },
+    {
+      "path": "Orte/Catarana",
+      "type": "ort",
+      "title": "Catarana",
+      "status": "nur erwähnt (Station auf der Route nach Ymanda)",
+      "kurz": "Station auf der vom Wildniskundigen empfohlenen Route „Terum > Catarana > Küste entlang zum alten Weg“.",
+      "aliases": [],
+      "held": false,
+      "w": 8
+    },
+    {
+      "path": "Orte/Blauschlucht",
+      "type": "ort",
+      "title": "Blauschlucht",
+      "status": "nur erwähnt",
+      "kurz": "Zwergenstadt „in den Stein geschlagen, halb Unterirdisch und überaus sehenswert“ — Heimat der „Furgant (Vulkanzwerge)“ [sic], auf halbem Weg der Furgstraße; griff nicht gegen die Orks im Pass ein.",
+      "aliases": [],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Orte/Patalis",
+      "type": "ort",
+      "title": "Patalis",
+      "status": "bestehend; Königreich — Winterreise der Gruppe (Sessions 92–96)",
+      "kurz": "Königreich, in dem die Gruppe landet — Mondsteinkriegs-Geschichte Luidpergas, der Joka-Baum im Norden; Therum, Galpinius und die Jaguarwälder Tetsulans.",
+      "aliases": [],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Orte/Zwingard",
+      "type": "ort",
+      "title": "Zwingard",
+      "status": "bestehend; Region — Route-Option im Osten",
+      "kurz": "Königreich (Mondsteinkrieg) — Bronbrons Seidenziel über die Furgstraße; Paiens Winter-Route Richtung Isarfest.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Kreaturen/Finsterwasser",
+      "type": "kreatur",
+      "title": "Finsterwasser",
+      "status": "bestehend (See und Flussmündungen) — Kampf überstanden (Session 89)",
+      "kurz": "Wesen der Dunkelheit in schwarzer Wasserform — steigen aus See in Schiffe, saugen Lebenskraft; „Nur göttliche Macht, Licht oder elementares Feuer kann ihnen Schaden!“",
+      "aliases": [],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Kreaturen/Seidige Schwestern",
+      "type": "kreatur",
+      "title": "Seidige Schwestern",
+      "status": "unklar (Erzählung Telenas)",
+      "kurz": "Frauen, die beim Blutmond unter Wasser schwimmen, Seeleuten mit süßen Stimmen einen Kuss abluchsen und sie in die Tiefe ziehen.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Kreaturen/Ghul",
+      "type": "kreatur",
+      "title": "Ghul",
+      "status": "bestehend (Maulhöhlen in Mediphos Katakomben)",
+      "kurz": "Lautlos gleitende Kreaturen mit graugrüner Haut und Eiterwunden — krochen aus den schwarzen Maulhöhlen der Säulenhalle.",
+      "aliases": [
+        "Ghule",
+        "Ghulen"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Kreaturen/Rattlinge",
+      "type": "kreatur",
+      "title": "Rattlinge",
+      "status": "bestehend (nachts in Galpinius)",
+      "kurz": "Dringen nachts in Galpinius ein und bestehlen Leute.",
+      "aliases": [],
+      "held": false,
+      "w": 8
+    },
+    {
+      "path": "Tiere/Wale",
+      "type": "tier",
+      "title": "Wale",
+      "status": "bestehend (Ewige See)",
+      "kurz": "Die „Buckeltiere“ der Ewigen See — pechschwarze Kolosse mit uraltem Gesang; im Finsterwasser-Kampf schloss ein gebetetes Walskelett das Schiff in seinen Rippenkäfig.",
+      "aliases": [
+        "Buckeltiere"
+      ],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Artefakte/Das letzte Aufgebot",
+      "type": "artefakt",
+      "title": "Das letzte Aufgebot",
+      "status": "ein Fläschchen getrunken (Session 89); zweite bauchige Phiole bei Aikyr (Session 93)",
+      "kurz": "Silbern schillernder Trank — von Waslow für Selenius‘ Mondgarde gebraut („ein wenig gestreckt“); statt der erwarteten Wirkung Kindheitserinnerungen: um 5 Jahre verjüngt.",
+      "aliases": [],
+      "held": false,
+      "w": 20
     }
   ]
 }
+

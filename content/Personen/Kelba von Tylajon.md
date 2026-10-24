@@ -24,3 +24,8 @@ kurz: „Der fette Zwerg" — gewählter oberster Magistrat und Wegbereiter des 
 - Am Kessel (Sessions 82/83): Kelbas Blick ist „Feuer … das frisst"; der Pfeil Halfreds interessiert ihn „kaum"; Dorians Griff nach dem Schwertgriff scheitert an der „giftig grüne[n] Aura"; „ein Schaudern geht durch Sira, Aikyr, Halfred und Paian", als Dorean den Pakt annimmt.
 - Tod (Session 83): Doreans Schwarzes Schwert stößt durch den „schimmernden grüne[n] Schild" — „Kelbas Augen reißen auf"; Maledistas Urteil „HORRETARAKO": „schwarze Flammen schlagen aus Kelbars' [sic] Augen und Mund"; er fleht („Es ist nicht meine Schuld! Alles war perfekt!") und stirbt mit „Iosaris! Iosaris! Iosaris!" — zurück bleibt ein „verrußtes, leergefressenes Loch" statt des Gesichts; Aikyr tritt auf die verkohlte Leiche (Session 84).
 - Nachwirkung (Session 84): Bormund lässt das Anwesen durchsuchen — genug Beweise „um hinter Gittern zu bringen"; der Bericht: „Oberster Magistrat ein Iosaris-Anhänger".
+
+
+## Sessions 87–96 (posthum erwähnt)
+
+- Tetsulans Erinnerung (Session 91): Der Kapitän der [[Maravas Tochter]] stammt aus den Jaguarwäldern und war als Kind Sklave: „Er und sein Freund Ugo sind von einer reichen Familie gekauft und freigelassen worden. Er von der Familie Taldar [sic], sein Freund kam im Dienste der Familie Isenblut unter." Zu Kelba: „Kann uns kaum glauben, dass Kelbar und Tuwer, die Zwillingsbrüder sindböse sind… wären beide in der Jugend knorke typen." [sic] — Tetsulan kannte Kelba und Tuwer Isenblut aus der Jugend; was von der „Zwillingsbrüder"-Aussage zu halten ist, hält die Chronik nicht fest (offen).

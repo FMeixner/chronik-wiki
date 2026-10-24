@@ -14,3 +14,14 @@ kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner K
 - Am Tisch der Gruppe (Session 86, 14.10.997 LZ): Start-Beobachtung des neuen Gefährten — „Sind sie wirklich jene, die das Licht bringen? Oder sind sie nur die Fackelträger – die das Feuer nicht zähmen, sondern es ungewollt in die Welt hinaustragen?“; er sieht [[Paian]]s Müdigkeit („Die Art Müdigkeit, die keine Nacht mehr heilt“), [[Halfred]]s Last, [[Sira]]s „stille[r] Wut“ und das Loch, das [[Dorean]] hinterlässt. Als sich die Gruppe erhebt: „Und du stehst auf.“
 - Chronik-Schreibungen: „Wulfast“ · „Wulffast“ [sic] (Sessions 84/85) — beide wörtlich; die Seite läuft unter „Wulfast“.
 - Offen: Name und Ziele seines Ordens und was der Orden mit der Gruppe vorhat; ob der Fischer und sein Freund („dessen Freund dorian … umd gebracht hat“ [sic]) mit Dorians altem Pakt zu tun haben — die Chronik-Stelle ist unklar formuliert, wörtlich belassen.
+
+
+## Sessions 87–96: Lichtblitze, Vangara, der Band-Brecher
+
+- Auf See (Session 89): „Wulfast schießt einen Lichtblitz nach dem anderen aus seiner Hand in eines der Tentakel und zieht damit den zorn des Wesens auf sich.“ (→ [[Finsterwasser]])
+- Predigt (Session 90): „Wulfast hält eine kurze Predigt, in der er den Mut der Mannschaft lobt und seiner Herrin Vangara um ihren Beistand dankt.“
+- Warnung (Session 92): „Wulfast trau Tetsulan nicht, als er die anderen schon im Bett sind ermahnt er ihn die informationen die wir ihm gegeben haben nicht gegen uns zu benutzen, Vangara, seine Herrin sei eine Rachsüchtige Göttin.“
+- Katakomben (Session 94): errichtet mit Sira „eine Barriere aus schimmernden Licht“ gegen die Ghulen; spießt [[Medipho]] auf; „wulfast erkennt, das die Gefangenen wohl von dem Artefekt [sic] am Leben gehalten werden und bittet seine Herrin Vangara das Band zu brechen, was gelingt, und Gequälten können endlich Frieden finden.“
+- Rückweg (Session 95): Der Wulfast-Start: „Die Katakomben. Das Flüstern. Die Stele, die wie ein offenes Auge in die Welt blickte. Der Wahnsinn im Blick des Magiers. Die vier Käfige. Das Gefühl, dass dort kein Gebet hinreichte“ — über die Gefährten: „Dennoch schwebt eine dünne Schicht Fremdheit über ihnen.“
+- Heuschober (Session 95): „Wulfast zerdeppert den Käfig recht ungeschickt“ — der Vogel bleibt trotzdem.
+- Galpinius (Session 96): geht mit Aikyr und Sira zu Kurandero: „Gehen zum größten Haus der Stadt, stehen davor.“ (offen: das Gespräch gehört zum nächsten Abschnitt)
