@@ -15,3 +15,5 @@ kurz: Schwer gerüstete Wacht mit blutrotem Drei-Berge-Banner — Mauer mit den 
 - Die „ewige Wacht“ (Session 102): „Wulfast hät [sic] den nachtwache haltenden vortäge über die ‚ewige wacht‘ … was sie schweigend abnicken.“ (→ [[Wulfast]])
 - [[Waldrig]] verrichtet den „blutdienst“ — „einen strafdienst, der bis zum Tod geht“; das Wolfskopf-Zeichen „auf seiner stirn“ markiert den Schuldigen.
 - Offen: Struktur und Ränge der Blutwacht; ob die Feste Altstein ein Blutwacht-Außenposten ist; ob die Reiterschaar reguläre Blutwacht ist.
+
+- Das Löwenlager (Sessions 102/107): Waldrigs Botschaft — „Dass sie südlich vom Löwenlager angegriffen haben" — benennt die Stellung, an der seine Gefährten im Ork-Angriff standen; Wulfast hält das Löwenlager für den Beginn der „Roten Spuren" (→ [[Löwenlager]]). In der Blutgrasweite fand die Gruppe das Große Ork-Lager mit Tausenden Orks (Sessions 118–120) und eine zweikilometerbreite Schneise „zertrampelt von tausenden Orkfüßen" — möglicher Zusammenhang mit dem Angriff auf Waldrigs Gefährten. (→ [[Orks]])

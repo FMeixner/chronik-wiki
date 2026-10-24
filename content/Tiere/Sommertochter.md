@@ -2,8 +2,8 @@
 type: tier
 title: Sommertochter
 aliases: []
-status: lebendig
-kurz: Aikyrs Stute; versank im Sumpf, gerettet; trug den verwundeten Halfred nach Herathis.
+status: tot — in der Blutgrasweite von einem Gnureißer zerfleischt (Session 115); das Band zu Aikyr riss
+kurz: Aikyrs Stute; versank im Sumpf, gerettet; trug den verwundeten Halfred nach Herathis — zuletzt den vergifteten Aikyr, dann von einem Gnureißer zerfleischt.
 ---
 # Sommertochter
 
@@ -21,3 +21,9 @@ kurz: Aikyrs Stute; versank im Sumpf, gerettet; trug den verwundeten Halfred nac
 
 - Der Dorfkampf (Session 102): „Aiky [versucht den 4-Meter-Ork] mit sommertochter niederzureiten… doch der bleibt unbeeindruckt stehen und aikyr wird vom pferd gezogen.“ (→ [[Orks]])
 - Nach dem Teleport (Session 102): „Sommertochter, donnerhuf und unsere esel sind weg. wir finden sie nach einer weile wieder. verstrupptes fell ein wenig abgemagert, aerb [sic] glücklich. in den satteltaschen verdorbener proviant.“ — die Tiere überstanden den Winter-Sommer-Sprung des [[Der Ertrunkene Mond|Ertrunkenen Mondes]].
+
+## Sessions 111–115: Letzter Ritt
+
+- Der Stinkmohn-Ritt (Session 111): „Wir laden Aikyr auf Sommertochter." — sie trägt den bewusstlosen Aikyr nach der Beseelter-Stinkmohn-Vergiftung durch die Blutgrasweite. (→ [[Beseelter Stinkmohn]])
+- Der Tod (Session 114): „Der dritte stößt auf Sira und Sommertochter herab und kriegt letztere zu fassen." — „Sommertochter wird von dem 3ten gnureißer zerfleischt. Paian bittet den Geist des Gnus ihr zu Hilfe zu eilen…. doch bevor das bei sommertochter ankommt hören wir einen markerschütternden schrei." (→ [[Gnureißer]])
+- Das Band reißt (Session 115): „Aikyr spürt sein Band zu Sommertochter reißen… leere breitet sich in ihm aus. Schuld…" — Paian verarztet den grabenden Aikyr und „nimmt ihm ein wenig den Zorn über seinen verlust… die trauer bleibt." (Session 116)

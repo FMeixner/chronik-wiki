@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "wikiBase": "https://fmeixner.github.io/chronik-wiki/",
   "wegfaktor": 1.4,
   "modeLabels": {
@@ -461,14 +461,44 @@
       "type": "Ziel",
       "notes": "Wehrfeste im Nachtwall, Ankunft 23.08.998 LZ (Session 102); Gefangenschaft, Festmahl mit Bruder Aurevian, selenischer Steckbrief gegen Halfred — Abfuehrung (Sessions 103-106).",
       "lotse": "#/Orte/Feste Altstein"
+    },
+    {
+      "id": "blutgrasweite",
+      "mapId": "story",
+      "x": 55.63,
+      "y": 92.27,
+      "name": "Blutgrasweite",
+      "type": "Naturmarke",
+      "notes": "Subtropische Savanne im Suedwesten (offizielle Lore); Durchquerung westwaerts 05.-21.09.998 LZ (Sessions 108-120): rote Flecken, Blutbluete, Kartografen-Skelette, Beseelter Stinkmohn, Gnureisser — Sommertochters Tod (Session 115).",
+      "lotse": "#/Orte/Blutgrasweite"
+    },
+    {
+      "id": "ork-see",
+      "mapId": "story",
+      "x": 58.13,
+      "y": 90.45,
+      "name": "Ork-See (Großes Lager)",
+      "type": "Naturmarke",
+      "notes": "See in der Blutgrasweite; Grosses Ork-Lager: „Am nordlichen Ufer Lager um Lager. Tausende Orks.“ (Session 118) — Schneise von zwei Kilometern Breite, Halfreds Wettlauf-Flucht (Sessions 118-120).",
+      "lotse": "#/Orte/Blutgrasweite"
+    },
+    {
+      "id": "baumriesenwald",
+      "mapId": "story",
+      "x": 50,
+      "y": 94.09,
+      "name": "Baumriesenwald",
+      "type": "Ziel",
+      "notes": "Dunkler Riesenwald am Fuss des schwarzen Hochgebirges (Kandidat: die offiziellen Blauen Klippen); Chronik-Ende: Die Gruppe reist seit dem 24.09.998 LZ durch ihn (Stand 26.09.998 LZ, Sessions 121-123).",
+      "lotse": "#/Orte/Baumriesenwald"
     }
   ],
   "routes": [
     {
       "id": "r1",
-      "label": "Der Weg der Gruppe (Sessions 01–106)",
+      "label": "Der Weg der Gruppe (Sessions 01–123)",
       "color": "#fbbf24",
-      "statusIndex": 58,
+      "statusIndex": 61,
       "waypoints": [
         {
           "markerId": "unterwalde",
@@ -709,6 +739,18 @@
         {
           "markerId": "altstein",
           "caption": "S 102–106 · Feste Altstein (ab 23.08.998 LZ)"
+        },
+        {
+          "markerId": "blutgrasweite",
+          "caption": "S 108–120 · Durchquerung der Blutgrasweite (05.–21.09.998 LZ)"
+        },
+        {
+          "markerId": "ork-see",
+          "caption": "S 118–120 · Das Große Ork-Lager am See (19.–21.09.998 LZ)"
+        },
+        {
+          "markerId": "baumriesenwald",
+          "caption": "S 121–123 · Baumriesenwald — Chronik-Ende (ab 21.09.998 LZ)"
         }
       ]
     }

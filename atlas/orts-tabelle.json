@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "stand": "Sessions 01-106",
+  "version": 5,
+  "stand": "Sessions 01-123",
   "mapId": "story",
   "canvas": {
     "width": 1600,
@@ -677,16 +677,54 @@
       "name": "Feste Altstein",
       "x": 1090,
       "y": 1000,
-      "type": "Ziel",
+      "type": "Kultstätte",
       "lotse": "#/Orte/Feste Altstein",
-      "notes": "Wehrfeste „8 tage in den Nachtwall hinein“, Sitz von Ulfert Brandwacht; Ankunft 23.08.998 LZ (Session 102); Gefangenschaft und Festmahl — selenischer Steckbrief gegen Halfred, Abfuehrung der Gruppe (Sessions 103-106).",
+      "notes": "Wehrfeste „8 tage in den Nachtwall hinein“, Sitz von Ulfert Brandwacht; Ankunft 23.08.998 LZ (Session 102); Gefangenschaft und Festmahl — selenischer Steckbrief gegen Halfred, Abfuehrung der Gruppe (Sessions 103-106). Entlassen durch Orda (Session 107).",
       "belege": [
         "Sessions 102-106"
+      ]
+    },
+    {
+      "id": "blutgrasweite",
+      "name": "Blutgrasweite",
+      "x": 890,
+      "y": 1015,
+      "type": "Naturmarke",
+      "lotse": "#/Orte/Blutgrasweite",
+      "notes": "Subtropische Savanne im Suedwesten (offizielle Lore); Durchquerung westwaerts 05.-21.09.998 LZ (Sessions 108-120): rote Flecken mit magischem Wabern, Blutbluete, Kartografen-Skelette mit Warnbuch, Beseelter Stinkmohn (Tontopf bei Paian), Gnureisser und Sommertochters Tod (Session 115).",
+      "belege": [
+        "Sessions 17",
+        "Sessions 87-96",
+        "Sessions 108-120"
+      ]
+    },
+    {
+      "id": "ork-see",
+      "name": "Ork-See (Großes Lager)",
+      "x": 930,
+      "y": 995,
+      "type": "Naturmarke",
+      "lotse": "#/Orte/Blutgrasweite",
+      "notes": "See in der Blutgrasweite; Grosses Ork-Lager: „Am nordlichen Ufer Lager um Lager. Tausende Orks.“ (Session 118) — Halfreds Selenischer-Spatz-Aufklaerung, Schneise von zwei Kilometern Breite, Wettlauf-Flucht (Sessions 118-120); „Im See lange dunkle Gestalten unter dem Wasser“.",
+      "belege": [
+        "Sessions 118-120"
+      ]
+    },
+    {
+      "id": "baumriesenwald",
+      "name": "Baumriesenwald",
+      "x": 800,
+      "y": 1035,
+      "type": "Ziel",
+      "lotse": "#/Orte/Baumriesenwald",
+      "notes": "Dunkler Riesenwald am Fuss des schwarzen Hochgebirges (Kandidat: die offiziellen Blauen Klippen); Chronik-Ende: Die Gruppe reist seit dem 24.09.998 LZ durch ihn — sterbende Baumriesen („nimm sie weg, nimm sie von uns“), Klonk-Klonk-Voegel, Oger-grosses Wesen mit schwarzem Zeug (Stand 26.09.998 LZ, Sessions 121-123).",
+      "belege": [
+        "Sessions 118-123"
       ]
     }
   ],
   "geographie": {
-    "grundlage": "Topografie nach offizieller Lorakis-Geographie (Splitterwiki / Uhrwerk Verlag): Der Myrkan entspringt in den Myrkanbergen im Suedwesten und fliesst nach Norden (Wasserfels, Dreywasser, Beertal, Drugonsfurt). Sarnburg liegt zwischen Draugisbergen und Grossen Zirken an der Halunde. Die Grossen Zirken ziehen sich zwischen Sarnburg und Suedfang; Suedfang liegt am Fuss des Gluehbergs. Die Arwinger Mark liegt im Suedosten an der Kristallsee (Westgrenze Kynhold, Hauptort Arwingen, Suedliche Zitadellen suedlich davon). Herathis (Chronik: Heratis) liegt am Elyrischen Golf im aeussersten Suedwesten. Palitan (mit Katakomben) liegt im fernen Nordosten/Osten Lorakis in Zhoujiang (Takasadu, „Land des Phönix“) am Jadeband — jenseits des Mondpfads, der als Portalverbindung nach Sarnburg fuehrt. Auf der Karte ist Palitan daher als Zhoujiang-Inset (Fernbereich) dargestellt; die Distanz ist nicht maßstäblich. Die Karte bleibt schematisch. Die Seereise der Sessions 87-92 fuehrte ueber die Ewige See (offizielles westliches Randmeer) die Suedkueste entlang nach Patalis (offizielles Koenigreich an der Westkueste Dragoreas); Zwingard ist eine offizielle Region; das Bergkoenigreich Blauschlucht (offiziell Westergrom, Zwerge der Furgand; Chronik „Furgant (Vulkanzwerge)“) liegt auf halbem Weg der Furgstrasse. Die Winterreise der Sessions 97-106 fuehrte von Galpinius ueber den Riesheim (offizielles Hochgebirge, „nahezu undurchdringlich“, rund 1.000 km Nord-Sued) nach Zwingard (offiziell „Land der tausend Burgen“), weiter ueber Isarfest und Kyningswacht an den Rand des Nachtwall (offizielles Gebirge vor Termark, Korau-Quelle) bis zur Feste Altstein.",
+    "grundlage": "Topografie nach offizieller Lorakis-Geographie (Splitterwiki / Uhrwerk Verlag): Der Myrkan entspringt in den Myrkanbergen im Suedwesten und fliesst nach Norden (Wasserfels, Dreywasser, Beertal, Drugonsfurt). Sarnburg liegt zwischen Draugisbergen und Grossen Zirken an der Halunde. Die Grossen Zirken ziehen sich zwischen Sarnburg und Suedfang; Suedfang liegt am Fuss des Gluehbergs. Die Arwinger Mark liegt im Suedosten an der Kristallsee (Westgrenze Kynhold, Hauptort Arwingen, Suedliche Zitadellen suedlich davon). Herathis (Chronik: Heratis) liegt am Elyrischen Golf im aeussersten Suedwesten. Palitan (mit Katakomben) liegt im fernen Nordosten/Osten Lorakis in Zhoujiang (Takasadu, „Land des Phönix“) am Jadeband — jenseits des Mondpfads, der als Portalverbindung nach Sarnburg fuehrt. Auf der Karte ist Palitan daher als Zhoujiang-Inset (Fernbereich) dargestellt; die Distanz ist nicht maßstäblich. Die Karte bleibt schematisch. Die Seereise der Sessions 87-92 fuehrte ueber die Ewige See (offizielles westliches Randmeer) die Suedkueste entlang nach Patalis (offizielles Koenigreich an der Westkueste Dragoreas); Zwingard ist eine offizielle Region; das Bergkoenigreich Blauschlucht (offiziell Westergrom, Zwerge der Furgand; Chronik „Furgant (Vulkanzwerge)“) liegt auf halbem Weg der Furgstrasse. Die Winterreise der Sessions 97-106 fuehrte von Galpinius ueber den Riesheim (offizielles Hochgebirge, „nahezu undurchdringlich“, rund 1.000 km Nord-Sued) nach Zwingard (offiziell „Land der tausend Burgen“), weiter ueber Isarfest und Kyningswacht an den Rand des Nachtwall (offizielles Gebirge vor Termark, Korau-Quelle) bis zur Feste Altstein. Die Durchquerung der Sessions 108-120 fuehrte von der Feste Altstein westwaerts durch die Blutgrasweite (offizielle subtropische Savanne zwischen Zwingard, dem Nachtwall und den Blauen Klippen) — vorbei am grossen Ork-Lager am See (Sessions 118-120) — bis an den Fuss des schwarzen Hochgebirges; Kandidat dafuer sind die offiziellen Blauen Klippen (Quellgebiet des Blutwassers mit „dichteren Waldgebieten“ am Fuss, Splitterwiki). Dort endet die Chronik im Baumriesenwald (Sessions 121-123).",
     "offizielleNamen": {
       "zirken": "Groe Zirken",
       "beertal": "Freistadt Beertal",

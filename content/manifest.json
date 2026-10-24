@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–106 · in-world fortlaufend ab 25.08.998 LZ",
+  "coverage": "Sessions 01–123 · in-world fortlaufend ab 26.09.998 LZ",
   "pages": [
     {
       "path": "index",
@@ -50,7 +50,7 @@
       "path": "Personen/Aikyr",
       "type": "person",
       "title": "Aikyr",
-      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)",
+      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — im Baumriesenwald (Stand 26.09.998 LZ)",
       "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.",
       "aliases": [
         "Aikir",
@@ -192,7 +192,7 @@
       "path": "Personen/Halfred",
       "type": "person",
       "title": "Halfred",
-      "status": "lebendig; in Selenia steckbrieflich gesucht — nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)",
+      "status": "lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)",
       "kurz": "Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.",
       "aliases": [],
       "held": true,
@@ -319,7 +319,7 @@
       "path": "Personen/Paian",
       "type": "person",
       "title": "Paian",
-      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)",
+      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)",
       "kurz": "Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.",
       "aliases": [],
       "held": true,
@@ -369,7 +369,7 @@
       "path": "Personen/Sira",
       "type": "person",
       "title": "Sira",
-      "status": "lebendig; nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)",
+      "status": "lebendig; entlassen aus der Feste Altstein (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)",
       "kurz": "Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.",
       "aliases": [],
       "held": true,
@@ -871,8 +871,8 @@
       "path": "Orte/Blutgrasweite",
       "type": "ort",
       "title": "Blutgrasweite",
-      "status": "bestehend; erklärtes Reiseziel der Gruppe („weit in den westen“, ~450 km zum ersten Fluss)",
-      "kurz": "Weite Grasebene im Südwesten; dritter Splitter-Standort — „wohl von Zwergen dorthin verschleppt“.",
+      "status": "bestehend; von der Gruppe durchquert (Sessions 108–120, 05.–21.09.998 LZ) — dritter Splitter-Standort, Splitter noch nicht gefunden",
+      "kurz": "Weite Grasebene im Südwesten; dritter Splitter-Standort — „wohl von Zwergen dorthin verschleppt“; 16 Tage Durchquerung mit Blutblüten, Kartografen-Skeletten, Gnureißern und Tausenden Orks.",
       "aliases": [],
       "held": false,
       "w": 72
@@ -1551,7 +1551,7 @@
       "path": "Artefakte/Die Roten Spuren",
       "type": "artefakt",
       "title": "Die Roten Spuren",
-      "status": "Auftrag läuft — „Die Suche nach dem zweiten Stein“ (Session 47 ff.)",
+      "status": "Auftrag offen (folgt der Gruppe) — rote Flecken-Reihe durch die Blutgrasweite gesichtet (Sessions 107–120), Startpunkt evtl. Löwenlager",
       "kurz": "Lisanas letzter Auftrag: den Weg des ersten Schlachtzugs folgen und aus der Dunkelheit einen blauen Stein bringen.",
       "aliases": [
         "Prophezeiung der Fee",
@@ -1587,8 +1587,8 @@
       "path": "Tiere/Sommertochter",
       "type": "tier",
       "title": "Sommertochter",
-      "status": "lebendig",
-      "kurz": "Aikyrs Stute; versank im Sumpf, gerettet; trug den verwundeten Halfred nach Herathis.",
+      "status": "tot — in der Blutgrasweite von einem Gnureißer zerfleischt (Session 115); das Band zu Aikyr riss",
+      "kurz": "Aikyrs Stute; versank im Sumpf, gerettet; trug den verwundeten Halfred nach Herathis — zuletzt den vergifteten Aikyr, dann von einem Gnureißer zerfleischt.",
       "aliases": [],
       "held": false,
       "w": 63
@@ -2396,7 +2396,7 @@
       "path": "Personen/Wulfast",
       "type": "person",
       "title": "Wulfast",
-      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; gefangen in der Feste Altstein (Sessions 103–106)",
+      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)",
       "kurz": "„Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).",
       "aliases": [
         "Wulffast",
@@ -2861,7 +2861,7 @@
       "path": "Personen/Orda Brandwacht",
       "type": "person",
       "title": "Orda Brandwacht",
-      "status": "lebendig; Tochter von Ulfert Brandwacht",
+      "status": "lebendig; Tochter von Ulfert Brandwacht — entschuldigte sich und entließ die Gruppe (Session 107)",
       "kurz": "Etwa 22 Sommer, barfuß, rote Haare — die freundliche Kellnerin der Gefangenschaft; vermittelte freie Bewegung und die Festmahls-Einladung „als wiedergutmachung“.",
       "aliases": [
         "Vorda"
@@ -2944,8 +2944,8 @@
       "path": "Orte/Feste Altstein",
       "type": "ort",
       "title": "Feste Altstein",
-      "status": "bestehend; Sitz von Ulfert Brandwacht — die Gruppe ist hier gefangen (Sessions 103–106)",
-      "kurz": "Wehrfeste, „8 tage in den Nachtwall hinein“ — Herilie-Heiligtum mit Schildmaiden und Zauberverbot in der Festhalle; Ort der Steckbrief-Wende gegen Halfred.",
+      "status": "bestehend; Sitz von Ulfert Brandwacht — die Gruppe war gefangen (Sessions 103–106) und wurde entlassen (Session 107)",
+      "kurz": "Wehrfeste, „8 tage in den Nachtwall hinein“ — Herilie-Heiligtum mit Schildmaiden und Zauberverbot in der Festhalle; Ort der Steckbrief-Wende gegen Halfred; Entlassung durch die kleine Tür (Session 107).",
       "aliases": [
         "Altstein"
       ],
@@ -2966,8 +2966,8 @@
       "path": "Orte/Die Halle der Wacht",
       "type": "ort",
       "title": "Die Halle der Wacht",
-      "status": "gesucht (Reiseziel der Gruppe) — Ort unbekannt, vermutlich zentral im Nachtwall",
-      "kurz": "Das Ziel der Reise — ein Bannerträger soll den Weg weisen; Brenja schweigt über die Halle und die Roten Spuren.",
+      "status": "gesucht (Reiseziel der Gruppe) — Ordas Hinweis: die Gruppe habe sie „betreten und schon wieder verlassen“ [sic] (Session 107); Ort ungeklärt",
+      "kurz": "Das Ziel der Reise — ein Bannerträger soll den Weg weisen; Brenja schweigt über die Halle und die Roten Spuren; Ordas Rätsel macht Altstein selbst zum Kandidaten.",
       "aliases": [
         "Halle der Wacht"
       ],
@@ -3015,14 +3015,90 @@
       "path": "Kreaturen/Orks",
       "type": "kreatur",
       "title": "Orks",
-      "status": "aktiv — Pass-Orks erschlagen (Sessions 99–101); südliche Orks „wild“",
-      "kurz": "Riesige, gepanzerte Kreaturen — der Trupp im Riesheim-Pass, der 4-Meter-Boss im Dorf-Überfall; Zwinggard kämpft seit Jahrhunderten gegen sie.",
+      "status": "aktiv — Pass-Orks erschlagen (Sessions 99–101); Lager von Tausenden am See in der Blutgrasweite (Sessions 118–120)",
+      "kurz": "Riesige, gepanzerte Kreaturen — der Trupp im Riesheim-Pass, der 4-Meter-Boss im Dorf-Überfall, das Große Lager am See in der Blutgrasweite; Zwinggard kämpft seit Jahrhunderten gegen sie.",
       "aliases": [
         "Ork",
         "Orkreich"
       ],
       "held": false,
       "w": 30
+    },
+    {
+      "path": "Kreaturen/Gnureißer",
+      "type": "kreatur",
+      "title": "Gnureißer",
+      "status": "aktiv — Aasfresser und Jäger über der Blutgrasweite; zerfleischten Sommertochter (Session 115)",
+      "kurz": "Riesige Flugechsen mit 6–8 m Flügelspannweite — „Apex-predator in seinem Reich“; Aasfresser, die auch Lebende packen.",
+      "aliases": [
+        "Gnu-Reißer",
+        "Grureißer [sic]",
+        "Riesige Flugechse"
+      ],
+      "held": false,
+      "w": 20
+    },
+    {
+      "path": "Kreaturen/Baumriese",
+      "type": "kreatur",
+      "title": "Baumriese",
+      "status": "sterbend — uralte Riesen im Westen der Blutgrasweite; der sterbende Riese: „nimm sie weg, nimm sie von uns“ (Session 121)",
+      "kurz": "„richtige baumriesen hunderte meter in die Höhe“ — uralte, offenbar beseelte Bäume; Halfreds alter Traum („laufende Bäume auf Jordans [sic] Karte“).",
+      "aliases": [
+        "Baumriesen",
+        "Baumriese (liegend)",
+        "Arrgra-Bäume"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Kreaturen/Klonk-Klonk-Vogel",
+      "type": "kreatur",
+      "title": "Klonk-Klonk-Vogel",
+      "status": "lebendig — friedliche Bewohner des Baumriesenwalds (Session 122)",
+      "kurz": "Blau schimmernder, kniehoher Vogel mit Klapper-Schnabel — „was sich anhört wie holz, das auf holz schlägt“; Hilfsname nach dem Sessionstitel „Klonk Klonk!“.",
+      "aliases": [
+        "Klonk-Klonk-Vögel",
+        "Klonk Klonk"
+      ],
+      "held": false,
+      "w": 8
+    },
+    {
+      "path": "Kreaturen/Beseelter Stinkmohn",
+      "type": "kreatur",
+      "title": "Beseelter Stinkmohn",
+      "status": "geborgen — in einem Tontopf bei Paian; eine der Pflanzen, „die wir laut Jadan suchen sollen“ (Session 111)",
+      "kurz": "Betäubende Pflanze mit „zarte[n] blassviolette[n] Blüten, in der mitte milchige Flüssigkeit“ — starker süßer Geruch lähmt; Jadans gesuchte Zutat.",
+      "aliases": [
+        "Stinkmohn",
+        "Beseelter Stinkmohn (Pflanze)"
+      ],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Orte/Löwenlager",
+      "type": "ort",
+      "title": "Löwenlager",
+      "status": "erwähnt — nie aufgesucht; Wulfasts Startpunkt: „dort beginnen die ‚Roten Spuren‘“ (Session 107)",
+      "kurz": "Blutwacht-Stellung im Nachtwall — „Dass sie südlich vom Löwenlager angegriffen haben“ (Waldrigs Botschaft, Session 102).",
+      "aliases": [],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Orte/Baumriesenwald",
+      "type": "ort",
+      "title": "Baumriesenwald",
+      "status": "bestehend — Endort der Chronik: Die Gruppe reist seit dem 24.09.998 LZ durch ihn (Stand 26.09.998 LZ)",
+      "kurz": "Dunkler Riesenwald am Fuß des schwarzen Hochgebirges westlich der Blutgrasweite — Hilfsname (die Chronik nennt den Wald nicht benannt); Spuren eines Oger-großen Wesens mit schwarzem Zeug.",
+      "aliases": [
+        "Der Wald der Baumriesen"
+      ],
+      "held": false,
+      "w": 12
     }
   ]
 }

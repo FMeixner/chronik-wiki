@@ -2,7 +2,7 @@
 type: person
 title: Wulfast
 aliases: [Wulffast, Robar]
-status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; gefangen in der Feste Altstein (Sessions 103–106)
+status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)
 kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).
 ---
 # Wulfast
@@ -36,3 +36,13 @@ kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner K
 - Isarfest (Session 102): „Wulfast geht zu einer Rüstungsmacherin für einen aufschlag von 10 lunaren richtet sie seine rüstung bis zum abend.“
 - Feste Altstein (Sessions 103–106): Der Stab-Konflikt: „sie nehemne [sic] uns ihre sachen ab. Wulfast möchte seinen Stab nicht abgeben… die Wachen prügel ihn nieder, er verletzt mehrere von ihenn [sic] schwer, wird aber schließlich niedergerungen.“ In der Zelle: „Wulfast wacht auf und beschwört zwei Vardai. [sic] Paian und und [sic] aikyr reden auf ihn ein, denn er möchte alle umbringen um seinen stab wieder zu bekommen.“ Auf Ordas Ansprache „reagiert der aggressiv und stampft davon“; „Wulfast schmollt.“ Beim Festmahl-Einlass: „in der Festhalle is [sic] es verboten zu Zaubern, zuwiderhandeln wird mit dem Tode bestraft. Wulfast lehnt das ab und lässt sich zurückbringen.“
 - Offen: Was die Wardei/Vardai [sic] sind (Gerüstete Krieger mit Vangarastab — von Vangara gesandt?); ob „Robar“ sein Taufname ist; was mit dem Stab geschah.
+
+## Sessions 107–123: Stab zurückerhalten — Löwenlager, die Ebene, der Wald
+
+- Der Stab (Session 107): „Treffen Wulfast draußen, er hat seinen Stab zurückerhalten." — nach dem Konflikt um den beschlagnahmten Stab (Sessions 103–104) gibt ihn Altstein bei der Entlassung zurück. Er thematisiert Halfreds Schuld: „Wulfast meint, dass er durch das Blut hunderter Sünder waten würde um tausend unschuldige zu retten."
+- Das Löwenlager (Session 107): „Wulfast mein [sic], dass wir zum Löwenlager müssen, dort beginnen die ‚Roten Spuren‘." — das Ziel wurde nicht weiterverfolgt; die Gruppe zog in die Blutgrasweite. (→ [[Löwenlager]])
+- Der Schild im Gras (Session 108): „Eine weile geht Wulfast voraus und macht mit seinem schild die halme platt doch muss nach kurzer zeit erschöpft aufgeben."
+- Die Armschiene (Session 109): „Wulfast fällt langsam zurück und ist nachdem er in gedanken versunken ist auf einmal mehr als 300 meter entfernt im Gras. Plötzlich ein metallenes kreischen. etwas hat seine armschiene durchschnitten." (offen: was ihn durchschnitt — die Chronik nennt kein Wesen)
+- Der Gnureißer-Kampf (Sessions 113/115): „Paian und Wulfast senden Stoßgebete an ihre Gottheiten." — dann, wörtlich unvollständig: „harter kampf… wulfast beschwört einen." — was er beschwor, hält die Chronik nicht fest (ein Wardei/Vardai? offen).
+- Die Wachen (Sessions 118–119): Beim Ork-Lager Schleichmanöver; „Wulfast versucht Wache zu halten doch schläft nach wenigen minuten ein."
+- Der Riesenwald (Sessions 121–122): Mit Paian skeptisch: „Wenn es der kampf gegen die Korruption ist die die ganze Welt ergriffen hat sind sie gerne bereit zu helfen. wenn es bedeutet noch einmal in die Blutgrasweite zu reisen und Orkmütter/orklager aufzusuchen, dann sind sie eher dagegen." (→ [[Baumriese]])

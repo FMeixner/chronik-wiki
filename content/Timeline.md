@@ -256,7 +256,7 @@ Format-Hinweis: Dieses Format ist parsebar und Grundlage für die automatische R
 - Datum (in-world): 09.07.997 LZ
 - Orte: [[Feenpfad]]
 - Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Dorean]], [[Halfred]], [[Enhard Treublatt]], [[Taloran Ladrao]], [[Jelinde]], [[Bodam]], [[Falk Bald]]
-- Ereignis: Ein „Plopp" — die Gruppe steht (laut Überschrift „auf dem Mondpfad", laut Text auf dem Feenpfad) auf dem [[Feenpfad]]: leuchtend pulsierende Steine auf breiter Straße, grüne Wälder und Auen, am Horizont nebelverhangene Gebirge. Sie schließen sich der Karawane des [[Enhard Treublatt]] an (Erze und Stoffe; 10 Wagen, 8 Reiter, etwa 20 zu Fuß) — [[Taloran Ladrao]] („Auge des Pfades") weist [[Halfred]] streng zurecht, Anführerin ist [[Jelinde aus Brackenmühl an der Kastanienquelle]] (die 6-tägige Reise in 4 Tagen). Paians Traum: Freunde müde und gealtert, bullige Kreaturen in alten Lederrüstungen — [[Dorean]] sticht mit zufriedenem Lächeln sein schwarzes Schwert durch Halfreds Rücken; Paian wacht panisch auf, das Herz der Gagamba „leuchtet jetzt angenehm". Gespräch mit [[Bodam]] („Gnome allesamt kriminell"); Wache am letzten Wagen mit [[Falk Bald]], der vor „Tenkuri, ?" warnt; Sira spielt das Lied der Wacht; Dorian geht Falk Bald „mit obskuren Tatsachen auf den Sack".
+- Ereignis: Ein „Plopp" — die Gruppe steht (laut Überschrift „auf dem Mondpfad", laut Text auf dem Feenpfad) auf dem [[Feenpfad]]: leuchtend pulsierende Steine auf breiter Straße, grüne Wälder und Auen, am Horizont nebelverhangene Gebirge. Sie schließen sich der Karawane des [[Enhard Treublatt]] an (Erze und Stoffe; 10 Wagen, 8 Reiter, etwa 20 zu Fuß) — [[Taloran Ladrao]] („Auge des Pfades") weist [[Halfred]] streng zurecht, Anführerin ist [[Jelinde]] aus [[Brackenmühl an der Kastanienquelle|Brackenmühl]] (die 6-tägige Reise in 4 Tagen). Paians Traum: Freunde müde und gealtert, bullige Kreaturen in alten Lederrüstungen — [[Dorean]] sticht mit zufriedenem Lächeln sein schwarzes Schwert durch Halfreds Rücken; Paian wacht panisch auf, das Herz der Gagamba „leuchtet jetzt angenehm". Gespräch mit [[Bodam]] („Gnome allesamt kriminell"); Wache am letzten Wagen mit [[Falk Bald]], der vor „Tenkuri, ?" warnt; Sira spielt das Lied der Wacht; Dorian geht Falk Bald „mit obskuren Tatsachen auf den Sack".
 - Quelle: Chronik, Eintrag vom 27.02.2024
 
 ## Session 37 - (ohne Titel in der Chronik)
@@ -770,3 +770,122 @@ Let me check line 3580 fully.</think><tool_call>bash<arg_key>command</arg_key><a
 - Beteiligte: [[Bruder Aurevian]], [[Ulfert Brandwacht]], [[Halfred]], [[Aikyr]], [[Sira]], [[Orda Brandwacht]]
 - Ereignis: Das Festmahl: Orda deutet das Horn („das baldige Eintreffen ihres Vaters") — „Der Mann am oberen Tisch sei ein Gesandter aus Selenia." [[Bruder Aurevian]] vom „goldenen Wort" („Lorakis ist ein Land der Finsternis und des Streits. Doch das Goldene Licht Selenias bringt Ordnung. Und Ordnung ist der erste Schritt zum Heil."); die alten Götter hätten „die Menschen belogen" — welche Lügen, beantwortet er nicht. Für [[Halfred]] die Reh-Herz-Geschichte: der Junge, der das gepflegte Reh im Hungerwinter verlor — „Sie nahmen ihm das Reh. Schlachteten es. Und gaben ihm das Herz. Damit er versteht." — die Frage: „Wenn deine Überzeugungen andere leiden lassen— sind sie dann noch Tugend… oder bloß Eitelkeit?" Die bildschöne schwarzhaarige Frau in goldener Rüstung beobachtet Halfred, „worauf Halfred rot anläuft"; Aikyr riecht an ihr „wie ein Jäger. wie in den Katakomben unter Wasserfels, ein Geruch wie von dem and [sic] ie [sic] Wand geketteten Vargen" — sein Knurren ignoriert sie. Ulferts Rede: „Er prostet der schwarzhaarigen Schönheit anerkennend zu" — Paian wirkt das „beinahe aufgesetzt […] höfisch". Dann steht „Wulfert Brandwacht [sic]" auf: „unter den Feiernden ein in selenia steckbrieflich gesuchter" — Halfred gibt zu, „in einem kerker in selenia zeuge eines mordes gewesen" zu sein; die Gruppe wird von den Wachen abgeführt. „Die schwarzhaarige nickt Aurevian mit einem lächeln zu, an ihrem Hals ist aber eine vene dick angeschwollen…. als würde sie einen Tobsuchtsanfall unterdrücken." +5 EP = 350 EP
 - Quelle: Chronik, Eintrag vom 26.03.2026
+
+## Session 107 - (ohne Titel in der Chronik)
+- Datum (in-world): 25.08.998 LZ (Entlassung) bis ca. 04.09.998 LZ (5 Tage Gebirge)
+- Orte: [[Feste Altstein]] → Gebirge des [[Nachtwall]] → unnatürliche Hügel am Rand der [[Blutgrasweite]]
+- Beteiligte: [[Orda Brandwacht]], [[Wulfast]], [[Halfred]], [[Paian]], [[Aikyr]]
+- Ereignis: Die Entlassung: „Orda kommt in unsere Zelle. Sie bittet uns um Entschuldigung und gibt uns die möglichkeit noch ein paar Tagen hier zu bleiben und evtl mit Aurevian und Sibilla zu reden oder noch jetzt aufzubrechen." — auf Paians Wort zur Halle der Wacht: „dass wir sie betreten und schon wieder verlassen hätten." Draußen trifft die Gruppe Wulfast, „er hat seinen Stab zurückerhalten". Halfreds Schuldgefühle („zu viel Blut an den händen"); Wulfast: „durch das Blut hunderter Sünder waten … um tausend unschuldige zu retten" — und: „zum Löwenlager, dort beginnen die ‚Roten Spuren‘." Ausgang „durch eine kleine Tür in der Mauer", steile Treppe und Geröllhang; „5 Tage durch das Gebirge." Am 05.09.998 die unnatürlichen Hügel — „Höhlen, die in den Boden gegrabene Löcher … eine Wehranlage", Paians Geister „bewaffnet, einige mit kleidung aus längst vergangener zeit"; „In der ferne erkennt in [sic] Halfred einen roten Fleck und einen weiteren … die roten spuren?" (keine EP-Vergabe)
+- Quelle: Chronik, Eintrag vom 31.03.2026
+
+## Session 108 - Die Blutgrasweite
+- Datum (in-world): 05.–06.09.998 LZ
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Halfred]], [[Sommertochter]], [[Aikyr]], [[Sira]], [[Paian]], [[Wulfast]]
+- Ereignis: Der Eintritt: „Vor uns erhebt sich eine Ebene mit hüfthohem Gras." — das Blutgras „scheint nicht messerscharf zu sein"; Sommertochter läuft „freudig auf uns zu". An einem der roten Flecken: „Paian erkennt ein magisches Wabern über dem flecken, der ihm mit den anderen Flecken verbinden zu schein [sic]." Nachts der Funkentanz-Wettkampf Aikyr gegen Sira, „bis Paian eins ins Auge bekommt." Am 06.09. die Blutblüte: „in der Mitte eine kniehohe Planze [sic], mit blutroter veniger [sic] Blüte … die Blutstropfen fliegen langsam auf die Blüte zu … und werden dann von Pflanze aufgesogen." — Aikyr: „unter seiner kleidung öffnet sich eine kleine wunde… ein kleiner blutstropfen löst sich." (keine EP-Vergabe)
+- Quelle: Chronik, Eintrag vom 07.04.2026
+
+## Session 109 - (ohne Titel in der Chronik)
+- Datum (in-world): 07.–08.09.998 LZ
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Sira]], [[Halfred]], [[Paian]], [[Aikyr]], [[Wulfast]]
+- Ereignis: Die Rationierung („noch haben wir für 4 tage wasser"); Wulfasts Abstand — „auf einmal mehr als 300 meter entfernt im Gras. Plötzlich ein metallenes kreischen. etwas hat seine armschiene durchschnitten." Halfred schießt auf „etwas weißes im gras": die Skelette („wohl leute aus zwirngard [sic], gewalltsam [sic] gestorben") und das Kartografen-Buch („…das Gras bewegt sich auch ohne Wind…" · „Wir verlieren Blut, ohne es zu merken…" · „Die Geräusche kommen später. Immer später."). Nachtwache: „am himmel tausende blaue kometen die die ebene in ein sanftes blau tauchen … wir sind weiter entfert [sic] als in dem traum… sie fliegn [sic] von osten nach westen. wecken die anderen, nur sira lässt sich nicht aufwecken." +2 EP = 352 EP
+- Quelle: Chronik, Eintrag vom 14.04.2026
+
+## Session 110 - Blaue Kometen
+- Datum (in-world): 08.–11.09.998 LZ
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Sira]], [[Aikyr]], [[Paian]]
+- Ereignis: Siras großer Traum: „Sira ‚erwacht‘ in der Dunkelheit, sie steigt auf" — Flug „wie ein Vogel nur viel schneller", dann der Sog: „Sie schwebt über einem schwarzen Loch das in die Tiefe führt" — das Gebirge „in Nord-Südlicher Richtung … Das Loch nah am Gipfel eines der beiden höchsten Berge, die wie Zwillinge aufragen." In der Kaverne „eine Stehle, [sic] die sie in einer anderen Vision schon gesehen hat. Etwas Finsteres oben auf der Stehle" — Gesang „von vielen Stimmen, teils dissonant" — „sie wurde wahrgenommen." Paian sieht „schattenhafte Hände auf ihren Schultern … aus einer anderen Domäne, der Domäne des Todes. Ein Diener Gunwars? der Herr selbst?" Deutung: „das damit der zweite Teil der Prophezeiung erfüllt ist … Selenia? Pathalis?." Marsch-Tage: „09.09. … 10.09. same shit · 11.09. wir haben blasen auf unseren blasen." In der Senke „Zarte blassviolette Blüten … Aikyr probiert." +4 EP = 356 EP
+- Quelle: Chronik, Eintrag vom 21.04.2026
+
+## Session 111 - Purple Rain
+- Datum (in-world): 11.–12.09.998 LZ
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Aikyr]], [[Paian]], [[Sira]], [[Halfred]]
+- Ereignis: Aikyrs Vergiftung: „Aikyrs Augen trüben sich und er fällt zu boden." — Paian erkennt im Geisterblick „Aikyrs Geist im Schneidersitz von der Blume in die Ebene blicken", dann: „Beseelten Stinkmohn! Eine der Pflanzen, die wir laut Jadan suchen sollen. Paian gräbt sie aus und topf [sic] sie in einen Tontopf." „Wir laden Aikyr auf Sommertochter." Nachts Wetterleuchten — Halfred „spürt, dass im Süden Wasser ist"; am 12.09. „Gewaltmarsch nach Süden. Wir lassen die roten spuren hinter uns." — „etwa eine Tagesration Wasser aus Pfützen und von Halmen abtupfen"; Wulfast entdeckt die Gnus: „wie eine mischung aus kuh und pferd." (keine EP-Vergabe)
+- Quelle: Chronik, Eintrag vom 28.04.2026
+
+## Session 112 - (ohne Titel in der Chronik)
+- Datum (in-world): 12.–13.09.998 LZ
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Halfred]], [[Aikyr]], [[Sira]], [[Wulfast]]
+- Ereignis: Die Gnu-Jagd: „Halfred schießt ein Gnu an, die Herde flieht. Wir verfolgen das platt getrampelte Gras (Spur führt nach Westen, parallel zu den roten Spuren)." — „Große Schwingen über Halfred, Sira, Wulffast [sic] (6-8 m Flügelspannweite). Riesige Flugechse." +2 EP (Gesamt-EP 358)
+- Quelle: Chronik, Eintrag vom 26.05.2026
+
+## Session 113 - (ohne Titel in der Chronik)
+- Datum (in-world): 14.09.998 LZ und „15.09.997 LZ" [sic — Datum wie in der Chronik; Kontext ist 998]
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Aikyr]], [[Sira]], [[Paian]], [[Wulfast]], [[Halfred]]
+- Ereignis: Der Gnureißer kreist: „seine Augen glänzen. Er sieht einen Apex-predator in seinem Reich" — er dreht „plötzlich an… nach westen und fliegt wenige meter über Aikyr hinweg." Halfreds Stinkmohn-Pfeil-Idee — „werden seine gedanken träge… bis Paian die Pflanze genervt wegpackt." Danach: „zwei Gnureißer wühlen in den Eingeweiden eines toten Gnus und eines danebenliegenden Jungtiere[s]." +2 EP = 360 EP
+- Quelle: Chronik, Eintrag vom 16.06.2026
+
+## Session 114 - Leeroy Jenkins
+- Datum (in-world): „15.09.997 LZ" [sic — wörtlich; Kontext ist 998]
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Halfred]], [[Aikyr]], [[Sira]], [[Paian]], [[Sommertochter]], die [[Gnureißer]]
+- Ereignis: Der Kampf an der Gnu-Kadaver-Stelle: „Eins der Wesen blick hoch [sic] … er bleibt wie eine salzsäule stehen" — die Gnureißer packen Halfred („er hebt bereits leicht vom boden ab"); Paiens Stoßgebet, Siras „schillernde Funken um das Maul"; „Der dritte stößt auf Sira und Sommertochter herab und kriegt letztere zu fassen." Aikyrs Peitschenzug: „Die Gnureißer lassen Halfred fallen und er knall hart auf den Boden, knochen knacken." — „Sommertochter wird von dem 3ten gnureißer zerfleischt … hören wir einen markerschütternden schrei." (keine EP-Vergabe; vgl. Session 113-Datum)
+- Quelle: Chronik, Eintrag vom 07.07.2026
+
+## Session 115 - Das Ende des Sommers
+- Datum (in-world): „15.09.997 LZ" [sic — Fortsetzung von Session 114]
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Aikyr]], [[Halfred]], [[Paian]], [[Sira]], [[Wulfast]], die [[Gnureißer]]
+- Ereignis: „Aikyr spürt sein Band zu Sommertochter reißen… leere breitet sich in ihm aus. Schuld…" — Halfred geht „blutend und bewusstlos zu Boden"; die Gnumutter-Geist „rammt in die Seite des Wesens … doch der Gnureißer zerfetz sie mit wenigen Schlägen"; Sira wird „von hinten von der Kreatur überrascht und zu Boden geworfen. Triumphierend thront die riesige Echse über ihr und kreischt Ohrenbetäubend." Aikyr lässt „seine ganze Wut und Verzweiflung an ihm aus"; „harter kampf… wulfast beschwört einen." +5 EP = 365 EP
+- Quelle: Chronik, Eintrag vom 21.07.2026
+
+## Session 116 - Ein neues Lied
+- Datum (in-world): 15.–16.09.998 LZ
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Halfred]], [[Sira]], [[Paian]], [[Aikyr]], [[Wulfast]]
+- Ereignis: Das Rissblut: „Halfred sucht nach dem dreigliedrigen Rissblut. Er findet mehrere Knollen und schafft es, einen ganzen Wasserschlauch daraus zu pressen. 3 portionen." — Halfred, Sira und Aikyr trinken; „Paian verarztet Aikyr … nimmt ihm ein wenig den Zorn über seinen verlust… die trauer bleibt." Siras Traum: die Stehle, „etwas ewig waches an ihrer spitze" — das Lied: „Im Schattenreich wandre ich allein / Schwarze Schleier tanzen um mich her / Das Licht Das einst in mir brannte so rein / Verblasst nun mehr / Das Herz wird schwer" — „Sie erinnert sich nicht so recht, nur an die farbe blau." Die Orarina „schimmert" bläulich; in ihrer Hand das Bild: „Halfred der im sterben liegt, überall Blut." (keine EP-Vergabe)
+- Quelle: Chronik, Eintrag vom 11.08.2026
+
+## Session 117 - Spuren der Orks
+- Datum (in-world): 16.–19.09.998 LZ
+- Orte: [[Blutgrasweite]]
+- Beteiligte: [[Halfred]], [[Aikyr]], [[Paian]], [[Sira]], [[Wulfast]], [[Kokandrillis]]
+- Ereignis: „eine Wolkenbank rotem nebel schiebt sich über das Land" — dann der Sturm: „buddeln panisch ein loch … die zeltplane … wird vom wind abgerissen. harren stunden zusammengedrängt in dem loch aus." Am 17.09. „ein ausgetrocknetes flussbett … frische spurn [sic], orks waren hier"; Aikyr zeigt Kokandrillis die Knolle. Am 18.09.: „striche im westen. bäume, richtige baumriesen hunderte meter in die Höhe." Am 19.09. „kein Wasser. völlig erschöpft. sira und paian am rande" — dann: „Wasser!" — „+zähigketi +naturkunde + konstitution (paian stärke Asket)" [sic]. +5 EP = 370 EP
+- Quelle: Chronik, Eintrag vom 18.08.2026
+
+## Session 118 - Das Lager
+- Datum (in-world): 19.09.998 LZ
+- Orte: [[Blutgrasweite]], der See
+- Beteiligte: [[Halfred]], [[Aikyr]], [[Paian]], [[Sira]], [[Wulfast]]
+- Ereignis: Das Große Ork-Lager: „Halfred trinkt den Trank der ihn in einen Vogel verwandelt … ein Selenischer Spatz" — sein Flug: „Am nordlichen Ufer Lager um Lager. Tausende Orks." — Rauchsäulen, Hütten; „Um die Bäume im Nordwesten sind jeweils im Umkreis von 200 Metern keine Orks. Im See lange dunkle Gestalten unter dem Wasser." Paian: „dass Orks ihre Umgebung verändern, dass die Umwelt lebensfeindlich wird." Das Schleichen: „Ein Grureißer [sic] kreist langsam über uns"; Paians Geistergeier-Ablenkung („wenig erfolg"), dann die Gnumutter „mit schnauben und getöse nach Norden" — die Gruppen drehen ab; die Gruppe wartet „bis zum Abend". (keine EP-Vergabe)
+- Quelle: Chronik, Eintrag vom 25.08.2026
+
+## Session 119 - Irrweg
+- Datum (in-world): 19.–20.09.998 LZ (Chronik-Datum „19.09.998 LZ" wiederholt den Kopf von Sessions 117/118 — wörtlich belassen)
+- Orte: [[Blutgrasweite]], der See
+- Beteiligte: [[Wulfast]], [[Halfred]]
+- Ereignis: Das Warten in der Dunkelheit: „Trommeln in der Ferne und ein goldener Schein über uns." — „Wulfast versucht Wache zu halten doch schläft nach wenigen minuten ein." Am Abend des 19.09. die Querung: „Eine Schneise im Blutgras, zwei Kilometer breit, zertrampelt von tausenden Orkfüßen. Hasten auf die andere Seite. Sind am morgen am noröstlichen [sic] Ende des Sees." Am 20.09. Halfreds Ufergang: „Das Trommeln wird lauter… rufe um ihn herum. Mal vor, mal schräg hinter ihm. Plötzlich tritt er aus dem Gras, Feuerschein vor ihm und ein breiter Rücken, keine 5 Meter vor ihm." (keine EP-Vergabe)
+- Quelle: Chronik, Eintrag vom 08.09.2026
+
+## Session 120 - Wettlauf
+- Datum (in-world): 20.–21.09.998 LZ (mit wörtlicher Datumswiederholung „19.09.998LZ" [sic] im Text)
+- Orte: [[Blutgrasweite]], der ausgetrocknete See
+- Beteiligte: [[Halfred]], [[Paian]], [[Sira]]
+- Ereignis: Halfreds Wettlauf: „Hunderte Orks vor ihm … Halfred verliert keine Zeit verschwindet im Bluegrass und gibt Fersengeld. Er hetzt durch das gras. Hin und wieder schießen riesige Leiber an ihm vorbei und verfehlen ihn. … er läuft so schnell er noch nie gelaufen ist. eine Hand erischt [sic] ihn an der Schulter … und er entkommt." Danach: „Sira will nach norden zu den roten spuren. Paian möchte keine Zeit verschwenden und nach Nordwesten laufen." — „4 tage ereignislos." Der ausgetrocknete See: „ein riesiger unebener Krater. Halfred erkennt es als ausgetrockneten See." — Paiens Geistersprache mit den Ork-Geistern: „Still! Warten!" Am 21.09. „größere niedergebrannte Fläche … Halfred schätzt 30 bis 50" Feuerstellen; „im Westen ein Wald, die riesenhafte [sic] Bäume … die Äste kahl sind. Risse in der Borke. keine Insekten, keine Tiere, nichts Lebendiges." (keine EP-Vergabe)
+- Quelle: Chronik, Eintrag vom 15.09.2026
+
+## Session 121 - Baumriesen
+- Datum (in-world): 21.–24.09.998 LZ
+- Orte: [[Blutgrasweite]], [[Baumriesenwald]]
+- Beteiligte: [[Halfred]], [[Paian]], [[Aikyr]], [[Wulfast]]
+- Ereignis: Der liegende „Baumriese" ist „nur ein kleiner Ast, der abgebrochen ist"; am lebenden Riesen: „Er spürt noch einen kleinen Funken Leben ganz in der Tiefe … Ein sterbender Riese, der schon da war, als die Reiche der Menschen noch ganz andere Namen trugen." — Halfreds Frage „wie kann ich dir helfen", die Antwort: „nimm sie weg, nimm sie von uns" — die Brutmütter-Diskussion („Wir sind nicht mächtig genug, um uns damit anzulegen. Vielleicht wenn wir den nächsten Splitter haben."). Paians Geisterwelt: „viele Tiere, Vögel und andere Wesen, es wimmelt geradezu." Am Morgen „ein schwarzes Hochgebirge am Horizont"; am 22.09. die fünf toten Orks: „Keine Kampfspuren. Keine äußeren Verletzungen. Wie auf natürliche weise verstorben" — „Begraben den Säugling und verbrennen die orks." Am 23.09.: „Im Westen ein Wald über viele Meilen bis an den Fuß des Gebirges"; am Mittag „20-30, Stark beladen" Orks von Westen nach Osten. +10 EP = 380 EP
+- Quelle: Chronik, Eintrag vom 29.09.2026
+
+## Session 122 - Klonk Klonk!
+- Datum (in-world): 24.–25.09.998 LZ
+- Orte: [[Baumriesenwald]]
+- Beteiligte: [[Halfred]], [[Sira]], [[Paian]], [[Aikyr]], [[Wulfast]], [[Kokandrillis]], die [[Klonk-Klonk-Vogel|Klonk-Klonk-Vögel]]
+- Ereignis: Der Waldeintritt: „Halfred legt eine Hand auf den ersten Baum und lächelt. Die Luft riecht nach feuchter Erde, frischem Holz und verottendem Lauf [sic]." — der Bach, „ein blau schimmernder kniehoher Vogel … klappert mit seinem schnabel was sich anhört wie holz, das auf holz schlägt"; „Aikyr nimmt einen auf den Arm"; Kokandrillis faucht ihn an. „Orkspuren, etwa 30, etwa zwei Tage alt ziehen nach Nordost" — der plattgetrampelte Platz („Tausende Füßen … in vielen kleinen Gruppen nach Osten gelaufen. Keine Feuerstellen, keine Hinterlassenschaften, kein Unrat") und Halfreds Waldhüter-Theorie. Die drei schwarzen Pilze (Aikyr: „wein weib und gesang waren ja auch schon länger her!"); am 25.09. der „Gewaltiger Fußabdruck, 3 mal so groß wie ein Orkabdruck… spitze zehen und auch an der Ferse eine tiefe Rille" — „schwarzes schmieriges Zeug an den rändern." +5 EP = 385 EP
+- Quelle: Chronik, Eintrag ohne Datum (zwischen dem 29.09.2026 und dem 20.10.2026)
+
+## Session 123 - (ohne Titel in der Chronik)
+- Datum (in-world): 25.–26.09.998 LZ — hier endet die Chronik (Doc-Stand 21.10.2026)
+- Orte: [[Baumriesenwald]]
+- Beteiligte: [[Paian]], [[Halfred]], [[Sira]], [[Aikyr]], [[Theoboid Staubhüll]] (Erwähnung)
+- Ereignis: Das schwarze Zeug: „Krallenspuren in 3 Meter Höhe. Auch hier quillt schwarzes Zeug hervor. Paian nimmt ein Ästchen und zerschmiert das schwarze Zeug, dass auf den Ast über zu gehen scheint. es zu verderben scheint." [sic] — „Das schwarze zeug reagiert nicht auf das Licht." Die Deutungen: Aikyr denkt an „den verrückten Mann mit seinen Lämmern (16.07.997 LZ)"; Halfred an „eine Wesen [sic] in der Größe eines Ogers, aber es muss agil sein"; Paian an das Wort „Pr’le Gut’r" von Pater Staubhüll — „Eine Macht ist tief im Westen, die nicht von dieser Welt zu sein scheint. Aber nicht nur an einem Ort." Aikyr fragt, „ob eine kreatur die von der dunkelheit korrumpiert ist vielleicht auch auf den Weg zu der dunkelheit tief in dem Berg ist." Am 26.09.: „Die Bäume stehen weiter auseinander, die Wurzeln werden knotiger… ein neuer geruch … Wie Obst das unter einer dicken Laubschicht verfault. Die Stämme werden blasser." (keine EP-Vergabe; Endstand 385 EP)
+- Quelle: Chronik, Eintrag vom 20.10.2026

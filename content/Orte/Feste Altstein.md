@@ -2,8 +2,8 @@
 type: ort
 title: Feste Altstein
 aliases: [Altstein]
-status: bestehend; Sitz von Ulfert Brandwacht — die Gruppe ist hier gefangen (Sessions 103–106)
-kurz: Wehrfeste, „8 tage in den Nachtwall hinein“ — Herilie-Heiligtum mit Schildmaiden und Zauberverbot in der Festhalle; Ort der Steckbrief-Wende gegen Halfred.
+status: bestehend; Sitz von Ulfert Brandwacht — die Gruppe war gefangen (Sessions 103–106) und wurde entlassen (Session 107)
+kurz: Wehrfeste, „8 tage in den Nachtwall hinein“ — Herilie-Heiligtum mit Schildmaiden und Zauberverbot in der Festhalle; Ort der Steckbrief-Wende gegen Halfred; Entlassung durch die kleine Tür (Session 107).
 ---
 # Feste Altstein
 
@@ -14,3 +14,9 @@ kurz: Wehrfeste, „8 tage in den Nachtwall hinein“ — Herilie-Heiligtum mit 
 - Die Festhalle (Sessions 105–106): Zutritt nur mit abgelegtem Geisterblick — „in der Festhalle is [sic] es verboten zu Zaubern, zuwiderhandeln wird mit dem Tode bestraft.“ „Wulfast lehnt das ab und lässt sich zurückbringen.“ Im Saal etwa 80 Personen; am Festmahl verkündet Ulfert den selenischen Steckbrief — die Gruppe wird abgeführt (→ [[Bruder Aurevian]], [[Halfred]]).
 - Perhaus (Session 102, Brenja): „Anscheinend ist vor ein paar wochen eine Perhaus angekommen ist [sic]. den namen kennen wir aus einem brief von tuver isenblut. … und sogar der fand die Perhaus komisch….“ (offen; vgl. [[Tovene]])
 - Chronik-Schreibungen: „Feste Altstein“ · „altstein“ — die Seite läuft unter „Feste Altstein“.
+
+## Session 107: Die Entlassung
+
+- Ordas Bitte (25.08.998 LZ): „Orda kommt in unsere Zelle. Sie bittet uns um Entschuldigung und gibt uns die möglichkeit noch ein paar Tagen hier zu bleiben und evtl mit Aurevian und Sibilla zu reden oder noch jetzt aufzubrechen." — eine „Sibilla" wird nur hier erwähnt (offen, wer sie ist; keine eigene Seite). (→ [[Orda Brandwacht]], [[Bruder Aurevian]])
+- Ordas Rätsel (Session 107): Auf Paians Wort, die Gruppe müsse „erst die Halle der Wacht finden", antwortet sie: „dass wir sie betreten und schon wieder verlassen hätten." (→ [[Die Halle der Wacht]])
+- Der Ausgang: „Werden mit unseren Sachen durch eine kleine Tür in der Mauer nach draußen gelassen, erst eine steile Treppe, dann ein unheimlich steiler [sic] Geröllhang." — draußen trifft die Gruppe Wulfast, „er hat seinen Stab zurückerhalten". (→ [[Wulfast]])
