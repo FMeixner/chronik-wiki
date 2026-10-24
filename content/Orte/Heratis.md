@@ -2,7 +2,7 @@
 type: ort
 title: Heratis
 aliases: []
-status: bestehend; Aufenthalt der Gruppe seit 8.10.997 LZ
+status: bestehend; Aufenthalt der Gruppe 8.–14.10.997 LZ, Abreise per Schiff nach Süden
 kurz: Freie Reichsstadt (60 000) im äußersten Südwesten — Ankunft am 8.10.997 LZ: Mordserie, Magistratswahl, Feenmarkt.
 ---
 # Heratis
@@ -35,3 +35,14 @@ kurz: Freie Reichsstadt (60 000) im äußersten Südwesten — Ankunft am 8.10.9
 - Hafen (Session 73): „nach süden fahren täglich schiffe. caleria [sic] wohl 350 km entfert, ein schiff fährt etwa 150 meilen am tag."
 - Tavernen und Läden: Verwinkelter Wachposten ([[Witti Sohn des Vollus|Witti]], [[Dara]]; Publikum „Seeleute und Wanderer, eher ein wenig heruntergekommen"), Lachender Prutz — auch „Brutz" [sic] — („ein wenig wohlhabenderes Publikum", Wirt Torvin Hagenstamm, Fadengänger-Gnom mit krummen Hörnern in roter Robe), Säufermond (Garek und Marla Sturmbard; „Hier wird gelacht, hier wird gesungen und hier wird gestritten, hier wird getanzt"), Brauereigilde („wirkt wie eine große Taverne"), eine kleine Bibliothek, ein zwergischer Juvelier (kauft Edelsteine), der Zuckerhändler Doris („Splitterperlen", „bitzelt und funkt im Mund"), ein Zauberhandwerker (junger Gnom, Strukturgeber).
 - Offene Fragen: Wer ermordet Gerion, Turek und Tovene? Was geschah mit Telu, Sterza, Leta und Vasco? Wer sind die neuen Besitzer hinter den Strippen der Stadt — und was wollen [[Kelba von Tylajon]] und die Isenbluts mit der Mond-Dreieck-Nacht am 13./14.10.997 LZ?
+
+## Sessions 77–86: Ritual-Nacht und Abreise
+
+- Häfen (Session 78): Der Militärhafen ist „abgeriegelt, hier wird wohl die neue Flotte Kaiser Selenius gebaut"; im Zivilhafen liegt die „Maravas Tochter"; Taverne „Schiefe Kaimauer" („Bestellen sechs Grogg, fünf mit extra Rums und einen Weichen für Aikyr").
+- Statue und Volk (Sessions 78/80): Die [[Die Statue der Herathine|Statue der Herathine]] scheint im Düstermondlicht zu bluten; [[Sira]] und [[Aikyr]] wiegeln mit Schmähliedern auf Kelba die Bevölkerung auf — „Funktioniert super, die Leute wippen mit und steigen teils in den Refrain ein"; Gerücht: Kelba selbst untersuche den Feenmarkt.
+- Feenmarkt-Krise (Session 80): Besucher und Fadengänger verschwinden; zuletzt auch Gildenmeister [[Sulbur Ren]] mit vier Erfahrenen (→ [[Der Feenmarkt]], [[Die Fadengänger]]).
+- Wahlausgang (Session 82): Kelba gewinnt — er ist „den das Volk … zum neuen Magsitraten [sic] und Beschützer Herathis gewählt hat".
+- Die Ritual-Nacht (Sessions 81–83): Der Sinbara-Sturm wählt „sich ausgerechnet den Herathion als Spielwiese"; die drei Monde stehen „in vollkommener Harmonie … ein perfektes Dreieck am Firmament", die Konstellation „durchdringt Luft, Stein, Fleisch und die Wände zwischen den Welten". Der Feenmarkt liegt leer da; in der [[Die Obsidianhalle|Obsidianhalle]] vereitelt die Gruppe das Ritual um den [[Der Bronzekessel|Bronzekessel]]: [[Maledista]] manifestiert, wird vom sich schließenden Riss zurückgedrängt und richtet [[Kelba von Tylajon|Kelba]]; die [[Schwarze Dämmerflügel|Dämmerflügel]] metzeln die Kultisten.
+- Nach der Nacht (Session 84): Hauptmann [[Bormund]] verhaftet die Kultisten („Lilamützchen"); sein Bericht: „Oberster Magistrat ein Iosaris Anhänger"; die Gruppe stecke nicht hinter Mordserie und Verschwinden — bleibe aber in Selenia gesucht („vor allem auf die Burschen Halfred und Dorian ist die Summe gewaltig"); Gnade: „Ihr könnt gehen. … Bitte verlasst die Stadt, sucht ein anderen Ort".
+- Abreise (Sessions 84–86): Im Verwinkelten Wachposten wird auf [[Dorean]] getrunken („Bis nur noch wir vier in der Mitte der Halle stehen" — die Gruppe ist nur noch zu viert); Aikyrs Nacht in der [[Die Goldene Suppenküche|Goldenen Suppenküche]] bringt [[Wulfast]] in die Gruppe; die Gruppe kauft eine Überfahrt nach Süden (Kapitän Tetsulan, 2. Maat Malarai; → [[Maravas Tochter]]).
+- Offene Fragen (Sessions 77–86): Wer entfernte das Schwarze Schwert aus [[Taldor Eisenhand]]s Box (Session 81)? Sind die Feenmarkt-Verschollenen tot oder woanders — und hängen die Verzerrungen mit der Ritual-Nacht zusammen? Wer führt den Kult nach Kelbas Tod weiter („Die Führung des Zirkels", „Noch sind nicht alle Teile von Herathis unter unserem Einfluss", Session 79)? Was wird aus Selenius' neuer Flotte?

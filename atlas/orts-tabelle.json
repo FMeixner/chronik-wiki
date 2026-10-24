@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "stand": "Sessions 01-76",
+  "stand": "Sessions 01-86",
   "mapId": "story",
   "canvas": {
     "width": 1600,
@@ -587,11 +587,12 @@
       "y": 1030,
       "type": "Ziel",
       "lotse": "#/Orte/Heratis",
-      "notes": "Freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner); Ankunft der Gruppe am 08.10.997 LZ (Session 72) nach wochenlangem Wintermarsch durchs Seenland — Mordserie, Magistratswahl, Ritual-Nacht (Sessions 72-76). Sarnburg-Heratis ≈ 1000 km.",
+      "notes": "Freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner); Ankunft der Gruppe am 08.10.997 LZ (Session 72) nach wochenlangem Wintermarsch durchs Seenland — Mordserie, Magistratswahl; in der Ritual-Nacht vom 13. auf den 14.10.997 LZ unter dem Herathion vereitelt (Sessions 77-83); danach Abreise per Schiff nach Süden (Session 86). Sarnburg-Heratis ≈ 1000 km.",
       "belege": [
         "Sessions 37+, als Ziel erwaehnt",
         "Session 72",
-        "Sessions 73-76"
+        "Sessions 73-76",
+        "Sessions 77-86"
       ],
       "offiziell": true,
       "offiziellerName": "Herathis"

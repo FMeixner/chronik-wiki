@@ -389,14 +389,14 @@
       "y": 93.64,
       "name": "Heratis",
       "type": "Ziel",
-      "notes": "Ankunft der Gruppe am 08.10.997 LZ (Session 72): freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner) — Mordserie, Magistratswahl, Ritual-Nacht; momentaner Aufenthalt (Sessions 72-76).",
+      "notes": "Ankunft der Gruppe am 08.10.997 LZ (Session 72): freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner) — Mordserie, Magistratswahl; Ritual-Nacht (13./14.10.997 LZ) unter dem Herathion vereitelt (Sessions 77-83); Abreise per Schiff nach Süden (Session 86).",
       "lotse": "#/Orte/Heratis"
     }
   ],
   "routes": [
     {
       "id": "r1",
-      "label": "Der Weg der Gruppe (Sessions 01–76)",
+      "label": "Der Weg der Gruppe (Sessions 01–86)",
       "color": "#fbbf24",
       "statusIndex": 49,
       "waypoints": [

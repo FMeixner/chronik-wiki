@@ -2,8 +2,8 @@
 type: person
 title: Kelba von Tylajon
 aliases: [Kelba, der fette Zwerg, K. I.]
-status: lebendig; Magistratskandidat in Heratis
-kurz: „Der fette Zwerg" — favorisierter Magistratskandidat, dem Taldor Feenflügel in den Leib verschmolz; Adressat der K.-I.-Briefe; Ziel der Gruppe vor der Ritual-Nacht.
+status: tot (Maledistas Urteil in der Ritual-Nacht, 13./14.10.997 LZ); inzwischen gewählter oberster Magistrat
+kurz: „Der fette Zwerg" — gewählter oberster Magistrat und Wegbereiter des Iosaris-Kults; trug verdorbene Feenschwingen; starb unter Maledistas Urteil.
 ---
 # Kelba von Tylajon
 
@@ -14,3 +14,13 @@ kurz: „Der fette Zwerg" — favorisierter Magistratskandidat, dem Taldor Feenf
 - K.-I.-Brief (Session 74): In Tureks Aufzeichnungen liegt „ein brief mit siegel. von K. I. an seinen ‚Bruder', (Kelba ilarion, an tuver isenblut)" — Inhalt wird nicht mitgeteilt (offen).
 - Ritual-Nacht (Session 74): Tureks Aufzeichnungen datieren das Ereignis „in der nacht vom 3ten auf den 4.tag ab heute (13.10. auf den 14.10.997 LZ)"; wirksame Materialien: Jokabaumfrüchte und Götterdämmerung. Die Gruppe (Session 75): „können den Kelba nicht direkt angehen, und zu verhindern, dass er in 2 tagen gewählt wird, wird schwierig" — Aikyr schlägt vor, „das Radhaus abzufackeln"; Waslow verkauft „Das letzte Mahl" (löst sich in Fetthaltigem).
 - Offen: Was in der Ritual-Nacht geschehen soll, ob Kelba die Wahl gewinnt, wer K. I. noch schreibt — und ob Aikyrs „Das letzte Mahl" für Kelba bestimmt ist.
+
+## Sessions 77–86: Gewählter Magistrat — Gefäß der dunklen Mutter
+
+- Leibwächter (Session 77): seit „6/7 Wochen" der Varg-Hüne [[Aris]]; in Wittis Stimme schwingt bei Kelbas Namen „Angst oder Respekt" mit.
+- Im Refugium (Sessions 78/79): unter den 80–100 Versammelten — „unter ihnen Kelbar und sein Varg"; als Offiziant des Kults: Opfergabe, Verkündung des Iosaris-Mythos, 17-Tropfen-Blutritus; Flüstern im Chor: „Kelba wird uns zu ihr führen".
+- Wahlsieg (Session 82): „Nicht der Kelbar den das Volk … zum neuen Magsitraten [sic] und Beschützer Herathis gewählt hat - der der Korruption in der Stadt ein Ende bereiten soll und Selenia tapfer die Stirn bietet." — der Kult feiert den gewählten Magistraten als „Wegbereiter der Finsternis".
+- Erscheinung (Session 82): sein Gesicht wirkt auf Halfred „wie das von Tuwer Isenblut"; aus seinem Rücken ragen Feenschwingen — „halb durchsichtig, von giftigem Grün durchleuchtet … Verdorben. Verdreht. Pervers in ihrer Pracht." (Taldors und Waslows Werk, Sessions 74/75).
+- Am Kessel (Sessions 82/83): Kelbas Blick ist „Feuer … das frisst"; der Pfeil Halfreds interessiert ihn „kaum"; Dorians Griff nach dem Schwertgriff scheitert an der „giftig grüne[n] Aura"; „ein Schaudern geht durch Sira, Aikyr, Halfred und Paian", als Dorean den Pakt annimmt.
+- Tod (Session 83): Doreans Schwarzes Schwert stößt durch den „schimmernden grüne[n] Schild" — „Kelbas Augen reißen auf"; Maledistas Urteil „HORRETARAKO": „schwarze Flammen schlagen aus Kelbars' [sic] Augen und Mund"; er fleht („Es ist nicht meine Schuld! Alles war perfekt!") und stirbt mit „Iosaris! Iosaris! Iosaris!" — zurück bleibt ein „verrußtes, leergefressenes Loch" statt des Gesichts; Aikyr tritt auf die verkohlte Leiche (Session 84).
+- Nachwirkung (Session 84): Bormund lässt das Anwesen durchsuchen — genug Beweise „um hinter Gittern zu bringen"; der Bericht: „Oberster Magistrat ein Iosaris-Anhänger".

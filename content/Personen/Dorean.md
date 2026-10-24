@@ -2,8 +2,8 @@
 type: person
 title: Dorean
 aliases: [Dorian]
-status: lebendig; Schwertrichter
-kurz: Adliger Schwertrichter; vom Schwarzen Schwert gepeinigt — die „Lady“ fordert Seelen; Bruder Ilmar schickt Häscher hinter ihm her.
+status: verschollen im Weltriss (Ritual-Nacht, 14.10.997 LZ)
+kurz: Adliger Schwertrichter aus Unterwalde; vom Schwarzen Schwert gepeinigt — nahm in der Ritual-Nacht den Pakt an, verweigerte den Preis und verging im Weltriss; in Selenia mit Kopfgeld gesucht.
 ---
 # Dorean
 
@@ -69,3 +69,14 @@ kurz: Adliger Schwertrichter; vom Schwarzen Schwert gepeinigt — die „Lady“
 - Ermittlungen (Sessions 73/74): Fragt [[Witti Sohn des Vollus|Witti]] nach Wache, Stadt und Würfeln („er scheint mehr zu wissen, aber traut sich nicht mehr zu sagen“); bei [[Taldor Eisenhand]]: kennt die Isenbluts und Tuver [sic].
 - Ausrüstung (Sessions 75/76): großes tränenförmiges Schild (unerwartet leicht) von Taldor; Raben-Amulett des Zauberhandwerkers (Schaden zurückwerfen, „nur ein mal im vollen Splittermond“).
 - Der Zug des Schwerts bleibt (Session 76): „wie ein dünner Faden aus Eis in deinem Innern … Es zieht, es zerrt, es nagt an deinem Gleichgewicht.“
+
+## Sessions 77–86: Der Pakt erfüllt sich — der Sprung in den Riss
+
+- Der leere Sarkophag (Session 81): Dorian spürt das Schwarze Schwert „aus seinem Sarkophag bei eisenhand entfernt“ und läuft allein nach Norden zum Feenmarkt; vor dem Marktwächter „Falsche Losung“ — dessen Klinge „durchfährt dich, doch trifft nichts Greifbares … Nur Licht und Schatten. Eine Illusion.“
+- Der Handel (Session 83, wörtlich): Die rauchige Stimme: „Ich habe dir ein Geschenk gemacht, erinnerst du dich?“ — „Aus den Albträumen der Gefallenen geformt… und nur du kannst es führen.“; „Die Präsenz, die du einst aus der Schlucht mitgebracht hast, dehnt sich aus.“ [sic — die Lady begegnete ihm am dunklen Pfad im Feenwald, Session 24; Widerspruch offen]; Angebot: „Einen Schlag. Einen Hieb. Einen Moment – durch die Flammen seiner grünen Aura hindurch. … Dafür… wirst du mir gehören. Du wirst töten, wen ich dir nenne. Wann ich es verlange. Wo ich es wünsche. Ob es Kind oder König sei.“
+- Der Schlag: „Der schimmernde grüne Schild von Kelba tut sich vor Dorian auf und er Stößt sein schwarzes Schwert genüsslich [sic] hindurch, Klebas [sic] Augen reißen auf und er blickt ungläubig.“ (Sessions 82/83; zuvor scheitert sein Griff nach dem Schwertgriff an Kelbas Seite an der Aura.)
+- Die Verweigerung (Session 83): Die Stimme fordert ihren Preis — „Töte sie alle. Jeden Einzelnen. … Den Liedvogel. Den Varg. Den Priester. Den Jäger.“ Dorians Erinnerungen (Aikyrs getrocknetes Fleisch, Sira singend in Unterwalde, Halfred und der Vogel, Paians Umarmung, Mutter, Brüder, Schwester, Vater) sind „Nicht als Schwäche. Sondern als Kraft.“ — die Stimme der Fee: „Ich reiße dich in Stücke, Dunkelgrund!“ (→ Familienname; [[Serka Dunkelgrund]]).
+- Der Sprung (Session 83): Dorean sprintet zum Riss „in der sich schwarze Risse geformt haben“ und wirft sich hinein: „Der Griff des Schwertes beginnt zu zerfallen. Oder ist es deine Hand? … Kein Druck mehr. Kein Befehl. Keine Fessel. Und in diesem einen, letzten, stillen Moment – bist du frei. Dorean Dunkelgrund vergeht. Nicht als Opfer. Nicht als Werkzeug. Sondern als Mensch. In seinem letzten, eigenen Entschluss.“ — verschollen im Weltriss (14.10.997 LZ), mit dem [[Schwarzes Schwert|Schwarzen Schwert]].
+- Die kollektiven Alpträume (Session 83): Beim Griff des Schwerts überfluten Visionen alle Gefährten — Aikyr (Rehva/Myrro), Sira (Letasch), Paian (Pater Staubhüll), Halfred (Baumriesen-Wald) — „Und Dorean. Dorean mit der schwarzen Klinge in der Hand. Kein Zweifel. Kein Rätsel. Etwas Furchtbares ist geschehen.“
+- Nachruhm (Sessions 84/85): Sira schreibt „Dorians Melodie“ in Blut auf den Fels; [[Bormund]]: „Werdet ihr noch immer in Selenia Gesucht und auf euren Kopf ist ein saftiges Sümmchen [sic] ausgesetzt. … Vor allem auf die Burschen Halfred und Dorian ist die Summe gewaltig.“; [[Wulfast]] trägt „einen Steckbrief mit den Gesichtern von Dorian und Halfred“ und sprach mit einem Fischer, „dessen Freund dorian mit seinem schwarzen schwert umd gebracht hat“ [sic].
+- Offen: Was jenseits des Risses aus ihm und dem zerfallenden Griff wurde; wer die „Stimme der Fee“ ist — die Lady des [[Feenwald]]s (Session 24) oder ein Wesen der „dunkleren Domäne“ (Taldor, Session 74); ob die Vision der Knochenstadt und der schwarzen Festung (Session 81) seinen Aufenthaltsort zeigt.

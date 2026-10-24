@@ -2,8 +2,8 @@
 type: person
 title: Tovene
 aliases: [Tuvene, Tuleve]
-status: tot (ermordet vor dem Rathaus, Session 73)
-kurz: Freundliche Fadengängerin, erstochen vor dem Rathaus — trug einen goldenen Ring mit schwarzem Stein wie Paian; ihr Geist fehlt.
+status: tot (von den „besten Meuchlern" des Iosaris-Kults ermordet, Session 73; Verrat Session 79 aufgeklärt)
+kurz: Freundliche Fadengängerin, erstochen vor dem Rathaus — sie wollte die Taten des Kults offenbaren und wurde von dessen Meuchlern ermordet; trug einen goldenen Ring mit schwarzem Stein wie Paian; ihr Geist fehlt.
 ---
 # Tovene
 
@@ -14,3 +14,5 @@ kurz: Freundliche Fadengängerin, erstochen vor dem Rathaus — trug einen golde
 - Der Ring (Session 73): „An ihrer linken hand ist ein goldener ring mit einer schwarzen stein. wie der ring den paian hat" → [[Goldener Ring]] — ob die Ringe zusammenhängen, hält die Chronik nicht fest (offen).
 - Geistlosigkeit (Session 73): Paian „blick in die geisterwelt, sieht nicht den Geist von tuleve" [sic] — wohin ihre Seele ist, bleibt offen.
 - Offen: Wer Tovene ermordet hat und ob ihr Tod mit den beiden anderen Morden (Gerion, [[Turek]]) und den Verschwundenen zusammenhängt.
+
+- Der Verrat (Session 79, Kelbas Litanei im Refugium): „Denkt an den Verrat von Toleve: Bis zuletzt stand sie mitten unter uns, teilte unsere Vision. Doch dann wollte sie der Öffentlichkeit vor dem Rathaus unsere Taten offenbaren. Nur das beherzte Eingreifen unserer besten Meuchler konnte das verhindern." — damit ist ihr Mord vor dem Rathaus aufgeklärt: Sie fiel den Meuchlern des Iosaris-Kults zum Opfer; Chronik-Schreibung „Toleve" [sic] auch hier.

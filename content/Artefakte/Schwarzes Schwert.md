@@ -2,7 +2,7 @@
 type: artefakt
 title: Schwarzes Schwert
 aliases: [Schwert aus Albträumen]
-status: verwahrt bei Taldor Eisenhand (in der Box, Session 72)
+status: verschollen im Weltriss — mit Dorean vergangen (14.10.997 LZ)
 kurz: Aus Albträumen geschmiedetes Paktschwert aus Totenerz; laut Taldor „kein feeisches artefakt“ — es kommt aus einer dunkleren Domäne. Zieht weiter an Dorean.
 ---
 # Schwarzes Schwert
@@ -33,3 +33,11 @@ kurz: Aus Albträumen geschmiedetes Paktschwert aus Totenerz; laut Taldor „kei
 - Herkunft (Session 74, Taldor wörtlich): „Das schwarze schwert ist kein feeisches artefakt. es kommt aus einer dunkleren domäne." — damit rückt es von den Feen der Lady aus [[Feenwald]] (Session 24) weg; welcher Domäne genau, hält die Chronik nicht fest (offen). Mögliche Nähe zur [[Die Lichte Herrin|Lichten Herrin]] bleibt eine offene Frage, nichts ist belegt.
 - Der Zug bleibt (Session 76): Dorean spürt das verwahrte Schwert „wie ein dünner Faden aus Eis in deinem Innern – nicht greifbar, nicht nah, aber unverkennbar da. Es zieht, es zerrt, es nagt an deinem Gleichgewicht“.
 - Status: seit Session 72 bei [[Taldor Eisenhand]] in der Box am Unterhang des Heration verwahrt.
+
+## Sessions 77–86: Der Pakt erfüllt sich — mit Dorean im Riss
+
+- Entfernt (Session 81): Dorian spürt es „aus seinem Sarkophag bei eisenhand entfernt" — die Box hielt nicht; wer sie öffnete, hält die Chronik nicht fest (offen). In der Ritual-Nacht hängt es „an der Seite Kelbas" (Session 82) — wie es dorthin gelangte, bleibt offen.
+- Der Handel (Session 83, wörtlich): „Ich habe dir ein Geschenk gemacht, erinnerst du dich?" — „Aus den Albträumen der Gefallenen geformt… und nur du kannst es führen."; „Die Präsenz, die du einst aus der Schlucht mitgebracht hast, dehnt sich aus. Kein Schatten. Sondern etwas, das Schatten verschlingt." [sic — die Lady begegnete Dorean am dunklen Pfad im [[Feenwald]] (Session 24); „Schlucht" als Widerspruch wörtlich belassen; ob der [[Der Schlund der Finsternis|Schlund der Finsternis]] gemeint ist, hält die Chronik nicht fest]; das Angebot: „Einen Schlag. Einen Hieb. Einen Moment – durch die Flammen seiner grünen Aura hindurch. … Dafür… wirst du mir gehören. Du wirst töten, wen ich dir nenne. Wann ich es verlange. Wo ich es wünsche. Ob es Kind oder König sei."
+- Der Preis (Session 83): „Du hast genommen, was ich dir gewährt habe. Nun fordere ich, was mir gehört. … Töte sie alle. Jeden Einzelnen. … Den Liedvogel. Den Varg. Den Priester. Den Jäger." — Dorean verweigert (seine Erinnerungen sind „Nicht als Schwäche. Sondern als Kraft."); die Stimme der Fee: „Ich reiße dich in Stücke, Dunkelgrund!" Beim Griff überfluten Visionen die ganze Gruppe (Sira, Aikyr, Paian, Halfred).
+- Das Ende (Session 83): Mit dem Schwert springt Dorean in den Weltriss — „Der Griff des Schwertes beginnt zu zerfallen. Oder ist es deine Hand? … Die Stimme der Fee ist nur noch ein fernes Echo … Kein Druck mehr. Kein Befehl. Keine Fessel." — verschollen im Weltriss, mit [[Dorean]] vergangen (14.10.997 LZ).
+- Offen: ob der zerfallende Griff den Pakt beendete; wer die „Stimme der Fee" ist — die Lady des Feenwalds oder ein Wesen der „dunkleren Domäne" (Taldor, Session 74); ob das Schwert je wieder auftaucht.

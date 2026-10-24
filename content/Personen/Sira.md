@@ -69,3 +69,15 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 - Trauer (Session 73): Das Gespräch mit [[Tidara]] eskaliert — „sie trauert und weiß nicht genau was wir von ihr wollen“ (worüber, bleibt offen).
 - Mondlabyrinth (Session 74): geht als erste hinein, „fühlt sich alleine“, tappt von Sackgasse zu Sackgasse und ist „den tränen nahe“ — Paian findet sie, gemeinsam treten sie in den Altarraum.
 - Heratis (Sessions 73/76): spielt im Säufermond (die Leute finden es gut); begleitet den Zauberhandwerker-Besuch (der junge Gnom: die Magie „scheint schwieriger zu greifen zu sein“).
+
+## Sessions 77–86: Zerschlagener Segen — zerschmetterndes Licht, Dorians Melodie
+
+- Schlüssel (Session 77): erhält von [[Witti Sohn des Vollus|Witti]] den „einfachen Metallschlüssel“ zur schmalen Gasse hinter der [[Die Statue der Herathine|Statue der Herathine]] (→ [[Das Schimmernde Refugium|Schimmerndes Refugium]]).
+- Statue (Session 78): sieht die Herathine im roten Licht des vollen Düstermondes scheinbar bluten, die drei Monde „fast in einem gleichschenkligen Dreieck“ — „Sie fühlt sich klein.“
+- Musik (Session 78): „Sira und AIkyr [sic] spielen ein paar Lieder … Der Wirt erlässt uns die Rechnung. Sira hat leicht einen Sitzen.“ [sic]
+- Der zerschlagene Segen (Session 79): Ihr Schutzzauber auf Paian wird „Zerschlagen. Wie eine zarte Schale unter einem Hammer. Kein Widerstand. Kein Schutz.“ — „irgendetwas dort unten... hat ihn bemerkt. Hat ihn weggeschoben, wie man einen Käfer zerdrückt.“ Panik — sie läuft die Treppen hinunter.
+- Beweise (Session 81): legt mit Aikyr und Dorian „Maske, Umhang, Ring und Brief“ vor [[Bormund]] — „Zwei der anwesenden Wachen atmen zischend ein. Bormund sagt, dass er uns gar nichts glaubt.“
+- Am Kessel (Sessions 82/83): „Sie legt ihre Hände auf den Kessel um seine Melodie zu Stören“ [sic] — „als wolle sie das Ritual mit bloßer Willenskraft unterbrechen“; zwei Krieger rücken ihr mit gezückten Schwertern zu Leibe.
+- Steigerungen (Session 83): „im Rampenlicht zu Hause“ [wörtlich „im rampenlicht zuhause“] und „zerschmetterndes Licht“.
+- Dorians Melodie (Session 84): Nach dem Sprung Dorians in den Riss „legt ihre Hand an den Felsen, wo vor wenigen Minuten noch der Spalt war durch den Dorian verschwunden ist“ — sie schreibt „in Blut Noten auf den Fels, Dorians Melodie.“
+- Alptraum in der Ritual-Nacht (Session 83, beim Griff des Schwerts): „Du siehst dich selbst – ein Neugeborenes, in einer Wiege aus Licht. Und über dir stehen deine Eltern. … Dann tritt Letasch hervor. Majestätisch. Unnahbar. ‚Du bist eine Enttäuschung‘, sagt er. ‚Damals wie heute.‘“ — was der Traum über [[Letasch]] (tot, Session 60) und Siras Herkunft sagt, ist offen.

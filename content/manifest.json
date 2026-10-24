@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–76 · in-world fortlaufend ab ca. 11.10.997 LZ",
+  "coverage": "Sessions 01–86 · in-world fortlaufend ab 14.10.997 LZ",
   "pages": [
     {
       "path": "index",
@@ -126,8 +126,8 @@
       "path": "Personen/Dorean",
       "type": "person",
       "title": "Dorean",
-      "status": "lebendig; Schwertrichter",
-      "kurz": "Adliger Schwertrichter; vom Schwarzen Schwert gepeinigt — die „Lady“ fordert Seelen; Bruder Ilmar schickt Häscher hinter ihm her.",
+      "status": "verschollen im Weltriss (Ritual-Nacht, 14.10.997 LZ)",
+      "kurz": "Adliger Schwertrichter aus Unterwalde; vom Schwarzen Schwert gepeinigt — nahm in der Ritual-Nacht den Pakt an, verweigerte den Preis und verging im Weltriss; in Selenia mit Kopfgeld gesucht.",
       "aliases": [
         "Dorian"
       ],
@@ -2073,11 +2073,11 @@
       "path": "Fraktionen/Die Lichte Herrin",
       "type": "fraktion",
       "title": "Die Lichte Herrin",
-      "status": "unbekannt — „eine Macht, die es auf Lorakis nicht geben sollte“",
-      "kurz": "Mysteriöse Dienst-Herrin Tureks — „sein Schatten hat ihn wohl nie losgelassen“; was sie will und woher sie kommt, ist offen.",
+      "status": "entlarvt — der Kult verkündet sie als Iosaris, „Lichte Herrin, als Dunkle Mutter“; wo sie weilt, bleibt offen",
+      "kurz": "Gefallene Göttin des Lichts — von neidischen Göttern gestürzt, als „Lichte Herrin, Dunkle Mutter“ zurückgekehrt; Herrin des Herathiser Kults und Tureks.",
       "aliases": [],
       "held": false,
-      "w": 35
+      "w": 60
     },
     {
       "path": "Personen/Angrima",
@@ -2183,8 +2183,8 @@
       "path": "Personen/Tovene",
       "type": "person",
       "title": "Tovene",
-      "status": "tot (ermordet vor dem Rathaus, Session 73)",
-      "kurz": "Freundliche Fadengängerin, erstochen vor dem Rathaus — trug einen goldenen Ring mit schwarzem Stein wie Paian; ihr Geist fehlt.",
+      "status": "tot (von den „besten Meuchlern“ des Iosaris-Kults ermordet, Session 73; Verrat Session 79 aufgeklärt)",
+      "kurz": "Freundliche Fadengängerin, erstochen vor dem Rathaus — sie wollte die Taten des Kults offenbaren und wurde von dessen Meuchlern ermordet; trug einen goldenen Ring mit schwarzem Stein wie Paian; ihr Geist fehlt.",
       "aliases": [
         "Tuvene, Tuleve"
       ],
@@ -2205,13 +2205,13 @@
       "path": "Personen/Kelba von Tylajon",
       "type": "person",
       "title": "Kelba von Tylajon",
-      "status": "lebendig; Magistratskandidat in Heratis",
-      "kurz": "„Der fette Zwerg“ — favorisierter Magistratskandidat, dem Taldor Feenflügel in den Leib verschmolz; Adressat der K.-I.-Briefe; Ziel der Gruppe vor der Ritual-Nacht.",
+      "status": "tot (Maledistas Urteil in der Ritual-Nacht, 13./14.10.997 LZ); inzwischen gewählter oberster Magistrat",
+      "kurz": "„Der fette Zwerg“ — gewählter oberster Magistrat und Wegbereiter des Iosaris-Kults; trug verdorbene Feenschwingen; starb unter Maledistas Urteil.",
       "aliases": [
         "Kelba, der fette Zwerg, K. I."
       ],
       "held": false,
-      "w": 40
+      "w": 60
     },
     {
       "path": "Personen/Terso Teris",
@@ -2276,6 +2276,204 @@
       "aliases": [],
       "held": false,
       "w": 12
+    },
+    {
+      "path": "Orte/Das Schimmernde Refugium",
+      "type": "ort",
+      "title": "Das Schimmernde Refugium",
+      "status": "bestehend; Kultstätte im Innern des Feenmarkts — nach der Ritual-Nacht nicht wieder aufgesucht",
+      "kurz": "Riesige Kaverne im Herathion — goldenes Larvengewebe, goldene Masken, purpurne Mäntel; Versammlungsstätte des Iosaris-Kults und Not-Zuflucht der Herathier.",
+      "aliases": [
+        "Schimmerndes Refugium",
+        "Schimmernes Refugium"
+      ],
+      "held": false,
+      "w": 50
+    },
+    {
+      "path": "Orte/Die Obsidianhalle",
+      "type": "ort",
+      "title": "Die Obsidianhalle",
+      "status": "bestehend; Halle im Innern des Herathion — Schauplatz der vereitelten Ritual-Nacht (13./14.10.997 LZ)",
+      "kurz": "Makellos geschliffene Spiegelhalle aus Obsidian tief im Herathion — ein jenseitiger „Fremdkörper“; Ort des Maledista-Rituals in der Mond-Dreieck-Nacht.",
+      "aliases": [
+        "Obsidianhalle"
+      ],
+      "held": false,
+      "w": 45
+    },
+    {
+      "path": "Orte/Die Statue der Herathine",
+      "type": "ort",
+      "title": "Die Statue der Herathine",
+      "status": "bestehend; Wahrzeichen von Heratis",
+      "kurz": "Doppelt haushohe steinerne Wächterin über den Dächern von Herathis — im Düstermondlicht scheinbar blutend; Zugangsweg zum Schimmernden Refugium und Versammlungsort.",
+      "aliases": [
+        "Statue der Herathine",
+        "Herathine"
+      ],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Orte/Maravas Tochter",
+      "type": "ort",
+      "title": "Maravas Tochter",
+      "status": "liegend; Schiff im Zivilhafen von Heratis — Abreise der Gruppe nach Süden bevorstehend",
+      "kurz": "Schiff im Zivilhafen von Herathis — hier heuerte Zingrim an; bei Kapitän Tetsulan bucht die Gruppe die Überfahrt nach Süden.",
+      "aliases": [
+        "Marava's Tochter"
+      ],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Orte/Die Goldene Suppenküche",
+      "type": "ort",
+      "title": "Die Goldene Suppenküche",
+      "status": "bestehend; Spielhölle in Heratis",
+      "kurz": "Spielhölle in Herathis — von Dara empfohlen; Aikyrs Glückshandschuh gewinnt dort alles auf Rot, „Betrug!“-Rufe und Flucht.",
+      "aliases": [
+        "Goldene Suppenküche"
+      ],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Kreaturen/Maledista",
+      "type": "kreatur",
+      "title": "Maledista",
+      "status": "verbannt — im Glaskerker; der Riss der Ritual-Nacht schloss sich wieder",
+      "kurz": "„Der Höllenfürst, der Dreigehörnte“ — von den Schergen der „falschen Götter“ im Glaskerker gebannt; hoher Diener Iosaris'. Manifestierte in der Ritual-Nacht, verurteilte Kelba und wurde zurückgedrängt.",
+      "aliases": [
+        "Der Dreigehörnte",
+        "Der Höllenfürst",
+        "Dreigehörnter"
+      ],
+      "held": false,
+      "w": 65
+    },
+    {
+      "path": "Kreaturen/Schwarze Dämmerflügel",
+      "type": "kreatur",
+      "title": "Schwarze Dämmerflügel",
+      "status": "jenseitig — Vorhut und Schwarm Maledistas; nach der Ritual-Nacht zu kaltem Rauch verpufft",
+      "kurz": "Schattenwesen mit ledrigen Schwingen — „keine Vögel, keine Insekten – Schatten mit Flügeln, geformt aus Unterwerfung und Wahnsinn“; metzelten in der Ritual-Nacht die Kultisten nieder.",
+      "aliases": [
+        "Dämmerflügel"
+      ],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Artefakte/Der Bronzekessel",
+      "type": "artefakt",
+      "title": "Der Bronzekessel",
+      "status": "in der Obsidianhalle; in der Ritual-Nacht von Kokandrillis umgeworfen (Öffnung nach unten)",
+      "kurz": "Gewaltiger grünspanüberzogener Ritual-Kessel mit vier Fratzen — „Er ist eine Drohung. Ein Versprechen. Ein Portal“; sein Klang riss die Wände zwischen den Welten auf.",
+      "aliases": [
+        "Bronzekessel",
+        "Kessel der Obsidianhalle"
+      ],
+      "held": false,
+      "w": 40
+    },
+    {
+      "path": "Tiere/Kokandrillis",
+      "type": "tier",
+      "title": "Kokandrillis",
+      "status": "lebendig; handtellergroß, bei Aikyr",
+      "kurz": "Aikyrs mumifizierte Eidechse — durch den Inhalt eines Notfall-Fläschchens pferdegroß geworden; fraß Kelbas Leibwächter Ares und warf den Bronzekessel um; seitdem handtellergroß und zahm.",
+      "aliases": [
+        "Kokandrilis",
+        "Coccindrilis",
+        "die mumifizierte Eidechse"
+      ],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Personen/Wulfast",
+      "type": "person",
+      "title": "Wulfast",
+      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig",
+      "kurz": "„Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; reist mit nach Süden.",
+      "aliases": [
+        "Wulffast"
+      ],
+      "held": true,
+      "w": 70
+    },
+    {
+      "path": "Personen/Zingrim Sohn des Zoltex",
+      "type": "person",
+      "title": "Zingrim Sohn des Zoltex",
+      "status": "lebendig; Seemann in Heratis (Maravas Tochter)",
+      "kurz": "Seemann, Sohn des Zoltex — auf der Maravas Tochter angeheuert; Witti-Kandidat für „etwas Bedeutendes“; quit mit Witti über die Jaganbaumnüsse.",
+      "aliases": [
+        "Zingrim"
+      ],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Personen/Sulbur Ren",
+      "type": "person",
+      "title": "Sulbur Ren",
+      "status": "verschollen (auf dem Feenmarkt, Session 80)",
+      "kurz": "„Der uralte, faltige Gnom“ — Gildenmeister der Fadengänger; suchte mit Stab und Kappe des Sehenden nach den Verschollenen und verschwand mit seinen Leuten selbst.",
+      "aliases": [],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Personen/Fanaion",
+      "type": "person",
+      "title": "Fanaion",
+      "status": "lebendig; junger Alb am Unterhang von Heratis",
+      "kurz": "Junger Alb am Unterhang, „heiß auf magische Besonderheiten“ — Halfreds und Paiens Kandidat für die Abend-Hilfe gegen das Ritual.",
+      "aliases": [
+        "Alben Fanaion"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Personen/Aris",
+      "type": "person",
+      "title": "Aris",
+      "status": "tot (von Kokandrillis gefressen, Session 83)",
+      "kurz": "Kelbas Leibwächter — „ein Hüne von einem Varg“; in der Ritual-Nacht von Aikyrs Echse verschlungen.",
+      "aliases": [
+        "Ares"
+      ],
+      "held": false,
+      "w": 20
+    },
+    {
+      "path": "Personen/Sandera Kavandel",
+      "type": "person",
+      "title": "Sandera Kavandel",
+      "status": "lebendig; Tempelvorsteherin des Ionnus-Tempels (Heratis), schwer erkrankt",
+      "kurz": "Kranke Vorsteherin des Ionnus-Tempels — prüfte Fanaions Einsatz gegen das Ritual; empfahl Gläubige des Isgar oder der Vangara.",
+      "aliases": [
+        "Sandera Karbandel"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Fraktionen/Die Fadengänger",
+      "type": "fraktion",
+      "title": "Die Fadengänger",
+      "status": "erschüttert — Führung und mehrere Mitglieder auf dem Feenmarkt verschwunden (Session 80)",
+      "kurz": "Herathiser Gilde der Feenmarkt-Führer — ohne Fadenführer solle man den Feenmarkt nicht betreten; verlor Klienten, dann die eigenen Suchtrupps.",
+      "aliases": [
+        "Fadengänger",
+        "Gilde der Fadengänger"
+      ],
+      "held": false,
+      "w": 40
     }
   ]
 }

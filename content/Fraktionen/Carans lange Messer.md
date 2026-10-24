@@ -13,3 +13,5 @@ kurz: Herathiser Untergrundorganisation — seit Jahren aktiv, jüngst niederges
 - Ermittlungen (Session 72): Hauptmann [[Bormund]] ist ein „Harter Typ, der mit harten Verhören Carans langen Messern auf die schliche gekommen ist."
 - Im Säufermond (Session 73): Seemänner berichten, „carans lange messer sind wohl seit vielen jahren hier aktiv, opfer sind aber wohl [?]" — die Chronik bricht ab.
 - Offen: Wer Carans lange Messer niedergestreckt hat und was „ausgekranzt" [sic] für die Boten bedeutet — ob die Messer selbst hinter dem Feder-Symbol-Wechsel stecken, ist unbelegt.
+
+- Namen (Session 77, Witti): „Witti war kein Mitglied der Carans langen Messer. aber in seinem Hinterzimmer treffen sich wichtige Leute und sprechen bedeutendes" — bekannte „Messer": „Schwarzer Dorn (mitglied carans lange messe [sic], war schankbursche im lachenden brutz). Fährfrau, die Nachtigall sind weitere Namen wichtiger 'Messer'".

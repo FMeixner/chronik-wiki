@@ -15,3 +15,5 @@ kurz: Alchemist in Herathis — half Taldor bei Kelbas Feenflügel-Verschmelzung
 - Vita (Session 75): Hat für Selenius' Mondgarde „Das letzte Aufgebot" gebraut — „und ein wenig gestreckt."
 - Ware (Session 75): Er bietet Arsenik an (erst abgelehnt, dann kauft Aikyr mit seiner Feenmünze — „Meint, dass er nicht so viel Arsenik hätte", geht hinaus und kommt „mit bläulichen Geleekügelchen ‚Das letzte Mahl' … Wär wohl eher illegal. Löst sich gut in fetthaltigem" zurück; 10 Lunare Wechselgeld).
 - Offen: Was Aikyr mit dem Arsenik bzw. „Das letzte Mahl" vorhat und ob „dunrunat" ein Deckname für ihn oder einen Kollegen ist.
+
+- Witti über ihn (Session 77): „Der Einzige der ihm einfiele wäre Waslow der alchemist" — als jemand, der „etwas Bedeutendes" zu sagen hätte (neben [[Zingrim Sohn des Zoltex]]).
