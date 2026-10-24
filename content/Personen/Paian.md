@@ -2,7 +2,7 @@
 type: person
 title: Paian
 aliases: []
-status: stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert
+status: stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)
 kurz: Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.
 ---
 # Paian
@@ -97,3 +97,12 @@ kurz: Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch
 - Therum (Sessions 92/93): spendet im Gunwartempel 5 Lunare („Sie dankt ihm für seine großzügigen 5 Lunare“), wird mit „Wulfrik“ [sic] gesegnet; der Handschlag mit [[Medipho]] löst dessen Offenbarung aus.
 - Katakomben (Session 94): aktiviert „mit seinem Blut eine Steintafel“, die die steinerne Tür öffnet; erkennt Mediphos goldene Maske „als profanen gegenstand“ [sic] und zerschmettert sie; „Paian steigt in den blutigen Brunnen um das Artefekt [sic] zu holen.“ (→ [[Mediphos Katakomben]])
 - Wegesrand (Session 95): untersucht die erfrorene Leiche — „etwa 30 mit wildem Bart und ungepflegt. Kleinere Schnitte und Blessuren, aber keine tödliche Verletzung. Er ist der Meinung, das der Mann erfroren ist.“ [sic]; dann „Paian schneidet ihm eine Locke ab, legt seine Hände auf seinen Leib und er löst sich in Asche auf.“
+
+## Sessions 97–106: Urmok, Anodara, Geisterblick
+
+- Galpinius (Session 97): „Paian bietet ihm an, ihn Abends vorzulesen. […] Paian versichert ihm, dass er auf sich acht gebe.“ — auf Aikyrs Sorge wegen der Artefakte der Kultisten.
+- Riesheim (Session 100): Beim Sprint zu Halfred: „Paian stolpert und drückt sich an die wand und hält die anderen hinter ihm auf.“
+- Die Anatomie (Session 101): „Paian untersucht interessiert den Leichnam des großen Orks, die Anatomie ist nicht unähnlich wie von menschen, mit dicker haut und knochenplatten und stacheln, als wären sie für den krieg gemacht.“ — mit Wulfast schleift er die Leichen „die Klippe runter“.
+- Der Dorfkampf (Session 102): „im namen gunwars, haltet ein!!“ — „stampft er und wir hören ein knirschen und knacken“ (die Frau unter dem Fuß des Orks stirbt). Seine Stabkeule prallt „nahezu wirkungslos“ ab; er flieht durch ein Fenster, „wärend [sic] ein axt kurz über ihm durch die wand des hauses geht“. Geist-Beschwörung: „Paian versucht den Geist urmoks zu beschwören… es erscheint eine schemenhafte gestallt [sic], humanoid, doch die umrisse bleiben unscharf… er befiehlt ihm sich in den kampf zu werfen, doch die gestalt bleibt widerwillig, als würde sie bei paian bleiben wollen.“ (offen: wer Urmok ist und warum der Geist bei Paian bleibt) Heilversuche: „paian versucht zwei blutenden dorfbewohner zu helfen. eine stirbt im zügig [sic] unter den händen weg“ — „Der dorfbewohner stirbt.“; er zieht die bewusstlose Sira „in einen schuppen und versucht sie am leben u [sic] halten“.
+- Isarfest (Session 102): „Paian fragt sich zu Anodara der Kranken durch“ — er „legt die locke von mediphos auszubildenden [sic] auf den Altar“; „was für ein trauriges Schicksal“. Von Anodara die Schriftrolle: „ein leben für ein leben“ (→ [[Anodara die Kranke]]). Rüstung: „eine lederrüstug [sic] die sich kühl auf der haut anfühlt und die farbe der savanne hat.“
+- Feste Altstein (Sessions 103–105): „paian erkennt das dieser ort ein Göttliches Heiligtum ist, aspekte: Ehre, Aufrichtigkeit und Schutz.“ Geisterblick: „eine besorge [sic] Frau in einem leichten Gewand. ein Hirschgeweih thront auf ihrem Haupt. Sie eilt nach Norden.“ — „eine andere geisterhafte Frau hält beruhigend eine hand auf einem geisterhaftem Fuchs, der mit aufgestelltem Nackenkamm nach nordosten knurrt“; später „kommt die Lady mit Gweih [sic] durch das Tor und sieht entspannt aus. schnuppert und verhält sich wie ein Reh.“ (offen: wer die Geweih-Frau ist) In der Festhalle muss er den Geisterblick ablegen — „in der Festhalle is [sic] es verboten zu Zaubern, zuwiderhandeln wird mit dem Tode bestraft.“ Beim Festmahl „wirkt [Ulferts Rede] beinahe aufgesetzt, es wirkt höfisch und passt nicht zu diesem festen Mann.“

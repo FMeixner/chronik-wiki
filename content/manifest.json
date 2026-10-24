@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–96 · in-world fortlaufend ab 5.12.997 LZ",
+  "coverage": "Sessions 01–106 · in-world fortlaufend ab 25.08.998 LZ",
   "pages": [
     {
       "path": "index",
@@ -50,7 +50,7 @@
       "path": "Personen/Aikyr",
       "type": "person",
       "title": "Aikyr",
-      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89)",
+      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)",
       "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.",
       "aliases": [
         "Aikir",
@@ -192,7 +192,7 @@
       "path": "Personen/Halfred",
       "type": "person",
       "title": "Halfred",
-      "status": "lebendig",
+      "status": "lebendig; in Selenia steckbrieflich gesucht — nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)",
       "kurz": "Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.",
       "aliases": [],
       "held": true,
@@ -319,7 +319,7 @@
       "path": "Personen/Paian",
       "type": "person",
       "title": "Paian",
-      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert",
+      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)",
       "kurz": "Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.",
       "aliases": [],
       "held": true,
@@ -369,7 +369,7 @@
       "path": "Personen/Sira",
       "type": "person",
       "title": "Sira",
-      "status": "lebendig",
+      "status": "lebendig; nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)",
       "kurz": "Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.",
       "aliases": [],
       "held": true,
@@ -871,8 +871,8 @@
       "path": "Orte/Blutgrasweite",
       "type": "ort",
       "title": "Blutgrasweite",
-      "status": "bestehend",
-      "kurz": "Weite Grasebene; dritter Splitter-Standort.",
+      "status": "bestehend; erklärtes Reiseziel der Gruppe („weit in den westen“, ~450 km zum ersten Fluss)",
+      "kurz": "Weite Grasebene im Südwesten; dritter Splitter-Standort — „wohl von Zwergen dorthin verschleppt“.",
       "aliases": [],
       "held": false,
       "w": 72
@@ -1026,7 +1026,7 @@
       "path": "Fraktionen/Gagamba",
       "type": "fraktion",
       "title": "Gagamba",
-      "status": "aktiv",
+      "status": "aktiv; ihre Diener verfolgen die Gruppe (10 Tage Rückstand, Session 102)",
       "kurz": "Göttin der Spinne in Palitan, oberste Göttin der Triaden — ihr Herz wurde der Gruppe gestohlen.",
       "aliases": [
         "Göttin der Spinne"
@@ -1577,7 +1577,7 @@
       "path": "Tiere/Donnerhuf",
       "type": "tier",
       "title": "Donnerhuf",
-      "status": "lebendig (seit Session 70 zurück)",
+      "status": "lebendig — bei Anodara in Isarfest zurückgelassen (Session 102)",
       "kurz": "Aikyrs Esel; verschwand im Mückenschwarm und kehrte am Südrand des Seenlands zurück.",
       "aliases": [],
       "held": false,
@@ -2396,10 +2396,11 @@
       "path": "Personen/Wulfast",
       "type": "person",
       "title": "Wulfast",
-      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig",
-      "kurz": "„Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; reist mit nach Süden.",
+      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; gefangen in der Feste Altstein (Sessions 103–106)",
+      "kurz": "„Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).",
       "aliases": [
-        "Wulffast"
+        "Wulffast",
+        "Robar"
       ],
       "held": true,
       "w": 70
@@ -2568,10 +2569,11 @@
       "path": "Personen/Ugisold Kurandero",
       "type": "person",
       "title": "Ugisold Kurandero",
-      "status": "lebendig (nur erwähnt); Vorsteher von Galpinius",
-      "kurz": "„Dem Vorsteher von Galpinius“ (Bronbron Knack) — das Gespräch über die Orks im Pass steht bevor (Session 96, Cliffhanger).",
+      "status": "lebendig; Vorsteher von Galpinius",
+      "kurz": "„Mann in seinen späten Fünfzigern, breit gebaut und wettergegerbt“ — Waage-Brosche, Gewürzwein am Feuer; erteilte den Ork-Auftrag und empfing die Gruppe nach dem Feldzug zurück.",
       "aliases": [
-        "Curandero"
+        "Curandero",
+        "Ugisold Curandero"
       ],
       "held": false,
       "w": 10
@@ -2708,8 +2710,8 @@
       "path": "Orte/Zwingard",
       "type": "ort",
       "title": "Zwingard",
-      "status": "bestehend; Region — Route-Option im Osten",
-      "kurz": "Königreich (Mondsteinkrieg) — Bronbrons Seidenziel über die Furgstraße; Paiens Winter-Route Richtung Isarfest.",
+      "status": "bestehend; Region — im Winter 997/998 durchquert (Riesheim-Pass, Isarfest, Kyningswacht)",
+      "kurz": "Königreich (Mondsteinkrieg) — Bronbrons Seidenziel über die Furgstraße; durchquert auf dem Weg in den Nachtwall.",
       "aliases": [],
       "held": false,
       "w": 12
@@ -2778,7 +2780,249 @@
       "aliases": [],
       "held": false,
       "w": 20
+    },
+    {
+      "path": "Personen/Severan Deltaro",
+      "type": "person",
+      "title": "Severan Deltaro",
+      "status": "lebendig; Alter Mann der Wache von Galpinius",
+      "kurz": "„Alter Spießgeselle“ [sic] der Wache — hager, redefreudig, kennt die Orks; die erzählende Chronik-Prosa nennt ihn „Severan del Taro, dem Stadtvorsteher“.",
+      "aliases": [
+        "Severan del Taro"
+      ],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Personen/Falkbald",
+      "type": "person",
+      "title": "Falkbald",
+      "status": "lebendig; junger Soldat der Blutwacht (verfallene Festung, Zwinggard)",
+      "kurz": "Junger Blutwacht-Soldat an der Festung — Routen-Kunde nach Isarfest und Nachtwall; warnte vor der wilden Blutgrasweite und empfahl den „Ertrunkenen Mond“.",
+      "aliases": [],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Personen/Isenrick Schildwart",
+      "type": "person",
+      "title": "Isenrick Schildwart",
+      "status": "lebendig; Wirt der Taverne „Der Ertrunkene Mond“",
+      "kurz": "Wirt an die 40 Sommer — Mensch mit Schnurrbart am schwarzen See; freundlich, aber die Chronik lässt offen, ob er und „der ertrunkene Mond“ dasselbe Wesen sind.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Tiara Frostmark",
+      "type": "person",
+      "title": "Tiara Frostmark",
+      "status": "lebendig; führt die Reiterschaar der Blutwacht",
+      "kurz": "„Frau mit feuerrotem haar“ — führte den Reiterkeil, der das Ork-Dorf-Massaker brach; evakuierte die Bewohner nach Norden.",
+      "aliases": [],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Personen/Anodara die Kranke",
+      "type": "person",
+      "title": "Anodara die Kranke",
+      "status": "lebendig; krank (Geschwüre und Ausschläge) — einzige Gunwarpriesterin von Isarfest; Donnerhuf blieb bei ihr",
+      "kurz": "Alte, müde Priesterin des Tempels des Gunwar — Weihe mit Theoboid Staubhüll; „er hätte zu tief in die dunkelheit geschaut“; gab Paian die Schriftrolle „ein leben für ein leben“.",
+      "aliases": [
+        "Anodara"
+      ],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Waldrig",
+      "type": "person",
+      "title": "Waldrig",
+      "status": "lebendig (zuletzt: verwundet am Wegesrand); Blutdienst-Strafträger der Blutwacht",
+      "kurz": "Verletzter Bannerträger mit Wolfskopf-Stirnzeichen — übergab die Nachricht vom Löwenlager; sein Vergehen: Er verließ seine Gefährten.",
+      "aliases": [],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Personen/Ulfert Brandwacht",
+      "type": "person",
+      "title": "Ulfert Brandwacht",
+      "status": "lebendig; Herr der Feste Altstein",
+      "kurz": "„Ein Hühne, an die 2m groß“ — rote Stoppeln, Bärenfellumhang; aufbrausender Herr von Altstein, verkündete am Festmahl den selenischen Steckbrief gegen Halfred.",
+      "aliases": [
+        "Wulfert Brandwacht"
+      ],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Orda Brandwacht",
+      "type": "person",
+      "title": "Orda Brandwacht",
+      "status": "lebendig; Tochter von Ulfert Brandwacht",
+      "kurz": "Etwa 22 Sommer, barfuß, rote Haare — die freundliche Kellnerin der Gefangenschaft; vermittelte freie Bewegung und die Festmahls-Einladung „als wiedergutmachung“.",
+      "aliases": [
+        "Vorda"
+      ],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Brenja Wolfstochter",
+      "type": "person",
+      "title": "Brenja Wolfstochter",
+      "status": "lebendig; Herilie (Schildmaid) und Priesterin der Valkyrji in der Feste Altstein",
+      "kurz": "„Harte Lady mit Sommersprossen“ — Schildmaiden-Kriegerpriesterin; führt in Altstein Verhöre, schweigt über die Roten Spuren und die Halle der Wacht.",
+      "aliases": [],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Personen/Bruder Aurevian",
+      "type": "person",
+      "title": "Bruder Aurevian",
+      "status": "lebendig; selenischer Gesandter („Das Goldene Wort“) am Hof von Altstein",
+      "kurz": "„Der Seelenische [sic] Gast vom Königshof“ — türkise Augen, goldenes Schwert-Emblem; verkündet das „Goldene Licht“ Kaiser Selenius‘ und stellte Halfred die Frage nach Tugend und Eitelkeit.",
+      "aliases": [
+        "Aurevian"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Orte/Riesheim",
+      "type": "ort",
+      "title": "Riesheim",
+      "status": "bestehend; Gebirge — im Winter 997/998 zweimal überquert (Ork-Pass und Karawanen-Route)",
+      "kurz": "Massives Hochgebirge östlich von Galpinius — offiziell mit 1.000 km Nord-Süd-Ausdehnung und „nahezu undurchdringlich“; Brut der Pass-Orks, Blizzards und der schwerste Winter, den die Händler kennen.",
+      "aliases": [
+        "Griesheim"
+      ],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Orte/Isarfest",
+      "type": "ort",
+      "title": "Isarfest",
+      "status": "bestehend; Bollwerk-Stadt (Zwinggard), Etappenziel der Winterreise",
+      "kurz": "„Ein Bollwerk mit Balistas [sic] auf den Mauern“ — schmiede-lauter Militärstadt; hier: Anodaras Gunwartempel, Ausrüstungs-Einkäufe und die Route gen Kyningswacht und Nachtwall.",
+      "aliases": [
+        "Isafest"
+      ],
+      "held": false,
+      "w": 25
+    },
+    {
+      "path": "Orte/Kyningswacht",
+      "type": "ort",
+      "title": "Kyningswacht",
+      "status": "bestehend; Wehrort auf der Route von Isarfest Richtung Nachtwall",
+      "kurz": "Etappen-Ort drei Tage südöstlich von Isarfest — hier erstattete die Gruppe Bericht über die zwei allein gebliebenen Jungen vom Einsiedlerhof.",
+      "aliases": [
+        "Königwacht"
+      ],
+      "held": false,
+      "w": 10
+    },
+    {
+      "path": "Orte/Der Ertrunkene Mond",
+      "type": "ort",
+      "title": "Der Ertrunkene Mond",
+      "status": "bestehend (Geheimnis); Taverne am schwarzen See — der Mond „ertrinkt“ jede Nacht; Standort: zwei Tagesreisen den Riesweg entlang, dichter Wald",
+      "kurz": "Einsame weiße Taverne am schwarzen See — dahinter ein mythisches Wesen („keine Fee“), das der Gruppe half: vier Aufgaben, Warnung vor Verfolgern und ein Teleport in den Sommer.",
+      "aliases": [
+        "Der ertrunkene Mond",
+        "ertrunkener Mond"
+      ],
+      "held": false,
+      "w": 30
+    },
+    {
+      "path": "Orte/Feste Altstein",
+      "type": "ort",
+      "title": "Feste Altstein",
+      "status": "bestehend; Sitz von Ulfert Brandwacht — die Gruppe ist hier gefangen (Sessions 103–106)",
+      "kurz": "Wehrfeste, „8 tage in den Nachtwall hinein“ — Herilie-Heiligtum mit Schildmaiden und Zauberverbot in der Festhalle; Ort der Steckbrief-Wende gegen Halfred.",
+      "aliases": [
+        "Altstein"
+      ],
+      "held": false,
+      "w": 35
+    },
+    {
+      "path": "Orte/Nachtwall",
+      "type": "ort",
+      "title": "Nachtwall",
+      "status": "bestehend (nur erwähnt/durchreist am Rand); Gebirge zwischen Zwingard und Termark",
+      "kurz": "Gebirgszug vor dem Blutwald — hinter ihm liegt Termark; in ihm entspringen die Korau; „die Halle der Wacht liegt wohl am ehesten zentral im Nachtwall“.",
+      "aliases": [],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Orte/Die Halle der Wacht",
+      "type": "ort",
+      "title": "Die Halle der Wacht",
+      "status": "gesucht (Reiseziel der Gruppe) — Ort unbekannt, vermutlich zentral im Nachtwall",
+      "kurz": "Das Ziel der Reise — ein Bannerträger soll den Weg weisen; Brenja schweigt über die Halle und die Roten Spuren.",
+      "aliases": [
+        "Halle der Wacht"
+      ],
+      "held": false,
+      "w": 12
+    },
+    {
+      "path": "Orte/Blutwald",
+      "type": "ort",
+      "title": "Blutwald",
+      "status": "bestehend; durchquert (Sessions 102, 01.–15.08.998 LZ)",
+      "kurz": "„Großer Wald“ vor dem Nachtwall — wärmer und schwüler als Zwinggard; Halfred führte die Gruppe zügig hindurch.",
+      "aliases": [
+        "Blutholz",
+        "das Blutholz"
+      ],
+      "held": false,
+      "w": 8
+    },
+    {
+      "path": "Fraktionen/Die Blutwacht",
+      "type": "fraktion",
+      "title": "Die Blutwacht",
+      "status": "aktiv — Zwinggard; Grenzwacht zum Orkreich (2 bis 3 Jahre Dienst)",
+      "kurz": "Schwer gerüstete Wacht mit blutrotem Drei-Berge-Banner — Mauer mit den Namen der Gefallenen; ruft 18-Jährige zur Zeremonie nach Isarfest.",
+      "aliases": [
+        "Blutwacht"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Fraktionen/Das Goldene Wort",
+      "type": "fraktion",
+      "title": "Das Goldene Wort",
+      "status": "aktiv — selenische Ordensgemeinschaft; Gesandtschaft am Hof der Feste Altstein",
+      "kurz": "Orden Bruder Aurevians — schwarzer Überwurf mit goldenem Schwert-Emblem; predigt das „Goldene Licht“ Kaiser Selenius‘ und dass die alten Götter gelogen hätten.",
+      "aliases": [
+        "Goldenes Wort"
+      ],
+      "held": false,
+      "w": 15
+    },
+    {
+      "path": "Kreaturen/Orks",
+      "type": "kreatur",
+      "title": "Orks",
+      "status": "aktiv — Pass-Orks erschlagen (Sessions 99–101); südliche Orks „wild“",
+      "kurz": "Riesige, gepanzerte Kreaturen — der Trupp im Riesheim-Pass, der 4-Meter-Boss im Dorf-Überfall; Zwinggard kämpft seit Jahrhunderten gegen sie.",
+      "aliases": [
+        "Ork",
+        "Orkreich"
+      ],
+      "held": false,
+      "w": 30
     }
   ]
 }
-

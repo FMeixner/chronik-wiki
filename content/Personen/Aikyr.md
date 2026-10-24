@@ -2,7 +2,7 @@
 type: person
 title: Aikyr
 aliases: [Aikir, Aykir]
-status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89)
+status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)
 kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.
 ---
 # Aikyr
@@ -96,3 +96,12 @@ kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glück
 - Katakomben (Session 94): halluziniert auf der Verfolgung („glaubt, dass wir auf der Spur einer Bestie sind“); zerteilt einen Ghul mit der Klingenpeitsche; erwürgt [[Medipho]].
 - Heuschober (Session 95): Er redet dem Vogel zu — „dank seiner überragenden Einfühlsgabe (Krit, doppel 10)“ bleibt das Vögelchen sitzen; über die erfrorene Wegesrand-Leiche: „Aikyr glaub, dass das Trem war.“
 - Galpinius (Session 96): geht mit Sira und Wulfast zu Kurandero — „Gehen zum größten Haus der Stadt, stehen davor.“
+
+## Sessions 97–106: Riesheim, Isarfest, Altstein
+
+- Galpinius (Session 97): Kauft „eine Zauberschriftrolle, die es ihm ermöglicht, von Sonnenaufgang bis Sonnenuntergang zu lesen“ — für sein „Buch über Vargenlegenden von einem Morkai Priester“. „Seine Familie habe früher in den Wäldern gelebt uns [sic] sei, als er noch jung war, nach Unterwalde gezogen […] jetzt wo er so weit weg von Zuhause ist, interessiert ihn sein vargisches Erbe noch mehr.“ Paian liest ihm abends vor; Aikyr sorgt sich: „Paian in letzter Zeit viel mit den Artefakten der Kultisten beschäftigt“ — abends liest er mit der Schriftrolle das Menü der Taverne vor. (→ [[Paian]])
+- Riesheim (Sessions 99–101): „Haben Donnerhuf mitgenommen.“ Beim Sprint zu Halfred „taucht er unter den Hieben des Hünen durch und schmeißt sich gegen Halfreds Gestell“; im Höhlenkampf „mit einer glühenden Faust zerschmetter er ihm den Brustkorb“; auf Siras Ruf („duck dich aikyr!“) wirft sie „eine Lichtklinge dem kleineren Ork hinter ihm in den Kiefer“. (→ [[Orks]], [[Riesheim]])
+- Der Dorfkampf (Session 102): „Aiky versucht ihn mit sommertochter niederzureiten… er erwischt ihn mit seiner peitsche am bein… doch der bleibt unbeeindruckt stehen und aikyr wird vom pferd gezogen.“ Dann klettert er am Arm des 4-Meter-Orks hoch — „rammt aikyr dem ork seine faust bis an den ellenbogen in dessen auge“; „zwei pfeile erwischen ihn und ein mächtiger hieb (38SP) fegt ihn weg und er prall bewusstlos auf dem boden auf.“ Sira weckt ihn „mit einem zauber“, er „trinkt einen heiltrank“.
+- Die Mondkostellation (Session 102): „er erzählt von der mondkostelation [sic], und spricht davon wie er versucht hat herauszufinden von welcher vaigarsippe er abstammt, aber dass viel wichtiger als die herkunft ist, wer das jetzige rudel ist.“ — „es folgt eine emotionale szene wo er seinen freunden erzählt, was er an ihnen schätztz [sic], aber auch was er von ihnen braucht.“
+- Isarfest (Session 102): „bekommt bei einem zauberhandwerker ein schutzamulett des geistes, ein kristall aus der blauschlucht (GW+3)“ (→ [[Blauschlucht]]); „aikyr kauft sich eine kühlende unterhose.“ Rausch-Morgen: „Aikyr wacht am Boden vor seinem Zimmer auf, trockenen mund und ein pfeifen auf seinem ohr.“ — Aus Siras Zimmer kommt ein blonder Jüngling. (→ [[Sira]])
+- Feste Altstein (Sessions 103–106): Beim Festmahl beißt ihn Kokandrilis in den Finger — „er spürt Nervosität“ (→ [[Kokandrillis]]). Bei der schwarzhaarigen Frau: „Er schnüffelt, es riecht nach einem blumigen Parfüm, aber auch ein anderer Geruch… wie ein Jäger. wie in den Katakomben unter Wasserfels, ein Geruch wie von dem and [sic] ie [sic] Wand geketteten Vargen, der von diesen schwarzen Wesen durchdrungen war. Aikyrs nackenhaare stehen ihm zu berge und ein tiefes Knurren entweicht seiner kehle.“ Sie lässt ihn „in arroganten ton ihr nachschenken“ und ignoriert ihn. Am Ende wird die Gruppe von den Wachen abgeführt. (→ [[Der angekettete Varg]], [[Feste Altstein]])

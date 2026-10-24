@@ -2,7 +2,7 @@
 type: fraktion
 title: Gagamba
 aliases: [Göttin der Spinne]
-status: aktiv
+status: aktiv; ihre Diener verfolgen die Gruppe (10 Tage Rückstand, Session 102)
 kurz: Göttin der Provinz der Spinne in Palitan, oberste Göttin der Triaden — ihr Herz wurde der Gruppe gestohlen.
 ---
 # Gagamba
@@ -14,3 +14,5 @@ kurz: Göttin der Provinz der Spinne in Palitan, oberste Göttin der Triaden —
 - Oberste Göttin der [[Triaden]]; der Tempel beherbergt das [[Herz der Gagamba]] (Session 27) — Tempelvorsteher [[Xing Tai]]; „Der Tempel steht so lange wie die Stadt… und vllt steht die Stadt wegen des Tempels."
 - Tempelhalle (Session 35): riesige, von Säulen gesäumte Halle; an der rückwärtigen Wand eine enorme Statue mit vielen Armen — ein Paar davon hält einen schwarzen Stein, „der das Licht verschlucken zu scheint".
 - Diebstahl des Herzens durch [[Paian]] nach einem Gebet an Gagamba (Session 35): geisterhafter Schemen, Schmerz; Stimmen schimpfen auf die Gruppe als „Diebe" — „Klingen in der Nacht werden euch heimsuchen"; auf der Portalinsel wird [[Dorean]] niedergestochen.
+
+- Die Verfolger (Session 102): Der Ertrunkene Mond warnt: „die achtbeinige spinne und das goldene licht uns auf den fersen ist. (diener der gagamba und der orden aus selenia)“ — „unsere verfolger 10 tage hinter uns“ (18.03.998); am 12.07.998 heißt es: „verfolger sind etwa 7 tage hinter uns…“. Die Gruppe entkam seither — wie nah die Diener der Gagamba inzwischen sind, ist offen. (→ [[Der Ertrunkene Mond]], [[Das Goldene Wort]])

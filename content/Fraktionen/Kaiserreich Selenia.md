@@ -20,3 +20,8 @@ Luidpergas Erzählung in der „Tanzenden Forelle“ ([[Wasserfels]], Session 50
 - 971 LZ: Stadtbrand von Winborn — die Gemahlin des Kaisers und der kindliche Thronfolger sterben; 973 LZ heiratet er Daria von Drakenhag; 977 LZ wird Thronfolger Eron geboren, 979 LZ [[Pyrina|Prinzessin Pyrina]].
 - 990 LZ starb Selenius II. „an einer unbekannten Krankheit“; sein Sohn Eron wurde Selenius III. — „tritt charakterlich eher in die Fußstapfen seines expansiven Großvaters. Midstad scheint für den Kaiser von besonderem Interesse zu sein“ (Wortlaut „Midstad“).
 - Gegenwart (Session 41): Kaiser Selenius streicht die Mittel für die Kirchen, insbesondere Jonnus- und Gunwarkirche; das Heer gegen Midstadt wurde zerschlagen.
+## Sessions 102–106: Das Goldene Licht
+
+- Zwinggard (Session 102): „Von Selenia und der Gunwarkirche weiß man hier wenig.“ — in Altstein: „Anscheinend sind noch mehr Leute aus Selenia da… was sie [Brenja] total scheiße findet.“
+- Die Gesandtschaft (Sessions 105/106): [[Bruder Aurevian]] („Das Goldene Wort“) am Hof Ulfert Brandwachts: „Lorakis ist ein Land der Finsternis und des Streits. Doch das Goldene Licht Selenias bringt Ordnung.“ — „Der Kaiser ist nicht nur ein Herrscher. Er ist das von den Göttern gesandte Licht, das Lorakis ordnen soll.“ Die alten Götter hätten „die Menschen belogen“ — welche Lügen, beantwortet er nicht.
+- Der Steckbrief (Session 106): Ulfert Brandwacht: „unter den Feiernden ein in selenia steckbrieflich gesuchter“ — [[Halfred]] gibt zu, „in einem kerker in selenia zeuge eines mordes gewesen“ zu sein; die Gruppe wird abgeführt. (offen: die Kerker-Geschichte; vgl. „das goldene Licht“ als Verfolger der Gruppe, Session 102)

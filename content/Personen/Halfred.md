@@ -2,7 +2,7 @@
 type: person
 title: Halfred
 aliases: []
-status: lebendig
+status: lebendig; in Selenia steckbrieflich gesucht — nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)
 kurz: Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.
 ---
 # Halfred
@@ -93,3 +93,12 @@ kurz: Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschch
 - Reparaturen (Session 90): „Halfred hilft unermüdlich der Mannschaft das Schiff zu reparieren.“
 - Therum (Sessions 92/93): stimmt mit Aikyr für [[Epena]]; im Silberkrug gibt er Aikyr „die bauchige Phiole mit ‚dem letzten Aufgebot‘“ (→ [[Das letzte Aufgebot]]); im Sturmvogel „stammelt er erst, taut aber langsam auf“ vor dem bärtigen Wildniskundigen, verabschiedet sich und „setzt sich zu Aikyr“.
 - Katakomben (Sessions 94/95): bleibt außerhalb am Lager zurück — die Chronik nennt keinen Grund (offen); Wulfasts Rückweg führt zu „Halfreds Feuer“: „Berichten Halfred vom geschehenen. Reden dann über unseren weitern Weg.“
+
+## Sessions 97–106: Gefangen, verbrannt, steckbrieflich gesucht
+
+- Galpinius (Session 98): Der Halfred-Start: „Über den schiefen Dächern im Osten erhebt sich der Riesheim. Ein gewaltiges, fernes Bollwerk aus Stein und Eis […] Für einen Moment verstummt alles um dich.“ — Bärenfallen-Idee im Gespräch mit Severan Deltaro; die Prosa: „Ihr habt eingekauft, geplant, abgewogen. Kältefeste Kleidung, Proviant, und Seile. Zwei Gifte, sorgsam verpackt. Schwere Tellereisen.“
+- Der Blizzard (Session 99): „Halfred scoutet vorraus [sic]. Ein richtiger Blzzard [sic] bricht über ihn herrein [sic]“ — „Halfred kann zwischen zwei böen drei Umrisse erkennen und er kann gerade so einem Wurfspeer ausweichen. […] Er sprintet den vereisten Weg zurück!“
+- Die Ork-Höhle (Session 100): „Rogg Urmogg, UUUURGMOGG!!!“ — er stürzt, wird gefangen: „seine arme und beine sind gefesselt, sein rechtes augen zugeschwollen […] Er ist fest in einem Rahmen aufgespannt, seine Schultergelenke fast ausgekugelt.“ Er bittet [[Duir]] um Hilfe — „er spürt aber kein Leben, keine Natur, nur Kälte und Fels“; doch „Kleine Wurzeln wachsen aus dem Rahmen und umschlingen seine Hände“, bis der Ork sie „ausreißt“ (offen: ob Duir doch half). Über dem Feuer: „Halfreds gellender Schrei“; nach der Rettung: „Sira versorgt seine Brandwunden.“
+- Der Ertrunkene Mond (Session 102): „halfred uns [sic] sira sind überzeugt, dass es [die schwarze Tür], als wir ankamen noch nicht gab.“ Im Ork-Dorf: „halfred riecht schweiß und ungewaschenes haar… ‚ORKS!!!!‘“ — Todesstoß: „Halfred schreit auf, legt einen pfeil ein und schießt dem big boss in das andere auge und der pfeil tritt auf der rückseite aus deinem [sic] kopf aus.“
+- „Wasser finden“ (Session 102): „Halfred lässt sich den Zauber ‚Wasser finden‘ zeigen.“ — 20.08.998: „Endlich hat es Halfred raus, er kann das wasser spüren… es war in den letzten tagen immer schwerer geworden, weil es immer trockener wurden [sic]. er vermutet, dass es eine letzte chance war.“
+- Feste Altstein (Sessions 103–106): Aurevians Reh-Herz-Geschichte gilt ihm — der Junge, „der weigerte sich zu jagen“, dem das Dorf das Herz des Rehs gab: „Wenn deine Überzeugungen andere leiden lassen— sind sie dann noch Tugend… oder bloß Eitelkeit?“ (→ [[Bruder Aurevian]]). Beim Auftauchen der schwarzhaarigen Frau: „Sie beobachtet ihn, wie er sie beobachtet und schmunzelt… worauf Halfred rot anläuft.“ Am Ende: „Er spricht halfred an, der zugibt, in einem kerker in selenia zeuge eines mordes gewesen.“ — die Gruppe wird abgeführt. (offen: die Kerker-Geschichte — vgl. die Sarnburger Gefangenschaft, Sessions 44–46)

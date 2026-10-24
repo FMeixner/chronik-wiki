@@ -18,3 +18,6 @@ kurz: Aikyrs Stute; versank im Sumpf, gerettet; trug den verwundeten Halfred nac
 
 
 - An Bord (Session 88): Bei der Flucht vor dem schwarzen Wasser aufs Achterdeck „reißt Aikyr die Luke zu Sommertochter und Donnerhuf auf“ — Stute und Esel reisten im Bauch der [[Maravas Tochter]] mit über die [[Die Ewige See|Ewige See]].
+
+- Der Dorfkampf (Session 102): „Aiky [versucht den 4-Meter-Ork] mit sommertochter niederzureiten… doch der bleibt unbeeindruckt stehen und aikyr wird vom pferd gezogen.“ (→ [[Orks]])
+- Nach dem Teleport (Session 102): „Sommertochter, donnerhuf und unsere esel sind weg. wir finden sie nach einer weile wieder. verstrupptes fell ein wenig abgemagert, aerb [sic] glücklich. in den satteltaschen verdorbener proviant.“ — die Tiere überstanden den Winter-Sommer-Sprung des [[Der Ertrunkene Mond|Ertrunkenen Mondes]].

@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "wikiBase": "https://fmeixner.github.io/chronik-wiki/",
   "wegfaktor": 1.4,
   "modeLabels": {
@@ -411,14 +411,64 @@
       "type": "Stadt",
       "notes": "Ankunft am 05.12.997 LZ (Session 95): voellig ueberfuellte Kleinstadt, weil die Furgstrasse wegen Orks im Pass gesperrt ist; Tanniem und Elyra erloest; Gespraech mit Vorsteher Ugisold Kurandero bevorstehend (Session 96).",
       "lotse": "#/Orte/Galpinius"
+    },
+    {
+      "id": "riesheim",
+      "mapId": "story",
+      "x": 47.5,
+      "y": 79.09,
+      "name": "Riesheim",
+      "type": "Gebirge",
+      "notes": "Hochgebirge-Pass: Ork-Feldzug und Hoehlenkampf (Sessions 99-101); Rueckquerung mit der Karawane, „11 Wochen“ im schwersten Winter (Session 102).",
+      "lotse": "#/Orte/Riesheim"
+    },
+    {
+      "id": "ertrunkener-mond",
+      "mapId": "story",
+      "x": 50.94,
+      "y": 83.18,
+      "name": "Der Ertrunkene Mond",
+      "type": "Geheimnis",
+      "notes": "Taverne am schwarzen See; ein mythisches Wesen („keine Fee“) stellt vier Aufgaben, warnt vor Verfolgern und teleportiert die Gruppe in den Sommer (Session 102).",
+      "lotse": "#/Orte/Der Ertrunkene Mond"
+    },
+    {
+      "id": "isarfest",
+      "mapId": "story",
+      "x": 56.88,
+      "y": 88.64,
+      "name": "Isarfest",
+      "type": "Stadt",
+      "notes": "Bollwerk-Stadt in Zwinggard; Ankunft 05.07.998 LZ per Teleport (Session 102): Anodaras Gunwartempel, Schriftrolle „ein leben fuer ein leben“; Donnerhuf bleibt zurueck.",
+      "lotse": "#/Orte/Isarfest"
+    },
+    {
+      "id": "kyningswacht",
+      "mapId": "story",
+      "x": 62.5,
+      "y": 89.55,
+      "name": "Kyningswacht",
+      "type": "Dorf",
+      "notes": "Wehrort auf der Route von Isarfest Richtung Nachtwall (Session 102) — Bericht ueber die zwei Jungen vom Einsiedlerhof.",
+      "lotse": "#/Orte/Kyningswacht"
+    },
+    {
+      "id": "altstein",
+      "mapId": "story",
+      "x": 68.13,
+      "y": 90.91,
+      "name": "Feste Altstein",
+      "type": "Ziel",
+      "notes": "Wehrfeste im Nachtwall, Ankunft 23.08.998 LZ (Session 102); Gefangenschaft, Festmahl mit Bruder Aurevian, selenischer Steckbrief gegen Halfred — Abfuehrung (Sessions 103-106).",
+      "lotse": "#/Orte/Feste Altstein"
     }
   ],
   "routes": [
     {
       "id": "r1",
-      "label": "Der Weg der Gruppe (Sessions 01–96)",
+      "label": "Der Weg der Gruppe (Sessions 01–106)",
       "color": "#fbbf24",
-      "statusIndex": 51,
+      "statusIndex": 58,
       "waypoints": [
         {
           "markerId": "unterwalde",
@@ -630,9 +680,37 @@
         {
           "markerId": "galpinius",
           "caption": "S 95 · Ankunft in Galpinius (5.12.997 LZ)"
+        },
+        {
+          "markerId": "riesheim",
+          "caption": "S 99–101 · Orks im Pass (7.–22.12.997 LZ)"
+        },
+        {
+          "markerId": "galpinius",
+          "caption": "S 101 · Rückkehr nach Galpinius (22.12.997 LZ)"
+        },
+        {
+          "markerId": "riesheim",
+          "caption": "S 102 · Mit der Karawane über den Riesheim (22.12.997–02.03.998 LZ)"
+        },
+        {
+          "markerId": "ertrunkener-mond",
+          "caption": "S 102 · Der Ertrunkene Mond (18.03.998 LZ)"
+        },
+        {
+          "markerId": "isarfest",
+          "caption": "S 102 · Teleport in den Sommer — Bollwerk Isarfest (05.07.998 LZ)",
+          "portal": true
+        },
+        {
+          "markerId": "kyningswacht",
+          "caption": "S 102 · Kyningswacht (15.07.998 LZ)"
+        },
+        {
+          "markerId": "altstein",
+          "caption": "S 102–106 · Feste Altstein (ab 23.08.998 LZ)"
         }
       ]
     }
   ]
 }
-

@@ -2,7 +2,7 @@
 type: tier
 title: Donnerhuf
 aliases: []
-status: lebendig (seit Session 70 zurück)
+status: lebendig — bei Anodara in Isarfest zurückgelassen (Session 102)
 kurz: Aikyrs Esel; verschwand im Mückenschwarm und kehrte am Südrand des Seenlands zurück.
 ---
 # Donnerhuf
@@ -17,3 +17,6 @@ kurz: Aikyrs Esel; verschwand im Mückenschwarm und kehrte am Südrand des Seenl
 
 
 - An Bord (Session 88): Bei der Flucht vor dem schwarzen Wasser aufs Achterdeck „reißt Aikyr die Luke zu Sommertochter und Donnerhuf auf“ — der Esel reiste im Bauch der [[Maravas Tochter]] mit über die [[Die Ewige See|Ewige See]].
+
+- Riesheim (Sessions 99–101): „Haben Donnerhuf mitgenommen.“ — während Halfreds Gefangenschaft „schaut uns Donnerhuf missmutig nach“; nach dem Höhlenkampf gehen Aikyr und Halfred „in den Blizzard raus um Donnerhuf zu holen“. (→ [[Riesheim]])
+- Isarfest (Session 102): „Lassen Donnerhuf bei Anodara [sic] zurück und verkaufen die beiden anderen Esel.“ — der Esel bleibt bei [[Anodara die Kranke|Anodara der Kranken]] im Gunwartempel. (→ [[Isarfest]])

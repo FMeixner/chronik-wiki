@@ -2,7 +2,7 @@
 type: person
 title: Sira
 aliases: []
-status: lebendig
+status: lebendig; nach dem Festmahl in Altstein von der Wache abgeführt (Session 106)
 kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.
 ---
 # Sira
@@ -90,3 +90,10 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 - Finsterwasser (Sessions 88/89): „Schwarzes Wasser drückt sich durch die Bordwand, berührt Sira und ein elektrischer Schlag durchzuckt sie.“; ihre Lichtkugel in der Tiefe erstirbt („ein dunkles Pulsieren geht durch das Schiff und die Kugel erstirbt“); dann wirft sie Lichtklingen aufs Auge — „Sira wirft ihre letzte Lichtklinge auf das Auge (krit 71SP!!!!). Die Tentakel ersterben, das dunkel zieht sich in die Tiefen zurück.“ (→ [[Finsterwasser]])
 - An Bord (Session 90): „Sira spielt ein Lied, erst die niedergeschlagene Stimmung aufnehmend, aber dann zuversicht ausstrahlend“; liest Aikyr eine Geschichte vor; im Silberkrug ist sie „genervt von uns und setzt sich zu einer Gruppe von Händlern, die hier überwintern“ (Session 93).
 - Katakomben (Session 94): errichtet mit Wulfast „eine Barriere aus schimmerndem Licht“ gegen die Ghulen.
+
+## Sessions 97–106: Schwere Wunden, ein Lied, die Beobachterin
+
+- Der Ertrunkene Mond (Session 102): „Sira äußert bedenken.“ auf dem Pfad zur Taverne; vom Wesen erhält sie (wie Wulfast) je einen Trank. (→ [[Der Ertrunkene Mond]])
+- Der Dorfkampf (Session 102): „duck dich aikyr!“ ruft sie — „wirf [sic] eine Lichtklinge dem kleineren Ork hinter ihm in den Kiefer“. „sira schwer verletzt“; am Ende: „sie versucht zwischen sich und mehreren orks die wurfspeere werfen eine lichbariere [sic] hochzuziehen…. sie flackert auf, doch in dem moment trifft sie ein pfeil von der seite und sie geht bewusstlos zu boden und die barriere erlischt….“ Paian zieht sie in einen Schuppen; „Sira ist weiterhin schwer verletzt.“
+- Isarfest (Session 102): „sira kauft 2 schriftrollen und mehrere Heil- und stärkungstränke.“ — Wein-Trauer vor der Blutgrasweite: „Sira und Aikyr sind ganz traurig, dass sie in der blutgraßweite keinen wein mehr bekommen… und trinken ein, zwei.. und schauen dann weiter.“ Am Morgen: „Aus Siras Zimmer kommt ein blonder jüngling, der sich gerade ein hemd über den kopf zieht und sich verlegen verabschiedet.“
+- Feste Altstein (Sessions 104–106): Die Lied-Frage: „Sira fragt ob er [Ulfert] sich über ein Lied freuen würde“ — „Über Heldensagen oder Lieder über feste würde er sich freuen“; und: „Sira fragt unsere Wachen ob der Herr lieber Lieder über Feste also Feiern oder Feste im sinne von Burgen hört.“ Sie beobachtet Aurevian: „Sira beobachtet den Mann mit den türkisen Augen, der uns durchgehen [sic] anstarrt. Ab und an tritt ein Jüngling an seine seite und flüstert ihm etwas ins ohr, hört sich an was dieser gesagt hat und schreibt etwas in ein Büchchen.“ (→ [[Bruder Aurevian]])

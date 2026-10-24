@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "stand": "Sessions 01-96",
+  "version": 4,
+  "stand": "Sessions 01-106",
   "mapId": "story",
   "canvas": {
     "width": 1600,
@@ -622,10 +622,71 @@
         "Session 95",
         "Session 96"
       ]
+    },
+    {
+      "id": "riesheim",
+      "name": "Riesheim",
+      "x": 760,
+      "y": 870,
+      "type": "Gebirge",
+      "lotse": "#/Orte/Riesheim",
+      "notes": "Massives Hochgebirge ostlich von Galpinius, im Winter 997/998 zweimal ueberquert: Ork-Pass-Feldzug mit Hoehlenkampf (Sessions 99-101, drei Orks erschlagen) und Karawanen-Route (Session 102, „11 Wochen“ durch den schwersten Winter, den die Haendler kennen).",
+      "belege": [
+        "Sessions 99-101",
+        "Session 102"
+      ]
+    },
+    {
+      "id": "ertrunkener-mond",
+      "name": "Der Ertrunkene Mond",
+      "x": 815,
+      "y": 915,
+      "type": "Geheimnis",
+      "lotse": "#/Orte/Der Ertrunkene Mond",
+      "notes": "Einsame weisse Taverne am schwarzen See (zwei Tagesreisen den Riesweg entlang); dahinter ein mythisches Wesen („keine Fee“) — vier Aufgaben, Verfolger-Warnung und Teleport in den Sommer (Session 102).",
+      "belege": [
+        "Session 102"
+      ]
+    },
+    {
+      "id": "isarfest",
+      "name": "Isarfest",
+      "x": 910,
+      "y": 975,
+      "type": "Stadt",
+      "lotse": "#/Orte/Isarfest",
+      "notes": "Militaerstadt in Zwinggard („ein Bollwerk mit Balistas [sic] auf den Mauern“); Ankunft 05.07.998 LZ (Session 102): Anodaras Gunwartempel, Paians Schriftrolle „ein leben fuer ein leben“, Donnerhuf bleibt zurueck; Route gen Kyningswacht und Nachtwall.",
+      "belege": [
+        "Session 102"
+      ]
+    },
+    {
+      "id": "kyningswacht",
+      "name": "Kyningswacht",
+      "x": 1000,
+      "y": 985,
+      "type": "Dorf",
+      "lotse": "#/Orte/Kyningswacht",
+      "notes": "Wehrort drei Tage suedoestlich von Isarfest auf der Route Richtung Nachtwall (Session 102) — hier erstattete die Gruppe Bericht ueber die zwei allein gebliebenen Jungen vom Einsiedlerhof.",
+      "belege": [
+        "Session 102"
+      ]
+    },
+    {
+      "id": "altstein",
+      "name": "Feste Altstein",
+      "x": 1090,
+      "y": 1000,
+      "type": "Ziel",
+      "lotse": "#/Orte/Feste Altstein",
+      "notes": "Wehrfeste „8 tage in den Nachtwall hinein“, Sitz von Ulfert Brandwacht; Ankunft 23.08.998 LZ (Session 102); Gefangenschaft und Festmahl — selenischer Steckbrief gegen Halfred, Abfuehrung der Gruppe (Sessions 103-106).",
+      "belege": [
+        "Sessions 102-106"
+      ]
     }
   ],
   "geographie": {
-    "grundlage": "Topografie nach offizieller Lorakis-Geographie (Splitterwiki / Uhrwerk Verlag): Der Myrkan entspringt in den Myrkanbergen im Suedwesten und fliesst nach Norden (Wasserfels, Dreywasser, Beertal, Drugonsfurt). Sarnburg liegt zwischen Draugisbergen und Grossen Zirken an der Halunde. Die Grossen Zirken ziehen sich zwischen Sarnburg und Suedfang; Suedfang liegt am Fuss des Gluehbergs. Die Arwinger Mark liegt im Suedosten an der Kristallsee (Westgrenze Kynhold, Hauptort Arwingen, Suedliche Zitadellen suedlich davon). Herathis (Chronik: Heratis) liegt am Elyrischen Golf im aeussersten Suedwesten. Palitan (mit Katakomben) liegt im fernen Nordosten/Osten Lorakis in Zhoujiang (Takasadu, „Land des Phönix“) am Jadeband — jenseits des Mondpfads, der als Portalverbindung nach Sarnburg fuehrt. Auf der Karte ist Palitan daher als Zhoujiang-Inset (Fernbereich) dargestellt; die Distanz ist nicht maßstäblich. Die Karte bleibt schematisch. Die Seereise der Sessions 87-92 fuehrte ueber die Ewige See (offizielles westliches Randmeer) die Suedkueste entlang nach Patalis (offizielles Koenigreich an der Westkueste Dragoreas); Zwingard ist eine offizielle Region; das Bergkoenigreich Blauschlucht (offiziell Westergrom, Zwerge der Furgand; Chronik „Furgant (Vulkanzwerge)“) liegt auf halbem Weg der Furgstrasse.",
+    "grundlage": "Topografie nach offizieller Lorakis-Geographie (Splitterwiki / Uhrwerk Verlag): Der Myrkan entspringt in den Myrkanbergen im Suedwesten und fliesst nach Norden (Wasserfels, Dreywasser, Beertal, Drugonsfurt). Sarnburg liegt zwischen Draugisbergen und Grossen Zirken an der Halunde. Die Grossen Zirken ziehen sich zwischen Sarnburg und Suedfang; Suedfang liegt am Fuss des Gluehbergs. Die Arwinger Mark liegt im Suedosten an der Kristallsee (Westgrenze Kynhold, Hauptort Arwingen, Suedliche Zitadellen suedlich davon). Herathis (Chronik: Heratis) liegt am Elyrischen Golf im aeussersten Suedwesten. Palitan (mit Katakomben) liegt im fernen Nordosten/Osten Lorakis in Zhoujiang (Takasadu, „Land des Phönix“) am Jadeband — jenseits des Mondpfads, der als Portalverbindung nach Sarnburg fuehrt. Auf der Karte ist Palitan daher als Zhoujiang-Inset (Fernbereich) dargestellt; die Distanz ist nicht maßstäblich. Die Karte bleibt schematisch. Die Seereise der Sessions 87-92 fuehrte ueber die Ewige See (offizielles westliches Randmeer) die Suedkueste entlang nach Patalis (offizielles Koenigreich an der Westkueste Dragoreas); Zwingard ist eine offizielle Region; das Bergkoenigreich Blauschlucht (offiziell Westergrom, Zwerge der Furgand; Chronik „Furgant (Vulkanzwerge)“) liegt auf halbem Weg der Furgstrasse. Die Winterreise der Sessions 97-106 fuehrte von Galpinius ueber den Riesheim (offizielles Hochgebirge, „nahezu undurchdringlich“, rund 1.000 km Nord-Sued) nach Zwingard (offiziell „Land der tausend Burgen“), weiter ueber Isarfest und Kyningswacht an den Rand des Nachtwall (offizielles Gebirge vor Termark, Korau-Quelle) bis zur Feste Altstein.",
     "offizielleNamen": {
       "zirken": "Groe Zirken",
       "beertal": "Freistadt Beertal",
@@ -634,4 +695,3 @@
     }
   }
 }
-

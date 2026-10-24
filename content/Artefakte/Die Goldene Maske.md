@@ -22,3 +22,8 @@ w: 80
 ## Sessions 87–96
 
 - Mediphos Imitat (Session 94): In Raum 09 von [[Mediphos Katakomben]] liegt auf dem Beistelltisch „eine goldene Maske“ — doch „Paian erkennt sie als profanen gegenstand“ [sic] „und zerschmettert sie.“ Kein Zusammenhang mit Luidpergas ausdrucksloser Maske; die echte Maske bleibt bei der Gruppe (Paian analysiert sie unverändert fort).
+
+## Sessions 102: Die Maske in der Schublade
+
+- Der Ertrunkene Mond (Session 102): „pajan [sic] hatte, als er sich im raum umgeseh [sic] hatte in einer schublade eine golde [sic] maske gesehen“ — der Wirt/das Wesen: „es sei eine erinnerung daran wofür oder wogegen man kämpfen sollte. und wen man verloren hat. wen man nur noch in seinen träumen sieht.“ Paian „spürt (krit) dass er die wahrheit spricht, dass trauer die aus zorn kommt aus ihm spricht.“ (→ [[Der Ertrunkene Mond]])
+- Abgrenzung: Es ist nicht die Maske der Gruppe (die trägt Paian bei sich); ob die Schubladen-Maske mit Luidpergas ausdrucksloser Maske oder den Wesen zwischen den Wurzeln zusammenhängt, ist offen.

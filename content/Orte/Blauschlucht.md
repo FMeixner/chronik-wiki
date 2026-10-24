@@ -10,3 +10,5 @@ kurz: Zwergenstadt „in den Stein geschlagen, halb Unterirdisch und überaus se
 - Lage (Session 95): [[Bronbron Knack]]: „Blauschlucht ist auf halben weg der Furchstraße [sic] und dann noch etwa 100 km über unwegsames gelände nach Süden. Furgant (Vulkanzwerge) [sic] leben dort. Die Stadt sei in den Stein geschlagen, halb Unterirdisch und überaus sehenswert… aber eher im Sommer, wenn der weg dorthin passierbar ist.“
 - Passivität (Session 95): „Weder die Wache von Galpinius noch die Zwerge aus der Blauschlucht hätten was unternommen“ gegen die Orks im Pass der [[Die Furgstraße|Furgstraße]].
 - Offen: Warum die Zwerge nicht eingreifen; ob „Furgant“ [sic] der Name der Stadt oder der Zwerge ist (die Chronik nennt die Bewohner so).
+
+- Der Kristall (Session 102): „aikyr bekommt bei einem zauberhandwerker [in Isarfest] ein schutzamulett des geistes, ein kristall aus der blauschlucht (GW+3)“ — ein Blauschlucht-Kristall schützt Aikyrs Geist. (→ [[Isarfest]])

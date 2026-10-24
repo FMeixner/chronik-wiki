@@ -15,3 +15,5 @@ kurz: Aikyrs mumifizierte Eidechse — durch den Inhalt eines Notfall-Fläschche
 
 
 - Auf See (Session 87): Im Aikyr-Start an der Reling: „Coccindrilis kriecht unter deinem Mantel hervor, zwitschert einen hellen, vergnügten Laut. Als hätte selbst das kleine Herz der Echse gespürt, dass die Welt eben ein Stück weiter, ein Stück tiefer geworden ist.“
+
+- Festmahl in Altstein (Session 105): „Aikyr greift schon zu, doch Kokandrilis beißt ihm ins Fell…als [sic] er ihr einen Happen Fleisch anbietet, beißt er ihm in den Finger und er spürt Nervosität.“ — die Echse spürt offenbar Gefahr vor dem Festmahl, das mit Halfreds Steckbrief-Verhaftung endet. (→ [[Feste Altstein]])
