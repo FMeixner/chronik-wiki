@@ -4,25 +4,29 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Reiseatlas – Chronik-Wiki</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
 <style>
+  .back { color: var(--muted); text-decoration: none; font-size: 13px; padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px; }
+  .back:hover { color: var(--amber-hi); border-color: var(--amber); }
   :root {
-    --bg: #1c1917; --panel: #292524; --deep: #171412;
-    --line: #44403c; --line2: #57534e;
-    --text: #e7e5e4; --muted: #a8a29e; --faint: #78716c;
-    --amber: #d4a24a; --amber-hi: #fbbf24;
+    --bg: #11131f; --panel: #161929; --deep: #0e1019;
+    --line: #2b3050; --line2: #3a4066;
+    --text: #e5e2d8; --muted: #9396ad; --faint: #6c6f88;
+    --amber: #7fd1c7; --amber-hi: #a8e6de;
   }
   * { box-sizing: border-box; }
   html, body { height: 100%; }
   body {
     margin: 0; background: var(--bg); color: var(--text);
-    font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif;
+    font: 14px/1.45 "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
     display: flex; flex-direction: column; overflow: hidden;
   }
   header {
     display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
     padding: 10px 16px; background: var(--panel); border-bottom: 1px solid var(--line);
   }
-  .brand h1 { margin: 0; font: 600 17px/1.2 Georgia, "Times New Roman", serif; color: #fde68a; letter-spacing: .02em; }
+  .brand h1 { margin: 0; font: 600 20px/1.2 "Fraunces", Georgia, serif; color: #d5dceb; letter-spacing: .02em; }
   .brand p { margin: 1px 0 0; font-size: 10px; color: var(--faint); }
   .tabs { display: flex; border: 1px solid var(--line2); border-radius: 8px; overflow: hidden; }
   .tab {
@@ -49,7 +53,7 @@
     background:
       repeating-linear-gradient(0deg, rgba(87,83,78,.25) 0 1px, transparent 1px 48px),
       repeating-linear-gradient(90deg, rgba(87,83,78,.25) 0 1px, transparent 1px 48px),
-      radial-gradient(ellipse at 35% 30%, #34302a 0%, #211e1b 70%);
+      radial-gradient(ellipse at 35% 30%, #232843 0%, #141726 70%);
   }
   #ph span {
     position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
@@ -79,7 +83,7 @@
     100% { box-shadow: 0 0 0 0 rgba(251,191,36,0); }
   }
   .marker .dot.status { animation: statusPulse 1.8s infinite; }
-  .statusChip { display: inline-block; padding: 0 6px; border-radius: 8px; background: #fbbf24; color: #1c1917; font-size: 10px; font-weight: 700; margin-left: 6px; vertical-align: middle; }
+  .statusChip { display: inline-block; padding: 0 6px; border-radius: 8px; background: #7fd1c7; color: #11131f; font-size: 10px; font-weight: 700; margin-left: 6px; vertical-align: middle; }
   #card {
     position: absolute; z-index: 40; width: 240px; display: none;
     background: rgba(28,25,23,.97); border: 1px solid var(--line2); border-radius: 10px;
@@ -95,10 +99,10 @@
     display: block; text-align: center; padding: 7px 8px; border-radius: 7px;
     background: var(--amber-hi); color: #1c1917; font-weight: 600; text-decoration: none; font-size: 12px;
   }
-  #card a.go:hover { background: #fcd34d; }
+  #card a.go:hover { background: #d5dceb; }
   #banner {
     position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 50; display: none;
-    background: #b45309; color: #fff7ed; padding: 7px 12px; border-radius: 8px;
+    background: #2b3050; color: #e5e2d8; padding: 7px 12px; border-radius: 8px;
     font-size: 12px; box-shadow: 0 4px 14px rgba(0,0,0,.4); max-width: 90%;
   }
   #banner button { margin-left: 8px; background: none; border: 0; color: inherit; cursor: pointer; font-size: 14px; }
@@ -109,7 +113,7 @@
   }
   #hint {
     position: absolute; bottom: 8px; left: 10px; z-index: 20; pointer-events: none;
-    font-size: 11px; color: var(--faint); background: rgba(28,25,23,.82); padding: 4px 9px; border-radius: 6px;
+    font-size: 11px; color: var(--faint); background: rgba(17,19,31,.82); padding: 4px 9px; border-radius: 6px;
   }
   #modeBanner {
     position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 30; display: none;
@@ -133,7 +137,7 @@
   }
   .wpbody { flex: 1; min-width: 0; }
   .wpname { color: var(--text); }
-  a.wplink { color: #fcd34d; text-decoration: none; }
+  a.wplink { color: #a8e6de; text-decoration: none; }
   a.wplink:hover { text-decoration: underline; }
   .wpcap { color: var(--faint); font-size: 11px; }
   .wpleg { flex: none; font-size: 11px; color: var(--muted); white-space: nowrap; }
@@ -147,7 +151,7 @@
   .selrow { display: flex; gap: 6px; margin-bottom: 8px; }
   .result { background: var(--deep); border: 1px solid var(--line); border-radius: 8px; padding: 10px; font-size: 11.5px; }
   .result p { margin: 2px 0; }
-  .result .head { color: #fde68a; font-weight: 600; margin-bottom: 4px; }
+  .result .head { color: #d5dceb; font-weight: 600; margin-bottom: 4px; }
   .lbl-k { color: var(--faint); }
   .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-top: 9px; }
   .grid2 label { font-size: 10px; color: var(--faint); display: block; }
@@ -172,7 +176,7 @@
 </head>
 <body>
   <header>
-    <div class="brand"><h1 id="brandTitle">Reiseatlas</h1><p id="brandSub"></p></div>
+    <a class="back" href="../index.html" title="Zurück zum Wiki">&larr; Wiki</a><div class="brand"><h1 id="brandTitle">Reiseatlas</h1><p id="brandSub"></p></div>
     <nav class="tabs" id="tabs"></nav>
     <div class="actions">
       <button class="btn" id="btnMeasure">Distanz messen</button>
@@ -237,7 +241,7 @@ var CONFIG = {
     "Dorf": "#b08d57", "Stadt": "#d4a24a", "Gebirge": "#8a8578",
     "Wald": "#5f9e4c", "Naturmarke": "#7fae5c", "Verkehrsweg": "#4a7fb0",
     "Gehöft": "#c2a36b", "Geheimnis": "#a83fae", "Kultstätte": "#b0453a",
-    "Untergrund": "#6e5a3e", "Ziel": "#fbbf24", "Sonstiges": "#9aa3ad"
+    "Untergrund": "#6e5a3e", "Ziel": "#7fd1c7", "Sonstiges": "#9aa3ad"
   },
   typeFallback: "#9aa3ad",
 
@@ -273,7 +277,7 @@ var FALLBACK_DATA = {
   ],
   routes: [
     {
-      id: "r1", label: "Der Weg der Gruppe", color: "#fbbf24", statusIndex: 7,
+      id: "r1", label: "Der Weg der Gruppe", color: "#7fd1c7", statusIndex: 7,
       waypoints: [
         { markerId: "w1", caption: "Aufbruch im Frühjahr" },
         { markerId: "w2", caption: "Papiere und Bestechung" },
@@ -384,7 +388,7 @@ function normalize(raw) {
       return {
         id: r.id || "r" + i,
         label: typeof r.label === "string" && r.label ? r.label : "Reiseweg",
-        color: typeof r.color === "string" && r.color ? r.color : "#fbbf24",
+        color: typeof r.color === "string" && r.color ? r.color : "#7fd1c7",
         waypoints: (Array.isArray(r.waypoints) ? r.waypoints : [])
           .filter(function (w) { return w && w.markerId && ids[w.markerId]; })
           .map(function (w) { return { markerId: w.markerId, caption: typeof w.caption === "string" ? w.caption : "", portal: !!w.portal }; }),
@@ -640,7 +644,7 @@ function renderOverlay() {
   }
   if (measurePts.length === 2) {
     inner += '<line x1="' + measurePts[0].x + '" y1="' + measurePts[0].y + '" x2="' + measurePts[1].x + '" y2="' + measurePts[1].y +
-      '" stroke="#fbbf24" stroke-width="2" vector-effect="non-scaling-stroke" />';
+      '" stroke="#7fd1c7" stroke-width="2" vector-effect="non-scaling-stroke" />';
   }
   svg.innerHTML = inner;
   var ml = qs("#mdots");
