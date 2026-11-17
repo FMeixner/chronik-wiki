@@ -5,9 +5,10 @@ title: _Fortschritt
 # Destillations-Fortschritt
 
 ## Stand
-- Verarbeitet: Sessions 01–123, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis zum Chronik-Ende im Baumriesenwald (26.09.998 LZ, Stand des Docs 21.10.2026). EP-Stand: 385. Die Chronik ist VOLLSTÄNDIG destilliert (Zeilen 1–5182 des Rohtexts).
-- Nächster Abschnitt: keiner — die Chronik endet mitten im Baumriesenwald („Die Stämme werden blasser.“, 26.09.998 LZ). Neue Chronik-Einträge (real ab 20.10.2026) wären ab Session 124 fortzuführen.
-- Rohtext-Stand: Google Doc „Die Chronik“, Stand 21.10.2026.
+- Verarbeitet: Sessions 01–125, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis „In der Dunkelheit“ (Eintrag 10.11.2026; die Gruppe steht am Fuß eines schwarzen Gebirges). EP-Stand: 388.
+- Nachtrag 17.11.2026: Sessions 124 („Moisturize me !“, Eintrag 27.10.2026) und 125 („In der Dunkelheit (Eklige forest vagina)“, Eintrag 10.11.2026). Beide ohne in-world-Datum. Neue Seiten: [[Das dreiäugige Wesen]], [[Der schwarze Samenstein]] (beides Hilfsnamen). EP: +3 in Session 124 (388), keine Vergabe in Session 125.
+- Nächster Abschnitt: neue Chronik-Einträge ab Session 126.
+- Rohtext-Stand: Google Doc „Die Chronik“, zuletzt geändert 10.11.2026.
 
 ## Konventionen
 - Session-Nummern folgen den realen Session-Blöcken der Chronik; die Prologe „Falkenfelde“ bis „Der Fenstersturz“ zählen als Sessions 01–04.

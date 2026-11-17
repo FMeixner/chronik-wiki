@@ -538,14 +538,25 @@
    "notes": "Dunkler Riesenwald am Fuss des schwarzen Hochgebirges (Kandidat: die offiziellen Blauen Klippen); Chronik-Ende: Die Gruppe reist seit dem 24.09.998 LZ durch ihn (Stand 26.09.998 LZ, Sessions 121-123). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
    "lotse": "#/Orte/Baumriesenwald",
    "lage": "ungefaehr"
+  },
+  {
+   "id": "schwarzes-gebirge",
+   "mapId": "story",
+   "x": 8.12,
+   "y": 81.85,
+   "name": "Fuß des schwarzen Gebirges",
+   "type": "Gebirge",
+   "lage": "ungefaehr",
+   "notes": "Ausgang aus der schwarzen Masse im Baumriesenwald (Session 125). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen (Kandidat: Blaue Klippen).",
+   "lotse": "#/Orte/Baumriesenwald"
   }
  ],
  "routes": [
   {
    "id": "r1",
-   "label": "Der Weg der Gruppe (Sessions 01–123)",
+   "label": "Der Weg der Gruppe (Sessions 01–125)",
    "color": "#7fd1c7",
-   "statusIndex": 61,
+   "statusIndex": 63,
    "waypoints": [
     {
      "markerId": "unterwalde",
@@ -801,6 +812,14 @@
     {
      "markerId": "baumriesenwald",
      "caption": "S 121–123 · Baumriesenwald — Chronik-Ende (ab 21.09.998 LZ)"
+    },
+    {
+     "markerId": "baumriesenwald",
+     "caption": "S 124 · Moisturize me !"
+    },
+    {
+     "markerId": "schwarzes-gebirge",
+     "caption": "S 125 · In der Dunkelheit"
     }
    ]
   }

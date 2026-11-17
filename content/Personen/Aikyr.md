@@ -2,7 +2,7 @@
 type: person
 title: Aikyr
 aliases: [Aikir, Aykir]
-status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — im Baumriesenwald (Stand 26.09.998 LZ)
+status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)
 kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.
 ---
 # Aikyr
@@ -32,12 +32,13 @@ kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glück
 - Früher: „einen Wal fangen“ (Session 50). Seit der Begegnung auf der Ewigen See bringt er es nicht mehr übers Herz (Session 87).
 
 ### Offene Fäden
+- „Das kann ich nicht selber entscheiden.“ Die Worte kamen in der schwarzen Masse aus seiner Kehle, als er die fleischige Spalte berührte (Session 125). Wer sprach da?
 - In seinen Träumen pfeift Rheva das Lied des Zwergenpriesters aus dem Kerker. Was verbindet sie mit ihm?
 - Im Alptraum der Ritual-Nacht erscheint „Myrro. Dein Bruder.“ Die Chronik sagt nicht, wer das ist.
 - Der Preis des Glückshandschuhs steht noch aus: zwei Menschentage außergewöhnliches Pech in den nächsten Jahren.
 - Die schwarzhaarige Frau in der [[Feste Altstein]] roch wie der [[Der angekettete Varg|angekettete Varg]] unter [[Wasserfels]].
 - Die Legende seiner Vorfahren: Die Welt endet erst, wenn alle drei Monde gefallen sind, und die kommende Mondkonstellation erinnert daran (Sessions 74, 102).
-- Ist das Riesenwesen im [[Baumriesenwald]] selbst von der Dunkelheit korrumpiert und auf dem Weg zu ihr in den Berg?
+- Ist das Riesenwesen im [[Baumriesenwald]] selbst von der Dunkelheit korrumpiert und auf dem Weg zu ihr in den Berg? Seit Session 125 gibt es einen Kandidaten: [[Das dreiäugige Wesen]].
 
 ## Sessions 01–46: Unterwalde, Kerker und Palitan
 
@@ -60,3 +61,7 @@ Auf der Ewigen See verzichtet er beim Anblick der [[Wale]] darauf, je einen zu j
 ## Sessions 107–123: Blutgrasweite und Baumriesenwald
 
 Er führt die Gruppe den Geröllhang hinab und liefert sich mit Sira einen Funkentanz-Wettkampf, der in Paians Auge endet. Unter den blauen Kometen trägt er die nicht erwachende Sira ins Licht. Er kostet vom [[Beseelter Stinkmohn|Beseelten Stinkmohn]] und bricht bewusstlos zusammen. Auf der Gnu-Jagd blüht er als Raubtier auf, doch die [[Gnureißer]] zerfleischen [[Sommertochter]]; Aikyr spürt das Band reißen und lässt seine Wut an den Bestien aus. Paian nimmt ihm etwas vom Zorn, die Trauer bleibt. Im [[Baumriesenwald]] nimmt er einen [[Klonk-Klonk-Vogel]] auf den Arm, erkennt im schwarzen Zeug den verrückten Mann mit den Lämmern wieder und starrt fasziniert auf die riesigen Fußspuren eines unbekannten Wesens.
+
+## Sessions 124–125: Durch die schwarze Masse
+
+Aikyr zieht im Baumriesenwald einen der bleichen Hautlappen vom Ast und sieht einen weißen Trieb daraus wachsen. Er trägt Sira durch die schwarze Masse. Drinnen übernimmt er die Führung, erlöst ein mit dem Wald verwachsenes, rehartiges Wesen mit seinem Dharst und folgt seiner Nase zu einer fleischigen Spalte. Als er sie berührt, kommt aus seiner Kehle: „Das kann ich nicht selber entscheiden.“ Vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]] führt er das Gespräch, stellt die Gruppe vor, nennt „Pr’le Gut’r“ und sagt, sie wollten an den Anfang. Am Ende steht er mit den anderen am Fuß eines schwarzen Gebirges.

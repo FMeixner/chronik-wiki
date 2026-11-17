@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–123 · in-world fortlaufend ab 26.09.998 LZ",
+  "coverage": "Sessions 01–125 · Stand der Chronik 10.11.2026",
   "pages": [
     {
       "path": "index",
@@ -50,7 +50,7 @@
       "path": "Personen/Aikyr",
       "type": "person",
       "title": "Aikyr",
-      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — im Baumriesenwald (Stand 26.09.998 LZ)",
+      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
       "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.",
       "aliases": [
         "Aikir",
@@ -116,7 +116,7 @@
       "status": "unbekannt",
       "kurz": "Kommandoführender Zwerg im Kerker; pfeift stets dieselbe Melodie.",
       "aliases": [
-        "Pfiffende Zwerg",
+        "Pfiffender Zwerg",
         "Kerkermeister"
       ],
       "held": false,
@@ -192,7 +192,7 @@
       "path": "Personen/Halfred",
       "type": "person",
       "title": "Halfred",
-      "status": "lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)",
+      "status": "lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
       "kurz": "Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.",
       "aliases": [],
       "held": true,
@@ -319,7 +319,7 @@
       "path": "Personen/Paian",
       "type": "person",
       "title": "Paian",
-      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)",
+      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
       "kurz": "Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.",
       "aliases": [],
       "held": true,
@@ -369,7 +369,7 @@
       "path": "Personen/Sira",
       "type": "person",
       "title": "Sira",
-      "status": "lebendig; entlassen aus der Feste Altstein (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)",
+      "status": "lebendig; entlassen aus der Feste Altstein (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
       "kurz": "Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.",
       "aliases": [],
       "held": true,
@@ -545,7 +545,7 @@
       "path": "Orte/Heratis",
       "type": "ort",
       "title": "Heratis",
-      "status": "bestehend; Aufenthalt der Gruppe seit 8.10.997 LZ",
+      "status": "bestehend; Aufenthalt der Gruppe 8.–14.10.997 LZ, Abreise per Schiff nach Süden",
       "kurz": "Freie Reichsstadt (60 000) im äußersten Südwesten — Ankunft am 8.10.997 LZ: Mordserie, Magistratswahl, Feenmarkt.",
       "aliases": [],
       "held": false,
@@ -568,7 +568,7 @@
       "type": "ort",
       "title": "Midstadt",
       "status": "bestehend",
-      "kurz": "Kriegsziel: Der Gunwarpriester-Zug scheiterte an Midstadt; ein großer Krieg steht bevor (Gerüchte Sessions 57–60).",
+      "kurz": "Ziel der Kriegsregimenter von Gunwarkirche und Militär.",
       "aliases": [],
       "held": false,
       "w": 47
@@ -737,7 +737,7 @@
       "type": "person",
       "title": "Aladia",
       "status": "lebendig",
-      "kurz": "Kreatur aus Blättern im Feenwald; Frage gegen Dienst — Aikyr lehnte ab.",
+      "kurz": "Kreatur aus Blättern im Feenwald; bot Aikyr eine Frage gegen einen Dienst — er lehnte ab.",
       "aliases": [],
       "held": false,
       "w": 24
@@ -747,7 +747,7 @@
       "type": "person",
       "title": "Balina",
       "status": "lebendig",
-      "kurz": "Schmiedin in Südfang (Balinas Reiterladen); kannte Siras Sippe.",
+      "kurz": "Schmiedin in Südfang (Balinas Reiterladen); kannte Siras Sippe — emotionaler Abschied.",
       "aliases": [],
       "held": false,
       "w": 33
@@ -757,7 +757,7 @@
       "type": "person",
       "title": "Der Säulenheilige",
       "status": "lebendig",
-      "kurz": "Weiser auf einer Säule in Sarnburg; sein Aufgang riecht modrig wie der Kerker — seine Worte fanden sich dem Kind im Schlund eingeritzt.",
+      "kurz": "Weiser auf einer Säule in Sarnburg; sein Aufgang riecht modrig wie der Kerker.",
       "aliases": [
         "Säulenheiliger",
         "Der Weise von Sarnburg"
@@ -770,7 +770,7 @@
       "type": "person",
       "title": "Galkor Alquan",
       "status": "lebendig",
-      "kurz": "Alb, führt die Grauen — „Der Herr Gunwar ruft euch zu sich“.",
+      "kurz": "Alb, führt die Grauen „fast zärtlich“; rief: „Der Herr Gunwar ruft euch zu sich!“",
       "aliases": [],
       "held": false,
       "w": 47
@@ -790,7 +790,7 @@
       "type": "person",
       "title": "Gunubran",
       "status": "lebendig",
-      "kurz": "Berühmter Yonnuspriester; vermittelte den Zugang zu Jadan.",
+      "kurz": "Berühmter Yonnuspriester bei Sarnburg; kennt Jadan — „3 Häuser weiter“.",
       "aliases": [],
       "held": false,
       "w": 20
@@ -800,7 +800,7 @@
       "type": "person",
       "title": "König des Waldes",
       "status": "lebendig",
-      "kurz": "Herr des Feenwaldes; sein Kristall-Angebot lehnte Paian ab.",
+      "kurz": "Herrscher des Feenwaldes, Lisanas Bruder; sein Kristall-Angebot lehnte Paian ab.",
       "aliases": [
         "Herr des Waldes"
       ],
@@ -812,7 +812,7 @@
       "type": "person",
       "title": "Lisana",
       "status": "lebendig",
-      "kurz": "Fee, Hüterin des Feenwaldes; gab Halfred das Eichenblatt.",
+      "kurz": "Fee, Hüterin des Feenwaldes; gab Halfred das Eichenblatt — gegen ein Stück Schicksal.",
       "aliases": [],
       "held": false,
       "w": 47
@@ -822,7 +822,7 @@
       "type": "person",
       "title": "Myro von der Felsenbucht",
       "status": "lebendig",
-      "kurz": "Gunwarpriester in Sarnburg; warnt vor Nachfrage nach Isenblut.",
+      "kurz": "Stoischer Gunwarpriester in Sarnburg; warnt: keine Nachfrage nach Isenblut.",
       "aliases": [],
       "held": false,
       "w": 40
@@ -832,7 +832,7 @@
       "type": "person",
       "title": "Perilax Köchelbart",
       "status": "tot (Session 21)",
-      "kurz": "Zwerg; diente Gatta, beschattete die Gruppe — durch Bolzen getötet.",
+      "kurz": "Zwerg in Sarnburg; beschattete die Gruppe im Auftrag Unbekannter, diente Gatta — durch einen Bolzen getötet.",
       "aliases": [],
       "held": false,
       "w": 20
@@ -862,7 +862,7 @@
       "type": "person",
       "title": "Schlitzohr",
       "status": "unbekannt (entkommen)",
-      "kurz": "Diebsjunge aus Sarnburg; Ohr an einen Pfahl genagelt, riss sich frei.",
+      "kurz": "Diebsjunge in Sarnburg; Ohr an einen Pfahl genagelt, riss sich frei.",
       "aliases": [],
       "held": false,
       "w": 37
@@ -882,7 +882,7 @@
       "type": "ort",
       "title": "Catley",
       "status": "bestehend",
-      "kurz": "1.500 km von Sarnburg — Ziel des Weißen Tors.",
+      "kurz": "1.500 km von Sarnburg — erreichbar über das Weiße Tor der Portalgilde.",
       "aliases": [],
       "held": false,
       "w": 22
@@ -892,7 +892,7 @@
       "type": "ort",
       "title": "Feenwald",
       "status": "bestehend",
-      "kurz": "Bunter Wald jenseits des Mondpfads; Lisana, König des Waldes, Aladia.",
+      "kurz": "Bunter Wald jenseits des Mondpfads; Heimat von Lisana, dem König des Waldes und Aladia.",
       "aliases": [],
       "held": false,
       "w": 40
@@ -902,7 +902,7 @@
       "type": "ort",
       "title": "Feuertal",
       "status": "bestehend",
-      "kurz": "Reisestation zwischen Südfang und Sarnburg.",
+      "kurz": "Reisestation auf der 22-tägigen Etappe zwischen Südfang und Jadan.",
       "aliases": [],
       "held": false,
       "w": 20
@@ -912,7 +912,7 @@
       "type": "ort",
       "title": "Flammensenke",
       "status": "bestehend",
-      "kurz": "„Schmelztiegel der Welt“ — zweiter Splitter-Standort; Heimat der Feuerläufer.",
+      "kurz": "„Schmelztiegel der Welt\" — zweiter Splitter-Standort; Heimat der Feuerläufer.",
       "aliases": [],
       "held": false,
       "w": 44
@@ -922,7 +922,7 @@
       "type": "ort",
       "title": "Glimmwacht",
       "status": "bestehend",
-      "kurz": "Reisestation zwischen Südfang und Sarnburg.",
+      "kurz": "Reisestation auf der 22-tägigen Etappe zwischen Südfang und Jadan.",
       "aliases": [],
       "held": false,
       "w": 20
@@ -952,7 +952,7 @@
       "type": "ort",
       "title": "Wegkreuz",
       "status": "bestehend",
-      "kurz": "Reisestation zwischen Südfang und Sarnburg.",
+      "kurz": "Reisestation auf der 22-tägigen Etappe zwischen Südfang und Jadan.",
       "aliases": [],
       "held": false,
       "w": 20
@@ -962,7 +962,7 @@
       "type": "ort",
       "title": "Zirken",
       "status": "bestehend",
-      "kurz": "Vulkangebirge mit Erzminen; an seinem Fuß Südfang.",
+      "kurz": "Vulkangebirge mit vielen Erzminen; an seinem Fuß liegt Südfang.",
       "aliases": [],
       "held": false,
       "w": 20
@@ -972,7 +972,7 @@
       "type": "artefakt",
       "title": "Eichenblatt",
       "status": "in Halfreds Besitz",
-      "kurz": "Lisanas Gabe: Kontakt zu jedem Wald — Preis: ein Stück Schicksal.",
+      "kurz": "Lisanas Gabe: Kontakt zu jedem Wald — jeder Gebrauch kostet ein Stück von Halfreds Schicksal.",
       "aliases": [],
       "held": false,
       "w": 49
@@ -982,7 +982,7 @@
       "type": "artefakt",
       "title": "Feenwasser",
       "status": "in Doreans Flasche",
-      "kurz": "Flüssigkeit aus Feenwald-Blüten; Dorean schmeckt seither nichts.",
+      "kurz": "Flüssigkeit aus Feenwald-Blüten; Dorean kollabierte danach — und schmeckt seither nichts mehr.",
       "aliases": [],
       "held": false,
       "w": 21
@@ -992,7 +992,7 @@
       "type": "artefakt",
       "title": "Geborstener Kristall",
       "status": "zersplittert (5 Teile)",
-      "kurz": "Kristall in 5 Splittern; Zusammensetzung setzt den Kreislauf wieder in Gang.",
+      "kurz": "In 5 Splitter zersprungener Kristall; zusammengesetzt setzt er den unterbrochenen Kreislauf von Werden und Sterben wieder in Gang.",
       "aliases": [
         "Splitter",
         "Die Splitter"
@@ -1004,7 +1004,7 @@
       "path": "Artefakte/Schwarzes Schwert",
       "type": "artefakt",
       "title": "Schwarzes Schwert",
-      "status": "verwahrt bei Taldor Eisenhand (in der Box, Session 72)",
+      "status": "verschollen im Weltriss — mit Dorean vergangen (14.10.997 LZ)",
       "kurz": "Aus Albträumen geschmiedetes Paktschwert aus Totenerz; laut Taldor „kein feeisches artefakt“ — es kommt aus einer dunkleren Domäne. Zieht weiter an Dorean.",
       "aliases": [
         "Schwert aus Albträumen"
@@ -1017,7 +1017,7 @@
       "type": "fraktion",
       "title": "Fiura",
       "status": "aktiv (Kult in Südfang)",
-      "kurz": "Lokale Gottheit des Feuers, des Schlafes und des Todes.",
+      "kurz": "Lokale Gottheit Südfangs — des Feuers, des Schlafes und des Todes.",
       "aliases": [],
       "held": false,
       "w": 20
@@ -1027,7 +1027,7 @@
       "type": "fraktion",
       "title": "Gagamba",
       "status": "aktiv; ihre Diener verfolgen die Gruppe (10 Tage Rückstand, Session 102)",
-      "kurz": "Göttin der Spinne in Palitan, oberste Göttin der Triaden — ihr Herz wurde der Gruppe gestohlen.",
+      "kurz": "Göttin der Provinz der Spinne in Palitan, oberste Göttin der Triaden — ihr Herz wurde der Gruppe gestohlen.",
       "aliases": [
         "Göttin der Spinne"
       ],
@@ -1070,8 +1070,8 @@
       "path": "Kreaturen/Finsterbann",
       "type": "kreatur",
       "title": "Finsterbann",
-      "status": "tot (Legende)",
-      "kurz": "Uralter Drache; sein letzter Atemzug schenkte ihm die Fähigkeit zu sterben.",
+      "status": "tot (Legende; vor vielen tausend Jahren erschlagen)",
+      "kurz": "Uralter Drache, in dem die Dunkelheit wohnt; sein letzter Atemzug schenkte ihm die Fähigkeit zu sterben.",
       "aliases": [],
       "held": false,
       "w": 33
@@ -1081,7 +1081,7 @@
       "type": "kreatur",
       "title": "Nadiavin",
       "status": "bestehend (Wächter am blauen Berg)",
-      "kurz": "Kristalliner Wächter des Mondpfads — wacht, bis ER erwacht.",
+      "kurz": "Kristalline Wächtergestalt des Mondpfads — „wacht über diesen Ort, bis ER erwacht“.",
       "aliases": [],
       "held": false,
       "w": 34
@@ -1091,7 +1091,7 @@
       "type": "person",
       "title": "Irimbald Schätzineg",
       "status": "lebendig",
-      "kurz": "Magister des 1. Hauses des Zirkels der Zinnen; sucht in Palitan das Herz der Gagamba.",
+      "kurz": "Magister des 1. Hauses des Zirkels der Zinnen; sucht in Palitan einen seit Monaten aktiven Gegenstand von schaffender und zerstörender Natur.",
       "aliases": [
         "Schätzineg"
       ],
@@ -1103,7 +1103,7 @@
       "type": "person",
       "title": "Xing Tai",
       "status": "lebendig",
-      "kurz": "Tempelvorsteher des Gagamba-Tempels; erzählte Dorean von der Geschichte des Herzens.",
+      "kurz": "Tempelvorsteher des Gagamba-Tempels in Palitan; erzählte Dorean von der Geschichte des Herzens.",
       "aliases": [],
       "held": false,
       "w": 22
@@ -1113,7 +1113,7 @@
       "type": "person",
       "title": "Mao Tai",
       "status": "unbekannt (seit dem Kopfwesen-Zwischenfall nicht mehr gesehen)",
-      "kurz": "Alb aus dem Einwohnermeldeamt; in seinem Weinkeller hauste das Kopfwesen.",
+      "kurz": "Alb aus dem Einwohnermeldeamt von Palitan; in seinem Weinkeller hauste das Kopfwesen.",
       "aliases": [],
       "held": false,
       "w": 36
@@ -1123,7 +1123,7 @@
       "type": "person",
       "title": "Pao Xun",
       "status": "lebendig",
-      "kurz": "Fährmann zur Überfahrt ins Maskenzugviertel von Palitan.",
+      "kurz": "Fährmann zur Überfahrt ins Maskenzugviertel von Palitan (50 Telare, Waffenabgabe).",
       "aliases": [],
       "held": false,
       "w": 22
@@ -1133,7 +1133,7 @@
       "type": "person",
       "title": "Wilbolt Luchador",
       "status": "lebendig",
-      "kurz": "Wirt des „Schwarzen Keilers“ im Hirschviertel von Palitan; Holzbein.",
+      "kurz": "Wirt des „Schwarzen Keilers\" im Hirschviertel von Palitan; Holzbein.",
       "aliases": [],
       "held": false,
       "w": 22
@@ -1153,7 +1153,7 @@
       "type": "person",
       "title": "Futu und Gerablong",
       "status": "lebendig",
-      "kurz": "Zwei Zwerge, die in Palitan arbeiten; erzählten von den Feuerläufern.",
+      "kurz": "Zwei Zwerge, die in Palitan arbeiten; erzählten der Gruppe von den Feuerläufern.",
       "aliases": [
         "Futu",
         "Gerablong"
@@ -1166,7 +1166,7 @@
       "type": "person",
       "title": "Meimai",
       "status": "lebendig",
-      "kurz": "Wortführerin des Händlerrats von Palitan; gegen die Abmachungen mit den Triaden.",
+      "kurz": "Wortführerin des Händlerrats von Palitan; stellt sich wohl gegen die Abmachungen mit den Triaden.",
       "aliases": [],
       "held": false,
       "w": 22
@@ -1176,7 +1176,7 @@
       "type": "person",
       "title": "Prinzessin Yi",
       "status": "in Sicherheit gebracht (Zentatau)",
-      "kurz": "Tochter der Kaiserin — wurde in Zentatau im fernen Aiun in Sicherheit gebracht.",
+      "kurz": "Tochter der Kaiserin — wurde laut Volk in Zentatau im fernen Aiun in Sicherheit gebracht.",
       "aliases": [],
       "held": false,
       "w": 22
@@ -1185,8 +1185,8 @@
       "path": "Personen/Der Mandarin",
       "type": "person",
       "title": "Der Mandarin",
-      "status": "Geist (Beamter-Geist im Archiv aktiv)",
-      "kurz": "Strenger Beamten-Geist; half der Gruppe beim Archiv-Einbruch und bei der Suche nach der dritten Jadefigur.",
+      "status": "Geist (verstorben; als Beamter-Geist aktiv)",
+      "kurz": "Strenger Beamten-Geist im Archiv von Palitan; half der Gruppe zweimal — beim Einbruch und bei der Suche nach der dritten Jadefigur.",
       "aliases": [
         "Mandarin",
         "Mandarin-Geist"
@@ -1229,7 +1229,7 @@
       "type": "person",
       "title": "Taloran Ladrao",
       "status": "lebendig",
-      "kurz": "Pfadwächter („Auge des Pfades“); macht Sira schöne Augen.",
+      "kurz": "Pfadwächter („Auge des Pfades\") der Gilde der Pfadwächter; macht Sira schöne Augen.",
       "aliases": [
         "Ladrao"
       ],
@@ -1263,7 +1263,7 @@
       "type": "person",
       "title": "Falk Bald",
       "status": "lebendig",
-      "kurz": "Grimmiger älterer Wachmann der Karawane; warnt vor „Tenkuri“.",
+      "kurz": "Grimmiger älterer Wachmann der Karawane; warnt vor „Tenkuri\".",
       "aliases": [
         "Falkbald"
       ],
@@ -1342,8 +1342,8 @@
       "path": "Artefakte/Herz der Gagamba",
       "type": "artefakt",
       "title": "Herz der Gagamba",
-      "status": "zurück bei der Gruppe (Jardan-Rückgabe, Session 47)",
-      "kurz": "Schwarzer Kristall aus dem Gagamba-Tempel: schaffende und zerstörende arkane Strukturen — vom Zirkel gesucht, von Paian gestohlen.",
+      "status": "in Paians Besitz (gestohlen)",
+      "kurz": "Schwarzer Kristall aus dem Gagaba-Tempel: schaffende und zerstörende arkane Strukturen — vom Zirkel gesucht, von Paian gestohlen.",
       "aliases": [
         "Kristall",
         "das Herz"
@@ -1370,7 +1370,7 @@
       "type": "artefakt",
       "title": "Totenerz",
       "status": "Material (Vorkommen: Esmoda)",
-      "kurz": "Sehr schwer zu bearbeitendes Material, aus dem normalerweise nur Rüstungen entstehen — Doreans Schwert besteht daraus.",
+      "kurz": "Sehr schwer zu bearbeitendes Material, aus dem normalerweise nur Rüstungen hergestellt werden — Doreans Schwert besteht daraus.",
       "aliases": [],
       "held": false,
       "w": 35
@@ -1392,7 +1392,7 @@
       "type": "fraktion",
       "title": "Gilde der Pfadwächter",
       "status": "aktiv",
-      "kurz": "Gilde auf dem Feenpfad; wacht über den Pfad — ihr „Auge des Pfades“ reitet mit der Karawane.",
+      "kurz": "Gilde auf dem Feenpfad; wacht über den Pfad — ihr „Auge des Pfades\" reitet mit der Karawane.",
       "aliases": [
         "Pfadwächter"
       ],
@@ -1426,7 +1426,7 @@
       "type": "kreatur",
       "title": "Spinnenwesen",
       "status": "bestehend (Katakomben unter Palitan)",
-      "kurz": "Spinnenartige Kreaturen mit menschenartigen Gesichtern — Wandlöcher, Giftstacheln, Brutkammer.",
+      "kurz": "Spinnenartige Kreaturen mit menschenartigen Gesichtern — Wandschützen mit Giftstacheln und eine Brutkammer unter Palitan.",
       "aliases": [
         "spinnenartige Kreaturen"
       ],
@@ -1438,7 +1438,7 @@
       "type": "kreatur",
       "title": "Kopfwesen",
       "status": "tot (Session 27)",
-      "kurz": "Schwebender Kopf mit herabhängenden Eingeweiden — hauste in Mao Tais Weinkeller; von Dorean getötet.",
+      "kurz": "Schwebender Kopf mit herabhängenden Eingeweiden — hauste in Mao Tais Weinkeller; bissgiftig, von Dorean getötet.",
       "aliases": [
         "schwebender Kopf"
       ],
@@ -1450,7 +1450,7 @@
       "type": "person",
       "title": "Tenkuri",
       "status": "unbekannt (Feenwelt)",
-      "kurz": "Grünhäutiger Feenfürst, „Herr des Pfades“ — Falk Balds alte Warnung „Tenkuri, ?“ erstmals erklärt.",
+      "kurz": "Grünhäutiger Feenfürst, „Herr des Pfades\" — Falk Balds alte Warnung „Tenkuri, ?\" erstmals erklärt.",
       "aliases": [],
       "held": false,
       "w": 53
@@ -1460,7 +1460,7 @@
       "type": "person",
       "title": "Die Alte über die Kreuzwege",
       "status": "unbekannt (nur in Doreans Vision)",
-      "kurz": "„Die, die über die Kreuzwege wacht“ — warnt Dorean in einer Vision: Finsternis begleitet uns.",
+      "kurz": "„Die, die über die Kreuzwege wacht\" — warnt Dorean in einer Vision: Finsternis begleitet uns.",
       "aliases": [],
       "held": false,
       "w": 27
@@ -1527,7 +1527,7 @@
       "type": "kreatur",
       "title": "Nebelhetzer",
       "status": "bestehend (Feenwelt)",
-      "kurz": "Nebelhafte Wolfskreaturen der Feenwelt — Paian nennt sie ‚Zwielichthetzer‘; wie Tiere aussehend, aber deutlich intelligenter; Hinterhaltsjäger.",
+      "kurz": "Nebelhafte Wolfskreaturen der Feenwelt — Paian nennt sie „Zwielichthetzer“: wie Tiere aussehend, aber deutlich intelligenter; Hinterhaltsjäger.",
       "aliases": [
         "nebelhafte Wolfskreaturen",
         "Zwielichthetzer"
@@ -1598,7 +1598,7 @@
       "type": "person",
       "title": "Duir",
       "status": "unbekannt (Wesen aus Humus, Wald und Elementarem)",
-      "kurz": "Halfreds Mentor und Schutzgeist — Wesen aus Humus, Wald und Elementarem, vielleicht eine Fee; Halfred spricht über Bäume zu ihm.",
+      "kurz": "Halfreds Mentor und Schutzgeist — ein Wesen aus Humus, Wald und Elementarem, vielleicht eine Fee; Halfred spricht über Bäume zu ihm.",
       "aliases": [],
       "held": false,
       "w": 78
@@ -1639,9 +1639,7 @@
       "title": "Herr Janka",
       "status": "unbekannt (ausgestiegen am Schattenfeld)",
       "kurz": "Schwarz gekuttelter, muskulöser Mann an Bord; „hierher geschickt“ — von wem, sagt er nicht.",
-      "aliases": [
-        "Janka"
-      ],
+      "aliases": [],
       "held": false,
       "w": 50
     },
@@ -1713,7 +1711,7 @@
       "type": "ort",
       "title": "Drugonsfuhrt",
       "status": "bestehend",
-      "kurz": "Letzter mit dem Schiff befahrbarer Ort am Myrkan (~800 km flussaufwärts) — Taverne ‚Fernes Tor‘; Ausgangspunkt der Seenland-Durchquerung.",
+      "kurz": "Letzter mit dem Schiff befahrbarer Ort am Myrkan (~800 km flussaufwärts) — Taverne „Fernes Tor“; Ausgangspunkt der Seenland-Durchquerung.",
       "aliases": [],
       "held": false,
       "w": 32
@@ -1781,9 +1779,10 @@
       "type": "artefakt",
       "title": "Die Goldene Maske",
       "status": "bei der Gruppe (Paian analysiert sie)",
-      "kurz": "Ausdruckslose Goldmaske aus Luidpergas Geheimfach — die Schrift-Kratzer sind eine Lingua-Dracis-Abwandlung, verknüpft mit Sturmreich.",
+      "kurz": "Ausdruckslose Goldmaske aus Luidpergas Geheimfach — die Schrift-Kratzer an der Innenseite gleichen der Altar-Schrift.",
       "aliases": [
-        "goldene ausdruckslose Maske"
+        "goldene ausdruckslose Maske",
+        "Maske der Wesen zwischen den Wurzeln"
       ],
       "held": false,
       "w": 80
@@ -1818,7 +1817,8 @@
       "status": "unbekannt (im Schlund der Finsternis zurückgelassen)",
       "kurz": "Riesenhafter angeketteter Varg im Schlund der Finsternis — schwarze Ranken wachsen aus ihm; „etwas Menschliches“ steckt in ihm.",
       "aliases": [
-        "riesenhafter Varg"
+        "riesenhafter Varg",
+        "der Varg im Schlund"
       ],
       "held": false,
       "w": 55
@@ -1843,7 +1843,9 @@
       "status": "bestehend (regiert von Selenius III.)",
       "kurz": "Luidpergas Reichsgeschichte: 910–990 LZ — Regar/Selenius I., die vier Mondsteinkriege, die Rote Nacht, Selenius II. und III.",
       "aliases": [
-        "Selenia"
+        "Selenia",
+        "das Reich",
+        "Kaiserreich"
       ],
       "held": false,
       "w": 60
@@ -1855,7 +1857,8 @@
       "status": "bestehend; Durchquerung abgeschlossen (Sessions 62–72)",
       "kurz": "Moor- und Seengebiet südlich von Drugonsfuhrt — Durchquerung auf dem Weg nach Heratis; Nebelhetzer, Mückenschwarm, Räuberbande; im Süden kehrt Leben zurück.",
       "aliases": [
-        "Seenland"
+        "Seenland",
+        "seenland"
       ],
       "held": false,
       "w": 50
@@ -1878,9 +1881,11 @@
       "type": "ort",
       "title": "Jadans Hütte",
       "status": "bestehend",
-      "kurz": "Wohnhaus des Alchemisten Jadan bei Sarnburg — Splitter-Analyse und Prophezeiungs-Deutung (Sessions 42/43).",
+      "kurz": "Wohnhaus des Alchemisten Jadan „3 Häuser weiter“ beim Yonnuspriester nahe Sarnburg — Splitter-Analyse und Prophezeiungs-Deutung.",
       "aliases": [
-        "Jardans Hütte"
+        "Jardans Hütte",
+        "Jadans Hütte",
+        "jadan's hütte"
       ],
       "held": false,
       "w": 25
@@ -1890,7 +1895,7 @@
       "type": "ort",
       "title": "Sturmreich",
       "status": "historisch (zerschlagen)",
-      "kurz": "Historischer Landstrich unter den ‚flüsternden Brüdern‘ — in Beertals Bibliothek mit der Altar-Schrift verknüpft.",
+      "kurz": "Historischer Landstrich, der sich zu Zeiten Selenius des 2. lossagte — in Beertals Bibliothek mit der Altar-Schrift verknüpft.",
       "aliases": [
         "sturmreich"
       ],
@@ -1902,7 +1907,7 @@
       "type": "fraktion",
       "title": "Die geflügelten Boten",
       "status": "aktiv",
-      "kurz": "Boten-Netzwerk mit Feder-Zeichen — Balinas Kette mit schwarzer Feder; Arikarion vermittelt Sira und den Freunden Hilfe.",
+      "kurz": "Boten-Netzwerk mit eingeritztem Feder-Zeichen — Balinas Kette mit schwarzer Feder; Arikarion vermittelt Sira und den Freunden Hilfe.",
       "aliases": [
         "geflügelte Boten"
       ],
@@ -1914,9 +1919,10 @@
       "type": "fraktion",
       "title": "Die Erleuchteten",
       "status": "aktiv",
-      "kurz": "Kriegerischer Orden mit schwarzem Banner und goldenem Schwert — ‚Schild und zorngeballte Faust des Kaisers‘; Werbung in Beertal.",
+      "kurz": "Schwer gerüstete Krieger mit schwarzem Banner und goldenem Schwert — „Schild und zorngeballte Faust des Kaisers“; Werbung in Beertal.",
       "aliases": [
-        "Erleuchtete"
+        "Erleuchtete",
+        "Erleuchteten"
       ],
       "held": false,
       "w": 35
@@ -1926,7 +1932,7 @@
       "type": "kreatur",
       "title": "Troll",
       "status": "tot (Höhle im Seenland)",
-      "kurz": "Großes humanoides Wesen mit gelber Haut und Rattenbegleitung — von Halfreds Wurzeln durchbohrt (Session 65).",
+      "kurz": "Großes humanoides Wesen mit gelber Haut, zottigem Haar und Rattenbegleitung — Angriff in der Höhle im Seenland, von Halfreds Wurzeln durchbohrt.",
       "aliases": [
         "troll"
       ],
@@ -1937,10 +1943,11 @@
       "path": "Artefakte/Monstein",
       "type": "artefakt",
       "title": "Monstein",
-      "status": "vorhanden (Höhlendecke; Kristalle bei Halfred und Paian)",
-      "kurz": "Blau leuchtende Kristalle der Höhlendecke — das Frühlings-Sternenfirmament; Paians Leben hängt an ihrem Licht.",
+      "status": "vorhanden (Höhlendecke; Splitter bei Halfred und Paian)",
+      "kurz": "Blau leuchtende Kristalle in der Höhlendecke — sie bilden das Frühlings-Sternenfirmament; Paians Leben hängt an ihrem Licht.",
       "aliases": [
-        "Monstein-Kristalle"
+        "Monstein-Kristalle",
+        "monstein"
       ],
       "held": false,
       "w": 40
@@ -1950,7 +1957,7 @@
       "type": "artefakt",
       "title": "Die Kriegspeitsche",
       "status": "in Aikyrs Besitz",
-      "kurz": "Peitsche aus Metall und Kettengliedern vom seltsamen Skelett in der Höhle — Aikyr nennt sie ‚ein Geschenk Dragons‘.",
+      "kurz": "Peitsche aus Metall und Kettengliedern vom seltsamen Skelett in der Höhle — Aikyr nennt sie „ein Geschenk Dragons“.",
       "aliases": [
         "Kriegspeitsche"
       ],
@@ -1962,7 +1969,7 @@
       "type": "person",
       "title": "Arikarion",
       "status": "lebendig",
-      "kurz": "Elf-Wirt des ‚Fernen Tors‘ in Drugonsfuhrt; kennt Letasch und Sira seit Kindertagen — vermittelt die geflügelten Boten und die Route durchs Seenland.",
+      "kurz": "Elf-Wirt des „Fernen Tors“ in Drugonsfuhrt; kennt Letasch und Sira seit Kindertagen — vermittelt die geflügelten Boten und die Route durchs Seenland.",
       "aliases": [],
       "held": false,
       "w": 55
@@ -1971,7 +1978,7 @@
       "path": "Personen/Witti Sohn des Vollus",
       "type": "person",
       "title": "Witti Sohn des Vollus",
-      "status": "angetroffen (Wirt im Verwinkelten Wachposten, Session 73)",
+      "status": "Wirt im Verwinkelten Wachposten; Verbündeter gegen den Kult (Sessions 77–83)",
       "kurz": "Mürrischer Wirt des Verwinkelten Wachpostens in Herathis; eigentlich Kontakt der geflügelten Boten — doch am Türrahmen steht nun Carans Würfelpaar.",
       "aliases": [
         "Witti"
@@ -1984,7 +1991,7 @@
       "type": "person",
       "title": "Meister Mavarik",
       "status": "unbekannt",
-      "kurz": "Experte für alte Sprachen an der Beertaler Bibliothek — sollte die Lingua-Dracis-Stelle der goldenen Maske prüfen.",
+      "kurz": "Experte für alte Sprachen an der Beertaler Bibliothek — sollte die Lingua-Dracis-Stelle der Maske prüfen.",
       "aliases": [
         "Mavarik"
       ],
@@ -1995,7 +2002,7 @@
       "path": "Personen/Varun Nareiko",
       "type": "person",
       "title": "Varun Nareiko",
-      "status": "unbekannt",
+      "status": "lebendig",
       "kurz": "Blonder Mensch an der Goldenen Halle in Drugonsfuhrt — erzählte der Gruppe über den Drugontempel.",
       "aliases": [],
       "held": false,
@@ -2006,7 +2013,7 @@
       "type": "person",
       "title": "Osip Sidurenko",
       "status": "unbekannt (nur erwähnt)",
-      "kurz": "Fürst von Drugonsfurth, wohnt in der Kleinen Burg.",
+      "kurz": "Fürst von Drugonsfurth, wohnt in der Kleinen Burg — der Chronik zufolge ohne weitere Berührung mit der Gruppe.",
       "aliases": [],
       "held": false,
       "w": 12
@@ -2016,7 +2023,7 @@
       "type": "person",
       "title": "Tyrgan",
       "status": "unbekannt (nur erwähnt)",
-      "kurz": "Markgraf in Widderbock (nordöstlich) — möglicher Ansprechpartner zur Kontensperrung des Zinnenforsts.",
+      "kurz": "Markgraf in Widderbock (nordöstlich); möglicher Ansprechpartner in der Frage der Kontensperrung des Zinnenforsts.",
       "aliases": [],
       "held": false,
       "w": 12
@@ -2026,7 +2033,7 @@
       "type": "ort",
       "title": "Der Feenmarkt",
       "status": "bestehend; liegt „teilweise in der Feenwelt“",
-      "kurz": "Markt in endlosen Höhlen im inneren des Herration — Friedensgebot, Handelspflicht, Fees-Feilware von Augen über Handschuhe bis Schlüsseln.",
+      "kurz": "Markt in endlosen Höhlen im Innern des Herration — Friedensgebot, Handelspflicht, Fees-Feilware von Augen über Handschuhe bis Schlüsseln.",
       "aliases": [
         "Feenmarkt"
       ],
@@ -2040,7 +2047,8 @@
       "status": "bestehend (Ionnus-Heiligtum); Tureks Mordort",
       "kurz": "Marmornes Ionnus-Heiligtum am Klippenrand des Herration — im Altarraum-Becken spiegeln sich bei Tag die drei Monde; jeder durchschreitet es anders.",
       "aliases": [
-        "Mondlabyrinth, das Labyrinth"
+        "Mondlabyrinth",
+        "das Labyrinth"
       ],
       "held": false,
       "w": 30
@@ -2052,7 +2060,8 @@
       "status": "bestehend (einziger Baum seiner Art, Lamera)",
       "kurz": "Blutgetränkter Baum im Norden von Patalis [sic] — seine Blüten und Nüsse sind extrem wirksame Heilmittel; Lieferungen laufen nach Herathis.",
       "aliases": [
-        "Jokabaum, Joka-Baum"
+        "Jokabaum",
+        "Joka-Baum"
       ],
       "held": false,
       "w": 20
@@ -2073,8 +2082,8 @@
       "path": "Fraktionen/Die Lichte Herrin",
       "type": "fraktion",
       "title": "Die Lichte Herrin",
-      "status": "entlarvt — der Kult verkündet sie als Iosaris, „Lichte Herrin, als Dunkle Mutter“; wo sie weilt, bleibt offen",
-      "kurz": "Gefallene Göttin des Lichts — von neidischen Göttern gestürzt, als „Lichte Herrin, Dunkle Mutter“ zurückgekehrt; Herrin des Herathiser Kults und Tureks.",
+      "status": "entlarvt — der Kult verkündet sie als Iosaris, „Lichte Herrin, als Dunkle Mutter\"; wo sie weilt, bleibt offen",
+      "kurz": "Gefallene Göttin des Lichts — von neidischen Göttern gestürzt, als „Lichte Herrin, Dunkle Mutter\" zurückgekehrt; Herrin des Herathiser Kults und Tureks.",
       "aliases": [],
       "held": false,
       "w": 60
@@ -2127,8 +2136,8 @@
       "path": "Personen/Waslow",
       "type": "person",
       "title": "Waslow",
-      "status": "lebendig; Alchemist in Heratis („Stille Phiole“)",
-      "kurz": "Alchemist in Herathis — half Taldor bei Kelbas Feenflügel-Verschmelzung; Brauer von „Das letzte Aufgebot“ und „Das letzte Mahl“.",
+      "status": "lebendig; Alchemist in Heratis („Stille Phiole\")",
+      "kurz": "Alchemist in Herathis — half Taldor bei Kelbas Feenflügel-Verschmelzung; Brauer von „Das letzte Aufgebot\" und „Das letzte Mahl\".",
       "aliases": [
         "dunrunat"
       ],
@@ -2183,10 +2192,11 @@
       "path": "Personen/Tovene",
       "type": "person",
       "title": "Tovene",
-      "status": "tot (von den „besten Meuchlern“ des Iosaris-Kults ermordet, Session 73; Verrat Session 79 aufgeklärt)",
+      "status": "tot (von den „besten Meuchlern\" des Iosaris-Kults ermordet, Session 73; Verrat Session 79 aufgeklärt)",
       "kurz": "Freundliche Fadengängerin, erstochen vor dem Rathaus — sie wollte die Taten des Kults offenbaren und wurde von dessen Meuchlern ermordet; trug einen goldenen Ring mit schwarzem Stein wie Paian; ihr Geist fehlt.",
       "aliases": [
-        "Tuvene, Tuleve"
+        "Tuvene",
+        "Tuleve"
       ],
       "held": false,
       "w": 15
@@ -2206,9 +2216,11 @@
       "type": "person",
       "title": "Kelba von Tylajon",
       "status": "tot (Maledistas Urteil in der Ritual-Nacht, 13./14.10.997 LZ); inzwischen gewählter oberster Magistrat",
-      "kurz": "„Der fette Zwerg“ — gewählter oberster Magistrat und Wegbereiter des Iosaris-Kults; trug verdorbene Feenschwingen; starb unter Maledistas Urteil.",
+      "kurz": "„Der fette Zwerg\" — gewählter oberster Magistrat und Wegbereiter des Iosaris-Kults; trug verdorbene Feenschwingen; starb unter Maledistas Urteil.",
       "aliases": [
-        "Kelba, der fette Zwerg, K. I."
+        "Kelba",
+        "der fette Zwerg",
+        "K. I."
       ],
       "held": false,
       "w": 60
@@ -2218,7 +2230,7 @@
       "type": "person",
       "title": "Terso Teris",
       "status": "lebendig; Magistratskandidat (Heratis)",
-      "kurz": "Favorit bei der Wahl zum obersten Magistraten — „hatte den posten schon 7 mal“; die Chronik schreibt auch „Teso Teris“.",
+      "kurz": "Favorit bei der Wahl zum obersten Magistraten — „hatte den posten schon 7 mal\"; die Chronik schreibt auch „Teso Teris\".",
       "aliases": [
         "Teso Teris"
       ],
@@ -2230,7 +2242,7 @@
       "type": "person",
       "title": "Ilmar",
       "status": "lebendig (nicht angetroffen); älterer Bruder Doreans, Erbe des Hauses Dunkelgrund",
-      "kurz": "Dorians dunkel gewordener Bruder — dulde keinen Schatten neben sich, schickt Häscher, jagt „den Stein aus Palitan“.",
+      "kurz": "Dorians dunkel gewordener Bruder — duldе keinen Schatten neben sich, schickt Häscher, jagt „den Stein aus Palitan\".",
       "aliases": [],
       "held": false,
       "w": 20
@@ -2272,7 +2284,7 @@
       "type": "person",
       "title": "Rofbiel Wieselbrühl",
       "status": "unbekannt (nur erwähnt)",
-      "kurz": "Zwerg, der sich „wohl mit Feen und ihren Packten auskennt“ — Angrimas Empfehlung; seit 8 Jahren nicht gesehen.",
+      "kurz": "Zwerg, der sich „wohl mit Feen und ihren Packten auskennt\" — Angrimas Empfehlung; seit 8 Jahren nicht gesehen.",
       "aliases": [],
       "held": false,
       "w": 12
@@ -2396,7 +2408,7 @@
       "path": "Personen/Wulfast",
       "type": "person",
       "title": "Wulfast",
-      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)",
+      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
       "kurz": "„Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).",
       "aliases": [
         "Wulffast",
@@ -2730,7 +2742,7 @@
       "path": "Kreaturen/Seidige Schwestern",
       "type": "kreatur",
       "title": "Seidige Schwestern",
-      "status": "unklar (Erzählung Telenas)",
+      "status": "unklar (Erzählung Telanas)",
       "kurz": "Frauen, die beim Blutmond unter Wasser schwimmen, Seeleuten mit süßen Stimmen einen Kuss abluchsen und sie in die Tiefe ziehen.",
       "aliases": [],
       "held": false,
@@ -2764,7 +2776,7 @@
       "type": "tier",
       "title": "Wale",
       "status": "bestehend (Ewige See)",
-      "kurz": "Die „Buckeltiere“ der Ewigen See — pechschwarze Kolosse mit uraltem Gesang; im Finsterwasser-Kampf schloss ein gebetetes Walskelett das Schiff in seinen Rippenkäfig.",
+      "kurz": "Die „Buckeltiere“ der Ewigen See — pechschwarze Kolosse mit uraltem Gesang; im Finsterwasser-Kampf schloss ein gebetenes Walskelett das Schiff in seinen Rippenkäfig.",
       "aliases": [
         "Buckeltiere"
       ],
@@ -3004,7 +3016,7 @@
       "type": "fraktion",
       "title": "Das Goldene Wort",
       "status": "aktiv — selenische Ordensgemeinschaft; Gesandtschaft am Hof der Feste Altstein",
-      "kurz": "Orden Bruder Aurevians — schwarzer Überwurf mit goldenem Schwert-Emblem; predigt das „Goldene Licht“ Kaiser Selenius‘ und dass die alten Götter gelogen hätten.",
+      "kurz": "Orden [[Bruder Aurevian]]s — schwarzer Überwurf mit goldenem Schwert-Emblem; predigt das „Goldene Licht“ Kaiser Selenius‘ und dass die alten Götter gelogen hätten.",
       "aliases": [
         "Goldenes Wort"
       ],
@@ -3016,7 +3028,7 @@
       "type": "kreatur",
       "title": "Orks",
       "status": "aktiv — Pass-Orks erschlagen (Sessions 99–101); Lager von Tausenden am See in der Blutgrasweite (Sessions 118–120)",
-      "kurz": "Riesige, gepanzerte Kreaturen — der Trupp im Riesheim-Pass, der 4-Meter-Boss im Dorf-Überfall, das Große Lager am See in der Blutgrasweite; Zwinggard kämpft seit Jahrhunderten gegen sie.",
+      "kurz": "Riesige, gepanzerte Kreaturen — der Trupp im Riesheim-Pass, der 4-Meter-Boss im Dorf-Überfall; Zwinggard kämpft seit Jahrhunderten gegen sie.",
       "aliases": [
         "Ork",
         "Orkreich"
@@ -3029,7 +3041,7 @@
       "type": "kreatur",
       "title": "Gnureißer",
       "status": "aktiv — Aasfresser und Jäger über der Blutgrasweite; zerfleischten Sommertochter (Session 115)",
-      "kurz": "Riesige Flugechsen mit 6–8 m Flügelspannweite — „Apex-predator in seinem Reich“; Aasfresser, die auch Lebende packen.",
+      "kurz": "Riesige Flugechsen mit 6–8 m Flügelspannweite — kreisen über Gnusherden und Kadavern; „Apex-predator in seinem Reich“.",
       "aliases": [
         "Gnu-Reißer",
         "Grureißer [sic]",
@@ -3042,8 +3054,8 @@
       "path": "Kreaturen/Baumriese",
       "type": "kreatur",
       "title": "Baumriese",
-      "status": "sterbend — uralte Riesen im Westen der Blutgrasweite; der sterbende Riese: „nimm sie weg, nimm sie von uns“ (Session 121)",
-      "kurz": "„richtige baumriesen hunderte meter in die Höhe“ — uralte, offenbar beseelte Bäume; Halfreds alter Traum („laufende Bäume auf Jordans [sic] Karte“).",
+      "status": "sterbend — uralte Riesen; im Westen der Blutgrasweite ein sterbender Wald aus ihnen (Sessions 118–123)",
+      "kurz": "„Richtige baumriesen hunderte meter in die Höhe“ — uralte, offenbar beseelte Bäume; der sterbende Riese bittet: „nimm sie weg, nimm sie von uns“.",
       "aliases": [
         "Baumriesen",
         "Baumriese (liegend)",
@@ -3057,7 +3069,7 @@
       "type": "kreatur",
       "title": "Klonk-Klonk-Vogel",
       "status": "lebendig — friedliche Bewohner des Baumriesenwalds (Session 122)",
-      "kurz": "Blau schimmernder, kniehoher Vogel mit Klapper-Schnabel — „was sich anhört wie holz, das auf holz schlägt“; Hilfsname nach dem Sessionstitel „Klonk Klonk!“.",
+      "kurz": "Blau schimmernder, kniehoher Vogel mit Klapper-Schnabel — „was sich anhört wie holz, das auf holz schlägt“; namenslos, nach der Chronik-Lautmalerei „Klonk Klonk!“ geführt.",
       "aliases": [
         "Klonk-Klonk-Vögel",
         "Klonk Klonk"
@@ -3070,7 +3082,7 @@
       "type": "kreatur",
       "title": "Beseelter Stinkmohn",
       "status": "geborgen — in einem Tontopf bei Paian; eine der Pflanzen, „die wir laut Jadan suchen sollen“ (Session 111)",
-      "kurz": "Betäubende Pflanze mit „zarte[n] blassviolette[n] Blüten, in der mitte milchige Flüssigkeit“ — starker süßer Geruch lähmt; Jadans gesuchte Zutat.",
+      "kurz": "Betäubende Pflanzen mit „zarte[n] blassviolette[n] Blüten, in der mitte milchige Flüssigkeit“ — starker süßer Geruch lähmt; Zutatensuche-Jadans, im Tontopf geborgen.",
       "aliases": [
         "Stinkmohn",
         "Beseelter Stinkmohn (Pflanze)"
@@ -3082,8 +3094,8 @@
       "path": "Orte/Löwenlager",
       "type": "ort",
       "title": "Löwenlager",
-      "status": "erwähnt — nie aufgesucht; Wulfasts Startpunkt: „dort beginnen die ‚Roten Spuren‘“ (Session 107)",
-      "kurz": "Blutwacht-Stellung im Nachtwall — „Dass sie südlich vom Löwenlager angegriffen haben“ (Waldrigs Botschaft, Session 102).",
+      "status": "erwähnt — nie aufgesucht; Ziel von Wulfasts Rat: „dort beginnen die ‚Roten Spuren‘“ (Session 107)",
+      "kurz": "Blutwacht-Stellung im Nachtwall — südlich von ihm wurden Waldrigs Gefährten angegriffen; Wulfasts Startpunkt für die Suche nach der Halle der Wacht.",
       "aliases": [],
       "held": false,
       "w": 10
@@ -3092,13 +3104,39 @@
       "path": "Orte/Baumriesenwald",
       "type": "ort",
       "title": "Baumriesenwald",
-      "status": "bestehend — Endort der Chronik: Die Gruppe reist seit dem 24.09.998 LZ durch ihn (Stand 26.09.998 LZ)",
-      "kurz": "Dunkler Riesenwald am Fuß des schwarzen Hochgebirges westlich der Blutgrasweite — Hilfsname (die Chronik nennt den Wald nicht benannt); Spuren eines Oger-großen Wesens mit schwarzem Zeug.",
+      "status": "bestehend — von der Gruppe durchquert (ab 24.09.998 LZ, Sessions 122–125); über die schwarze Masse bis an den Fuß des schwarzen Gebirges verlassen",
+      "kurz": "Dunkler Riesenwald am Fuß des schwarzen Hochgebirges westlich der Blutgrasweite — Hilfsname (die Chronik nennt den Wald nicht benannt); Spuren eines Wesens „in der Größe eines Ogers“ mit schwarzem Zeug.",
       "aliases": [
         "Der Wald der Baumriesen"
       ],
       "held": false,
-      "w": 12
+      "w": 70
+    },
+    {
+      "path": "Kreaturen/Das dreiäugige Wesen",
+      "type": "kreatur",
+      "title": "Das dreiäugige Wesen",
+      "status": "lebendig (Stand Session 125); im Inneren der schwarzen Masse im Baumriesenwald",
+      "kurz": "Fünf Meter hohes, verholztes, ork-ähnliches Wesen mit drei Augen in der schwarzen Masse — nennt den Ort „Anfang….. Ende\" und gab Sira den schwarzen Samenstein. Hilfsname.",
+      "aliases": [
+        "Dreiäugiges Wesen",
+        "Wesen in der Dunkelheit"
+      ],
+      "held": false,
+      "w": 55
+    },
+    {
+      "path": "Artefakte/Der schwarze Samenstein",
+      "type": "artefakt",
+      "title": "Der schwarze Samenstein",
+      "status": "in Siras Besitz (Session 125)",
+      "kurz": "Faustgroßer schwarzer Stein in Form eines Pflanzensamens mit drei haarfeinen, silbrig leuchtenden Rissen — Gabe des dreiäugigen Wesens an Sira. Hilfsname.",
+      "aliases": [
+        "Samenstein",
+        "Schwarzer Samen"
+      ],
+      "held": false,
+      "w": 60
     }
   ]
 }

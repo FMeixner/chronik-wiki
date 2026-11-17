@@ -2,7 +2,7 @@
 type: person
 title: Paian
 aliases: []
-status: stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)
+status: stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)
 kurz: Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.
 ---
 # Paian
@@ -66,3 +66,7 @@ Am [[Riesheim]] untersucht er die Anatomie der [[Orks]], die wie für den Krieg 
 ## Sessions 107–123: Blutgrasweite und Baumriesenwald
 
 Vor der [[Blutgrasweite]] sieht er bewaffnete Geister aus vergangener Zeit und über den roten Flecken ein magisches Wabern. Als Sira nicht erwacht, sieht er Hände aus der Domäne des Todes auf ihr. Aikyrs Geist findet er im Schneidersitz neben dem [[Beseelter Stinkmohn|Stinkmohn]], den er ausgräbt und eintopft. Gegen die [[Gnureißer]] ruft er die Gnumutter, beim Ork-Lager einen Geistergeier, am See spricht er mit Ork-Geistern. Im [[Baumriesenwald]] fühlt er einen alten, mächtigen Ort voller Geister, zerschmiert das schwarze Zeug, das den Ast zu verderben scheint, und erinnert sich an Staubhülls Wort von der Macht im Westen.
+
+## Sessions 124–125: Durch die schwarze Masse
+
+Paian sieht in der Geisterwelt des Baumriesenwalds Tausende Geister entstehen und vergehen, wohl Geister von Orks. Er tritt als Erster durch die dunkle Barriere der schwarzen Masse und folgt Wulfast durch die fleischige Spalte hinab zum [[Das dreiäugige Wesen|dreiäugigen Wesen]]. Mit den anderen sagt er ihm, sie suchten [[Finsterbann]]s Herz.

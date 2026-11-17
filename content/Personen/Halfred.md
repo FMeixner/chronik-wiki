@@ -2,7 +2,7 @@
 type: person
 title: Halfred
 aliases: []
-status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)
+status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)
 kurz: Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.
 ---
 # Halfred
@@ -60,3 +60,7 @@ An Bord moppt er das Deck, verschließt das Leck mit einem Rankenpfeil und stär
 ## Sessions 107–123: Blutgrasweite und Baumriesenwald
 
 Er bricht unter seiner Schuld zusammen und streitet mit [[Wulfast]], der für tausend Unschuldige durch das Blut hunderter Sünder waten würde. Erst der Abstieg reißt ihn heraus. In der [[Blutgrasweite]] sorgt er sich um den Proviant, schlägt Rationierung vor, entdeckt [[Die Roten Spuren|rote Flecken]] und die Skelette der Kartografen. Wasser findet er mit seinem neuen Zauber. Der [[Beseelter Stinkmohn|Stinkmohn]] lähmt seine Gedanken. Die [[Gnureißer]] heben ihn in die Luft und lassen ihn mit gebrochenen Knochen fallen. Als selenischer Spatz überfliegt er das Lager der Tausenden [[Orks]], verirrt sich danach und entkommt ihnen im schnellsten Lauf seines Lebens. Im [[Baumriesenwald]] spürt er den letzten Lebensfunken eines sterbenden Riesen, der ihn bittet: „nimm sie weg, nimm sie von uns“.
+
+## Sessions 124–125: Durch die schwarze Masse
+
+Halfred sieht im Baumriesenwald einen Baum Atem holen und tritt als Erster in die schwarze Masse; Wulfast treibt ihn mit sanftem, unerbittlichem Druck hindurch. Drinnen gibt er dem rehartigen Wesen mit „Es darf gehen.“ die Erlaubnis zur Erlösung. Vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]] geht er auf die Knie, fragt, ob es das Wesen sei, das schon immer da ist, und zeigt ihm den Stein in seinem Arm. Danach will er vor allem einen Bach finden, um sich zu waschen.

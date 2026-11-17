@@ -2,7 +2,7 @@
 type: person
 title: Sira
 aliases: []
-status: lebendig; entlassen aus der Feste Altstein (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)
+status: lebendig; entlassen aus der Feste Altstein (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)
 kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.
 ---
 # Sira
@@ -17,6 +17,7 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 - Kann fremde Klagelieder aus ihren Visionen erstaunlich gut nachahmen.
 
 ### Besitz
+- [[Der schwarze Samenstein]]: faustgroß, wie ein Pflanzensamen, mit drei silbrig leuchtenden Rissen; Gabe des dreiäugigen Wesens (Session 125).
 - Ihre Ocarina (die Orarina), die seit Session 116 leicht bläulich schimmert.
 - Vom [[Der Feenmarkt|Feenmarkt]]: die verfluchte Seemannstruhe mit Wackersteinen und 18 Edelsteinen (etwa 600 Lunare) und den Schlüssel „zu einem Ort der Vergangenheit“.
 - Eine Kette mit schwarzer Feder, geschenkt von [[Balina]] aus [[Südfang]].
@@ -28,6 +29,7 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 - Zurück zu den [[Die Roten Spuren|Roten Spuren]] im Norden, statt nach Nordwesten weiterzuziehen. Die Gruppe hat sich in der Blutgrasweite gegen sie entschieden.
 
 ### Offene Fäden
+- „Das Licht, dass dich einst erfüllte, schwindet bald.“ Die Warnung des dreiäugigen Wesens (Session 125), das sie „Fremde aus einer anderen Zeit“ nennt.
 - Die wiederkehrende Halle mit der [[Schwarze Schatulle|schwarzen Schatulle]], die Licht und Gefühle aufsaugt, und das Klagelied in fremder Sprache.
 - Die Stele (Session 110, 116): Das Loch nahe dem Gipfel eines der beiden Zwillingsberge, das Finstere auf der Spitze, das Lied vieler Stimmen. Sie wurde dort wahrgenommen. Laut Gruppe ist damit der zweite Teil der Prophezeiung erfüllt.
 - Das Lied, das ihr zuflog: „Im Schattenreich wandre ich allein …“
@@ -59,3 +61,7 @@ Auf See holt sie mit den Matrosen Aikyr und die beiden Leblosen an Bord und häl
 ## Sessions 107–123: Blutgrasweite und Baumriesenwald
 
 In der Ebene soll sie nicht spielen, weil Klänge weit tragen; stattdessen liefert sie sich mit Aikyr den Funkentanz-Wettkampf. Unter den blauen Kometen lässt sie sich nicht wecken. Ihre Vision trägt sie zum schwarzen Loch an den Zwillingsbergen und hinab zur Stele, wo sie wahrgenommen wird. Gegen die [[Gnureißer]] zaubert sie Funken und wird von einer der Echsen niedergeworfen. In einem weiteren Traum fliegt ihr das Lied vom Schattenreich zu, und ihre Orarina zeigt ihr Halfred im Sterben. Nach Halfreds Flucht will sie zurück zu den Roten Spuren; die Gruppe zieht weiter, die Stimmung ist angespannt.
+
+## Sessions 124–125: Durch die schwarze Masse
+
+Siras Melodie für die Lichtkugel klingt im Baumriesenwald in einer anderen Tonlage. Sie hält den Ort für den, an dem ihr Licht gebraucht wird, und stemmt die Kugel mit aller Kraft in die schwarze Masse, bis Aikyr sie hineinträgt. Drinnen sagt sie dem [[Das dreiäugige Wesen|dreiäugigen Wesen]], sie wolle einfach ihr Leben zurück und sei wegen des Endes hier. Es berührt ihre Stirn, zeigt ihr das Gebirge mit den beiden Gipfeln und eine Wand aus Holz und Erde und sagt: „Das Licht, dass dich einst erfüllte, schwindet bald.“ Dann gibt es ihr den [[Der schwarze Samenstein|schwarzen Samenstein]].
