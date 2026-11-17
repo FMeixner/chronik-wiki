@@ -1,758 +1,808 @@
 {
-  "version": 7,
-  "wikiBase": "https://fmeixner.github.io/chronik-wiki/",
-  "wegfaktor": 1.4,
-  "modeLabels": {
-    "foot": "zu Fuß",
-    "horse": "Pferd/Wagen",
-    "ship": "Schiff (Myrkan)"
+ "version": 8,
+ "wikiBase": "https://fmeixner.github.io/chronik-wiki/",
+ "wegfaktor": 1.4,
+ "modeLabels": {
+  "foot": "zu Fuß",
+  "horse": "Pferd/Wagen",
+  "ship": "Schiff (Myrkan)"
+ },
+ "speeds": {
+  "foot": 32,
+  "horse": 50,
+  "ship": 29
+ },
+ "calibration": {
+  "story": {
+   "x1": 39.13,
+   "y1": 16.46,
+   "x2": 18.41,
+   "y2": 36.62,
+   "km": 1048
+  }
+ },
+ "markers": [
+  {
+   "id": "unterwalde",
+   "mapId": "story",
+   "x": 58.7,
+   "y": 21.54,
+   "name": "Unterwalde",
+   "type": "Dorf",
+   "notes": "Heimatdorf der Gruppe; Ueberwinterung 996/997 LZ. Ausgangspunkt der Chronik. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Unterwalde",
+   "lage": "ungefaehr"
   },
-  "speeds": {
-    "foot": 32,
-    "horse": 50,
-    "ship": 29
+  {
+   "id": "falkenfelde",
+   "mapId": "story",
+   "x": 59.57,
+   "y": 20.62,
+   "name": "Falkenfelde",
+   "type": "Dorf",
+   "notes": "Ausgestorbenes Nachbardorf, Ausloeser des ersten Abenteuers (06.04.997 LZ). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Falkenfelde",
+   "lage": "ungefaehr"
   },
-  "calibration": {
-    "story": {
-      "x1": 29.06,
-      "y1": 50.91,
-      "x2": 40,
-      "y2": 14.55,
-      "km": 800
-    }
+  {
+   "id": "suedliche-zitadellen",
+   "mapId": "story",
+   "x": 62.03,
+   "y": 25.85,
+   "name": "Südliche Zitadellen",
+   "type": "Gebirge",
+   "notes": "Gebirge; der Kerker der Gruppe lag in seiner Naehe („nahe des Meeres“). Offizielle Region bzw. Gebirge; Punkt nach der Lorakis-Karte gesetzt.",
+   "lotse": "#/Orte/Südliche Zitadellen",
+   "lage": "region"
   },
-  "markers": [
+  {
+   "id": "kerker",
+   "mapId": "story",
+   "x": 63.48,
+   "y": 27.23,
+   "name": "Der Kerker",
+   "type": "Geheimnis",
+   "notes": "Unbekannter Ort der Gefangenschaft nach dem Fest von Unterwalde; Flucht per Fenstersturz. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Der Kerker (unbekannter Ort)",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "felsspalte",
+   "mapId": "story",
+   "x": 57.1,
+   "y": 26.46,
+   "name": "Die Felsspalte",
+   "type": "Naturmarke",
+   "notes": "Kuenstlicher Hohlraum im Fels; Doreans schwerer Sturz (Session 06). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Die Felsspalte",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "unbenannter-wald",
+   "mapId": "story",
+   "x": 58.99,
+   "y": 24.92,
+   "name": "Der unbenannte Wald",
+   "type": "Wald",
+   "notes": "Gefaehrliches Waldgebiet westlich der Suedlichen Zitadellen; die Gruppe mied ihn zunaechst. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Der unbenannte Wald",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "fischerdorf",
+   "mapId": "story",
+   "x": 57.54,
+   "y": 28.15,
+   "name": "Fischerdorf (namenlos)",
+   "type": "Dorf",
+   "notes": "Namenloses Fischerdorf an der Kueste; Proviant und Boot. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Fischerdorf (namenlos)",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "braunwacht",
+   "mapId": "story",
+   "x": 55.07,
+   "y": 25.54,
+   "name": "Braunwacht",
+   "type": "Dorf",
+   "notes": "Erster laengerer Aufenthalt nach der Kueste; Javus Brackes Gasthaus-Geschichte. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Braunwacht",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "grosser-weg",
+   "mapId": "story",
+   "x": 52.46,
+   "y": 19.38,
+   "name": "Der Große Weg",
+   "type": "Verkehrsweg",
+   "notes": "Wegstrecke zwischen Braunwacht und Caltentrutz. Offizielle Region bzw. Gebirge; Punkt nach der Lorakis-Karte gesetzt.",
+   "lotse": "#/Orte/Der Große Weg",
+   "lage": "region"
+  },
+  {
+   "id": "hof-hibbel",
+   "mapId": "story",
+   "x": 55.8,
+   "y": 20.31,
+   "name": "Hof Hibbel",
+   "type": "Gehöft",
+   "notes": "Gehöft als Raststation auf dem Grossen Weg. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Hof Hibbel",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "caltentrutz",
+   "mapId": "story",
+   "x": 50.0,
+   "y": 20.31,
+   "name": "Caltentrutz",
+   "type": "Dorf",
+   "notes": "Zwischenstation der Reise (15.05.997 LZ). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Caltentrutz",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "arwingen",
+   "mapId": "story",
+   "x": 65.22,
+   "y": 23.38,
+   "name": "Arwingen",
+   "type": "Stadt",
+   "notes": "Zwischenstation Richtung Suedfang. Lage nach der offiziellen Lorakis-Karte.",
+   "lotse": "#/Orte/Arwingen",
+   "lage": "offiziell"
+  },
+  {
+   "id": "rubensmark",
+   "mapId": "story",
+   "x": 44.93,
+   "y": 26.15,
+   "name": "Rubensmark",
+   "type": "Dorf",
+   "notes": "Zollstation auf der Heerstrasse (19.05.997 LZ). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Rubensmark",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "zirken",
+   "mapId": "story",
+   "x": 35.94,
+   "y": 23.08,
+   "name": "Zirken",
+   "type": "Gebirge",
+   "notes": "Vulkangebirge, Durchquerung Anfang Saatmond 997 LZ. Offizielle Region bzw. Gebirge; Punkt nach der Lorakis-Karte gesetzt.",
+   "lotse": "#/Orte/Zirken",
+   "lage": "region"
+  },
+  {
+   "id": "sudfang",
+   "mapId": "story",
+   "x": 47.97,
+   "y": 24.15,
+   "name": "Südfang",
+   "type": "Stadt",
+   "notes": "Stadt am Fuss des Gluehberges (60.000 Einwohner); Taverne „Fiures Ruh“, Gunwartempel. Lage nach der offiziellen Lorakis-Karte.",
+   "lotse": "#/Orte/Südfang",
+   "lage": "offiziell"
+  },
+  {
+   "id": "wegkreuz",
+   "mapId": "story",
+   "x": 45.65,
+   "y": 21.85,
+   "name": "Wegkreuz",
+   "type": "Verkehrsweg",
+   "notes": "Wegstation auf der Rueckreise nach Sarnburg. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Wegkreuz",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "glimmwacht",
+   "mapId": "story",
+   "x": 43.48,
+   "y": 20.0,
+   "name": "Glimmwacht",
+   "type": "Dorf",
+   "notes": "Wegstation auf der Rueckreise nach Sarnburg. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Glimmwacht",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "feuertal",
+   "mapId": "story",
+   "x": 41.3,
+   "y": 18.46,
+   "name": "Feuertal",
+   "type": "Dorf",
+   "notes": "Letzte Station vor Sarnburg. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Feuertal",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "sarnburg",
+   "mapId": "story",
+   "x": 39.13,
+   "y": 16.46,
+   "name": "Sarnburg",
+   "type": "Stadt",
+   "notes": "Zentrale Stadt der Chronik: Pfandhaus Plunder, Gunwartempel, Jadans Huetten-Viertel. Lage nach der offiziellen Lorakis-Karte.",
+   "lotse": "#/Orte/Sarnburg",
+   "lage": "offiziell"
+  },
+  {
+   "id": "jadans-huette",
+   "mapId": "story",
+   "x": 40.14,
+   "y": 15.23,
+   "name": "Jadans Hütte",
+   "type": "Geheimnis",
+   "notes": "Wohnhaus des Alchemisten Jadan, „3 Haeuser weiter“ beim Yonnuspriester. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Jadans Hütte",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "mondpfad",
+   "mapId": "story",
+   "x": 83.33,
+   "y": 22.31,
+   "name": "Mondpfad",
+   "type": "Geheimnis",
+   "notes": "Magischer Pfad Richtung Feenwald; zugleich Portalverbindung nach Zhoujiang (Palitan) — keine Landroute. Nicht maßstäblich: in der Leiste rechts dargestellt.",
+   "lotse": "#/Orte/Mondpfad",
+   "lage": "fern"
+  },
+  {
+   "id": "feenwald",
+   "mapId": "story",
+   "x": 88.41,
+   "y": 15.77,
+   "name": "Feenwald",
+   "type": "Wald",
+   "notes": "Heimat der Feen; Begegnungen mit Tenkuri und dem Feentor. Nicht maßstäblich: in der Leiste rechts dargestellt.",
+   "lotse": "#/Orte/Feenwald",
+   "lage": "fern"
+  },
+  {
+   "id": "feenpfad",
+   "mapId": "story",
+   "x": 93.48,
+   "y": 22.31,
+   "name": "Feenpfad",
+   "type": "Geheimnis",
+   "notes": "Weg im Feenreich; Galkor Alquans schwarze Kutsche (Sessions 36-41). Nicht maßstäblich: in der Leiste rechts dargestellt.",
+   "lotse": "#/Orte/Feenpfad",
+   "lage": "fern"
+  },
+  {
+   "id": "palitan",
+   "mapId": "story",
+   "x": 87.68,
+   "y": 46.15,
+   "name": "Palitan",
+   "type": "Stadt",
+   "notes": "Grosse Stadt mit Kaiserlichem Archiv und Katakomben (Sessions 26-35); liegt in Zhoujiang (Takasadu), im fernen Osten Lorakis — Zhoujiang-Inset, Distanz nicht maßstäblich; Mondpfad-Portalverbindung nach Sarnburg. Nicht maßstäblich: in der Leiste rechts dargestellt.",
+   "lotse": "#/Orte/Palitan",
+   "lage": "fern"
+  },
+  {
+   "id": "katakomben",
+   "mapId": "story",
+   "x": 91.45,
+   "y": 49.23,
+   "name": "Katakomben unter Palitan",
+   "type": "Untergrund",
+   "notes": "Gruenes Steingewoelbe unter Palitan (Zhoujiang-Inset); Spinnenwesen und der geborstene Kristall. Nicht maßstäblich: in der Leiste rechts dargestellt.",
+   "lotse": "#/Orte/Katakomben unter Palitan",
+   "lage": "fern"
+  },
+  {
+   "id": "fleadyne-schrein",
+   "mapId": "story",
+   "x": 36.96,
+   "y": 17.54,
+   "name": "Fleadyne-Schrein",
+   "type": "Kultstätte",
+   "notes": "Schrein der Fleadyne suedlich von Sarnburg, Unterwegslager mit der grossen Linde. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Fleadyne-Schrein",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "schaeferhain",
+   "mapId": "story",
+   "x": 34.49,
+   "y": 16.77,
+   "name": "Schäferhain",
+   "type": "Dorf",
+   "notes": "Rastort nach dem Fleadyne-Schrein. (Noch keine Wiki-Seite.) Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": null,
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "vorbrin",
+   "mapId": "story",
+   "x": 32.17,
+   "y": 15.69,
+   "name": "Vorbrin",
+   "type": "Dorf",
+   "notes": "Dorf auf der Strasse Richtung Wasserfels. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Vorbrin",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "wasserfels",
+   "mapId": "story",
+   "x": 29.28,
+   "y": 15.08,
+   "name": "Wasserfels",
+   "type": "Stadt",
+   "notes": "Stadt an der Muendung der Windenden Winne in den Myrkan; Taverne „Tanzende Forelle“. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Wasserfels",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "schlund",
+   "mapId": "story",
+   "x": 31.3,
+   "y": 13.08,
+   "name": "Der Schlund der Finsternis",
+   "type": "Kultstätte",
+   "notes": "Kultstätte an der Windenden Winne; Luidpergas Ende und der Spiegel (Sessions 51-54). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Der Schlund der Finsternis",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "dreywasser",
+   "mapId": "story",
+   "x": 28.55,
+   "y": 19.69,
+   "name": "Dreywasser",
+   "type": "Dorf",
+   "notes": "Ort am Myrkan, flussab von Wasserfels; Schiffsreise (Session 56). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Dreywasser",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "schattenfeld",
+   "mapId": "story",
+   "x": 27.97,
+   "y": 23.23,
+   "name": "Das Schattenfeld",
+   "type": "Geheimnis",
+   "notes": "Flussnahes Gebiet am Myrkan; Zwischenstation der Flussfahrt (21.07.997 LZ). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Das Schattenfeld",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "beertal",
+   "mapId": "story",
+   "x": 26.81,
+   "y": 26.92,
+   "name": "Beertal",
+   "type": "Stadt",
+   "notes": "Freistadt am Myrkan, flussab von Dreywasser; Zwischenstopp der Schifffahrt (Sessions 57/58). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Beertal",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "drugonsfuhrt",
+   "mapId": "story",
+   "x": 23.33,
+   "y": 29.85,
+   "name": "Drugonsfuhrt",
+   "type": "Dorf",
+   "notes": "Furt/Ort am Unterlauf des Myrkan. Kalibriert: 800 km von Wasserfels. Endpunkt der Schifffahrt (Sessions 59-61). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Drugonsfuhrt",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "seenland",
+   "mapId": "story",
+   "x": 21.16,
+   "y": 33.23,
+   "name": "Das Seenland",
+   "type": "Naturmarke",
+   "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Heratis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer; Wintermarsch der Gruppe gen Heratis (Sessions 67-72). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Das Seenland",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "hoehle-im-seenland",
+   "mapId": "story",
+   "x": 22.32,
+   "y": 34.46,
+   "name": "Die Höhle im Seenland",
+   "type": "Untergrund",
+   "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; Lager der Gruppe (Sessions 64-67), danach Wintermarsch nach Heratis. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Die Höhle im Seenland",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "heratis",
+   "mapId": "story",
+   "x": 18.41,
+   "y": 36.62,
+   "name": "Heratis",
+   "type": "Ziel",
+   "notes": "Ankunft der Gruppe am 08.10.997 LZ (Session 72): freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner) — Mordserie, Magistratswahl; Ritual-Nacht (13./14.10.997 LZ) unter dem Herathion vereitelt (Sessions 77-83); Abreise per Schiff nach Süden (Session 86). Lage nach der offiziellen Lorakis-Karte.",
+   "lotse": "#/Orte/Heratis",
+   "lage": "offiziell"
+  },
+  {
+   "id": "therum",
+   "mapId": "story",
+   "x": 21.74,
+   "y": 67.38,
+   "name": "Therum",
+   "type": "Stadt",
+   "notes": "Landung der Maravas Tochter nach Sturm und Finsterwasser (Session 92, „deutlich suedlicher“ als geplant); Silberkrug, Sturmvogel, Gunwartempel; Abreise am 03.11.997 LZ mit Magister Medipho Richtung Wandratis (Sessions 92-94). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Therum",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "galpinius",
+   "mapId": "story",
+   "x": 24.2,
+   "y": 64.62,
+   "name": "Galpinius",
+   "type": "Stadt",
+   "notes": "Ankunft am 05.12.997 LZ (Session 95): voellig ueberfuellte Kleinstadt, weil die Furgstrasse wegen Orks im Pass gesperrt ist; Tanniem und Elyra erloest; Gespraech mit Vorsteher Ugisold Kurandero bevorstehend (Session 96). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Galpinius",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "riesheim",
+   "mapId": "story",
+   "x": 27.97,
+   "y": 64.31,
+   "name": "Riesheim",
+   "type": "Gebirge",
+   "notes": "Hochgebirge-Pass: Ork-Feldzug und Hoehlenkampf (Sessions 99-101); Rueckquerung mit der Karawane, „11 Wochen“ im schwersten Winter (Session 102). Offizielle Region bzw. Gebirge; Punkt nach der Lorakis-Karte gesetzt.",
+   "lotse": "#/Orte/Riesheim",
+   "lage": "region"
+  },
+  {
+   "id": "ertrunkener-mond",
+   "mapId": "story",
+   "x": 30.0,
+   "y": 69.85,
+   "name": "Der Ertrunkene Mond",
+   "type": "Geheimnis",
+   "notes": "Taverne am schwarzen See; ein mythisches Wesen („keine Fee“) stellt vier Aufgaben, warnt vor Verfolgern und teleportiert die Gruppe in den Sommer (Session 102). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Der Ertrunkene Mond",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "isarfest",
+   "mapId": "story",
+   "x": 31.88,
+   "y": 74.62,
+   "name": "Isarfest",
+   "type": "Stadt",
+   "notes": "Bollwerk-Stadt in Zwinggard; Ankunft 05.07.998 LZ per Teleport (Session 102): Anodaras Gunwartempel, Schriftrolle „ein leben fuer ein leben“; Donnerhuf bleibt zurueck. Lage nach der offiziellen Lorakis-Karte.",
+   "lotse": "#/Orte/Isarfest",
+   "lage": "offiziell"
+  },
+  {
+   "id": "kyningswacht",
+   "mapId": "story",
+   "x": 34.49,
+   "y": 77.23,
+   "name": "Kyningswacht",
+   "type": "Dorf",
+   "notes": "Wehrort auf der Route von Isarfest Richtung Nachtwall (Session 102) — Bericht ueber die zwei Jungen vom Einsiedlerhof. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Kyningswacht",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "altstein",
+   "mapId": "story",
+   "x": 37.68,
+   "y": 86.15,
+   "name": "Feste Altstein",
+   "type": "Ziel",
+   "notes": "Wehrfeste im Nachtwall, Ankunft 23.08.998 LZ (Session 102); Gefangenschaft, Festmahl mit Bruder Aurevian, selenischer Steckbrief gegen Halfred — Abfuehrung (Sessions 103-106). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Feste Altstein",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "blutgrasweite",
+   "mapId": "story",
+   "x": 30.43,
+   "y": 87.38,
+   "name": "Blutgrasweite",
+   "type": "Naturmarke",
+   "notes": "Subtropische Savanne im Suedwesten (offizielle Lore); Durchquerung westwaerts 05.-21.09.998 LZ (Sessions 108-120): rote Flecken, Blutbluete, Kartografen-Skelette, Beseelter Stinkmohn, Gnureisser — Sommertochters Tod (Session 115). Offizielle Region bzw. Gebirge; Punkt nach der Lorakis-Karte gesetzt.",
+   "lotse": "#/Orte/Blutgrasweite",
+   "lage": "region"
+  },
+  {
+   "id": "ork-see",
+   "mapId": "story",
+   "x": 22.46,
+   "y": 88.0,
+   "name": "Ork-See (Großes Lager)",
+   "type": "Naturmarke",
+   "notes": "See in der Blutgrasweite; Grosses Ork-Lager: „Am nordlichen Ufer Lager um Lager. Tausende Orks.“ (Session 118) — Schneise von zwei Kilometern Breite, Halfreds Wettlauf-Flucht (Sessions 118-120). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Blutgrasweite",
+   "lage": "ungefaehr"
+  },
+  {
+   "id": "baumriesenwald",
+   "mapId": "story",
+   "x": 10.43,
+   "y": 85.38,
+   "name": "Baumriesenwald",
+   "type": "Ziel",
+   "notes": "Dunkler Riesenwald am Fuss des schwarzen Hochgebirges (Kandidat: die offiziellen Blauen Klippen); Chronik-Ende: Die Gruppe reist seit dem 24.09.998 LZ durch ihn (Stand 26.09.998 LZ, Sessions 121-123). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Baumriesenwald",
+   "lage": "ungefaehr"
+  }
+ ],
+ "routes": [
+  {
+   "id": "r1",
+   "label": "Der Weg der Gruppe (Sessions 01–123)",
+   "color": "#7fd1c7",
+   "statusIndex": 61,
+   "waypoints": [
     {
-      "id": "unterwalde",
-      "mapId": "story",
-      "x": 73.13,
-      "y": 69.55,
-      "name": "Unterwalde",
-      "type": "Dorf",
-      "notes": "Heimatdorf der Gruppe; Ueberwinterung 996/997 LZ. Ausgangspunkt der Chronik.",
-      "lotse": "#/Orte/Unterwalde"
+     "markerId": "unterwalde",
+     "caption": "S 01 · Falkenfelde (06.04.997 LZ)"
     },
     {
-      "id": "falkenfelde",
-      "mapId": "story",
-      "x": 75.63,
-      "y": 65.91,
-      "name": "Falkenfelde",
-      "type": "Dorf",
-      "notes": "Ausgestorbenes Nachbardorf, Ausloeser des ersten Abenteuers (06.04.997 LZ).",
-      "lotse": "#/Orte/Falkenfelde"
+     "markerId": "falkenfelde",
+     "caption": "S 01 · Falkenfelde (06.04.997 LZ)"
     },
     {
-      "id": "suedliche-zitadellen",
-      "mapId": "story",
-      "x": 78.13,
-      "y": 77.73,
-      "name": "Südliche Zitadellen",
-      "type": "Gebirge",
-      "notes": "Gebirge; der Kerker der Gruppe lag in seiner Naehe („nahe des Meeres“).",
-      "lotse": "#/Orte/Südliche Zitadellen"
+     "markerId": "unterwalde",
+     "caption": "S 02 · Das Fest (07.04.997 LZ)"
     },
     {
-      "id": "kerker",
-      "mapId": "story",
-      "x": 75.31,
-      "y": 81.82,
-      "name": "Der Kerker",
-      "type": "Geheimnis",
-      "notes": "Unbekannter Ort der Gefangenschaft nach dem Fest von Unterwalde; Flucht per Fenstersturz.",
-      "lotse": "#/Orte/Der Kerker (unbekannter Ort)"
+     "markerId": "kerker",
+     "caption": "S 03 · Der Kerker"
     },
     {
-      "id": "felsspalte",
-      "mapId": "story",
-      "x": 70,
-      "y": 85.45,
-      "name": "Die Felsspalte",
-      "type": "Naturmarke",
-      "notes": "Kuenstlicher Hohlraum im Fels; Doreans schwerer Sturz (Session 06).",
-      "lotse": "#/Orte/Die Felsspalte"
+     "markerId": "suedliche-zitadellen",
+     "caption": "S 04 · Der Fenstersturz"
     },
     {
-      "id": "unbenannter-wald",
-      "mapId": "story",
-      "x": 65.63,
-      "y": 77.27,
-      "name": "Der unbenannte Wald",
-      "type": "Wald",
-      "notes": "Gefaehrliches Waldgebiet westlich der Suedlichen Zitadellen; die Gruppe mied ihn zunaechst.",
-      "lotse": "#/Orte/Der unbenannte Wald"
+     "markerId": "unbenannter-wald",
+     "caption": "S 05 · Flucht nach Westen"
     },
     {
-      "id": "fischerdorf",
-      "mapId": "story",
-      "x": 60,
-      "y": 94.55,
-      "name": "Fischerdorf (namenlos)",
-      "type": "Dorf",
-      "notes": "Namenloses Fischerdorf an der Kueste; Proviant und Boot.",
-      "lotse": "#/Orte/Fischerdorf (namenlos)"
+     "markerId": "felsspalte",
+     "caption": "S 06 · Die Felsspalte - Doreans Sturz (ca. 15. Saatmond)"
     },
     {
-      "id": "braunwacht",
-      "mapId": "story",
-      "x": 51.25,
-      "y": 93.64,
-      "name": "Braunwacht",
-      "type": "Dorf",
-      "notes": "Erster laengerer Aufenthalt nach der Kueste; Javus Brackes Gasthaus-Geschichte.",
-      "lotse": "#/Orte/Braunwacht"
+     "markerId": "unbenannter-wald",
+     "caption": "S 07 · Weiterreise mit Schwerverletztem (ca. 16. Saatmond)"
     },
     {
-      "id": "grosser-weg",
-      "mapId": "story",
-      "x": 60.94,
-      "y": 85.91,
-      "name": "Der Große Weg",
-      "type": "Verkehrsweg",
-      "notes": "Wegstrecke zwischen Braunwacht und Caltentrutz.",
-      "lotse": "#/Orte/Der Große Weg"
+     "markerId": "suedliche-zitadellen",
+     "caption": "S 10 · Fitzban der Große (9. Tag nach dem Fenstersturz)"
     },
     {
-      "id": "hof-hibbel",
-      "mapId": "story",
-      "x": 68.13,
-      "y": 80.91,
-      "name": "Hof Hibbel",
-      "type": "Gehöft",
-      "notes": "Gehöft als Raststation auf dem Grossen Weg.",
-      "lotse": "#/Orte/Hof Hibbel"
+     "markerId": "fischerdorf",
+     "caption": "S 11 · Das Fischerdorf"
     },
     {
-      "id": "caltentrutz",
-      "mapId": "story",
-      "x": 77.5,
-      "y": 73.64,
-      "name": "Caltentrutz",
-      "type": "Dorf",
-      "notes": "Zwischenstation der Reise (15.05.997 LZ).",
-      "lotse": "#/Orte/Caltentrutz"
+     "markerId": "braunwacht",
+     "caption": "S 13 · Braunwacht (27.04.997 LZ)"
     },
     {
-      "id": "arwingen",
-      "mapId": "story",
-      "x": 87.81,
-      "y": 65.91,
-      "name": "Arwingen",
-      "type": "Stadt",
-      "notes": "Zwischenstation Richtung Suedfang.",
-      "lotse": "#/Orte/Arwingen"
+     "markerId": "grosser-weg",
+     "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
     },
     {
-      "id": "rubensmark",
-      "mapId": "story",
-      "x": 54.38,
-      "y": 59.55,
-      "name": "Rubensmark",
-      "type": "Dorf",
-      "notes": "Zollstation auf der Heerstrasse (19.05.997 LZ).",
-      "lotse": "#/Orte/Rubensmark"
+     "markerId": "hof-hibbel",
+     "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
     },
     {
-      "id": "zirken",
-      "mapId": "story",
-      "x": 58.13,
-      "y": 55.91,
-      "name": "Zirken",
-      "type": "Gebirge",
-      "notes": "Vulkangebirge, Durchquerung Anfang Saatmond 997 LZ.",
-      "lotse": "#/Orte/Zirken"
+     "markerId": "caltentrutz",
+     "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
     },
     {
-      "id": "sudfang",
-      "mapId": "story",
-      "x": 48.75,
-      "y": 71.82,
-      "name": "Südfang",
-      "type": "Stadt",
-      "notes": "Stadt am Fuss des Gluehberges (60.000 Einwohner); Taverne „Fiures Ruh“, Gunwartempel.",
-      "lotse": "#/Orte/Südfang"
+     "markerId": "arwingen",
+     "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
     },
     {
-      "id": "wegkreuz",
-      "mapId": "story",
-      "x": 46.56,
-      "y": 65,
-      "name": "Wegkreuz",
-      "type": "Verkehrsweg",
-      "notes": "Wegstation auf der Rueckreise nach Sarnburg.",
-      "lotse": "#/Orte/Wegkreuz"
+     "markerId": "sudfang",
+     "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
     },
     {
-      "id": "glimmwacht",
-      "mapId": "story",
-      "x": 45.31,
-      "y": 53.64,
-      "name": "Glimmwacht",
-      "type": "Dorf",
-      "notes": "Wegstation auf der Rueckreise nach Sarnburg.",
-      "lotse": "#/Orte/Glimmwacht"
+     "markerId": "rubensmark",
+     "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
     },
     {
-      "id": "feuertal",
-      "mapId": "story",
-      "x": 44.5,
-      "y": 44.09,
-      "name": "Feuertal",
-      "type": "Dorf",
-      "notes": "Letzte Station vor Sarnburg.",
-      "lotse": "#/Orte/Feuertal"
+     "markerId": "zirken",
+     "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
     },
     {
-      "id": "sarnburg",
-      "mapId": "story",
-      "x": 43.75,
-      "y": 34.55,
-      "name": "Sarnburg",
-      "type": "Stadt",
-      "notes": "Zentrale Stadt der Chronik: Pfandhaus Plunder, Gunwartempel, Jadans Huetten-Viertel.",
-      "lotse": "#/Orte/Sarnburg"
+     "markerId": "sudfang",
+     "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
     },
     {
-      "id": "jadans-huette",
-      "mapId": "story",
-      "x": 45.25,
-      "y": 32,
-      "name": "Jadans Hütte",
-      "type": "Geheimnis",
-      "notes": "Wohnhaus des Alchemisten Jadan, „3 Haeuser weiter“ beim Yonnuspriester.",
-      "lotse": "#/Orte/Jadans Hütte"
+     "markerId": "wegkreuz",
+     "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
     },
     {
-      "id": "mondpfad",
-      "mapId": "story",
-      "x": 55,
-      "y": 25.45,
-      "name": "Mondpfad",
-      "type": "Geheimnis",
-      "notes": "Magischer Pfad Richtung Feenwald; zugleich Portalverbindung nach Zhoujiang (Palitan) — keine Landroute.",
-      "lotse": "#/Orte/Mondpfad"
+     "markerId": "glimmwacht",
+     "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
     },
     {
-      "id": "feenwald",
-      "mapId": "story",
-      "x": 61.88,
-      "y": 20.91,
-      "name": "Feenwald",
-      "type": "Wald",
-      "notes": "Heimat der Feen; Begegnungen mit Tenkuri und dem Feentor.",
-      "lotse": "#/Orte/Feenwald"
+     "markerId": "feuertal",
+     "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
     },
     {
-      "id": "feenpfad",
-      "mapId": "story",
-      "x": 59.38,
-      "y": 32.73,
-      "name": "Feenpfad",
-      "type": "Geheimnis",
-      "notes": "Weg im Feenreich; Galkor Alquans schwarze Kutsche (Sessions 36-41).",
-      "lotse": "#/Orte/Feenpfad"
+     "markerId": "sarnburg",
+     "caption": "S 18 · Ankunft in Sarnburg (26.6.997 LZ)"
     },
     {
-      "id": "palitan",
-      "mapId": "story",
-      "x": 87.5,
-      "y": 16.36,
-      "name": "Palitan",
-      "type": "Stadt",
-      "notes": "Grosse Stadt mit Kaiserlichem Archiv und Katakomben (Sessions 26-35); liegt in Zhoujiang (Takasadu), im fernen Osten Lorakis — Zhoujiang-Inset, Distanz nicht maßstäblich; Mondpfad-Portalverbindung nach Sarnburg.",
-      "lotse": "#/Orte/Palitan"
+     "markerId": "mondpfad",
+     "caption": "S 21 · Die Flucht durch das Mondtor (28.6.997 LZ)",
+     "portal": true
     },
     {
-      "id": "katakomben",
-      "mapId": "story",
-      "x": 89.06,
-      "y": 19.55,
-      "name": "Katakomben unter Palitan",
-      "type": "Untergrund",
-      "notes": "Gruenes Steingewoelbe unter Palitan (Zhoujiang-Inset); Spinnenwesen und der geborstene Kristall.",
-      "lotse": "#/Orte/Katakomben unter Palitan"
+     "markerId": "feenwald",
+     "caption": "S 22 · Der Mondpfad (28.6.997 LZ)",
+     "portal": true
     },
     {
-      "id": "fleadyne-schrein",
-      "mapId": "story",
-      "x": 40.94,
-      "y": 40.91,
-      "name": "Fleadyne-Schrein",
-      "type": "Kultstätte",
-      "notes": "Schrein der Fleadyne suedlich von Sarnburg, Unterwegslager mit der grossen Linde.",
-      "lotse": "#/Orte/Fleadyne-Schrein"
+     "markerId": "mondpfad",
+     "caption": "S 25 · Der blaue Berg (29.6.997 LZ(?))",
+     "portal": true
     },
     {
-      "id": "schaeferhain",
-      "mapId": "story",
-      "x": 38.13,
-      "y": 45.91,
-      "name": "Schäferhain",
-      "type": "Dorf",
-      "notes": "Rastort nach dem Fleadyne-Schrein. (Noch keine Wiki-Seite.)",
-      "lotse": null
+     "markerId": "palitan",
+     "caption": "S 26 · Durch das Wabern nach Palitan (29.6.997 LZ(?) bis 06.07.997 LZ)",
+     "portal": true
     },
     {
-      "id": "vorbrin",
-      "mapId": "story",
-      "x": 35.31,
-      "y": 49.82,
-      "name": "Vorbrin",
-      "type": "Dorf",
-      "notes": "Dorf auf der Strasse Richtung Wasserfels.",
-      "lotse": "#/Orte/Vorbrin"
+     "markerId": "katakomben",
+     "caption": "S 28 · In die Katakomben (08.07.997 LZ)"
     },
     {
-      "id": "wasserfels",
-      "mapId": "story",
-      "x": 29.06,
-      "y": 50.91,
-      "name": "Wasserfels",
-      "type": "Stadt",
-      "notes": "Stadt an der Muendung der Windenden Winne in den Myrkan; Taverne „Tanzende Forelle“.",
-      "lotse": "#/Orte/Wasserfels"
+     "markerId": "palitan",
+     "caption": "S 32 · Endlich unter dem Tempel?"
     },
     {
-      "id": "schlund",
-      "mapId": "story",
-      "x": 26.88,
-      "y": 60,
-      "name": "Der Schlund der Finsternis",
-      "type": "Kultstätte",
-      "notes": "Kultstätte an der Windenden Winne; Luidpergas Ende und der Spiegel (Sessions 51-54).",
-      "lotse": "#/Orte/Der Schlund der Finsternis"
+     "markerId": "katakomben",
+     "caption": "S 32 · Endlich unter dem Tempel?"
     },
     {
-      "id": "dreywasser",
-      "mapId": "story",
-      "x": 33.75,
-      "y": 43.64,
-      "name": "Dreywasser",
-      "type": "Dorf",
-      "notes": "Ort am Myrkan, flussab von Wasserfels; Schiffsreise (Session 56).",
-      "lotse": "#/Orte/Dreywasser"
+     "markerId": "palitan",
+     "caption": "S 35 · Diebstahl und Flucht"
     },
     {
-      "id": "schattenfeld",
-      "mapId": "story",
-      "x": 36.25,
-      "y": 35.45,
-      "name": "Das Schattenfeld",
-      "type": "Geheimnis",
-      "notes": "Flussnahes Gebiet am Myrkan; Zwischenstation der Flussfahrt (21.07.997 LZ).",
-      "lotse": "#/Orte/Das Schattenfeld"
+     "markerId": "feenpfad",
+     "caption": "S 36 · Auf dem Mondpfad (09.07.997 LZ)",
+     "portal": true
     },
     {
-      "id": "beertal",
-      "mapId": "story",
-      "x": 38.25,
-      "y": 28.18,
-      "name": "Beertal",
-      "type": "Stadt",
-      "notes": "Freistadt am Myrkan, flussab von Dreywasser; Zwischenstopp der Schifffahrt (Sessions 57/58).",
-      "lotse": "#/Orte/Beertal"
+     "markerId": "sarnburg",
+     "caption": "S 41 · Wieder in Sarnburg (13.07.997 LZ)",
+     "portal": true
     },
     {
-      "id": "drugonsfuhrt",
-      "mapId": "story",
-      "x": 40,
-      "y": 14.55,
-      "name": "Drugonsfuhrt",
-      "type": "Dorf",
-      "notes": "Furt/Ort am Unterlauf des Myrkan. Kalibriert: 800 km von Wasserfels. Endpunkt der Schifffahrt (Sessions 59-61).",
-      "lotse": "#/Orte/Drugonsfuhrt"
+     "markerId": "jadans-huette",
+     "caption": "S 42 · Jardan 2.0"
     },
     {
-      "id": "seenland",
-      "mapId": "story",
-      "x": 25,
-      "y": 30.45,
-      "name": "Das Seenland",
-      "type": "Naturmarke",
-      "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Heratis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer; Wintermarsch der Gruppe gen Heratis (Sessions 67-72).",
-      "lotse": "#/Orte/Das Seenland"
+     "markerId": "sarnburg",
+     "caption": "S 43 · Interpretationen"
     },
     {
-      "id": "hoehle-im-seenland",
-      "mapId": "story",
-      "x": 28.75,
-      "y": 38.18,
-      "name": "Die Höhle im Seenland",
-      "type": "Untergrund",
-      "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; Lager der Gruppe (Sessions 64-67), danach Wintermarsch nach Heratis.",
-      "lotse": "#/Orte/Die Höhle im Seenland"
+     "markerId": "jadans-huette",
+     "caption": "S 43 · Interpretationen"
     },
     {
-      "id": "heratis",
-      "mapId": "story",
-      "x": 11.88,
-      "y": 93.64,
-      "name": "Heratis",
-      "type": "Ziel",
-      "notes": "Ankunft der Gruppe am 08.10.997 LZ (Session 72): freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner) — Mordserie, Magistratswahl; Ritual-Nacht (13./14.10.997 LZ) unter dem Herathion vereitelt (Sessions 77-83); Abreise per Schiff nach Süden (Session 86).",
-      "lotse": "#/Orte/Heratis"
+     "markerId": "sarnburg",
+     "caption": "S 44 · Prison Time (14.07.997 LZ)"
     },
     {
-      "id": "therum",
-      "mapId": "story",
-      "x": 35,
-      "y": 94.55,
-      "name": "Therum",
-      "type": "Stadt",
-      "notes": "Landung der Maravas Tochter nach Sturm und Finsterwasser (Session 92, „deutlich suedlicher“ als geplant); Silberkrug, Sturmvogel, Gunwartempel; Abreise am 03.11.997 LZ mit Magister Medipho Richtung Wandratis (Sessions 92-94).",
-      "lotse": "#/Orte/Therum"
+     "markerId": "fleadyne-schrein",
+     "caption": "S 47 · Erneuter Aufbruch - Die Suche nach dem zweiten Stein (14./15.07.997 LZ)"
     },
     {
-      "id": "galpinius",
-      "mapId": "story",
-      "x": 40,
-      "y": 86.36,
-      "name": "Galpinius",
-      "type": "Stadt",
-      "notes": "Ankunft am 05.12.997 LZ (Session 95): voellig ueberfuellte Kleinstadt, weil die Furgstrasse wegen Orks im Pass gesperrt ist; Tanniem und Elyra erloest; Gespraech mit Vorsteher Ugisold Kurandero bevorstehend (Session 96).",
-      "lotse": "#/Orte/Galpinius"
+     "markerId": "schaeferhain",
+     "caption": "S 48 · Unter der Linde (15.–16.07.997 LZ)"
     },
     {
-      "id": "riesheim",
-      "mapId": "story",
-      "x": 47.5,
-      "y": 79.09,
-      "name": "Riesheim",
-      "type": "Gebirge",
-      "notes": "Hochgebirge-Pass: Ork-Feldzug und Hoehlenkampf (Sessions 99-101); Rueckquerung mit der Karawane, „11 Wochen“ im schwersten Winter (Session 102).",
-      "lotse": "#/Orte/Riesheim"
+     "markerId": "vorbrin",
+     "caption": "S 49 · Tagesmampf (16.–17.07.997 LZ)"
     },
     {
-      "id": "ertrunkener-mond",
-      "mapId": "story",
-      "x": 50.94,
-      "y": 83.18,
-      "name": "Der Ertrunkene Mond",
-      "type": "Geheimnis",
-      "notes": "Taverne am schwarzen See; ein mythisches Wesen („keine Fee“) stellt vier Aufgaben, warnt vor Verfolgern und teleportiert die Gruppe in den Sommer (Session 102).",
-      "lotse": "#/Orte/Der Ertrunkene Mond"
+     "markerId": "wasserfels",
+     "caption": "S 49 · Tagesmampf (16.–17.07.997 LZ)"
     },
     {
-      "id": "isarfest",
-      "mapId": "story",
-      "x": 56.88,
-      "y": 88.64,
-      "name": "Isarfest",
-      "type": "Stadt",
-      "notes": "Bollwerk-Stadt in Zwinggard; Ankunft 05.07.998 LZ per Teleport (Session 102): Anodaras Gunwartempel, Schriftrolle „ein leben fuer ein leben“; Donnerhuf bleibt zurueck.",
-      "lotse": "#/Orte/Isarfest"
+     "markerId": "schlund",
+     "caption": "S 51 · Klopf, Klopf! (18.07.997 LZ)"
     },
     {
-      "id": "kyningswacht",
-      "mapId": "story",
-      "x": 62.5,
-      "y": 89.55,
-      "name": "Kyningswacht",
-      "type": "Dorf",
-      "notes": "Wehrort auf der Route von Isarfest Richtung Nachtwall (Session 102) — Bericht ueber die zwei Jungen vom Einsiedlerhof.",
-      "lotse": "#/Orte/Kyningswacht"
+     "markerId": "wasserfels",
+     "caption": "S 54 · Luidpergas Tod"
     },
     {
-      "id": "altstein",
-      "mapId": "story",
-      "x": 68.13,
-      "y": 90.91,
-      "name": "Feste Altstein",
-      "type": "Ziel",
-      "notes": "Wehrfeste im Nachtwall, Ankunft 23.08.998 LZ (Session 102); Gefangenschaft, Festmahl mit Bruder Aurevian, selenischer Steckbrief gegen Halfred — Abfuehrung (Sessions 103-106).",
-      "lotse": "#/Orte/Feste Altstein"
+     "markerId": "dreywasser",
+     "caption": "S 56 · Leinen los (19.–21.07.997 LZ)"
     },
     {
-      "id": "blutgrasweite",
-      "mapId": "story",
-      "x": 55.63,
-      "y": 92.27,
-      "name": "Blutgrasweite",
-      "type": "Naturmarke",
-      "notes": "Subtropische Savanne im Suedwesten (offizielle Lore); Durchquerung westwaerts 05.-21.09.998 LZ (Sessions 108-120): rote Flecken, Blutbluete, Kartografen-Skelette, Beseelter Stinkmohn, Gnureisser — Sommertochters Tod (Session 115).",
-      "lotse": "#/Orte/Blutgrasweite"
+     "markerId": "schattenfeld",
+     "caption": "S 56 · Leinen los (19.–21.07.997 LZ)"
     },
     {
-      "id": "ork-see",
-      "mapId": "story",
-      "x": 58.13,
-      "y": 90.45,
-      "name": "Ork-See (Großes Lager)",
-      "type": "Naturmarke",
-      "notes": "See in der Blutgrasweite; Grosses Ork-Lager: „Am nordlichen Ufer Lager um Lager. Tausende Orks.“ (Session 118) — Schneise von zwei Kilometern Breite, Halfreds Wettlauf-Flucht (Sessions 118-120).",
-      "lotse": "#/Orte/Blutgrasweite"
+     "markerId": "beertal",
+     "caption": "S 57 · Gold auf Schwarz (22.07.–10.08.997 LZ)"
     },
     {
-      "id": "baumriesenwald",
-      "mapId": "story",
-      "x": 50,
-      "y": 94.09,
-      "name": "Baumriesenwald",
-      "type": "Ziel",
-      "notes": "Dunkler Riesenwald am Fuss des schwarzen Hochgebirges (Kandidat: die offiziellen Blauen Klippen); Chronik-Ende: Die Gruppe reist seit dem 24.09.998 LZ durch ihn (Stand 26.09.998 LZ, Sessions 121-123).",
-      "lotse": "#/Orte/Baumriesenwald"
+     "markerId": "drugonsfuhrt",
+     "caption": "S 59 · Die geflügelten Boten (10.–28.08.997 LZ)"
+    },
+    {
+     "markerId": "seenland",
+     "caption": "S 62 · Durch den Sumpf (ab 01.09.997 LZ)"
+    },
+    {
+     "markerId": "hoehle-im-seenland",
+     "caption": "S 64 · Drugons Geschenk"
+    },
+    {
+     "markerId": "heratis",
+     "caption": "S 72 · Ankunft in Heratis (8.10.997 LZ)"
+    },
+    {
+     "markerId": "therum",
+     "caption": "S 92 · Land in Sicht (Therum)"
+    },
+    {
+     "markerId": "galpinius",
+     "caption": "S 95 · Ankunft in Galpinius (5.12.997 LZ)"
+    },
+    {
+     "markerId": "riesheim",
+     "caption": "S 99–101 · Orks im Pass (7.–22.12.997 LZ)"
+    },
+    {
+     "markerId": "galpinius",
+     "caption": "S 101 · Rückkehr nach Galpinius (22.12.997 LZ)"
+    },
+    {
+     "markerId": "riesheim",
+     "caption": "S 102 · Mit der Karawane über den Riesheim (22.12.997–02.03.998 LZ)"
+    },
+    {
+     "markerId": "ertrunkener-mond",
+     "caption": "S 102 · Der Ertrunkene Mond (18.03.998 LZ)"
+    },
+    {
+     "markerId": "isarfest",
+     "caption": "S 102 · Teleport in den Sommer — Bollwerk Isarfest (05.07.998 LZ)",
+     "portal": true
+    },
+    {
+     "markerId": "kyningswacht",
+     "caption": "S 102 · Kyningswacht (15.07.998 LZ)"
+    },
+    {
+     "markerId": "altstein",
+     "caption": "S 102–106 · Feste Altstein (ab 23.08.998 LZ)"
+    },
+    {
+     "markerId": "blutgrasweite",
+     "caption": "S 108–120 · Durchquerung der Blutgrasweite (05.–21.09.998 LZ)"
+    },
+    {
+     "markerId": "ork-see",
+     "caption": "S 118–120 · Das Große Ork-Lager am See (19.–21.09.998 LZ)"
+    },
+    {
+     "markerId": "baumriesenwald",
+     "caption": "S 121–123 · Baumriesenwald — Chronik-Ende (ab 21.09.998 LZ)"
     }
-  ],
-  "routes": [
-    {
-      "id": "r1",
-      "label": "Der Weg der Gruppe (Sessions 01–123)",
-      "color": "#7fd1c7",
-      "statusIndex": 61,
-      "waypoints": [
-        {
-          "markerId": "unterwalde",
-          "caption": "S 01 · Falkenfelde (06.04.997 LZ)"
-        },
-        {
-          "markerId": "falkenfelde",
-          "caption": "S 01 · Falkenfelde (06.04.997 LZ)"
-        },
-        {
-          "markerId": "unterwalde",
-          "caption": "S 02 · Das Fest (07.04.997 LZ)"
-        },
-        {
-          "markerId": "kerker",
-          "caption": "S 03 · Der Kerker"
-        },
-        {
-          "markerId": "suedliche-zitadellen",
-          "caption": "S 04 · Der Fenstersturz"
-        },
-        {
-          "markerId": "unbenannter-wald",
-          "caption": "S 05 · Flucht nach Westen"
-        },
-        {
-          "markerId": "felsspalte",
-          "caption": "S 06 · Die Felsspalte - Doreans Sturz (ca. 15. Saatmond)"
-        },
-        {
-          "markerId": "unbenannter-wald",
-          "caption": "S 07 · Weiterreise mit Schwerverletztem (ca. 16. Saatmond)"
-        },
-        {
-          "markerId": "suedliche-zitadellen",
-          "caption": "S 10 · Fitzban der Große (9. Tag nach dem Fenstersturz)"
-        },
-        {
-          "markerId": "fischerdorf",
-          "caption": "S 11 · Das Fischerdorf"
-        },
-        {
-          "markerId": "braunwacht",
-          "caption": "S 13 · Braunwacht (27.04.997 LZ)"
-        },
-        {
-          "markerId": "grosser-weg",
-          "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
-        },
-        {
-          "markerId": "hof-hibbel",
-          "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
-        },
-        {
-          "markerId": "caltentrutz",
-          "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
-        },
-        {
-          "markerId": "arwingen",
-          "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
-        },
-        {
-          "markerId": "sudfang",
-          "caption": "S 16 · Auf nach Sarnburg (6.5.997 bis 15.5.997 LZ)"
-        },
-        {
-          "markerId": "rubensmark",
-          "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
-        },
-        {
-          "markerId": "zirken",
-          "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
-        },
-        {
-          "markerId": "sudfang",
-          "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
-        },
-        {
-          "markerId": "wegkreuz",
-          "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
-        },
-        {
-          "markerId": "glimmwacht",
-          "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
-        },
-        {
-          "markerId": "feuertal",
-          "caption": "S 17 · Südfang und der Alchemist (19.5.997 LZ bis 26.6.997 LZ)"
-        },
-        {
-          "markerId": "sarnburg",
-          "caption": "S 18 · Ankunft in Sarnburg (26.6.997 LZ)"
-        },
-        {
-          "markerId": "mondpfad",
-          "caption": "S 21 · Die Flucht durch das Mondtor (28.6.997 LZ)"
-        },
-        {
-          "markerId": "feenwald",
-          "caption": "S 22 · Der Mondpfad (28.6.997 LZ)"
-        },
-        {
-          "markerId": "mondpfad",
-          "caption": "S 25 · Der blaue Berg (29.6.997 LZ(?))"
-        },
-        {
-          "markerId": "palitan",
-          "caption": "S 26 · Durch das Wabern nach Palitan (29.6.997 LZ(?) bis 06.07.997 LZ)",
-          "portal": true
-        },
-        {
-          "markerId": "katakomben",
-          "caption": "S 28 · In die Katakomben (08.07.997 LZ)"
-        },
-        {
-          "markerId": "palitan",
-          "caption": "S 32 · Endlich unter dem Tempel?"
-        },
-        {
-          "markerId": "katakomben",
-          "caption": "S 32 · Endlich unter dem Tempel?"
-        },
-        {
-          "markerId": "palitan",
-          "caption": "S 35 · Diebstahl und Flucht"
-        },
-        {
-          "markerId": "feenpfad",
-          "caption": "S 36 · Auf dem Mondpfad (09.07.997 LZ)",
-          "portal": true
-        },
-        {
-          "markerId": "sarnburg",
-          "caption": "S 41 · Wieder in Sarnburg (13.07.997 LZ)",
-          "portal": true
-        },
-        {
-          "markerId": "jadans-huette",
-          "caption": "S 42 · Jardan 2.0"
-        },
-        {
-          "markerId": "sarnburg",
-          "caption": "S 43 · Interpretationen"
-        },
-        {
-          "markerId": "jadans-huette",
-          "caption": "S 43 · Interpretationen"
-        },
-        {
-          "markerId": "sarnburg",
-          "caption": "S 44 · Prison Time (14.07.997 LZ)"
-        },
-        {
-          "markerId": "fleadyne-schrein",
-          "caption": "S 47 · Erneuter Aufbruch - Die Suche nach dem zweiten Stein (14./15.07.997 LZ)"
-        },
-        {
-          "markerId": "schaeferhain",
-          "caption": "S 48 · Unter der Linde (15.–16.07.997 LZ)"
-        },
-        {
-          "markerId": "vorbrin",
-          "caption": "S 49 · Tagesmampf (16.–17.07.997 LZ)"
-        },
-        {
-          "markerId": "wasserfels",
-          "caption": "S 49 · Tagesmampf (16.–17.07.997 LZ)"
-        },
-        {
-          "markerId": "schlund",
-          "caption": "S 51 · Klopf, Klopf! (18.07.997 LZ)"
-        },
-        {
-          "markerId": "wasserfels",
-          "caption": "S 54 · Luidpergas Tod"
-        },
-        {
-          "markerId": "dreywasser",
-          "caption": "S 56 · Leinen los (19.–21.07.997 LZ)"
-        },
-        {
-          "markerId": "schattenfeld",
-          "caption": "S 56 · Leinen los (19.–21.07.997 LZ)"
-        },
-        {
-          "markerId": "beertal",
-          "caption": "S 57 · Gold auf Schwarz (22.07.–10.08.997 LZ)"
-        },
-        {
-          "markerId": "drugonsfuhrt",
-          "caption": "S 59 · Die geflügelten Boten (10.–28.08.997 LZ)"
-        },
-        {
-          "markerId": "seenland",
-          "caption": "S 62 · Durch den Sumpf (ab 01.09.997 LZ)"
-        },
-        {
-          "markerId": "hoehle-im-seenland",
-          "caption": "S 64 · Drugons Geschenk"
-        },
-        {
-          "markerId": "heratis",
-          "caption": "S 72 · Ankunft in Heratis (8.10.997 LZ)"
-        },
-        {
-          "markerId": "therum",
-          "caption": "S 92 · Land in Sicht (Therum)"
-        },
-        {
-          "markerId": "galpinius",
-          "caption": "S 95 · Ankunft in Galpinius (5.12.997 LZ)"
-        },
-        {
-          "markerId": "riesheim",
-          "caption": "S 99–101 · Orks im Pass (7.–22.12.997 LZ)"
-        },
-        {
-          "markerId": "galpinius",
-          "caption": "S 101 · Rückkehr nach Galpinius (22.12.997 LZ)"
-        },
-        {
-          "markerId": "riesheim",
-          "caption": "S 102 · Mit der Karawane über den Riesheim (22.12.997–02.03.998 LZ)"
-        },
-        {
-          "markerId": "ertrunkener-mond",
-          "caption": "S 102 · Der Ertrunkene Mond (18.03.998 LZ)"
-        },
-        {
-          "markerId": "isarfest",
-          "caption": "S 102 · Teleport in den Sommer — Bollwerk Isarfest (05.07.998 LZ)",
-          "portal": true
-        },
-        {
-          "markerId": "kyningswacht",
-          "caption": "S 102 · Kyningswacht (15.07.998 LZ)"
-        },
-        {
-          "markerId": "altstein",
-          "caption": "S 102–106 · Feste Altstein (ab 23.08.998 LZ)"
-        },
-        {
-          "markerId": "blutgrasweite",
-          "caption": "S 108–120 · Durchquerung der Blutgrasweite (05.–21.09.998 LZ)"
-        },
-        {
-          "markerId": "ork-see",
-          "caption": "S 118–120 · Das Große Ork-Lager am See (19.–21.09.998 LZ)"
-        },
-        {
-          "markerId": "baumriesenwald",
-          "caption": "S 121–123 · Baumriesenwald — Chronik-Ende (ab 21.09.998 LZ)"
-        }
-      ]
-    }
-  ]
+   ]
+  }
+ ]
 }
