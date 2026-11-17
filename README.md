@@ -31,4 +31,5 @@ Einmalige Aktivierung: Repo-Settings → Pages → Branch `main`, Ordner `/ (roo
 
 - Chronik nur lesen, niemals bearbeiten.
 - Wiki-Seiten nie umbenennen (Wikilinks, Web-Anker und Manifest brechen sonst).
+- Heldenseiten: oben `## Steckbrief` (Fähigkeiten, Besitz, Ziele, Offene Fäden), darunter die Reise als knapper Fließtext pro Abschnitt — Details siehe `_Fortschritt.md`.
 - Nichts erfinden: Was die Chronik nicht hergibt, bleibt „unbekannt".

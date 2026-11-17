@@ -2,47 +2,49 @@
 type: person
 title: Wulfast
 aliases: [Wulffast, Robar]
-status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); im Baumriesenwald (Stand 26.09.998 LZ)
+status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)
 kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).
 ---
 # Wulfast
 
-- Rettung in der Nacht (Session 84): Nach Aikyrs Gewinnflucht aus der [[Die Goldene Suppenküche|Goldenen Suppenküche]] greifen in einer dunklen Gasse drei Männer nach ihm — „du hast zu viel mitgenommen“; „Auf einmal taucht ein großer Mann mit einem Stab auf und bedroht die Friedensstifter. er stellt sich als Wulfast vor, er scheint Vangaragläubig.“ Aikyr lädt ihn auf ein Bier ein.
-- Erscheinung (Session 85): „gebaut wie ein Schrank mit Sehnen wie Taue“; Schultern „breit wie Türflügel“; bronzeschimmernde Schuppenrüstung; ein unbekanntes Zeichen auf dunklem Stoff („ein Drache vielleicht, ein Mond, oder was auch immer“); riesiger Schild; ein Stab „aus dunklem Holz … am oberen Ende sitzt eine Klinge … geschwungen wie ein Raubtierzahn, beidseitig geschärft“ — das Metall „fast silbern“, umgeben von „ein feiner, bläulicher Schein“; das Gesicht halb im Schatten der Kapuze; schweigsam („in der letzten Stunde kaum mehr als zehn Worte gesagt“).
-- Sein Auftrag (Session 85): Er zieht „einen Steckbrief mit den Gesichtern von Dorian und Halfred aus der Tasche“ — ist aber „kein Kopfgeldjäger“, sondern der Gruppe „schon eine Weile auf der Spur“: „von Sarnburg. über Wasserfels“; er sprach „mit einen der Fischer gesprochen [sic], dessen Freund dorian mit seinem schwarzen schwert umd gebracht hat [sic]“; „Er ist der Meinung, dass höhere Mächte mit uns unterwegs sind, über die wir vermutlich keine Kontrolle haben und vielleicht niemals haben werden. Er denkt, dass sein Orden Interesse an uns hat und dass er denkt, dass wir von mehr als einer Gottheit Hilfe brauchen, wenn wir bestehen wollen.“
-- Mit Aikyr (Sessions 84/85): Die beiden sitzen schweigend „bei einem Bier, bis die ersten Sonnenstrahlen durchs Fenster strahlen“; Aikyr droht ihm, „ihn Platt zu machen, falls er seinen Freunden in der Nacht was antut“ — dann geht er ins Bett.
-- Am Tisch der Gruppe (Session 86, 14.10.997 LZ): Start-Beobachtung des neuen Gefährten — „Sind sie wirklich jene, die das Licht bringen? Oder sind sie nur die Fackelträger – die das Feuer nicht zähmen, sondern es ungewollt in die Welt hinaustragen?“; er sieht [[Paian]]s Müdigkeit („Die Art Müdigkeit, die keine Nacht mehr heilt“), [[Halfred]]s Last, [[Sira]]s „stille[r] Wut“ und das Loch, das [[Dorean]] hinterlässt. Als sich die Gruppe erhebt: „Und du stehst auf.“
-- Chronik-Schreibungen: „Wulfast“ · „Wulffast“ [sic] (Sessions 84/85) — beide wörtlich; die Seite läuft unter „Wulfast“.
-- Offen: Name und Ziele seines Ordens und was der Orden mit der Gruppe vorhat; ob der Fischer und sein Freund („dessen Freund dorian … umd gebracht hat“ [sic]) mit Dorians altem Pakt zu tun haben — die Chronik-Stelle ist unklar formuliert, wörtlich belassen.
+## Steckbrief
 
+### Fähigkeiten
+- Ordenskrieger der Vangara: Nahkampf mit Stab und großem Schild.
+- Lichtmagie: Lichtblitze aus der Hand, Lichtbarriere (mit [[Sira]]).
+- Gebete an Vangara: Beistand für die Gruppe, Predigten, das Brechen eines Bandes, das Gequälte am Leben hielt (Session 94).
+- Beschwört gerüstete Krieger mit Vangarastab, in der Chronik Wardei bzw. Vardai genannt.
 
-## Sessions 87–96: Lichtblitze, Vangara, der Band-Brecher
+### Besitz
+- Vangarastab: gut zwei Meter, dunkles Holz, oben eine fast silberne, beidseitig geschärfte Klinge mit bläulichem Schein; passt in einen Beutel an seinem Gürtel. In Altstein beschlagnahmt, bei der Entlassung zurückerhalten.
+- Bronzeschimmernde Schuppenrüstung (in Isarfest gerichtet), riesiger Schild, Gewand mit unbekanntem Zeichen.
+- Ein Steckbrief mit den Gesichtern von [[Dorean]] und [[Halfred]].
+- Vom [[Der Ertrunkene Mond|Ertrunkenen Mond]] ein Trank.
 
-- Auf See (Session 89): „Wulfast schießt einen Lichtblitz nach dem anderen aus seiner Hand in eines der Tentakel und zieht damit den zorn des Wesens auf sich.“ (→ [[Finsterwasser]])
-- Predigt (Session 90): „Wulfast hält eine kurze Predigt, in der er den Mut der Mannschaft lobt und seiner Herrin Vangara um ihren Beistand dankt.“
-- Warnung (Session 92): „Wulfast trau Tetsulan nicht, als er die anderen schon im Bett sind ermahnt er ihn die informationen die wir ihm gegeben haben nicht gegen uns zu benutzen, Vangara, seine Herrin sei eine Rachsüchtige Göttin.“
-- Katakomben (Session 94): errichtet mit Sira „eine Barriere aus schimmernden Licht“ gegen die Ghulen; spießt [[Medipho]] auf; „wulfast erkennt, das die Gefangenen wohl von dem Artefekt [sic] am Leben gehalten werden und bittet seine Herrin Vangara das Band zu brechen, was gelingt, und Gequälten können endlich Frieden finden.“
-- Rückweg (Session 95): Der Wulfast-Start: „Die Katakomben. Das Flüstern. Die Stele, die wie ein offenes Auge in die Welt blickte. Der Wahnsinn im Blick des Magiers. Die vier Käfige. Das Gefühl, dass dort kein Gebet hinreichte“ — über die Gefährten: „Dennoch schwebt eine dünne Schicht Fremdheit über ihnen.“
-- Heuschober (Session 95): „Wulfast zerdeppert den Käfig recht ungeschickt“ — der Vogel bleibt trotzdem.
-- Galpinius (Session 96): geht mit Aikyr und Sira zu Kurandero: „Gehen zum größten Haus der Stadt, stehen davor.“ (offen: das Gespräch gehört zum nächsten Abschnitt)
+### Ziele
+- Der Gruppe im Auftrag seines Ordens folgen: Höhere Mächte reisen mit ihr, und sie braucht die Hilfe von mehr als einer Gottheit.
+- Zum [[Löwenlager]], wo die [[Die Roten Spuren|Roten Spuren]] beginnen (Session 107); die Gruppe ist dem nicht gefolgt.
+- Gegen die Korruption kämpfen, die die Welt ergriffen hat, aber nicht noch einmal zu den Orkmüttern in die Blutgrasweite.
 
-## Sessions 97–106: Robar, der Stab, die Vardai
+### Offene Fäden
+- Name und Ziele seines Ordens, und was er mit der Gruppe vorhat.
+- Was sind die Wardei bzw. Vardai, und was beschwor er gegen die [[Gnureißer]]?
+- „Robar“ aus [[Unterwalde]]: Seine Eltern übernahmen einen Hof nahe den [[Verheerte Lande|Verheerten Landen]], seine Großeltern lebten in Unterwalde. Aikyr kannte seine Fährte.
+- Was durchschnitt im Blutgras seine Armschiene?
+- Der Fischer, dessen Freund Dorean mit dem Schwarzen Schwert getötet haben soll.
 
-- Galpinius (Session 97): „Wulfast macht sich auf den Weg, noch eine Runde durch den Schnee zu rennen, gibt Aikyr seine Ausrüstung und steckt seinen 2m langen Vangarastab in einen Beutel an seinem Gürtel.“ (Aikyr fragt sich, „wie viele Salamis da wohl reinpassen“.)
-- Die Robar-Beichte (Session 99, Riesheim): „Bei den Nachtwachen unterhält sich Wuklfast [sic] lange mit Aikyr und Paina [sic]. Fragt sie viel nach Unterwalde und ihrer Familie. Aikyr merkt einen Geruch, der von Wulfast ausgeht, wie eine Fährte, die er schon einmal gewittert hat.“ Darauf angesprochen: „erzählt Wulfast ihm, dass er Ursprünglich [sic] auch aus Unterwalde kommt, seine Eltern aber einen Hof in der Nähe der verheerten Lande übernommen haben. Seine Großeltern leben oder lebten noch in Unterwalde. Sein Name damals war ‚Robar‘. Aikyr ist empört. Keine geheimnisse [sic] mehr. Am nächsten Tag erzählt es Wulfast auch dem Rest der Gruppe. Der rest erzählt von ihren Feenpackten [sic] die sie in Herratis eingegangen sind.“ (→ [[Unterwalde]], [[Verheerte Lande]])
-- Die Ork-Rettung (Session 100): „Aikyr riecht rauch und Wulfast holt uns zusammen und spricht ein Gebet und erbittet Vangaras hilfe (nächster VDT +3). Eiserne Aura von Sira.“
-- Der Höhlenkampf (Session 101): „Wulfast ruft mit einem Gebet an seine Herrin Vangara einen Wardei [sic] herbei, einen gerüsteten Krieger mit einem Vangarastaab.“ — der Gerüstete „schlitzt [dem Orkboss] den Bauch auf“; der letzte Ork: „Aikyr wirft ihn nieder und Wulfast rammt ihm den Vangarastab in die Brust.“ Danach: „Wufast [sic] hackt dem großen den Kopf ab.“
-- Die ewige Wacht (Session 102): „Wulfast hät [sic] den nachtwache haltenden vortäge über die ‚ewige wacht‘ … was sie schweigend abnicken.“
-- Isarfest (Session 102): „Wulfast geht zu einer Rüstungsmacherin für einen aufschlag von 10 lunaren richtet sie seine rüstung bis zum abend.“
-- Feste Altstein (Sessions 103–106): Der Stab-Konflikt: „sie nehemne [sic] uns ihre sachen ab. Wulfast möchte seinen Stab nicht abgeben… die Wachen prügel ihn nieder, er verletzt mehrere von ihenn [sic] schwer, wird aber schließlich niedergerungen.“ In der Zelle: „Wulfast wacht auf und beschwört zwei Vardai. [sic] Paian und und [sic] aikyr reden auf ihn ein, denn er möchte alle umbringen um seinen stab wieder zu bekommen.“ Auf Ordas Ansprache „reagiert der aggressiv und stampft davon“; „Wulfast schmollt.“ Beim Festmahl-Einlass: „in der Festhalle is [sic] es verboten zu Zaubern, zuwiderhandeln wird mit dem Tode bestraft. Wulfast lehnt das ab und lässt sich zurückbringen.“
-- Offen: Was die Wardei/Vardai [sic] sind (Gerüstete Krieger mit Vangarastab — von Vangara gesandt?); ob „Robar“ sein Taufname ist; was mit dem Stab geschah.
+## Sessions 84–86: Heratis
 
-## Sessions 107–123: Stab zurückerhalten — Löwenlager, die Ebene, der Wald
+Wulfast taucht in einer dunklen Gasse auf, als drei Männer [[Aikyr]] den Gewinn aus der [[Die Goldene Suppenküche|Goldenen Suppenküche]] abnehmen wollen: ein Mann wie ein Schrank, mit Stab und Kapuze, der in einer Stunde kaum zehn Worte sagt. Er trägt einen Steckbrief von Dorean und Halfred, ist aber kein Kopfgeldjäger. Er folgt der Gruppe seit Sarnburg über Wasserfels, weil sein Orden an ihr interessiert ist. Aikyr sitzt schweigend bis zum Morgen mit ihm beim Bier und droht ihm für den Fall, dass er den Freunden etwas antut. Am Tag nach der Ritual-Nacht sitzt Wulfast mit am Tisch, sieht Paians Müdigkeit, Halfreds Last, Siras stille Wut und die Lücke, die Dorean hinterlässt, und fragt sich, ob diese Leute das Licht bringen oder es nur ungewollt in die Welt tragen. Als sie aufstehen, steht er mit auf.
 
-- Der Stab (Session 107): „Treffen Wulfast draußen, er hat seinen Stab zurückerhalten." — nach dem Konflikt um den beschlagnahmten Stab (Sessions 103–104) gibt ihn Altstein bei der Entlassung zurück. Er thematisiert Halfreds Schuld: „Wulfast meint, dass er durch das Blut hunderter Sünder waten würde um tausend unschuldige zu retten."
-- Das Löwenlager (Session 107): „Wulfast mein [sic], dass wir zum Löwenlager müssen, dort beginnen die ‚Roten Spuren‘." — das Ziel wurde nicht weiterverfolgt; die Gruppe zog in die Blutgrasweite. (→ [[Löwenlager]])
-- Der Schild im Gras (Session 108): „Eine weile geht Wulfast voraus und macht mit seinem schild die halme platt doch muss nach kurzer zeit erschöpft aufgeben."
-- Die Armschiene (Session 109): „Wulfast fällt langsam zurück und ist nachdem er in gedanken versunken ist auf einmal mehr als 300 meter entfernt im Gras. Plötzlich ein metallenes kreischen. etwas hat seine armschiene durchschnitten." (offen: was ihn durchschnitt — die Chronik nennt kein Wesen)
-- Der Gnureißer-Kampf (Sessions 113/115): „Paian und Wulfast senden Stoßgebete an ihre Gottheiten." — dann, wörtlich unvollständig: „harter kampf… wulfast beschwört einen." — was er beschwor, hält die Chronik nicht fest (ein Wardei/Vardai? offen).
-- Die Wachen (Sessions 118–119): Beim Ork-Lager Schleichmanöver; „Wulfast versucht Wache zu halten doch schläft nach wenigen minuten ein."
-- Der Riesenwald (Sessions 121–122): Mit Paian skeptisch: „Wenn es der kampf gegen die Korruption ist die die ganze Welt ergriffen hat sind sie gerne bereit zu helfen. wenn es bedeutet noch einmal in die Blutgrasweite zu reisen und Orkmütter/orklager aufzusuchen, dann sind sie eher dagegen." (→ [[Baumriese]])
+## Sessions 87–106: Ewige See, Galpinius und Altstein
+
+Gegen das [[Finsterwasser]] zieht er mit Lichtblitzen den Zorn des Wesens auf sich und dankt danach Vangara mit einer Predigt vor der Mannschaft. [[Tetsulan]] warnt er, dass seine Herrin eine rachsüchtige Göttin sei. In [[Mediphos Katakomben]] spießt er [[Medipho]] auf und bittet Vangara, das Band zu brechen, das die Gefangenen am Leben hält. Die Gequälten finden Frieden. Am [[Riesheim]] fragt er die anderen über Unterwalde aus, bis Aikyr seine Fährte erkennt; dann beichtet er, dass er dort als „Robar“ geboren wurde, und die Gruppe erzählt ihm im Gegenzug von ihren Feenpakten. Im Höhlenkampf ruft er einen Wardei, der dem Orkboss den Bauch aufschlitzt. In der [[Feste Altstein]] will er seinen Stab nicht abgeben, verletzt mehrere Wachen schwer und beschwört in der Zelle zwei Vardai, bis [[Paian]] und Aikyr ihn beruhigen. Das Festmahl mit Zauberverbot lehnt er ab.
+
+## Sessions 107–123: Blutgrasweite und Baumriesenwald
+
+Mit zurückerhaltenem Stab hält er Halfreds Schuldgefühlen entgegen, dass er für tausend Unschuldige durch das Blut hunderter Sünder waten würde. Er will zum Löwenlager, doch die Gruppe zieht in die [[Blutgrasweite]]. Dort walzt er mit dem Schild das Gras nieder, bis er erschöpft aufgibt, fällt in Gedanken zurück und verliert seine Armschiene an etwas Unsichtbares. Gegen die Gnureißer betet er und beschwört Hilfe, auf Wache am Ork-Lager schläft er nach Minuten ein. Im [[Baumriesenwald]] ist er bereit, gegen die Korruption zu helfen, aber skeptisch gegenüber einer Rückkehr ins Gras.
+
+## Sessions 124–125: Durch die schwarze Masse
+
+Mit einem Stoßgebet treibt Wulfast Halfred durch die schwarze Masse. Vor der fleischigen Spalte sagt er „Lasst mich euren Schild sein.“, setzt den Helm auf und geht als Erster hindurch. Unten zertritt er ein großes Auge und steht mit den anderen vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]].
