@@ -5,10 +5,11 @@ title: _Fortschritt
 # Destillations-Fortschritt
 
 ## Stand
-- Verarbeitet: Sessions 01–125, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis „In der Dunkelheit“ (Eintrag 10.11.2026; die Gruppe steht am Fuß eines schwarzen Gebirges). EP-Stand: 388.
+- Verarbeitet: Sessions 01–126, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis „Bushwhack“ (Eintrag 17.11.2026; die Gruppe steigt am 27.09.998 LZ ins schwarze Gebirge, Halfred ist ein Busch). EP-Stand: 395.
 - Nachtrag 17.11.2026: Sessions 124 („Moisturize me !“, Eintrag 27.10.2026) und 125 („In der Dunkelheit (Eklige forest vagina)“, Eintrag 10.11.2026). Beide ohne in-world-Datum. Neue Seiten: [[Das dreiäugige Wesen]], [[Der schwarze Samenstein]] (beides Hilfsnamen). EP: +3 in Session 124 (388), keine Vergabe in Session 125.
-- Nächster Abschnitt: neue Chronik-Einträge ab Session 126.
-- Rohtext-Stand: Google Doc „Die Chronik“, zuletzt geändert 10.11.2026.
+- Nachtrag 20.11.2026: Session 126 („Bushwhack“); EP für Session 125 (+5) nachgetragen. Der Spielleiter hat in ältere Abschnitte Vorlesetexte eingefügt; daraus übernommen: der Name [[Sabella Perhaus]] (Session 106) und Aurevians Emblem. Neue Seiten: [[Sabella Perhaus]], [[Schwarzes Gebirge]] (Hilfsname).
+- Nächster Abschnitt: neue Chronik-Einträge ab Session 127.
+- Rohtext-Stand: Google Doc „Die Chronik“, zuletzt geändert 19.11.2026.
 
 ## Konventionen
 - Session-Nummern folgen den realen Session-Blöcken der Chronik; die Prologe „Falkenfelde“ bis „Der Fenstersturz“ zählen als Sessions 01–04.
@@ -153,7 +154,7 @@ Lore-Abgleich (Splitterwiki, 24.10.2026): [[Patalis]], die [[Die Ewige See|Ewige
 - Die Verfolger („diener der gagamba und der orden aus selenia“): Rückstand 10 Tage (Session 102), später „etwa 7 tage hinter uns“ (Einsiedlerhof, Session 102) — wo sind sie jetzt, und was ist aus dem selenischen Orden (vgl. [[Die Erleuchteten]], Batch 5) geworden?
 - Die TICKEN-Vision (15.08.998 LZ): „hunderte kleine komete ziehen über den himmel. sanfte bögen. TICKEN“ — „Körper verändern sich. graue leiber. münder öffnen sich, messerscharfe zähne.“; die Kometen mit „ein bläulcihen [sic] schimmer, dem splittermond nicht unähnlich“ — warum „waren die anderen monde nicht da“? War es „ein angriff auf uns, oder … eine vision der zukunft“? Nicht-Verwandelte im Umfeld = nicht magisch — warum? Verbindung zu den TICKEN-Markern des [[Herz der Gagamba]] (Batch 5/6)?
 - Urmok-Geist: Paian beschwört nach dem Dorf-Überfall „den Geist urmoks“, der „widerwillig bei ihm bleibt“ (Session 102) — was will der Geist, und was folgt aus der Bindung?
-- Perhaus: „eine ‚Perhaus‘ ist angekommen“ in Altstein (Session 102) — den Namen kennen wir „aus einem brief von tuver isenblut“ (Session 73) — wer oder was ist Perhaus, und was will es in Altstein?
+- Perhaus: „eine ‚Perhaus‘ ist angekommen“ in Altstein (Session 102) — den Namen kennen wir „aus einem brief von tuver isenblut“ (Session 73) — seit der Chronik-Ergänzung vom 19.11.2026 benannt: die schwarzhaarige Frau [[Sabella Perhaus]]; was will sie in Altstein?
 - „..wie vereinbart“ (Session 105): Der Selenier spricht mit einer Wache über „Brenja“ — was wurde zwischen [[Bruder Aurevian]] bzw. Selenia und Brenja/der Wache vereinbart? „Als der Selenier Wulfast bemerkt, wirkt er ertappt.“
 - Die Geweih-Frau (Paians Geisterblick, Session 105): „eine besorge [sic] Frau in einem leichten Gewand. ein Hirschgeweih thront auf ihrem Haupt. Sie eilt nach Norden.“ — und der geisterhafte Fuchs, der „nach nordosten“ knurrt; dann kommt „die Lady mit Gweih [sic] durch das Tor … verhält sich wie ein Reh“ — wer ist sie (Herilie?), und was kündigt sie an? Parallele zur geisterhaften Frau am Fleadyne-Schrein?
 - Die schwarzhaarige Frau in goldener Rüstung (Festmahl, Session 106): Ulfert prostet ihr anerkennend zu; Aikyr riecht an ihr „wie ein Jäger. wie in den Katakomben unter Wasserfels, ein Geruch wie von dem and [sic] ie [sic] Wand geketteten Vargen“ — wer ist sie, und warum „ist eine vene dick angeschwollen…. als würde sie einen Tobsuchtsanfall unterdrücken“? Zusammenhang mit dem [[Der angekettete Varg|angeketteten Vargen]] (Batch 4) und der Kakerlake aus den Wasserfels-Katakomben?

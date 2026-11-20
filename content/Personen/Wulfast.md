@@ -2,7 +2,7 @@
 type: person
 title: Wulfast
 aliases: [Wulffast, Robar]
-status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)
+status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)
 kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).
 ---
 # Wulfast
@@ -45,6 +45,6 @@ Gegen das [[Finsterwasser]] zieht er mit Lichtblitzen den Zorn des Wesens auf si
 
 Mit zurückerhaltenem Stab hält er Halfreds Schuldgefühlen entgegen, dass er für tausend Unschuldige durch das Blut hunderter Sünder waten würde. Er will zum Löwenlager, doch die Gruppe zieht in die [[Blutgrasweite]]. Dort walzt er mit dem Schild das Gras nieder, bis er erschöpft aufgibt, fällt in Gedanken zurück und verliert seine Armschiene an etwas Unsichtbares. Gegen die Gnureißer betet er und beschwört Hilfe, auf Wache am Ork-Lager schläft er nach Minuten ein. Im [[Baumriesenwald]] ist er bereit, gegen die Korruption zu helfen, aber skeptisch gegenüber einer Rückkehr ins Gras.
 
-## Sessions 124–125: Durch die schwarze Masse
+## Sessions 124–126: Schwarze Masse und Gebirge
 
-Mit einem Stoßgebet treibt Wulfast Halfred durch die schwarze Masse. Vor der fleischigen Spalte sagt er „Lasst mich euren Schild sein.“, setzt den Helm auf und geht als Erster hindurch. Unten zertritt er ein großes Auge und steht mit den anderen vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]].
+Mit einem Stoßgebet treibt Wulfast Halfred durch die schwarze Masse. Vor der fleischigen Spalte sagt er „Lasst mich euren Schild sein.“, setzt den Helm auf und geht als Erster hindurch. Unten zertritt er ein großes Auge und steht mit den anderen vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]]. In der ersten Nacht im Gebirge erwacht er, findet Halfred verschwunden und weckt die anderen.

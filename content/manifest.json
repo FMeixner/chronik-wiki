@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–125 · Stand der Chronik 10.11.2026",
+  "coverage": "Sessions 01–126 · Stand der Chronik 19.11.2026",
   "pages": [
     {
       "path": "index",
@@ -50,7 +50,7 @@
       "path": "Personen/Aikyr",
       "type": "person",
       "title": "Aikyr",
-      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
+      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)",
       "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.",
       "aliases": [
         "Aikir",
@@ -192,7 +192,7 @@
       "path": "Personen/Halfred",
       "type": "person",
       "title": "Halfred",
-      "status": "lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
+      "status": "lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); in einen Busch verwandelt, in Paians Pflanztopf; im schwarzen Gebirge (Stand 27.09.998 LZ, Session 126)",
       "kurz": "Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.",
       "aliases": [],
       "held": true,
@@ -319,7 +319,7 @@
       "path": "Personen/Paian",
       "type": "person",
       "title": "Paian",
-      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
+      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)",
       "kurz": "Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.",
       "aliases": [],
       "held": true,
@@ -369,7 +369,7 @@
       "path": "Personen/Sira",
       "type": "person",
       "title": "Sira",
-      "status": "lebendig; entlassen aus der Feste Altstein (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
+      "status": "lebendig; entlassen aus der Feste Altstein (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)",
       "kurz": "Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.",
       "aliases": [],
       "held": true,
@@ -2408,7 +2408,7 @@
       "path": "Personen/Wulfast",
       "type": "person",
       "title": "Wulfast",
-      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); durch die schwarze Masse im Baumriesenwald an den Fuß eines schwarzen Gebirges gelangt (Stand Session 125)",
+      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)",
       "kurz": "„Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).",
       "aliases": [
         "Wulffast",
@@ -3137,6 +3137,33 @@
       ],
       "held": false,
       "w": 60
+    },
+    {
+      "path": "Personen/Sabella Perhaus",
+      "type": "person",
+      "held": false,
+      "w": 55,
+      "title": "Sabella Perhaus",
+      "status": "lebendig; zuletzt in der Feste Altstein (Session 106)",
+      "kurz": "Schwarzhaarige Frau in goldener Plattenrüstung beim Festmahl in der Feste Altstein; ihr Name stand schon in einem Brief von Tuver Isenblut. Aikyr roch an ihr den angeketteten Varg.",
+      "aliases": [
+        "Perhaus",
+        "Die schwarzhaarige Frau",
+        "Schwarzhaarige Frau in goldener Rüstung"
+      ]
+    },
+    {
+      "path": "Orte/Schwarzes Gebirge",
+      "type": "ort",
+      "held": false,
+      "w": 75,
+      "title": "Schwarzes Gebirge",
+      "status": "bestehend — die Gruppe steigt seit Session 126 hinein (Stand 27.09.998 LZ)",
+      "kurz": "Schwarzes Hochgebirge westlich des Baumriesenwalds; Jadans „gebirge im westen“ der Blutgrasweite. Wenig Vegetation, keine Tierspuren. Hilfsname.",
+      "aliases": [
+        "Schwarzes Hochgebirge",
+        "Das Gebirge im Westen"
+      ]
     }
   ]
 }

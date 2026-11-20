@@ -549,14 +549,25 @@
    "lage": "ungefaehr",
    "notes": "Ausgang aus der schwarzen Masse im Baumriesenwald (Session 125). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen (Kandidat: Blaue Klippen).",
    "lotse": "#/Orte/Baumriesenwald"
+  },
+  {
+   "id": "gebirge-plateau",
+   "mapId": "story",
+   "x": 6.96,
+   "y": 81.23,
+   "name": "Plateau im schwarzen Gebirge",
+   "type": "Gebirge",
+   "lage": "ungefaehr",
+   "notes": "Aufstieg ins schwarze Gebirge, Halfred als Busch im Pflanztopf (Session 126, 27.09.998 LZ). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Schwarzes%20Gebirge"
   }
  ],
  "routes": [
   {
    "id": "r1",
-   "label": "Der Weg der Gruppe (Sessions 01–125)",
+   "label": "Der Weg der Gruppe (Sessions 01–126)",
    "color": "#7fd1c7",
-   "statusIndex": 63,
+   "statusIndex": 64,
    "waypoints": [
     {
      "markerId": "unterwalde",
@@ -820,6 +831,10 @@
     {
      "markerId": "schwarzes-gebirge",
      "caption": "S 125 · In der Dunkelheit"
+    },
+    {
+     "markerId": "gebirge-plateau",
+     "caption": "S 126 · Bushwhack"
     }
    ]
   }
