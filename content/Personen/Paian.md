@@ -2,7 +2,7 @@
 type: person
 title: Paian
 aliases: []
-status: stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)
+status: lebendig; um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); in der Tiefe unter dem schwarzen Gebirge, hinter dem Tor in der Steilwand (Stand Session 127)
 kurz: Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.
 ---
 # Paian
@@ -67,6 +67,6 @@ Am [[Riesheim]] untersucht er die Anatomie der [[Orks]], die wie für den Krieg 
 
 Vor der [[Blutgrasweite]] sieht er bewaffnete Geister aus vergangener Zeit und über den roten Flecken ein magisches Wabern. Als Sira nicht erwacht, sieht er Hände aus der Domäne des Todes auf ihr. Aikyrs Geist findet er im Schneidersitz neben dem [[Beseelter Stinkmohn|Stinkmohn]], den er ausgräbt und eintopft. Gegen die [[Gnureißer]] ruft er die Gnumutter, beim Ork-Lager einen Geistergeier, am See spricht er mit Ork-Geistern. Im [[Baumriesenwald]] fühlt er einen alten, mächtigen Ort voller Geister, zerschmiert das schwarze Zeug, das den Ast zu verderben scheint, und erinnert sich an Staubhülls Wort von der Macht im Westen.
 
-## Sessions 124–126: Schwarze Masse und Gebirge
+## Sessions 124–127: Schwarze Masse und Gebirge
 
-Paian sieht in der Geisterwelt des Baumriesenwalds Tausende Geister entstehen und vergehen, wohl Geister von Orks. Er tritt als Erster durch die dunkle Barriere der schwarzen Masse und folgt Wulfast durch die fleischige Spalte hinab zum [[Das dreiäugige Wesen|dreiäugigen Wesen]]. Mit den anderen sagt er ihm, sie suchten [[Finsterbann]]s Herz. Am Bach erinnert er sich an Staubhülls Worte: „Pr’le Gut’r“ sei die einzige Entität, von der der Pater wusste, dass die Orks sie anbeten, ein Unheilsbringer wie Iosaris. Er untersucht den Samenstein und hält ihn für zwei magische Artefakte. Den Busch, in den sich Halfred verwandelt hat, erkennt er an dessen Magie; Halfred reist nun in seinem Pflanztopf.
+Paian sieht in der Geisterwelt des Baumriesenwalds Tausende Geister entstehen und vergehen, wohl Geister von Orks. Er tritt als Erster durch die dunkle Barriere der schwarzen Masse und folgt Wulfast durch die fleischige Spalte hinab zum [[Das dreiäugige Wesen|dreiäugigen Wesen]]. Mit den anderen sagt er ihm, sie suchten [[Finsterbann]]s Herz. Am Bach erinnert er sich an Staubhülls Worte: „Pr’le Gut’r“ sei die einzige Entität, von der der Pater wusste, dass die Orks sie anbeten, ein Unheilsbringer wie Iosaris. Er untersucht den Samenstein und hält ihn für zwei magische Artefakte. Den Busch, in den sich Halfred verwandelt hat, erkennt er an dessen Magie; Halfred reist nun in seinem Pflanztopf. Als Wulfast verschüttet ist, spürt Paian nicht, dass er stirbt, also lebt er noch oder ist schon tot. Mit Wulfast untersucht er den Samenstein: zwei ortsgebundene Artefakte, Schale und Kern. Am Tor in der Tiefe ritzt er sich mit Halfred die Hand auf und hält sie kniend an die eingravierte Tür; ein Zittern geht durch den Boden.

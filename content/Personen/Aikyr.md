@@ -2,7 +2,7 @@
 type: person
 title: Aikyr
 aliases: [Aikir, Aykir]
-status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)
+status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — in der Tiefe unter dem schwarzen Gebirge, hinter dem Tor in der Steilwand (Stand Session 127)
 kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.
 ---
 # Aikyr
@@ -62,6 +62,6 @@ Auf der Ewigen See verzichtet er beim Anblick der [[Wale]] darauf, je einen zu j
 
 Er führt die Gruppe den Geröllhang hinab und liefert sich mit Sira einen Funkentanz-Wettkampf, der in Paians Auge endet. Unter den blauen Kometen trägt er die nicht erwachende Sira ins Licht. Er kostet vom [[Beseelter Stinkmohn|Beseelten Stinkmohn]] und bricht bewusstlos zusammen. Auf der Gnu-Jagd blüht er als Raubtier auf, doch die [[Gnureißer]] zerfleischen [[Sommertochter]]; Aikyr spürt das Band reißen und lässt seine Wut an den Bestien aus. Paian nimmt ihm etwas vom Zorn, die Trauer bleibt. Im [[Baumriesenwald]] nimmt er einen [[Klonk-Klonk-Vogel]] auf den Arm, erkennt im schwarzen Zeug den verrückten Mann mit den Lämmern wieder und starrt fasziniert auf die riesigen Fußspuren eines unbekannten Wesens.
 
-## Sessions 124–126: Schwarze Masse und Gebirge
+## Sessions 124–127: Schwarze Masse und Gebirge
 
-Aikyr zieht im Baumriesenwald einen der bleichen Hautlappen vom Ast und sieht einen weißen Trieb daraus wachsen. Er trägt Sira durch die schwarze Masse. Drinnen übernimmt er die Führung, erlöst ein mit dem Wald verwachsenes, rehartiges Wesen mit seinem Dharst und folgt seiner Nase zu einer fleischigen Spalte. Als er sie berührt, kommt aus seiner Kehle: „Das kann ich nicht selber entscheiden.“ Vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]] führt er das Gespräch, stellt die Gruppe vor, nennt „Pr’le Gut’r“ und sagt, sie wollten an den Anfang. Am Ende steht er mit den anderen am Fuß eines schwarzen Gebirges. Im Gebirge liest er in seinem Buch mit Vaigar-Geschichten. Als Halfred verschwindet, verfolgt er dessen Fährte bis zu einem Busch; danach ist kein Geruch mehr da.
+Aikyr zieht im Baumriesenwald einen der bleichen Hautlappen vom Ast und sieht einen weißen Trieb daraus wachsen. Er trägt Sira durch die schwarze Masse. Drinnen übernimmt er die Führung, erlöst ein mit dem Wald verwachsenes, rehartiges Wesen mit seinem Dharst und folgt seiner Nase zu einer fleischigen Spalte. Als er sie berührt, kommt aus seiner Kehle: „Das kann ich nicht selber entscheiden.“ Vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]] führt er das Gespräch, stellt die Gruppe vor, nennt „Pr’le Gut’r“ und sagt, sie wollten an den Anfang. Am Ende steht er mit den anderen am Fuß eines schwarzen Gebirges. Im Gebirge liest er in seinem Buch mit Vaigar-Geschichten. Als Halfred verschwindet, verfolgt er dessen Fährte bis zu einem Busch; danach ist kein Geruch mehr da. Ohne Halfred geht er im Gebirge voran. Als der Geröllhang rutscht, schlingt er Wulfast mit einer peitschenden Bewegung ein Seil ums Bein, stürmt danach in die Staubwolke und sucht ihn rufend. Vor der Steilwand spricht er erneut die Worte zum Samenstein, ohne Wirkung.
