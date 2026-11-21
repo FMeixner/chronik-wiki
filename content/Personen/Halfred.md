@@ -2,8 +2,8 @@
 type: person
 title: Halfred
 aliases: []
-status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); in einen Busch verwandelt, in Paians Pflanztopf; im schwarzen Gebirge (Stand 27.09.998 LZ, Session 126)
-kurz: Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.
+status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); in der Tiefe unter dem schwarzen Gebirge, hinter dem Tor in der Steilwand (Stand Session 127)
+kurz: Mensch, Jäger und Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.
 ---
 # Halfred
 
@@ -29,7 +29,7 @@ kurz: Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschch
 - Die Brutmütter töten, die die [[Baumriese|Baumriesen]] aussaugen, sobald die Gruppe stark genug ist, „vielleicht wenn wir den nächsten Splitter haben“.
 
 ### Offene Fäden
-- Die Verwandlung in einen Busch (Session 126): Feenfluch, weil der blaue Stein für [[Lisana]] noch fehlt, oder hat er sich selbst verwandelt, etwa um Rationen zu sparen? Und wann verwandelt er sich zurück?
+- Die Verwandlung (Sessions 126–127): erst Busch, dann fliegt er mit „kleinen flügelchen" durchs Gebirge und wird wieder Mensch. Feenfluch, weil der blaue Stein für [[Lisana]] noch fehlt, oder eigene Magie? Wulfast ist zornig, weil er dafür seinen Wachposten verlassen hat.
 - Die Bürde aus dem Kristall im Seenland: Er soll „sein Geheimnis“ hüten, denn „sie werden kommen um es an sich zu reißen“ (Session 65).
 - Was hat er in der Ritual-Nacht geopfert, um [[Duir]] zu rufen? Seine Kraft ist seitdem wild und gehorcht nur gerade noch (Session 83).
 - Der wiederkehrende Albtraum vom Baum, der Blut trinkt, und der Traum von blutenden Baumriesen.
@@ -62,6 +62,6 @@ An Bord moppt er das Deck, verschließt das Leck mit einem Rankenpfeil und stär
 
 Er bricht unter seiner Schuld zusammen und streitet mit [[Wulfast]], der für tausend Unschuldige durch das Blut hunderter Sünder waten würde. Erst der Abstieg reißt ihn heraus. In der [[Blutgrasweite]] sorgt er sich um den Proviant, schlägt Rationierung vor, entdeckt [[Die Roten Spuren|rote Flecken]] und die Skelette der Kartografen. Wasser findet er mit seinem neuen Zauber. Der [[Beseelter Stinkmohn|Stinkmohn]] lähmt seine Gedanken. Die [[Gnureißer]] heben ihn in die Luft und lassen ihn mit gebrochenen Knochen fallen. Als selenischer Spatz überfliegt er das Lager der Tausenden [[Orks]], verirrt sich danach und entkommt ihnen im schnellsten Lauf seines Lebens. Im [[Baumriesenwald]] spürt er den letzten Lebensfunken eines sterbenden Riesen, der ihn bittet: „nimm sie weg, nimm sie von uns“.
 
-## Sessions 124–126: Schwarze Masse und Gebirge
+## Sessions 124–127: Schwarze Masse und Gebirge
 
-Halfred sieht im Baumriesenwald einen Baum Atem holen und tritt als Erster in die schwarze Masse; Wulfast treibt ihn mit sanftem, unerbittlichem Druck hindurch. Drinnen gibt er dem rehartigen Wesen mit „Es darf gehen.“ die Erlaubnis zur Erlösung. Vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]] geht er auf die Knie, fragt, ob es das Wesen sei, das schon immer da ist, und zeigt ihm den Stein in seinem Arm. Danach will er vor allem einen Bach finden, um sich zu waschen. Am Bach an der Baumgrenze wäscht er sich endlich. In seiner ersten Wache im Gebirge versucht er sich an das Gefühl der Vogelform zu erinnern, betrachtet fasziniert einen Busch und hört eine langsame, seufzende Stimme. Am Morgen ist er selbst ein Busch: Paian erkennt seine Magie darin. Die Gruppe gräbt ihn behutsam aus und pflanzt ihn in Paians Pflanztopf. Auch am nächsten Tag „will [er] sich noch nicht zurückverwandeln“.
+Halfred sieht im Baumriesenwald einen Baum Atem holen und tritt als Erster in die schwarze Masse; Wulfast treibt ihn mit sanftem, unerbittlichem Druck hindurch. Drinnen gibt er dem rehartigen Wesen mit „Es darf gehen.“ die Erlaubnis zur Erlösung. Vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]] geht er auf die Knie, fragt, ob es das Wesen sei, das schon immer da ist, und zeigt ihm den Stein in seinem Arm. Danach will er vor allem einen Bach finden, um sich zu waschen. Am Bach an der Baumgrenze wäscht er sich endlich. In seiner ersten Wache im Gebirge versucht er sich an das Gefühl der Vogelform zu erinnern, betrachtet fasziniert einen Busch und hört eine langsame, seufzende Stimme. Am Morgen ist er selbst ein Busch: Paian erkennt seine Magie darin. Die Gruppe gräbt ihn behutsam aus und pflanzt ihn in Paians Pflanztopf. Auch am nächsten Tag „will [er] sich noch nicht zurückverwandeln“. Während die anderen im Geröll nach Wulfast suchen, fliegt Halfred in Panik Tal um Tal ab, bis die Wolken aufbrechen und er die schwarzen Zwillingsgipfel sieht und die Staubwolke am Hang. Er stößt zur Gruppe und wird wieder Mensch. Am Morgen muss er sich Wulfasts Zorn stellen. Am Tor in der Tiefe ritzt er sich mit Paian die Hand auf und legt sie kniend an die Tür.

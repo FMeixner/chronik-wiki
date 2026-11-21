@@ -2,7 +2,7 @@
 type: person
 title: Sira
 aliases: []
-status: lebendig; entlassen aus der Feste Altstein (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)
+status: lebendig; entlassen aus der Feste Altstein (Session 107); zuletzt im schwarzen Gebirge (Session 126); in Session 127 nicht erwähnt
 kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.
 ---
 # Sira
@@ -17,7 +17,7 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 - Kann fremde Klagelieder aus ihren Visionen erstaunlich gut nachahmen.
 
 ### Besitz
-- [[Der schwarze Samenstein]]: faustgroß, wie ein Pflanzensamen, mit drei silbrig leuchtenden Rissen; Gabe des dreiäugigen Wesens (Session 125). Laut Paian wohl zwei magische Artefakte.
+- Früher: [[Der schwarze Samenstein]], Gabe des dreiäugigen Wesens (Session 125). Er öffnete in Session 127 die Steilwand im schwarzen Gebirge und ist aufgebraucht.
 - Ihre Ocarina (die Orarina), die seit Session 116 leicht bläulich schimmert.
 - Vom [[Der Feenmarkt|Feenmarkt]]: die verfluchte Seemannstruhe mit Wackersteinen und 18 Edelsteinen (etwa 600 Lunare) und den Schlüssel „zu einem Ort der Vergangenheit“.
 - Eine Kette mit schwarzer Feder, geschenkt von [[Balina]] aus [[Südfang]].

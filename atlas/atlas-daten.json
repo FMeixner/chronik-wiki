@@ -560,14 +560,25 @@
    "lage": "ungefaehr",
    "notes": "Aufstieg ins schwarze Gebirge, Halfred als Busch im Pflanztopf (Session 126, 27.09.998 LZ). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
    "lotse": "#/Orte/Schwarzes%20Gebirge"
+  },
+  {
+   "id": "steilwand-tor",
+   "mapId": "story",
+   "x": 5.8,
+   "y": 78.46,
+   "name": "Steilwand und Tor in die Tiefe",
+   "type": "Gebirge",
+   "lage": "ungefaehr",
+   "notes": "Vier Tage nordwestlich des Geröllhangs; der Samenstein öffnet die Wand, dahinter Säulenhalle und Relief-Tor (Session 127). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Schwarzes%20Gebirge"
   }
  ],
  "routes": [
   {
    "id": "r1",
-   "label": "Der Weg der Gruppe (Sessions 01–126)",
+   "label": "Der Weg der Gruppe (Sessions 01–127)",
    "color": "#7fd1c7",
-   "statusIndex": 64,
+   "statusIndex": 65,
    "waypoints": [
     {
      "markerId": "unterwalde",
@@ -835,6 +846,10 @@
     {
      "markerId": "gebirge-plateau",
      "caption": "S 126 · Bushwhack"
+    },
+    {
+     "markerId": "steilwand-tor",
+     "caption": "S 127 · Live termin"
     }
    ]
   }

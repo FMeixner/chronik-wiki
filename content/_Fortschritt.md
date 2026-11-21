@@ -5,11 +5,12 @@ title: _Fortschritt
 # Destillations-Fortschritt
 
 ## Stand
-- Verarbeitet: Sessions 01–126, Chronik-Abschnitte von „Falkenfelde“ (06.04.997 LZ) bis „Bushwhack“ (Eintrag 17.11.2026; die Gruppe steigt am 27.09.998 LZ ins schwarze Gebirge, Halfred ist ein Busch). EP-Stand: 395.
+- Verarbeitet: Sessions 01–127, bis „Live termin“ (Eintrag 20.11.2026; die Gruppe steigt hinter dem Tor in der Steilwand in die Tiefe unter dem schwarzen Gebirge). EP-Stand: 400.
 - Nachtrag 17.11.2026: Sessions 124 („Moisturize me !“, Eintrag 27.10.2026) und 125 („In der Dunkelheit (Eklige forest vagina)“, Eintrag 10.11.2026). Beide ohne in-world-Datum. Neue Seiten: [[Das dreiäugige Wesen]], [[Der schwarze Samenstein]] (beides Hilfsnamen). EP: +3 in Session 124 (388), keine Vergabe in Session 125.
 - Nachtrag 20.11.2026: Session 126 („Bushwhack“); EP für Session 125 (+5) nachgetragen. Der Spielleiter hat in ältere Abschnitte Vorlesetexte eingefügt; daraus übernommen: der Name [[Sabella Perhaus]] (Session 106) und Aurevians Emblem. Neue Seiten: [[Sabella Perhaus]], [[Schwarzes Gebirge]] (Hilfsname).
-- Nächster Abschnitt: neue Chronik-Einträge ab Session 127.
-- Rohtext-Stand: Google Doc „Die Chronik“, zuletzt geändert 19.11.2026.
+- Nachtrag 21.11.2026: Session 127 („Live termin“). Korrekturen durch Friedrich: Halfred ist kein Elf (die Chronik nennt ihn in Session 127 einen Menschen); Paians Status ist schlicht „lebendig“.
+- Nächster Abschnitt: neue Chronik-Einträge ab Session 128.
+- Rohtext-Stand: Google Doc „Die Chronik“, zuletzt geändert 20.11.2026.
 
 ## Konventionen
 - Session-Nummern folgen den realen Session-Blöcken der Chronik; die Prologe „Falkenfelde“ bis „Der Fenstersturz“ zählen als Sessions 01–04.

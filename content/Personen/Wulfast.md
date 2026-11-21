@@ -2,7 +2,7 @@
 type: person
 title: Wulfast
 aliases: [Wulffast, Robar]
-status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)
+status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); in der Tiefe unter dem schwarzen Gebirge, hinter dem Tor in der Steilwand (Stand Session 127)
 kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).
 ---
 # Wulfast
@@ -27,6 +27,7 @@ kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner K
 - Gegen die Korruption kämpfen, die die Welt ergriffen hat, aber nicht noch einmal zu den Orkmüttern in die Blutgrasweite.
 
 ### Offene Fäden
+- Wer schickte den Lichtstrahl, der durch die Wolken auf die Stelle fiel, an der er drei Meter tief verschüttet lag (Session 127)?
 - Name und Ziele seines Ordens, und was er mit der Gruppe vorhat.
 - Was sind die Wardei bzw. Vardai, und was beschwor er gegen die [[Gnureißer]]?
 - „Robar“ aus [[Unterwalde]]: Seine Eltern übernahmen einen Hof nahe den [[Verheerte Lande|Verheerten Landen]], seine Großeltern lebten in Unterwalde. Aikyr kannte seine Fährte.
@@ -45,6 +46,6 @@ Gegen das [[Finsterwasser]] zieht er mit Lichtblitzen den Zorn des Wesens auf si
 
 Mit zurückerhaltenem Stab hält er Halfreds Schuldgefühlen entgegen, dass er für tausend Unschuldige durch das Blut hunderter Sünder waten würde. Er will zum Löwenlager, doch die Gruppe zieht in die [[Blutgrasweite]]. Dort walzt er mit dem Schild das Gras nieder, bis er erschöpft aufgibt, fällt in Gedanken zurück und verliert seine Armschiene an etwas Unsichtbares. Gegen die Gnureißer betet er und beschwört Hilfe, auf Wache am Ork-Lager schläft er nach Minuten ein. Im [[Baumriesenwald]] ist er bereit, gegen die Korruption zu helfen, aber skeptisch gegenüber einer Rückkehr ins Gras.
 
-## Sessions 124–126: Schwarze Masse und Gebirge
+## Sessions 124–127: Schwarze Masse und Gebirge
 
-Mit einem Stoßgebet treibt Wulfast Halfred durch die schwarze Masse. Vor der fleischigen Spalte sagt er „Lasst mich euren Schild sein.“, setzt den Helm auf und geht als Erster hindurch. Unten zertritt er ein großes Auge und steht mit den anderen vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]]. In der ersten Nacht im Gebirge erwacht er, findet Halfred verschwunden und weckt die anderen.
+Mit einem Stoßgebet treibt Wulfast Halfred durch die schwarze Masse. Vor der fleischigen Spalte sagt er „Lasst mich euren Schild sein.“, setzt den Helm auf und geht als Erster hindurch. Unten zertritt er ein großes Auge und steht mit den anderen vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]]. In der ersten Nacht im Gebirge erwacht er, findet Halfred verschwunden und weckt die anderen. Im Gebirge rutscht unter ihm ein Geröllhang ab. Er erschafft eine gleißende Barriere, kauert unter seinem Schild, ruft Vangara an und wird drei Meter tief verschüttet. Ein Lichtstrahl zeigt den anderen die Stelle; er atmet nicht mehr, doch sein Herz schlägt, und er kommt zu sich. Am nächsten Morgen stellt er Halfred zur Rede. Vor der Steilwand lässt er magische Kraft in den Samenstein fließen, schmettert ihn gegen den Fels und drückt die silberne Wurzel in eine Ritze; die Wand öffnet sich. In der Tiefe leuchtet seine Rüstung sanft, am Tor versucht er kniend vergeblich, die Tür aufzuschieben.
