@@ -560,14 +560,36 @@
    "lage": "ungefaehr",
    "notes": "Aufstieg ins schwarze Gebirge, Halfred als Busch im Pflanztopf (Session 126, 27.09.998 LZ). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
    "lotse": "#/Orte/Schwarzes%20Gebirge"
+  },
+  {
+   "id": "steilwand-tor",
+   "mapId": "story",
+   "x": 5.8,
+   "y": 78.46,
+   "name": "Steilwand und Tor in die Tiefe",
+   "type": "Gebirge",
+   "lage": "ungefaehr",
+   "notes": "Vier Tage nordwestlich des Geröllhangs; der Samenstein öffnet die Wand, dahinter Säulenhalle und Relief-Tor (Session 127). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Schwarzes%20Gebirge"
+  },
+  {
+   "id": "kaverne-stele",
+   "mapId": "story",
+   "x": 4.93,
+   "y": 76.92,
+   "name": "Gewölbe unter den Zwillingsgipfeln",
+   "type": "Gewölbe",
+   "lage": "ungefaehr",
+   "notes": "Die Stele aus Siras Visionen; Sira nimmt den blauen Kristall (Session 128). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "lotse": "#/Orte/Das%20Gew%C3%B6lbe%20unter%20den%20Zwillingsgipfeln"
   }
  ],
  "routes": [
   {
    "id": "r1",
-   "label": "Der Weg der Gruppe (Sessions 01–126)",
+   "label": "Der Weg der Gruppe (Sessions 01–128)",
    "color": "#7fd1c7",
-   "statusIndex": 64,
+   "statusIndex": 66,
    "waypoints": [
     {
      "markerId": "unterwalde",
@@ -835,6 +857,14 @@
     {
      "markerId": "gebirge-plateau",
      "caption": "S 126 · Bushwhack"
+    },
+    {
+     "markerId": "steilwand-tor",
+     "caption": "S 127 · Live termin"
+    },
+    {
+     "markerId": "kaverne-stele",
+     "caption": "S 128 · Die Stele"
     }
    ]
   }

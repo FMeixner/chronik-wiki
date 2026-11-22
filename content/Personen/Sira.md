@@ -2,7 +2,7 @@
 type: person
 title: Sira
 aliases: []
-status: lebendig; entlassen aus der Feste Altstein (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)
+status: lebendig; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
 kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.
 ---
 # Sira
@@ -10,6 +10,7 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 ## Steckbrief
 
 ### Fähigkeiten
+- Mit [[Der blaue Kristall|dem blauen Kristall]]: Spielt sie und steckt Fokus hinein, verstärkt er die Gefühle ihrer Umgebung, und sie kann sie spüren (Session 129).
 - Lichtmagie: Lichtkugeln, Lichtklingen, Lichtbarrieren, schillernde Funken, Funkentanz. Ihre Magie kommt „aus ihr selbst“ und fällt ihr am leichtesten, wenn sie viele Leute positiv beeinflusst.
 - Seelen- und Schutzzauber: „geh noch nicht“ hielt Paians Seele zurück (Session 67), sie hielt seinen Lebensfunken auf See am Glimmen.
 - Bardin: Musik, Lieder, Schauspiel im Duo mit [[Aikyr]]; ihre Ocarina schuf in der Fluchtnacht eine Lichtkuppel.
@@ -17,7 +18,8 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 - Kann fremde Klagelieder aus ihren Visionen erstaunlich gut nachahmen.
 
 ### Besitz
-- [[Der schwarze Samenstein]]: faustgroß, wie ein Pflanzensamen, mit drei silbrig leuchtenden Rissen; Gabe des dreiäugigen Wesens (Session 125). Laut Paian wohl zwei magische Artefakte.
+- [[Der blaue Kristall]]: blau wie ihre Okarina, von der Stele im Gewölbe unter den Zwillingsgipfeln (Session 128); „mit diesem stein wird sie ihr lied weben“.
+- Früher: [[Der schwarze Samenstein]], Gabe des dreiäugigen Wesens (Session 125). Er öffnete in Session 127 die Steilwand im schwarzen Gebirge und ist aufgebraucht.
 - Ihre Ocarina (die Orarina), die seit Session 116 leicht bläulich schimmert.
 - Vom [[Der Feenmarkt|Feenmarkt]]: die verfluchte Seemannstruhe mit Wackersteinen und 18 Edelsteinen (etwa 600 Lunare) und den Schlüssel „zu einem Ort der Vergangenheit“.
 - Eine Kette mit schwarzer Feder, geschenkt von [[Balina]] aus [[Südfang]].
@@ -25,10 +27,13 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 - Aus Isarfest: zwei Schriftrollen, Heil- und Stärkungstränke; vom [[Der Ertrunkene Mond|Ertrunkenen Mond]] ein Trank.
 
 ### Ziele
+- Mit dem blauen Kristall „ihr lied weben“ (Session 128).
 - Den Ort ihrer Visionen verstehen: die Stele mit dem Finsteren in der Kaverne, vielleicht weit im Norden.
 - Zurück zu den [[Die Roten Spuren|Roten Spuren]] im Norden, statt nach Nordwesten weiterzuziehen. Die Gruppe hat sich in der Blutgrasweite gegen sie entschieden.
 
 ### Offene Fäden
+- Die Stele ist gefunden (Session 128). Wer waren die singenden Schatten, und was hat das Tentakelwesen mit ihr zu tun?
+- Ihre Eltern: ein Elfenmann und eine Elfenfrau, deren Bilder sie in den Frieden locken wollten — „krampfhaft drängt sich das lächeln ihrer eltern auf“. Wer drängte ihr die Bilder auf?
 - „Das Licht, dass dich einst erfüllte, schwindet bald.“ Die Warnung des dreiäugigen Wesens (Session 125), das sie „Fremde aus einer anderen Zeit“ nennt.
 - Die wiederkehrende Halle mit der [[Schwarze Schatulle|schwarzen Schatulle]], die Licht und Gefühle aufsaugt, und das Klagelied in fremder Sprache.
 - Die Stele (Session 110, 116): Das Loch nahe dem Gipfel eines der beiden Zwillingsberge, das Finstere auf der Spitze, das Lied vieler Stimmen. Sie wurde dort wahrgenommen. Laut Gruppe ist damit der zweite Teil der Prophezeiung erfüllt.
@@ -65,3 +70,11 @@ In der Ebene soll sie nicht spielen, weil Klänge weit tragen; stattdessen liefe
 ## Sessions 124–126: Schwarze Masse und Gebirge
 
 Siras Melodie für die Lichtkugel klingt im Baumriesenwald in einer anderen Tonlage. Sie hält den Ort für den, an dem ihr Licht gebraucht wird, und stemmt die Kugel mit aller Kraft in die schwarze Masse, bis Aikyr sie hineinträgt. Drinnen sagt sie dem [[Das dreiäugige Wesen|dreiäugigen Wesen]], sie wolle einfach ihr Leben zurück und sei wegen des Endes hier. Es berührt ihre Stirn, zeigt ihr das Gebirge mit den beiden Gipfeln und eine Wand aus Holz und Erde und sagt: „Das Licht, dass dich einst erfüllte, schwindet bald.“ Dann gibt es ihr den [[Der schwarze Samenstein|schwarzen Samenstein]]. Im Gebirge sprechen die anderen über ihren Samenstein: Vielleicht ist er der „Schlüssel zu einer Reise die durch die Zeiten führt“, vielleicht muss man ihn einpflanzen.
+
+## Session 128: Das Gewölbe unter den Zwillingsgipfeln
+
+Im Gewölbe unter den Zwillingsgipfeln wollen die Blutsteine ihr Blut nicht annehmen. Sie zieht eine Barriere gegen die gekrümmten Leiber, sieht als Erste das Tentakelwesen im Wabern der Wände und öffnet mit zwei schwarzen Edelsteinen das Tor ins dritte Untergeschoss. In der Kaverne steht die Stele aus ihren Visionen. Sie hebt beschwichtigend die Arme, als das Tentakelwesen über Halfred steht, erreicht die Kuppel der singenden Schatten, und fünf Lichtklingen erscheinen, „ohne dass sie zaubert“. Sie zerschmettert Skelettkrieger, stimmt in den uralten Gesang ein und spricht die Worte: „Im Schattenreich tanze ich allein.“ Die Schwärze über der Stele verpufft, ein Kristall schwebt dort, blau wie ihre Okarina. Bilder ihrer Eltern, eines Elfenmanns und einer Elfenfrau, wollen sie fortlocken; sie singt Letaschs Wiegenlied und greift zu. Sie stirbt beinahe, Paian holt sie zurück, und sie verlangt sofort nach dem Stein: „mit diesem stein wird sie ihr lied weben.“
+
+## Session 129: Aus dem Gebirge aufs Meer
+
+Noch gerädert lässt sie Paian ihren Stein untersuchen; er ist an sie gebunden und lässt sie die Gefühle anderer spüren und verstärken. Nach Wochen im Gebirge spielt sie vor einem fremden Schiff ein Lied mit dem Stein, doch das Misstrauen der Besatzung wächst, und ein Bolzen löst sich.

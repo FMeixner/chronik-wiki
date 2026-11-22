@@ -1,5 +1,5 @@
 {
-  "coverage": "Sessions 01–126 · Stand der Chronik 19.11.2026",
+  "coverage": "Sessions 01–129 · Stand der Chronik 22.11.2026",
   "pages": [
     {
       "path": "index",
@@ -50,7 +50,7 @@
       "path": "Personen/Aikyr",
       "type": "person",
       "title": "Aikyr",
-      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)",
+      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
       "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.",
       "aliases": [
         "Aikir",
@@ -192,8 +192,8 @@
       "path": "Personen/Halfred",
       "type": "person",
       "title": "Halfred",
-      "status": "lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); in einen Busch verwandelt, in Paians Pflanztopf; im schwarzen Gebirge (Stand 27.09.998 LZ, Session 126)",
-      "kurz": "Elf-Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.",
+      "status": "lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
+      "kurz": "Mensch, Jäger und Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.",
       "aliases": [],
       "held": true,
       "w": 100
@@ -319,7 +319,7 @@
       "path": "Personen/Paian",
       "type": "person",
       "title": "Paian",
-      "status": "stabilisiert (Seance), schwer gezeichnet — um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)",
+      "status": "lebendig; um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
       "kurz": "Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.",
       "aliases": [],
       "held": true,
@@ -369,7 +369,7 @@
       "path": "Personen/Sira",
       "type": "person",
       "title": "Sira",
-      "status": "lebendig; entlassen aus der Feste Altstein (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)",
+      "status": "lebendig; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
       "kurz": "Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.",
       "aliases": [],
       "held": true,
@@ -659,7 +659,7 @@
       "path": "Artefakte/Schwarze Schatulle",
       "type": "artefakt",
       "title": "Schwarze Schatulle",
-      "status": "nur in Visionen",
+      "status": "in Visionen; die Stele steht im Gewölbe unter den Zwillingsgipfeln — die Schwärze darüber verpuffte (Session 128)",
       "kurz": "Pechschwarzes Kästchen auf einer Säule, das Licht und Gefühle aufsaugt.",
       "aliases": [],
       "held": false,
@@ -2408,7 +2408,7 @@
       "path": "Personen/Wulfast",
       "type": "person",
       "title": "Wulfast",
-      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); im schwarzen Gebirge westlich des Baumriesenwalds (Stand 27.09.998 LZ, Session 126)",
+      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
       "kurz": "„Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).",
       "aliases": [
         "Wulffast",
@@ -3129,7 +3129,7 @@
       "path": "Artefakte/Der schwarze Samenstein",
       "type": "artefakt",
       "title": "Der schwarze Samenstein",
-      "status": "in Siras Besitz (Session 125)",
+      "status": "aufgebraucht — Schale zerbrochen, die silberne Wurzel steckt in der Steilwand im schwarzen Gebirge (Session 127)",
       "kurz": "Faustgroßer schwarzer Stein in Form eines Pflanzensamens mit drei haarfeinen, silbrig leuchtenden Rissen — Gabe des dreiäugigen Wesens an Sira. Hilfsname.",
       "aliases": [
         "Samenstein",
@@ -3158,11 +3158,64 @@
       "held": false,
       "w": 75,
       "title": "Schwarzes Gebirge",
-      "status": "bestehend — die Gruppe steigt seit Session 126 hinein (Stand 27.09.998 LZ)",
-      "kurz": "Schwarzes Hochgebirge westlich des Baumriesenwalds; Jadans „gebirge im westen“ der Blutgrasweite. Wenig Vegetation, keine Tierspuren. Hilfsname.",
+      "status": "bestehend — die Gruppe ist durch das Tor in der Steilwand in die Tiefe gestiegen (Session 127)",
+      "kurz": "Schwarzes Hochgebirge westlich des Baumriesenwalds mit den schwarzen Zwillingsgipfeln; eine Steilwand mit steinernen Wurzeln öffnete sich für den Samenstein. Hilfsname.",
       "aliases": [
         "Schwarzes Hochgebirge",
         "Das Gebirge im Westen"
+      ]
+    },
+    {
+      "path": "Orte/Das Gewölbe unter den Zwillingsgipfeln",
+      "type": "ort",
+      "held": false,
+      "w": 80,
+      "title": "Das Gewölbe unter den Zwillingsgipfeln",
+      "status": "von der Gruppe bis zur Stele durchschritten (Session 128); Kuppel zerborsten, Schatten abgezogen",
+      "kurz": "Gewölbe hinter der Steilwand im schwarzen Gebirge: Portale, die Blut fordern, gesichtslose Statuen und in der tiefsten Kaverne die Stele aus Siras Visionen. Hilfsname.",
+      "aliases": [
+        "Das Gewölbe",
+        "Das Dungeon",
+        "Die Kaverne der Stele"
+      ]
+    },
+    {
+      "path": "Kreaturen/Das Tentakelwesen",
+      "type": "kreatur",
+      "held": false,
+      "w": 55,
+      "title": "Das Tentakelwesen",
+      "status": "lebendig; folgte den Schatten aus der Kaverne der Stele (Session 128)",
+      "kurz": "Langgestrecktes, scharfkantiges Wesen mit gepanzerten Tentakeln, das im Wabern der Wände des Gewölbes gleitet. Hilfsname.",
+      "aliases": [
+        "Tentakelwesen",
+        "Wesen im Wabern"
+      ]
+    },
+    {
+      "path": "Artefakte/Der blaue Kristall",
+      "type": "artefakt",
+      "held": false,
+      "w": 85,
+      "title": "Der blaue Kristall",
+      "status": "in Siras Besitz (Session 128)",
+      "kurz": "Kristall, „Blau wie ihre okarina“, der über der Stele schwebte, nachdem Siras Worte die Schwärze vertrieben — „mit diesem stein wird sie ihr lied weben“. Hilfsname.",
+      "aliases": [
+        "Blauer Kristall",
+        "Siras Kristall"
+      ]
+    },
+    {
+      "path": "Artefakte/Das Zepter ohne Gesicht",
+      "type": "artefakt",
+      "held": false,
+      "w": 55,
+      "title": "Das Zepter ohne Gesicht",
+      "status": "in Wulfasts Besitz; mit Wulfast und Paian verbunden (Session 129)",
+      "kurz": "Zepter mit dem religiösen Symbol des Gewölbes aus der Hand eines gesichtslosen Toten; enger Griff ums Herz, Todesmagie. Hilfsname.",
+      "aliases": [
+        "Zepter aus dem Sarkophag",
+        "Das Zepter"
       ]
     }
   ]
