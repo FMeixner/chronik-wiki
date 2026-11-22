@@ -2,7 +2,7 @@
 type: person
 title: Halfred
 aliases: []
-status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); in der Tiefe unter dem schwarzen Gebirge, hinter dem Tor in der Steilwand (Stand Session 127)
+status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); in der Kaverne der Stele im Gewölbe unter den Zwillingsgipfeln (Stand Session 128)
 kurz: Mensch, Jäger und Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.
 ---
 # Halfred
@@ -10,6 +10,7 @@ kurz: Mensch, Jäger und Naturkundiger mit Borkenhand; Feenblatt und nie leeres 
 ## Steckbrief
 
 ### Fähigkeiten
+- Vogelgestalt: fliegt durchs Gebirge (Session 127) und verwandelt sich im Sprung über einen Abgrund in einen Vogel (Session 128).
 - Jäger, Pfadfinder und Bogenschütze: findet Lagerplätze und Proviant, späht voraus und führt die Gruppe durch Wildnis und Moor.
 - Naturmagie: spricht mit Wind und Bäumen, lässt Ranken und Wurzeln wachsen (auch aus Pfeilen), zieht seine Kraft aus der Natur und von seinem Mentor [[Duir]].
 - Seit Session 65 die Borkenhand: Rinde, Knospen und glühende Steinadern bis hinters Handgelenk, mit Verbindung zum Wurzelwerk.
@@ -65,3 +66,7 @@ Er bricht unter seiner Schuld zusammen und streitet mit [[Wulfast]], der für ta
 ## Sessions 124–127: Schwarze Masse und Gebirge
 
 Halfred sieht im Baumriesenwald einen Baum Atem holen und tritt als Erster in die schwarze Masse; Wulfast treibt ihn mit sanftem, unerbittlichem Druck hindurch. Drinnen gibt er dem rehartigen Wesen mit „Es darf gehen.“ die Erlaubnis zur Erlösung. Vor dem [[Das dreiäugige Wesen|dreiäugigen Wesen]] geht er auf die Knie, fragt, ob es das Wesen sei, das schon immer da ist, und zeigt ihm den Stein in seinem Arm. Danach will er vor allem einen Bach finden, um sich zu waschen. Am Bach an der Baumgrenze wäscht er sich endlich. In seiner ersten Wache im Gebirge versucht er sich an das Gefühl der Vogelform zu erinnern, betrachtet fasziniert einen Busch und hört eine langsame, seufzende Stimme. Am Morgen ist er selbst ein Busch: Paian erkennt seine Magie darin. Die Gruppe gräbt ihn behutsam aus und pflanzt ihn in Paians Pflanztopf. Auch am nächsten Tag „will [er] sich noch nicht zurückverwandeln“. Während die anderen im Geröll nach Wulfast suchen, fliegt Halfred in Panik Tal um Tal ab, bis die Wolken aufbrechen und er die schwarzen Zwillingsgipfel sieht und die Staubwolke am Hang. Er stößt zur Gruppe und wird wieder Mensch. Am Morgen muss er sich Wulfasts Zorn stellen. Am Tor in der Tiefe ritzt er sich mit Paian die Hand auf und legt sie kniend an die Tür.
+
+## Session 128: Das Gewölbe unter den Zwillingsgipfeln
+
+Im Gewölbe verwandelt er sich im Sprung in einen Vogel und fliegt über einen Abgrund, um ein Seil zu spannen. Er löst das Rätsel der fünf gesichtslosen Statuen, indem er sie nachahmt: Er legt seinen Dharst ab, bietet Hilfe an, zerreißt sein Hemd, presst die blutende Hand auf den Boden und geißelt sich mit Paians Peitsche. Mit Paian gibt er wieder und wieder sein Blut für die Tore. In der Kaverne reißt ihn das Tentakelwesen nieder, verschont ihn aber.
