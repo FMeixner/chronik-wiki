@@ -2,7 +2,7 @@
 type: person
 title: Sira
 aliases: []
-status: lebendig; entlassen aus der Feste Altstein (Session 107); in der Kaverne der Stele im Gewölbe unter den Zwillingsgipfeln; nach dem Griff nach dem blauen Kristall von Paian wiederbelebt (Stand Session 128)
+status: lebendig; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
 kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.
 ---
 # Sira
@@ -10,6 +10,7 @@ kurz: Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians S
 ## Steckbrief
 
 ### Fähigkeiten
+- Mit [[Der blaue Kristall|dem blauen Kristall]]: Spielt sie und steckt Fokus hinein, verstärkt er die Gefühle ihrer Umgebung, und sie kann sie spüren (Session 129).
 - Lichtmagie: Lichtkugeln, Lichtklingen, Lichtbarrieren, schillernde Funken, Funkentanz. Ihre Magie kommt „aus ihr selbst“ und fällt ihr am leichtesten, wenn sie viele Leute positiv beeinflusst.
 - Seelen- und Schutzzauber: „geh noch nicht“ hielt Paians Seele zurück (Session 67), sie hielt seinen Lebensfunken auf See am Glimmen.
 - Bardin: Musik, Lieder, Schauspiel im Duo mit [[Aikyr]]; ihre Ocarina schuf in der Fluchtnacht eine Lichtkuppel.
@@ -73,3 +74,7 @@ Siras Melodie für die Lichtkugel klingt im Baumriesenwald in einer anderen Tonl
 ## Session 128: Das Gewölbe unter den Zwillingsgipfeln
 
 Im Gewölbe unter den Zwillingsgipfeln wollen die Blutsteine ihr Blut nicht annehmen. Sie zieht eine Barriere gegen die gekrümmten Leiber, sieht als Erste das Tentakelwesen im Wabern der Wände und öffnet mit zwei schwarzen Edelsteinen das Tor ins dritte Untergeschoss. In der Kaverne steht die Stele aus ihren Visionen. Sie hebt beschwichtigend die Arme, als das Tentakelwesen über Halfred steht, erreicht die Kuppel der singenden Schatten, und fünf Lichtklingen erscheinen, „ohne dass sie zaubert“. Sie zerschmettert Skelettkrieger, stimmt in den uralten Gesang ein und spricht die Worte: „Im Schattenreich tanze ich allein.“ Die Schwärze über der Stele verpufft, ein Kristall schwebt dort, blau wie ihre Okarina. Bilder ihrer Eltern, eines Elfenmanns und einer Elfenfrau, wollen sie fortlocken; sie singt Letaschs Wiegenlied und greift zu. Sie stirbt beinahe, Paian holt sie zurück, und sie verlangt sofort nach dem Stein: „mit diesem stein wird sie ihr lied weben.“
+
+## Session 129: Aus dem Gebirge aufs Meer
+
+Noch gerädert lässt sie Paian ihren Stein untersuchen; er ist an sie gebunden und lässt sie die Gefühle anderer spüren und verstärken. Nach Wochen im Gebirge spielt sie vor einem fremden Schiff ein Lied mit dem Stein, doch das Misstrauen der Besatzung wächst, und ein Bolzen löst sich.

@@ -2,7 +2,7 @@
 type: person
 title: Wulfast
 aliases: [Wulffast, Robar]
-status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); in der Kaverne der Stele im Gewölbe unter den Zwillingsgipfeln (Stand Session 128)
+status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
 kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).
 ---
 # Wulfast
@@ -54,3 +54,7 @@ Mit einem Stoßgebet treibt Wulfast Halfred durch die schwarze Masse. Vor der fl
 ## Session 128: Das Gewölbe unter den Zwillingsgipfeln
 
 Im Gewölbe stürzt er in einen Abgrund, hält sich nach vier Metern an der Wand und wird mit ausgerenkter Schulter heraufgezogen. Er beschwört Vardai gegen die gekrümmten Leiber und die Flügelwesen. Als er an einer Stele blutet, brechen Skelettkrieger aus den Statuen. Ungeduldig stößt er den Sarkophag um und reißt dem gesichtslosen Toten das Zepter aus der Hand; Enge legt sich um sein Herz.
+
+## Session 129: Aus dem Gebirge aufs Meer
+
+Mit Paian untersucht er das Zepter: ein uraltes Artefakt mit eigenem Fokuspool, gespeist aus Lebensenergie, mit beiden verbunden. Nach Wochen im Gebirge geht er mit den anderen an Bord eines fremden Schiffes nach Heratis.

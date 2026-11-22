@@ -5,12 +5,13 @@ title: _Fortschritt
 # Destillations-Fortschritt
 
 ## Stand
-- Verarbeitet: Sessions 01–128, bis zum Eintrag vom 21.11.2026 (Sira nimmt in der Kaverne der Stele den blauen Kristall). EP-Stand laut Chronik: 426.
+- Verarbeitet: Sessions 01–129, bis zum Eintrag vom 22.11.2026 (an Bord eines fremden Schiffes Richtung Heratis). EP-Stand laut Chronik: 426.
 - Nachtrag 17.11.2026: Sessions 124 („Moisturize me !“, Eintrag 27.10.2026) und 125 („In der Dunkelheit (Eklige forest vagina)“, Eintrag 10.11.2026). Beide ohne in-world-Datum. Neue Seiten: [[Das dreiäugige Wesen]], [[Der schwarze Samenstein]] (beides Hilfsnamen). EP: +3 in Session 124 (388), keine Vergabe in Session 125.
 - Nachtrag 20.11.2026: Session 126 („Bushwhack“); EP für Session 125 (+5) nachgetragen. Der Spielleiter hat in ältere Abschnitte Vorlesetexte eingefügt; daraus übernommen: der Name [[Sabella Perhaus]] (Session 106) und Aurevians Emblem. Neue Seiten: [[Sabella Perhaus]], [[Schwarzes Gebirge]] (Hilfsname).
 - Nachtrag 21.11.2026: Session 127 („Live termin“). Korrekturen durch Friedrich: Halfred ist kein Elf (die Chronik nennt ihn in Session 127 einen Menschen); Paians Status ist schlicht „lebendig“.
 - Nachtrag 22.11.2026: Session 128 (Eintrag 21.11.2026, ohne Titel). Session 127 um die Stimme „ENDE“/„ANFANG“ in Wulfasts Kopf und die Schwermut ergänzt. EP-Widerspruch: Die Chronik schreibt „- 12 ep = 426 EP“, rechnerisch wären es 412 (400 + 12); übernommen ist der Endstand 426. Neue Seiten (Hilfsnamen): [[Das Gewölbe unter den Zwillingsgipfeln]], [[Das Tentakelwesen]], [[Der blaue Kristall]], [[Das Zepter ohne Gesicht]].
-- Nächster Abschnitt: neue Chronik-Einträge ab Session 129.
+- Nachtrag 22.11.2026 (Mittag): Session 129 (Eintrag 22.11.2026, ohne Titel, ohne EP). „donnerbuch“ wörtlich übernommen; der Ort an der Küste und das Schiff sind namenlos.
+- Nächster Abschnitt: neue Chronik-Einträge ab Session 130.
 - Rohtext-Stand: Google Doc „Die Chronik“, zuletzt geändert 22.11.2026.
 
 ## Konventionen

@@ -2,7 +2,7 @@
 type: person
 title: Paian
 aliases: []
-status: lebendig; um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); in der Kaverne der Stele im Gewölbe unter den Zwillingsgipfeln (Stand Session 128)
+status: lebendig; um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
 kurz: Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.
 ---
 # Paian
@@ -19,6 +19,7 @@ kurz: Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch
 - Tierkunde: kennt etwa den [[Riesenhundertfüßer]] und die [[Nebelhetzer]].
 
 ### Besitz
+- Mit [[Das Zepter ohne Gesicht]] verbunden, das Wulfast trägt (Session 129).
 - [[Goldener Ring]] mit schwarzem Stein: sehr mächtige Magie, öffnete die Tore im Schlund der Finsternis.
 - Das [[Herz der Gagamba]], aus dem Tempel in Palitan gestohlen. Laut [[Jadan]] hat es seine Kraft bereits an jemanden abgegeben.
 - [[Die Goldene Maske]], die sich gegen jede Analyse wehrt.
@@ -75,3 +76,7 @@ Paian sieht in der Geisterwelt des Baumriesenwalds Tausende Geister entstehen un
 ## Session 128: Das Gewölbe unter den Zwillingsgipfeln
 
 Im Gewölbe beschwört er den Geisterwal, „den Fährmann der Tiefe“, und lässt die Gruppe in dessen Maul in die Tiefe tragen, bis er warnt, weiter gebe es kein Zurück. Immer wieder gibt er sein Blut an den scharfkantigen Steinen, bis Schwermut ihn ergreift: „all das hier ist doch sinnlos.. wir sind gekommen um hier zu bleiben.“ In der Kaverne hält er die singenden Schatten und die Flügelwesen für verfeindete Fraktionen, schickt den Knochenwal gegen ein Flügelwesen und wird vom Tentakelwesen niedergeschmettert. Als Sira ohne Herzschlag am Boden liegt, belebt er sie mit letzter Kraft wieder.
+
+## Session 129: Aus dem Gebirge aufs Meer
+
+Er untersucht Siras Stein und mit Wulfast das Zepter, das auch ihn mit Enge in der Brust bindet. Nach Wochen im Gebirge ruft er an der Küste den Fährmann der Tiefe, der die Gruppe zu einem Schiff unter blauer Flagge trägt.

@@ -2,7 +2,7 @@
 type: person
 title: Halfred
 aliases: []
-status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); in der Kaverne der Stele im Gewölbe unter den Zwillingsgipfeln (Stand Session 128)
+status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
 kurz: Mensch, Jäger und Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.
 ---
 # Halfred
@@ -70,3 +70,7 @@ Halfred sieht im Baumriesenwald einen Baum Atem holen und tritt als Erster in di
 ## Session 128: Das Gewölbe unter den Zwillingsgipfeln
 
 Im Gewölbe verwandelt er sich im Sprung in einen Vogel und fliegt über einen Abgrund, um ein Seil zu spannen. Er löst das Rätsel der fünf gesichtslosen Statuen, indem er sie nachahmt: Er legt seinen Dharst ab, bietet Hilfe an, zerreißt sein Hemd, presst die blutende Hand auf den Boden und geißelt sich mit Paians Peitsche. Mit Paian gibt er wieder und wieder sein Blut für die Tore. In der Kaverne reißt ihn das Tentakelwesen nieder, verschont ihn aber.
+
+## Session 129: Aus dem Gebirge aufs Meer
+
+Nach Wochen im Gebirge erreicht er mit den anderen die Küste und geht an Bord eines fremden Schiffes, das Kurs auf Heratis nimmt.

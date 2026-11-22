@@ -2,7 +2,7 @@
 type: person
 title: Aikyr
 aliases: [Aikir, Aykir]
-status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — in der Kaverne der Stele im Gewölbe unter den Zwillingsgipfeln (Stand Session 128)
+status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
 kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.
 ---
 # Aikyr
@@ -69,3 +69,7 @@ Aikyr zieht im Baumriesenwald einen der bleichen Hautlappen vom Ast und sieht ei
 ## Session 128: Das Gewölbe unter den Zwillingsgipfeln
 
 Im Gewölbe kämpft er gegen die gekrümmten Leiber, „teilt aus und steckt auch mächtig ein“. Im Geisterwal fragt er Sira, ob sie die richtige Richtung spürt. Mit seinem Blut lässt er an den Stelen die Skelettkrieger zerfallen.
+
+## Session 129: Aus dem Gebirge aufs Meer
+
+Er erwacht als einer der Ersten. Nach Wochen im Gebirge erreicht er mit den anderen die Küste, wo sie ein Admiral widerwillig an Bord nimmt, Kurs Heratis.
