@@ -24,6 +24,6 @@ kurz: Aikyrs Stute; versank im Sumpf, gerettet; trug den verwundeten Halfred nac
 
 ## Sessions 111–115: Letzter Ritt
 
-- Der Stinkmohn-Ritt (Session 111): „Wir laden Aikyr auf Sommertochter." — sie trägt den bewusstlosen Aikyr nach der Beseelter-Stinkmohn-Vergiftung durch die Blutgrasweite. (→ [[Beseelter Stinkmohn]])
-- Der Tod (Session 114): „Der dritte stößt auf Sira und Sommertochter herab und kriegt letztere zu fassen." — „Sommertochter wird von dem 3ten gnureißer zerfleischt. Paian bittet den Geist des Gnus ihr zu Hilfe zu eilen…. doch bevor das bei sommertochter ankommt hören wir einen markerschütternden schrei." (→ [[Gnureißer]])
-- Das Band reißt (Session 115): „Aikyr spürt sein Band zu Sommertochter reißen… leere breitet sich in ihm aus. Schuld…" — Paian verarztet den grabenden Aikyr und „nimmt ihm ein wenig den Zorn über seinen verlust… die trauer bleibt." (Session 116)
+- Der Stinkmohn-Ritt (Session 111): „Wir laden Aikyr auf Sommertochter.“ — sie trägt den bewusstlosen Aikyr nach der Beseelter-Stinkmohn-Vergiftung durch die Blutgrasweite. (→ [[Beseelter Stinkmohn]])
+- Der Tod (Session 114): „Der dritte stößt auf Sira und Sommertochter herab und kriegt letztere zu fassen.“ — „Sommertochter wird von dem 3ten gnureißer zerfleischt. Paian bittet den Geist des Gnus ihr zu Hilfe zu eilen…. doch bevor das bei sommertochter ankommt hören wir einen markerschütternden schrei.“ (→ [[Gnureißer]])
+- Das Band reißt (Session 115): „Aikyr spürt sein Band zu Sommertochter reißen… leere breitet sich in ihm aus. Schuld…“ — Paian verarztet den grabenden Aikyr und „nimmt ihm ein wenig den Zorn über seinen verlust… die trauer bleibt.“ (Session 116)

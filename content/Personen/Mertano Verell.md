@@ -3,7 +3,7 @@ type: person
 title: Mertano Verell
 aliases: []
 status: lebendig; Wirtin des Silberkrugs (Therum, Obertadt)
-kurz: „Die pausbackige Wirt“ [sic] des Silberkrugs — „in feine Tücher gehüllt“, empfängt die Gruppe überschwenglich.
+kurz: „Der pausbackige Wirt“ des Silberkrugs — „in feine Tücher gehüllt“, empfängt die Gruppe überschwenglich.
 ---
 # Mertano Verell
 

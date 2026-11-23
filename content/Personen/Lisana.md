@@ -13,7 +13,7 @@ kurz: Fee, Hüterin des Feenwaldes; gab Halfred das Eichenblatt — gegen ein St
 - Der Wind führte Halfred zurück zu den anderen.
 - Schwester des [[König des Waldes|Königs des Waldes]].
 
-- Letzte Nacht der Hilfe (Session 40): Ruft Halfred nachts mit Melodie und Gesang — „Komm, Hüter des Waldes, die Bäume rufen nach euch, der Wind flüstert deinen Namen. Komm zu mir, der Pfad zu mir ist sicher" (Aikyr und Sira hören nichts). Lichtung, „von der ein Leuchten ausgeht"; anmutiges Wesen, „Flügen [sic] wie fahles Mondlicht", „Augen wie tiefe Geheimnisse". (Die Chronik nennt sie hier nicht namentlich — Beschreibung und [[Eichenblatt]]-Bezug sprechen für Lisana.)
-- Fragt: „Habt ihr noch was, was ich euch gegeben habe?" — und kündigt an: „heute is [sic] die letzte Nacht, in der ich euch bei eurer Suche helfen kann."
+- Letzte Nacht der Hilfe (Session 40): Ruft Halfred nachts mit Melodie und Gesang — „Komm, Hüter des Waldes, die Bäume rufen nach euch, der Wind flüstert deinen Namen. Komm zu mir, der Pfad zu mir ist sicher“ (Aikyr und Sira hören nichts). Lichtung, „von der ein Leuchten ausgeht“; anmutiges Wesen, „Flügen wie fahles Mondlicht“, „Augen wie tiefe Geheimnisse“. (Die Chronik nennt sie hier nicht namentlich — Beschreibung und [[Eichenblatt]]-Bezug sprechen für Lisana.)
+- Fragt: „Habt ihr noch was, was ich euch gegeben habe?“ — und kündigt an: „heute is die letzte Nacht, in der ich euch bei eurer Suche helfen kann.“
 - Ihr letzter Auftrag: die Prophezeiung von den [[Die Roten Spuren|Roten Spuren]] und dem blauen Stein (Session 40, wörtlich dort zitiert).
-- Beim Abschied „ein oranges glimmen in ihren augen, wie eine kohle die noch einmal aufflammt bevor sie erlischt" (Session 40).
+- Beim Abschied „ein oranges glimmen in ihren augen, wie eine kohle die noch einmal aufflammt bevor sie erlischt“ (Session 40).

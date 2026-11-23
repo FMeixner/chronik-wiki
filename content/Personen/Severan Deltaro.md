@@ -3,7 +3,7 @@ type: person
 title: Severan Deltaro
 aliases: [Severan del Taro]
 status: lebendig; Alter Mann der Wache von Galpinius
-kurz: „Alter Spießgeselle“ [sic] der Wache — hager, redefreudig, kennt die Orks; die erzählende Chronik-Prosa nennt ihn „Severan del Taro, dem Stadtvorsteher“.
+kurz: „Alter Spießgeselle“ der Wache — hager, redefreudig, kennt die Orks; die erzählende Chronik-Prosa nennt ihn „Severan del Taro, dem Stadtvorsteher“.
 ---
 # Severan Deltaro
 

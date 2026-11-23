@@ -50,11 +50,11 @@
       "path": "Personen/Aikyr",
       "type": "person",
       "title": "Aikyr",
-      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
+      "status": "lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)",
       "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.",
       "aliases": [
         "Aikir",
-        "Aykir"
+        "Aikyr"
       ],
       "held": true,
       "w": 100
@@ -129,7 +129,7 @@
       "status": "verschollen im Weltriss (Ritual-Nacht, 14.10.997 LZ)",
       "kurz": "Adliger Schwertrichter aus Unterwalde; vom Schwarzen Schwert gepeinigt — nahm in der Ritual-Nacht den Pakt an, verweigerte den Preis und verging im Weltriss; in Selenia mit Kopfgeld gesucht.",
       "aliases": [
-        "Dorian"
+        "Dorean"
       ],
       "held": true,
       "w": 88
@@ -192,7 +192,7 @@
       "path": "Personen/Halfred",
       "type": "person",
       "title": "Halfred",
-      "status": "lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
+      "status": "lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)",
       "kurz": "Mensch, Jäger und Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.",
       "aliases": [],
       "held": true,
@@ -319,7 +319,7 @@
       "path": "Personen/Paian",
       "type": "person",
       "title": "Paian",
-      "status": "lebendig; um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
+      "status": "lebendig; um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)",
       "kurz": "Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.",
       "aliases": [],
       "held": true,
@@ -369,7 +369,7 @@
       "path": "Personen/Sira",
       "type": "person",
       "title": "Sira",
-      "status": "lebendig; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
+      "status": "lebendig; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)",
       "kurz": "Albin-Magierin und Musikerin; Zauber „geh noch nicht“ rettete Paians Seele; Seemannstruhe und Vergangenheits-Schlüssel.",
       "aliases": [],
       "held": true,
@@ -542,12 +542,14 @@
       "w": 20
     },
     {
-      "path": "Orte/Heratis",
+      "path": "Orte/Herathis",
       "type": "ort",
-      "title": "Heratis",
+      "title": "Herathis",
       "status": "bestehend; Aufenthalt der Gruppe 8.–14.10.997 LZ, Abreise per Schiff nach Süden",
       "kurz": "Freie Reichsstadt (60 000) im äußersten Südwesten — Ankunft am 8.10.997 LZ: Mordserie, Magistratswahl, Feenmarkt.",
-      "aliases": [],
+      "aliases": [
+        "Heratis"
+      ],
       "held": false,
       "w": 55
     },
@@ -564,12 +566,14 @@
       "w": 19
     },
     {
-      "path": "Orte/Midstadt",
+      "path": "Orte/Midstad",
       "type": "ort",
-      "title": "Midstadt",
+      "title": "Midstad",
       "status": "bestehend",
       "kurz": "Ziel der Kriegsregimenter von Gunwarkirche und Militär.",
-      "aliases": [],
+      "aliases": [
+        "Midstadt"
+      ],
       "held": false,
       "w": 47
     },
@@ -912,7 +916,7 @@
       "type": "ort",
       "title": "Flammensenke",
       "status": "bestehend",
-      "kurz": "„Schmelztiegel der Welt\" — zweiter Splitter-Standort; Heimat der Feuerläufer.",
+      "kurz": "„Schmelztiegel der Welt“ — zweiter Splitter-Standort; Heimat der Feuerläufer.",
       "aliases": [],
       "held": false,
       "w": 44
@@ -1133,7 +1137,7 @@
       "type": "person",
       "title": "Wilbolt Luchador",
       "status": "lebendig",
-      "kurz": "Wirt des „Schwarzen Keilers\" im Hirschviertel von Palitan; Holzbein.",
+      "kurz": "Wirt des „Schwarzen Keilers“ im Hirschviertel von Palitan; Holzbein.",
       "aliases": [],
       "held": false,
       "w": 22
@@ -1229,7 +1233,7 @@
       "type": "person",
       "title": "Taloran Ladrao",
       "status": "lebendig",
-      "kurz": "Pfadwächter („Auge des Pfades\") der Gilde der Pfadwächter; macht Sira schöne Augen.",
+      "kurz": "Pfadwächter („Auge des Pfades“) der Gilde der Pfadwächter; macht Sira schöne Augen.",
       "aliases": [
         "Ladrao"
       ],
@@ -1263,7 +1267,7 @@
       "type": "person",
       "title": "Falk Bald",
       "status": "lebendig",
-      "kurz": "Grimmiger älterer Wachmann der Karawane; warnt vor „Tenkuri\".",
+      "kurz": "Grimmiger älterer Wachmann der Karawane; warnt vor „Tenkuri“.",
       "aliases": [
         "Falkbald"
       ],
@@ -1392,7 +1396,7 @@
       "type": "fraktion",
       "title": "Gilde der Pfadwächter",
       "status": "aktiv",
-      "kurz": "Gilde auf dem Feenpfad; wacht über den Pfad — ihr „Auge des Pfades\" reitet mit der Karawane.",
+      "kurz": "Gilde auf dem Feenpfad; wacht über den Pfad — ihr „Auge des Pfades“ reitet mit der Karawane.",
       "aliases": [
         "Pfadwächter"
       ],
@@ -1450,7 +1454,7 @@
       "type": "person",
       "title": "Tenkuri",
       "status": "unbekannt (Feenwelt)",
-      "kurz": "Grünhäutiger Feenfürst, „Herr des Pfades\" — Falk Balds alte Warnung „Tenkuri, ?\" erstmals erklärt.",
+      "kurz": "Grünhäutiger Feenfürst, „Herr des Pfades“ — Falk Balds alte Warnung „Tenkuri, ?“ erstmals erklärt.",
       "aliases": [],
       "held": false,
       "w": 53
@@ -1460,7 +1464,7 @@
       "type": "person",
       "title": "Die Alte über die Kreuzwege",
       "status": "unbekannt (nur in Doreans Vision)",
-      "kurz": "„Die, die über die Kreuzwege wacht\" — warnt Dorean in einer Vision: Finsternis begleitet uns.",
+      "kurz": "„Die, die über die Kreuzwege wacht“ — warnt Dorean in einer Vision: Finsternis begleitet uns.",
       "aliases": [],
       "held": false,
       "w": 27
@@ -1470,7 +1474,7 @@
       "type": "person",
       "title": "Gesandter des Gunwars",
       "status": "unbekannt (zuletzt auf dem Feenpfad)",
-      "kurz": "Elf/Alb mit gelben Augen und Narbe; suchte mit schwarzen Roben und schwarzem Wagen nach Midstadt-Spionen.",
+      "kurz": "Elf/Alb mit gelben Augen und Narbe; suchte mit schwarzen Roben und schwarzem Wagen nach Midstad-Spionen.",
       "aliases": [
         "Elf mit Narbe",
         "Alb mit der Narbe"
@@ -1493,7 +1497,7 @@
       "type": "ort",
       "title": "Teermark",
       "status": "bestehend (Feenwelt)",
-      "kurz": "Heimat des Feenfürsten Tenkuri — und Falk Balds; dessen Fußroute nach Sarnburg führt über Heratis.",
+      "kurz": "Heimat des Feenfürsten Tenkuri — und Falk Balds; dessen Fußroute nach Sarnburg führt über Herathis.",
       "aliases": [
         "Termark"
       ],
@@ -1577,7 +1581,7 @@
       "path": "Tiere/Donnerhuf",
       "type": "tier",
       "title": "Donnerhuf",
-      "status": "lebendig — bei Anodara in Isarfest zurückgelassen (Session 102)",
+      "status": "lebendig — bei Anodara in Isafest zurückgelassen (Session 102)",
       "kurz": "Aikyrs Esel; verschwand im Mückenschwarm und kehrte am Südrand des Seenlands zurück.",
       "aliases": [],
       "held": false,
@@ -1628,7 +1632,7 @@
       "type": "person",
       "title": "Jesko Talnor",
       "status": "lebendig (Kapitän auf dem Myrkan)",
-      "kurz": "Gnomen-Kapitän auf dem Myrkan; fährt Wasserfels–Drugonsfuhrt (~800 km, ~28 Tage) und nahm die Gruppe an Bord.",
+      "kurz": "Gnomen-Kapitän auf dem Myrkan; fährt Wasserfels–Drugonsfurt (~800 km, ~28 Tage) und nahm die Gruppe an Bord.",
       "aliases": [],
       "held": false,
       "w": 45
@@ -1707,12 +1711,14 @@
       "w": 22
     },
     {
-      "path": "Orte/Drugonsfuhrt",
+      "path": "Orte/Drugonsfurt",
       "type": "ort",
-      "title": "Drugonsfuhrt",
+      "title": "Drugonsfurt",
       "status": "bestehend",
       "kurz": "Letzter mit dem Schiff befahrbarer Ort am Myrkan (~800 km flussaufwärts) — Taverne „Fernes Tor“; Ausgangspunkt der Seenland-Durchquerung.",
-      "aliases": [],
+      "aliases": [
+        "Drugonsfuhrt"
+      ],
       "held": false,
       "w": 32
     },
@@ -1746,7 +1752,7 @@
       "type": "ort",
       "title": "Myrkan",
       "status": "bestehend",
-      "kurz": "Großer Fluss; von Wasserfels ~800 km flussaufwärts bis Drugonsfuhrt schiffbar — Heimat des Tiefenzahns.",
+      "kurz": "Großer Fluss; von Wasserfels ~800 km flussaufwärts bis Drugonsfurt schiffbar — Heimat des Tiefenzahns.",
       "aliases": [],
       "held": false,
       "w": 50
@@ -1855,7 +1861,7 @@
       "type": "ort",
       "title": "Das Seenland",
       "status": "bestehend; Durchquerung abgeschlossen (Sessions 62–72)",
-      "kurz": "Moor- und Seengebiet südlich von Drugonsfuhrt — Durchquerung auf dem Weg nach Heratis; Nebelhetzer, Mückenschwarm, Räuberbande; im Süden kehrt Leben zurück.",
+      "kurz": "Moor- und Seengebiet südlich von Drugonsfurt — Durchquerung auf dem Weg nach Herathis; Nebelhetzer, Mückenschwarm, Räuberbande; im Süden kehrt Leben zurück.",
       "aliases": [
         "Seenland",
         "seenland"
@@ -1969,7 +1975,7 @@
       "type": "person",
       "title": "Arikarion",
       "status": "lebendig",
-      "kurz": "Elf-Wirt des „Fernen Tors“ in Drugonsfuhrt; kennt Letasch und Sira seit Kindertagen — vermittelt die geflügelten Boten und die Route durchs Seenland.",
+      "kurz": "Elf-Wirt des „Fernen Tors“ in Drugonsfurt; kennt Letasch und Sira seit Kindertagen — vermittelt die geflügelten Boten und die Route durchs Seenland.",
       "aliases": [],
       "held": false,
       "w": 55
@@ -2003,7 +2009,7 @@
       "type": "person",
       "title": "Varun Nareiko",
       "status": "lebendig",
-      "kurz": "Blonder Mensch an der Goldenen Halle in Drugonsfuhrt — erzählte der Gruppe über den Drugontempel.",
+      "kurz": "Blonder Mensch an der Goldenen Halle in Drugonsfurt — erzählte der Gruppe über den Drugontempel.",
       "aliases": [],
       "held": false,
       "w": 12
@@ -2013,7 +2019,7 @@
       "type": "person",
       "title": "Osip Sidurenko",
       "status": "unbekannt (nur erwähnt)",
-      "kurz": "Fürst von Drugonsfurth, wohnt in der Kleinen Burg — der Chronik zufolge ohne weitere Berührung mit der Gruppe.",
+      "kurz": "Fürst von Drugonsfurt, wohnt in der Kleinen Burg — der Chronik zufolge ohne weitere Berührung mit der Gruppe.",
       "aliases": [],
       "held": false,
       "w": 12
@@ -2058,7 +2064,7 @@
       "type": "ort",
       "title": "Der Joka-Baum",
       "status": "bestehend (einziger Baum seiner Art, Lamera)",
-      "kurz": "Blutgetränkter Baum im Norden von Patalis [sic] — seine Blüten und Nüsse sind extrem wirksame Heilmittel; Lieferungen laufen nach Herathis.",
+      "kurz": "Blutgetränkter Baum im Norden von Patalis — seine Blüten und Nüsse sind extrem wirksame Heilmittel; Lieferungen laufen nach Herathis.",
       "aliases": [
         "Jokabaum",
         "Joka-Baum"
@@ -2082,8 +2088,8 @@
       "path": "Fraktionen/Die Lichte Herrin",
       "type": "fraktion",
       "title": "Die Lichte Herrin",
-      "status": "entlarvt — der Kult verkündet sie als Iosaris, „Lichte Herrin, als Dunkle Mutter\"; wo sie weilt, bleibt offen",
-      "kurz": "Gefallene Göttin des Lichts — von neidischen Göttern gestürzt, als „Lichte Herrin, Dunkle Mutter\" zurückgekehrt; Herrin des Herathiser Kults und Tureks.",
+      "status": "entlarvt — der Kult verkündet sie als Iosaris, „Lichte Herrin, als Dunkle Mutter“; wo sie weilt, bleibt offen",
+      "kurz": "Gefallene Göttin des Lichts — von neidischen Göttern gestürzt, als „Lichte Herrin, Dunkle Mutter“ zurückgekehrt; Herrin des Herathiser Kults und Tureks.",
       "aliases": [],
       "held": false,
       "w": 60
@@ -2105,7 +2111,7 @@
       "type": "person",
       "title": "Altreu",
       "status": "tot (Session 69)",
-      "kurz": "Räuberführer im Seenland — Fell, Axt, Gottes-Ketten und ein Beutel mit Priester-Trophäen; von Paian mit Dorians Schwert getötet.",
+      "kurz": "Räuberführer im Seenland — Fell, Axt, Gottes-Ketten und ein Beutel mit Priester-Trophäen; von Paian mit Doreans Schwert getötet.",
       "aliases": [],
       "held": false,
       "w": 15
@@ -2126,7 +2132,7 @@
       "path": "Personen/Taldor Eisenhand",
       "type": "person",
       "title": "Taldor Eisenhand",
-      "status": "lebendig; Schmied am Unterhang des Heration (Heratis)",
+      "status": "lebendig; Schmied am Unterhang des Herathion (Herathis)",
       "kurz": "Zwergenschmied in Herathis — Verwahrer des Schwarzen Schwerts in einer Box; verschmolz Kelba Feenflügel; rüstet die Gruppe aus.",
       "aliases": [],
       "held": false,
@@ -2136,8 +2142,8 @@
       "path": "Personen/Waslow",
       "type": "person",
       "title": "Waslow",
-      "status": "lebendig; Alchemist in Heratis („Stille Phiole\")",
-      "kurz": "Alchemist in Herathis — half Taldor bei Kelbas Feenflügel-Verschmelzung; Brauer von „Das letzte Aufgebot\" und „Das letzte Mahl\".",
+      "status": "lebendig; Alchemist in Herathis („Stille Phiole“)",
+      "kurz": "Alchemist in Herathis — half Taldor bei Kelbas Feenflügel-Verschmelzung; Brauer von „Das letzte Aufgebot“ und „Das letzte Mahl“.",
       "aliases": [
         "dunrunat"
       ],
@@ -2148,7 +2154,7 @@
       "path": "Personen/Sarvenna Kaltquell",
       "type": "person",
       "title": "Sarvenna Kaltquell",
-      "status": "lebendig; in Heratis (Ionnus-Kreis)",
+      "status": "lebendig; in Herathis (Ionnus-Kreis)",
       "kurz": "Tureks Freundin und Vertraute — enthüllt die Lichte Herrin, das Mond-Dreieck in vier Nächten und warnt Paian vor dem Ring.",
       "aliases": [
         "Sarvenna"
@@ -2163,7 +2169,7 @@
       "status": "tot (Sessions 72/73; zerstückelt aufgefunden)",
       "kurz": "Alter Ionnus-Priester, Mordopfer im Mondlabyrinth — diente einst der Lichten Herrin und hinterließ ein verstecktes Blatt im Buchrücken.",
       "aliases": [
-        "Turik"
+        "Turek"
       ],
       "held": false,
       "w": 25
@@ -2172,7 +2178,7 @@
       "path": "Personen/Bormund",
       "type": "person",
       "title": "Bormund",
-      "status": "lebendig; Hauptmann der Wache in Heratis",
+      "status": "lebendig; Hauptmann der Wache in Herathis",
       "kurz": "Ermittlungshauptmann der Mordserie — kam Carans langen Messern mit harten Verhören auf die Schliche; riegelt das Rathaus ab.",
       "aliases": [],
       "held": false,
@@ -2182,7 +2188,7 @@
       "path": "Personen/Tidara",
       "type": "person",
       "title": "Tidara",
-      "status": "lebendig; Fadengängerin in Ausbildung (Heratis)",
+      "status": "lebendig; Fadengängerin in Ausbildung (Herathis)",
       "kurz": "Junge Fadengängerin, führte die Gruppe zum Feenmarkt — trauert, seit die Mordserie die Stadt ergriff.",
       "aliases": [],
       "held": false,
@@ -2192,7 +2198,7 @@
       "path": "Personen/Tovene",
       "type": "person",
       "title": "Tovene",
-      "status": "tot (von den „besten Meuchlern\" des Iosaris-Kults ermordet, Session 73; Verrat Session 79 aufgeklärt)",
+      "status": "tot (von den „besten Meuchlern“ des Iosaris-Kults ermordet, Session 73; Verrat Session 79 aufgeklärt)",
       "kurz": "Freundliche Fadengängerin, erstochen vor dem Rathaus — sie wollte die Taten des Kults offenbaren und wurde von dessen Meuchlern ermordet; trug einen goldenen Ring mit schwarzem Stein wie Paian; ihr Geist fehlt.",
       "aliases": [
         "Tuvene",
@@ -2205,7 +2211,7 @@
       "path": "Personen/Dara",
       "type": "person",
       "title": "Dara",
-      "status": "lebendig; Schankmagd im Verwinkelten Wachposten (Heratis)",
+      "status": "lebendig; Schankmagd im Verwinkelten Wachposten (Herathis)",
       "kurz": "Nervöse Gnomin mit goldener Lockenmähne — bewirtet die Gruppe im Gruppenzimmer; ihre Mutter hat die schwarzen Seepocken.",
       "aliases": [],
       "held": false,
@@ -2216,7 +2222,7 @@
       "type": "person",
       "title": "Kelba von Tylajon",
       "status": "tot (Maledistas Urteil in der Ritual-Nacht, 13./14.10.997 LZ); inzwischen gewählter oberster Magistrat",
-      "kurz": "„Der fette Zwerg\" — gewählter oberster Magistrat und Wegbereiter des Iosaris-Kults; trug verdorbene Feenschwingen; starb unter Maledistas Urteil.",
+      "kurz": "„Der fette Zwerg“ — gewählter oberster Magistrat und Wegbereiter des Iosaris-Kults; trug verdorbene Feenschwingen; starb unter Maledistas Urteil.",
       "aliases": [
         "Kelba",
         "der fette Zwerg",
@@ -2229,10 +2235,10 @@
       "path": "Personen/Terso Teris",
       "type": "person",
       "title": "Terso Teris",
-      "status": "lebendig; Magistratskandidat (Heratis)",
-      "kurz": "Favorit bei der Wahl zum obersten Magistraten — „hatte den posten schon 7 mal\"; die Chronik schreibt auch „Teso Teris\".",
+      "status": "lebendig; Magistratskandidat (Herathis)",
+      "kurz": "Favorit bei der Wahl zum obersten Magistraten — „hatte den posten schon 7 mal“; die Chronik schreibt auch „Terso Teris“.",
       "aliases": [
-        "Teso Teris"
+        "Terso Teris"
       ],
       "held": false,
       "w": 15
@@ -2242,7 +2248,7 @@
       "type": "person",
       "title": "Ilmar",
       "status": "lebendig (nicht angetroffen); älterer Bruder Doreans, Erbe des Hauses Dunkelgrund",
-      "kurz": "Dorians dunkel gewordener Bruder — duldе keinen Schatten neben sich, schickt Häscher, jagt „den Stein aus Palitan\".",
+      "kurz": "Doreans dunkel gewordener Bruder — dulde keinen Schatten neben sich, schickt Häscher, jagt „den Stein aus Palitan“.",
       "aliases": [],
       "held": false,
       "w": 20
@@ -2251,10 +2257,10 @@
       "path": "Personen/Iliada",
       "type": "person",
       "title": "Iliada",
-      "status": "lebendig; Ionnus-Tempel (Heratis), Familie Isenblut",
+      "status": "lebendig; Ionnus-Tempel (Herathis), Familie Isenblut",
       "kurz": "Frau mit kurzgeschorenem Haar im Ionnus-Tempel — lauscht an Türen, lächelt zu lange; gehört zur Familie Kelbas.",
       "aliases": [
-        "Ilaria"
+        "Iliada"
       ],
       "held": false,
       "w": 20
@@ -2273,7 +2279,7 @@
       "path": "Personen/Brinrand Jitzeburg",
       "type": "person",
       "title": "Brinrand Jitzeburg",
-      "status": "lebendig; Brauereigilde Heratis",
+      "status": "lebendig; Brauereigilde Herathis",
       "kurz": "150-Kilo-Wirt der Brauereigilde — führer durch Hopfenzunder, Weizen Geschwader und ewig Dunkles; Quelle der Herathia-Legende.",
       "aliases": [],
       "held": false,
@@ -2284,7 +2290,7 @@
       "type": "person",
       "title": "Rofbiel Wieselbrühl",
       "status": "unbekannt (nur erwähnt)",
-      "kurz": "Zwerg, der sich „wohl mit Feen und ihren Packten auskennt\" — Angrimas Empfehlung; seit 8 Jahren nicht gesehen.",
+      "kurz": "Zwerg, der sich „wohl mit Feen und ihren Packten auskennt“ — Angrimas Empfehlung; seit 8 Jahren nicht gesehen.",
       "aliases": [],
       "held": false,
       "w": 12
@@ -2318,7 +2324,7 @@
       "path": "Orte/Die Statue der Herathine",
       "type": "ort",
       "title": "Die Statue der Herathine",
-      "status": "bestehend; Wahrzeichen von Heratis",
+      "status": "bestehend; Wahrzeichen von Herathis",
       "kurz": "Doppelt haushohe steinerne Wächterin über den Dächern von Herathis — im Düstermondlicht scheinbar blutend; Zugangsweg zum Schimmernden Refugium und Versammlungsort.",
       "aliases": [
         "Statue der Herathine",
@@ -2343,7 +2349,7 @@
       "path": "Orte/Die Goldene Suppenküche",
       "type": "ort",
       "title": "Die Goldene Suppenküche",
-      "status": "bestehend; Spielhölle in Heratis",
+      "status": "bestehend; Spielhölle in Herathis",
       "kurz": "Spielhölle in Herathis — von Dara empfohlen; Aikyrs Glückshandschuh gewinnt dort alles auf Rot, „Betrug!“-Rufe und Flucht.",
       "aliases": [
         "Goldene Suppenküche"
@@ -2408,7 +2414,7 @@
       "path": "Personen/Wulfast",
       "type": "person",
       "title": "Wulfast",
-      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)",
+      "status": "lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)",
       "kurz": "„Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).",
       "aliases": [
         "Wulffast",
@@ -2421,7 +2427,7 @@
       "path": "Personen/Zingrim Sohn des Zoltex",
       "type": "person",
       "title": "Zingrim Sohn des Zoltex",
-      "status": "lebendig; Seemann in Heratis (Maravas Tochter)",
+      "status": "lebendig; Seemann in Herathis (Maravas Tochter)",
       "kurz": "Seemann, Sohn des Zoltex — auf der Maravas Tochter angeheuert; Witti-Kandidat für „etwas Bedeutendes“; quit mit Witti über die Jaganbaumnüsse.",
       "aliases": [
         "Zingrim"
@@ -2443,7 +2449,7 @@
       "path": "Personen/Fanaion",
       "type": "person",
       "title": "Fanaion",
-      "status": "lebendig; junger Alb am Unterhang von Heratis",
+      "status": "lebendig; junger Alb am Unterhang von Herathis",
       "kurz": "Junger Alb am Unterhang, „heiß auf magische Besonderheiten“ — Halfreds und Paiens Kandidat für die Abend-Hilfe gegen das Ritual.",
       "aliases": [
         "Alben Fanaion"
@@ -2467,7 +2473,7 @@
       "path": "Personen/Sandera Kavandel",
       "type": "person",
       "title": "Sandera Kavandel",
-      "status": "lebendig; Tempelvorsteherin des Ionnus-Tempels (Heratis), schwer erkrankt",
+      "status": "lebendig; Tempelvorsteherin des Ionnus-Tempels (Herathis), schwer erkrankt",
       "kurz": "Kranke Vorsteherin des Ionnus-Tempels — prüfte Fanaions Einsatz gegen das Ritual; empfahl Gläubige des Isgar oder der Vangara.",
       "aliases": [
         "Sandera Karbandel"
@@ -2496,7 +2502,7 @@
       "kurz": "Schlaksiger Magister (~50, dreckig-purpurne Robe, ein Auge fehlt) — sucht „Schwertvolk“ für eine Reise „nach Ymanda“; trägt drei Vogelkäfige; in seinen Katakomben als Folterer entlarvt.",
       "aliases": [
         "Magister Medipho",
-        "Medifo"
+        "Medipho"
       ],
       "held": false,
       "w": 55
@@ -2528,7 +2534,7 @@
       "status": "lebendig; kräftige Matrosin, rechte Hand des Kapitäns (Maravas Tochter)",
       "kurz": "Kräftige Matrosin (~40) auf der Maravas Tochter — verlor ihre Frau Tolki an ein Finsterwasser; kniet im Gunwartempel von Therum.",
       "aliases": [
-        "Tilena"
+        "Telena"
       ],
       "held": false,
       "w": 18
@@ -2572,7 +2578,7 @@
       "type": "person",
       "title": "Mertano Verell",
       "status": "lebendig; Wirtin des Silberkrugs (Therum, Obertadt)",
-      "kurz": "„Die pausbackige Wirt“ [sic] des Silberkrugs — „in feine Tücher gehüllt“, empfängt die Gruppe überschwenglich.",
+      "kurz": "„Der pausbackige Wirt“ des Silberkrugs — „in feine Tücher gehüllt“, empfängt die Gruppe überschwenglich.",
       "aliases": [],
       "held": false,
       "w": 8
@@ -2609,7 +2615,7 @@
       "status": "bestehend; Kleinstadt am Meer — Landung der Gruppe (Session 92, „deutlich südlicher“)",
       "kurz": "Windschiefe Kleinstadt mit Schieferdächern und bunten Wimpeln am Hang — Silberkrug, Sturmvogel, Basalt-Gunwartempel; Ausgangspunkt der Reise mit Medipho.",
       "aliases": [
-        "Terum"
+        "Therum"
       ],
       "held": false,
       "w": 30
@@ -2641,7 +2647,7 @@
       "status": "gesperrt (Orks im Pass, Winter; Session 95)",
       "kurz": "Verkehrsweg von Galpinius nach Zwingard — Bronbron Knack transportierte hier 40 Jahre Seide; Blizzards und Orks; die Blauschlucht liegt auf halbem Weg.",
       "aliases": [
-        "Furchstraße"
+        "Furgstraße"
       ],
       "held": false,
       "w": 15
@@ -2663,7 +2669,7 @@
       "status": "nur erwähnt (Hafen im Osten, nicht angelaufen)",
       "kurz": "Hafenstadt im Osten — Tetsulans Werft-Ziel; gewann die Abstimmung, wurde aber „deutlich südlicher“ verfehlt.",
       "aliases": [
-        "Nampela"
+        "Nampelo"
       ],
       "held": false,
       "w": 10
@@ -2693,7 +2699,7 @@
       "type": "ort",
       "title": "Catarana",
       "status": "nur erwähnt (Station auf der Route nach Ymanda)",
-      "kurz": "Station auf der vom Wildniskundigen empfohlenen Route „Terum > Catarana > Küste entlang zum alten Weg“.",
+      "kurz": "Station auf der vom Wildniskundigen empfohlenen Route „Therum > Catarana > Küste entlang zum alten Weg“.",
       "aliases": [],
       "held": false,
       "w": 8
@@ -2703,7 +2709,7 @@
       "type": "ort",
       "title": "Blauschlucht",
       "status": "nur erwähnt",
-      "kurz": "Zwergenstadt „in den Stein geschlagen, halb Unterirdisch und überaus sehenswert“ — Heimat der „Furgant (Vulkanzwerge)“ [sic], auf halbem Weg der Furgstraße; griff nicht gegen die Orks im Pass ein.",
+      "kurz": "Zwergenstadt „in den Stein geschlagen, halb Unterirdisch und überaus sehenswert“ — Heimat der „Furgant (Vulkanzwerge)“, auf halbem Weg der Furgstraße; griff nicht gegen die Orks im Pass ein.",
       "aliases": [],
       "held": false,
       "w": 10
@@ -2722,7 +2728,7 @@
       "path": "Orte/Zwingard",
       "type": "ort",
       "title": "Zwingard",
-      "status": "bestehend; Region — im Winter 997/998 durchquert (Riesheim-Pass, Isarfest, Kyningswacht)",
+      "status": "bestehend; Region — im Winter 997/998 durchquert (Riesheim-Pass, Isafest, Kyningswacht)",
       "kurz": "Königreich (Mondsteinkrieg) — Bronbrons Seidenziel über die Furgstraße; durchquert auf dem Weg in den Nachtwall.",
       "aliases": [],
       "held": false,
@@ -2766,7 +2772,7 @@
       "type": "kreatur",
       "title": "Rattlinge",
       "status": "bestehend (nachts in Galpinius)",
-      "kurz": "Dringen nachts in Galpinius ein und bestehlen Leute.",
+      "kurz": "Dringen nachts in Galpinius ein und beStelen Leute.",
       "aliases": [],
       "held": false,
       "w": 8
@@ -2798,7 +2804,7 @@
       "type": "person",
       "title": "Severan Deltaro",
       "status": "lebendig; Alter Mann der Wache von Galpinius",
-      "kurz": "„Alter Spießgeselle“ [sic] der Wache — hager, redefreudig, kennt die Orks; die erzählende Chronik-Prosa nennt ihn „Severan del Taro, dem Stadtvorsteher“.",
+      "kurz": "„Alter Spießgeselle“ der Wache — hager, redefreudig, kennt die Orks; die erzählende Chronik-Prosa nennt ihn „Severan del Taro, dem Stadtvorsteher“.",
       "aliases": [
         "Severan del Taro"
       ],
@@ -2809,8 +2815,8 @@
       "path": "Personen/Falkbald",
       "type": "person",
       "title": "Falkbald",
-      "status": "lebendig; junger Soldat der Blutwacht (verfallene Festung, Zwinggard)",
-      "kurz": "Junger Blutwacht-Soldat an der Festung — Routen-Kunde nach Isarfest und Nachtwall; warnte vor der wilden Blutgrasweite und empfahl den „Ertrunkenen Mond“.",
+      "status": "lebendig; junger Soldat der Blutwacht (verfallene Festung, Zwingard)",
+      "kurz": "Junger Blutwacht-Soldat an der Festung — Routen-Kunde nach Isafest und Nachtwall; warnte vor der wilden Blutgrasweite und empfahl den „Ertrunkenen Mond“.",
       "aliases": [],
       "held": false,
       "w": 10
@@ -2839,7 +2845,7 @@
       "path": "Personen/Anodara die Kranke",
       "type": "person",
       "title": "Anodara die Kranke",
-      "status": "lebendig; krank (Geschwüre und Ausschläge) — einzige Gunwarpriesterin von Isarfest; Donnerhuf blieb bei ihr",
+      "status": "lebendig; krank (Geschwüre und Ausschläge) — einzige Gunwarpriesterin von Isafest; Donnerhuf blieb bei ihr",
       "kurz": "Alte, müde Priesterin des Tempels des Gunwar — Weihe mit Theoboid Staubhüll; „er hätte zu tief in die dunkelheit geschaut“; gab Paian die Schriftrolle „ein leben für ein leben“.",
       "aliases": [
         "Anodara"
@@ -2896,7 +2902,7 @@
       "type": "person",
       "title": "Bruder Aurevian",
       "status": "lebendig; selenischer Gesandter („Das Goldene Wort“) am Hof von Altstein",
-      "kurz": "„Der Seelenische [sic] Gast vom Königshof“ — türkise Augen, goldenes Schwert-Emblem; verkündet das „Goldene Licht“ Kaiser Selenius‘ und stellte Halfred die Frage nach Tugend und Eitelkeit.",
+      "kurz": "„Der Seelenische Gast vom Königshof“ — türkise Augen, goldenes Schwert-Emblem; verkündet das „Goldene Licht“ Kaiser Selenius‘ und stellte Halfred die Frage nach Tugend und Eitelkeit.",
       "aliases": [
         "Aurevian"
       ],
@@ -2916,13 +2922,13 @@
       "w": 25
     },
     {
-      "path": "Orte/Isarfest",
+      "path": "Orte/Isafest",
       "type": "ort",
-      "title": "Isarfest",
-      "status": "bestehend; Bollwerk-Stadt (Zwinggard), Etappenziel der Winterreise",
-      "kurz": "„Ein Bollwerk mit Balistas [sic] auf den Mauern“ — schmiede-lauter Militärstadt; hier: Anodaras Gunwartempel, Ausrüstungs-Einkäufe und die Route gen Kyningswacht und Nachtwall.",
+      "title": "Isafest",
+      "status": "bestehend; Bollwerk-Stadt (Zwingard), Etappenziel der Winterreise",
+      "kurz": "„Ein Bollwerk mit Ballisten auf den Mauern“ — schmiede-lauter Militärstadt; hier: Anodaras Gunwartempel, Ausrüstungs-Einkäufe und die Route gen Kyningswacht und Nachtwall.",
       "aliases": [
-        "Isafest"
+        "Isarfest"
       ],
       "held": false,
       "w": 25
@@ -2931,8 +2937,8 @@
       "path": "Orte/Kyningswacht",
       "type": "ort",
       "title": "Kyningswacht",
-      "status": "bestehend; Wehrort auf der Route von Isarfest Richtung Nachtwall",
-      "kurz": "Etappen-Ort drei Tage südöstlich von Isarfest — hier erstattete die Gruppe Bericht über die zwei allein gebliebenen Jungen vom Einsiedlerhof.",
+      "status": "bestehend; Wehrort auf der Route von Isafest Richtung Nachtwall",
+      "kurz": "Etappen-Ort drei Tage südöstlich von Isafest — hier erstattete die Gruppe Bericht über die zwei allein gebliebenen Jungen vom Einsiedlerhof.",
       "aliases": [
         "Königwacht"
       ],
@@ -2991,7 +2997,7 @@
       "type": "ort",
       "title": "Blutwald",
       "status": "bestehend; durchquert (Sessions 102, 01.–15.08.998 LZ)",
-      "kurz": "„Großer Wald“ vor dem Nachtwall — wärmer und schwüler als Zwinggard; Halfred führte die Gruppe zügig hindurch.",
+      "kurz": "„Großer Wald“ vor dem Nachtwall — wärmer und schwüler als Zwingard; Halfred führte die Gruppe zügig hindurch.",
       "aliases": [
         "Blutholz",
         "das Blutholz"
@@ -3003,8 +3009,8 @@
       "path": "Fraktionen/Die Blutwacht",
       "type": "fraktion",
       "title": "Die Blutwacht",
-      "status": "aktiv — Zwinggard; Grenzwacht zum Orkreich (2 bis 3 Jahre Dienst)",
-      "kurz": "Schwer gerüstete Wacht mit blutrotem Drei-Berge-Banner — Mauer mit den Namen der Gefallenen; ruft 18-Jährige zur Zeremonie nach Isarfest.",
+      "status": "aktiv — Zwingard; Grenzwacht zum Orkreich (2 bis 3 Jahre Dienst)",
+      "kurz": "Schwer gerüstete Wacht mit blutrotem Drei-Berge-Banner — Mauer mit den Namen der Gefallenen; ruft 18-Jährige zur Zeremonie nach Isafest.",
       "aliases": [
         "Blutwacht"
       ],
@@ -3028,7 +3034,7 @@
       "type": "kreatur",
       "title": "Orks",
       "status": "aktiv — Pass-Orks erschlagen (Sessions 99–101); Lager von Tausenden am See in der Blutgrasweite (Sessions 118–120)",
-      "kurz": "Riesige, gepanzerte Kreaturen — der Trupp im Riesheim-Pass, der 4-Meter-Boss im Dorf-Überfall; Zwinggard kämpft seit Jahrhunderten gegen sie.",
+      "kurz": "Riesige, gepanzerte Kreaturen — der Trupp im Riesheim-Pass, der 4-Meter-Boss im Dorf-Überfall; Zwingard kämpft seit Jahrhunderten gegen sie.",
       "aliases": [
         "Ork",
         "Orkreich"
@@ -3044,7 +3050,7 @@
       "kurz": "Riesige Flugechsen mit 6–8 m Flügelspannweite — kreisen über Gnusherden und Kadavern; „Apex-predator in seinem Reich“.",
       "aliases": [
         "Gnu-Reißer",
-        "Grureißer [sic]",
+        "Grureißer",
         "Riesige Flugechse"
       ],
       "held": false,
@@ -3117,7 +3123,7 @@
       "type": "kreatur",
       "title": "Das dreiäugige Wesen",
       "status": "lebendig (Stand Session 125); im Inneren der schwarzen Masse im Baumriesenwald",
-      "kurz": "Fünf Meter hohes, verholztes, ork-ähnliches Wesen mit drei Augen in der schwarzen Masse — nennt den Ort „Anfang….. Ende\" und gab Sira den schwarzen Samenstein. Hilfsname.",
+      "kurz": "Fünf Meter hohes, verholztes, ork-ähnliches Wesen mit drei Augen in der schwarzen Masse — nennt den Ort „Anfang….. Ende“ und gab Sira den schwarzen Samenstein. Hilfsname.",
       "aliases": [
         "Dreiäugiges Wesen",
         "Wesen in der Dunkelheit"
@@ -3199,7 +3205,7 @@
       "w": 85,
       "title": "Der blaue Kristall",
       "status": "in Siras Besitz (Session 128)",
-      "kurz": "Kristall, „Blau wie ihre okarina“, der über der Stele schwebte, nachdem Siras Worte die Schwärze vertrieben — „mit diesem stein wird sie ihr lied weben“. Hilfsname.",
+      "kurz": "Kristall, „Blau wie ihre Okarina“, der über der Stele schwebte, nachdem Siras Worte die Schwärze vertrieben — „mit diesem stein wird sie ihr lied weben“. Hilfsname.",
       "aliases": [
         "Blauer Kristall",
         "Siras Kristall"

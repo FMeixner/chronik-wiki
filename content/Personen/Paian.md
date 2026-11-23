@@ -2,7 +2,7 @@
 type: person
 title: Paian
 aliases: []
-status: lebendig; um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
+status: lebendig; um Jahre gealtert; entlassen aus der Feste Altstein (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)
 kurz: Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch eine Seance gerettet; um Jahre gealtert; Ring-Träger.
 ---
 # Paian
@@ -23,7 +23,7 @@ kurz: Gunwarpriester; dem Tode nahe in der Höhle im Seenland, von Angrima durch
 - [[Goldener Ring]] mit schwarzem Stein: sehr mächtige Magie, öffnete die Tore im Schlund der Finsternis.
 - Das [[Herz der Gagamba]], aus dem Tempel in Palitan gestohlen. Laut [[Jadan]] hat es seine Kraft bereits an jemanden abgegeben.
 - [[Die Goldene Maske]], die sich gegen jede Analyse wehrt.
-- Stabkeule und mittlere Tuchrüstung von [[Taldor Eisenhand]]; aus Isarfest eine kühlende Lederrüstung in Savannenfarbe; ein Dharst.
+- Stabkeule und mittlere Tuchrüstung von [[Taldor Eisenhand]]; aus Isafest eine kühlende Lederrüstung in Savannenfarbe; ein Dharst.
 - Talisman aus dem [[Hūeng]]-Tempel, rotes Seidenband mit dem Bambus-Symbol, Empfehlungsschreiben und Gebetbuch von [[Myro von der Felsenbucht]].
 - Kompass vom [[Der Feenmarkt|Feenmarkt]], der nach Südwesten zeigt; Schriftrolle „ein Leben für ein Leben“ von [[Anodara die Kranke|Anodara]].
 - Der [[Beseelter Stinkmohn|Beseelte Stinkmohn]] im Tontopf.
@@ -53,17 +53,17 @@ In Palitan hilft ihm der [[Der Mandarin|Mandarin-Geist]], weil er den Tiergeist 
 
 Am zerstörten [[Fleadyne-Schrein]] packt ihn der Zorn auf die Frevler; an der Linde fühlt er sich seinem Gott nahe, und doch stimmt etwas nicht. Im [[Der Schlund der Finsternis|Schlund der Finsternis]] öffnet er mit dem Ring die schwarzen Tore und setzt den [[Der Spiegel (Schlund der Finsternis)|Spiegel]] zusammen, wobei ihm sein Gott fern wird. Er begräbt [[Luidperga]]. Auf dem Fluss brütet er wochenlang über der [[Die Goldene Maske|goldenen Maske]], die ihn mit einem Lichtblitz halb blendet. In Beertal mahnt ihn ein Bettler am verödeten Gunwartempel: „es ist nicht die Zeit zu handeln, Bruder“. Im [[Das Seenland|Seenland]] wird er vom [[Troll]] gewürgt und erlebt den Nahtod mit seiner Prophezeiung. Danach ist er an die Höhle gebunden und bricht vor Schmerz zusammen, sobald er sie verlässt. Aikyr schnitzt ihm ein Grabdenkmal, [[Sira]] schreibt seine Melodie an die Wand.
 
-## Sessions 67–86: Feenmarkt und Heratis
+## Sessions 67–86: Feenmarkt und Herathis
 
 Draußen heilt sein Körper, doch die Seele will gehen; Siras „geh noch nicht“ hält sie fest, bis die Priesterin [[Angrima]] ihn in einer Seance rettet. Er ist um Jahre gealtert. Einen todessehnsüchtigen Räuber erlöst er mit dem Dharst, die Wesenheit in Dorean bannt er mit letzter Kraft. Auf dem [[Der Feenmarkt|Feenmarkt]] kostet ihn eine Truhe seine Hose und bringt ihm den Kompass; vom Joka-Baum erfährt er genug, um ihn verbrennen zu wollen.
 
-In [[Heratis]] ahnt er an der [[Die Statue der Herathine|Statue der Herathine]], dass etwas Unaufhaltsames naht. Im [[Das Schimmernde Refugium|Schimmernden Refugium]] trägt ihn die Maske durch die Barriere. Beim Blutopfer streckt er, vom Rauch berauscht, Kelba die Hand hin und wünscht sich, sein Blut möge das Ritual verderben. In der Ritual-Nacht kickt er die Feuerschalen aus dem Kreis und kämpft mit der Stabkeule, bis nur noch vier in der Halle stehen. An Doreans Ende weint er.
+In [[Herathis]] ahnt er an der [[Die Statue der Herathine|Statue der Herathine]], dass etwas Unaufhaltsames naht. Im [[Das Schimmernde Refugium|Schimmernden Refugium]] trägt ihn die Maske durch die Barriere. Beim Blutopfer streckt er, vom Rauch berauscht, Kelba die Hand hin und wünscht sich, sein Blut möge das Ritual verderben. In der Ritual-Nacht kickt er die Feuerschalen aus dem Kreis und kämpft mit der Stabkeule, bis nur noch vier in der Halle stehen. An Doreans Ende weint er.
 
 ## Sessions 87–106: Ewige See, Galpinius und Altstein
 
 Seekrank springt er dennoch angeseilt für den Matrosen [[Davo]] ins Meer. Gegen das [[Finsterwasser]] erinnert er sich an Staubhülls Lehre, dass nur göttliche Macht, Licht oder Feuer solchen Wesen schadet, und schreit ein Gebet in den Sturm: Ein riesiges Walskelett schließt das Schiff in seine Rippen. In [[Mediphos Katakomben]] öffnet er mit seinem Blut die Steintür, zerschmettert Mediphos Maske und steigt in den blutigen Brunnen. Einem Erfrorenen schneidet er eine Locke ab und lässt ihn zu Asche werden.
 
-Am [[Riesheim]] untersucht er die Anatomie der [[Orks]], die wie für den Krieg gemacht wirken. Im Dorfkampf ruft er vergeblich „Haltet ein!“, beschwört Urmoks widerwilligen Geist und verliert zwei Verletzte unter den Händen. In Isarfest legt er die Locke auf Anodaras Altar. In der [[Feste Altstein]] erkennt er ein Heiligtum der Ehre, Aufrichtigkeit und des Schutzes und sieht Geister einer Frau mit Geweih und eines knurrenden Fuchses.
+Am [[Riesheim]] untersucht er die Anatomie der [[Orks]], die wie für den Krieg gemacht wirken. Im Dorfkampf ruft er vergeblich „Haltet ein!“, beschwört Urmoks widerwilligen Geist und verliert zwei Verletzte unter den Händen. In Isafest legt er die Locke auf Anodaras Altar. In der [[Feste Altstein]] erkennt er ein Heiligtum der Ehre, Aufrichtigkeit und des Schutzes und sieht Geister einer Frau mit Geweih und eines knurrenden Fuchses.
 
 ## Sessions 107–123: Blutgrasweite und Baumriesenwald
 

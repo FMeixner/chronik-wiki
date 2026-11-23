@@ -2,7 +2,7 @@
 type: person
 title: Wulfast
 aliases: [Wulffast, Robar]
-status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
+status: lebendig; neuer Gefährte der Gruppe (seit Session 84); Ordensbruder, Vangara-gläubig; entlassen aus der Feste Altstein — Stab zurückerhalten (Session 107); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)
 kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner Klinge und bläulichem Schein; rettete Aikyr, folgt der Gruppe im Auftrag seines Ordens seit Sarnburg; geboren in Unterwalde als „Robar“ (Session 99).
 ---
 # Wulfast
@@ -13,12 +13,12 @@ kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner K
 - Ordenskrieger der Vangara: Nahkampf mit Stab und großem Schild.
 - Lichtmagie: Lichtblitze aus der Hand, Lichtbarriere (mit [[Sira]]).
 - Gebete an Vangara: Beistand für die Gruppe, Predigten, das Brechen eines Bandes, das Gequälte am Leben hielt (Session 94).
-- Beschwört gerüstete Krieger mit Vangarastab, in der Chronik Wardei bzw. Vardai genannt.
+- Beschwört gerüstete Krieger mit Vangarastab, in der Chronik Wardei bzw. Wardei genannt.
 
 ### Besitz
 - [[Das Zepter ohne Gesicht]] aus dem Sarkophag im Gewölbe (Session 128); laut Chronik kann er damit „hier und jetzt todesmagie bis 6 steigern“.
 - Vangarastab: gut zwei Meter, dunkles Holz, oben eine fast silberne, beidseitig geschärfte Klinge mit bläulichem Schein; passt in einen Beutel an seinem Gürtel. In Altstein beschlagnahmt, bei der Entlassung zurückerhalten.
-- Bronzeschimmernde Schuppenrüstung (in Isarfest gerichtet), riesiger Schild, Gewand mit unbekanntem Zeichen.
+- Bronzeschimmernde Schuppenrüstung (in Isafest gerichtet), riesiger Schild, Gewand mit unbekanntem Zeichen.
 - Ein Steckbrief mit den Gesichtern von [[Dorean]] und [[Halfred]].
 - Vom [[Der Ertrunkene Mond|Ertrunkenen Mond]] ein Trank.
 
@@ -30,18 +30,18 @@ kurz: „Ein Koloss aus Fleisch, Eisen und Schweigen“ — Stab mit silberner K
 ### Offene Fäden
 - Wer schickte den Lichtstrahl, der durch die Wolken auf die Stelle fiel, an der er drei Meter tief verschüttet lag (Session 127)?
 - Name und Ziele seines Ordens, und was er mit der Gruppe vorhat.
-- Was sind die Wardei bzw. Vardai, und was beschwor er gegen die [[Gnureißer]]?
+- Was sind die Wardei bzw. Wardei, und was beschwor er gegen die [[Gnureißer]]?
 - „Robar“ aus [[Unterwalde]]: Seine Eltern übernahmen einen Hof nahe den [[Verheerte Lande|Verheerten Landen]], seine Großeltern lebten in Unterwalde. Aikyr kannte seine Fährte.
 - Was durchschnitt im Blutgras seine Armschiene?
 - Der Fischer, dessen Freund Dorean mit dem Schwarzen Schwert getötet haben soll.
 
-## Sessions 84–86: Heratis
+## Sessions 84–86: Herathis
 
 Wulfast taucht in einer dunklen Gasse auf, als drei Männer [[Aikyr]] den Gewinn aus der [[Die Goldene Suppenküche|Goldenen Suppenküche]] abnehmen wollen: ein Mann wie ein Schrank, mit Stab und Kapuze, der in einer Stunde kaum zehn Worte sagt. Er trägt einen Steckbrief von Dorean und Halfred, ist aber kein Kopfgeldjäger. Er folgt der Gruppe seit Sarnburg über Wasserfels, weil sein Orden an ihr interessiert ist. Aikyr sitzt schweigend bis zum Morgen mit ihm beim Bier und droht ihm für den Fall, dass er den Freunden etwas antut. Am Tag nach der Ritual-Nacht sitzt Wulfast mit am Tisch, sieht Paians Müdigkeit, Halfreds Last, Siras stille Wut und die Lücke, die Dorean hinterlässt, und fragt sich, ob diese Leute das Licht bringen oder es nur ungewollt in die Welt tragen. Als sie aufstehen, steht er mit auf.
 
 ## Sessions 87–106: Ewige See, Galpinius und Altstein
 
-Gegen das [[Finsterwasser]] zieht er mit Lichtblitzen den Zorn des Wesens auf sich und dankt danach Vangara mit einer Predigt vor der Mannschaft. [[Tetsulan]] warnt er, dass seine Herrin eine rachsüchtige Göttin sei. In [[Mediphos Katakomben]] spießt er [[Medipho]] auf und bittet Vangara, das Band zu brechen, das die Gefangenen am Leben hält. Die Gequälten finden Frieden. Am [[Riesheim]] fragt er die anderen über Unterwalde aus, bis Aikyr seine Fährte erkennt; dann beichtet er, dass er dort als „Robar“ geboren wurde, und die Gruppe erzählt ihm im Gegenzug von ihren Feenpakten. Im Höhlenkampf ruft er einen Wardei, der dem Orkboss den Bauch aufschlitzt. In der [[Feste Altstein]] will er seinen Stab nicht abgeben, verletzt mehrere Wachen schwer und beschwört in der Zelle zwei Vardai, bis [[Paian]] und Aikyr ihn beruhigen. Das Festmahl mit Zauberverbot lehnt er ab.
+Gegen das [[Finsterwasser]] zieht er mit Lichtblitzen den Zorn des Wesens auf sich und dankt danach Vangara mit einer Predigt vor der Mannschaft. [[Tetsulan]] warnt er, dass seine Herrin eine rachsüchtige Göttin sei. In [[Mediphos Katakomben]] spießt er [[Medipho]] auf und bittet Vangara, das Band zu brechen, das die Gefangenen am Leben hält. Die Gequälten finden Frieden. Am [[Riesheim]] fragt er die anderen über Unterwalde aus, bis Aikyr seine Fährte erkennt; dann beichtet er, dass er dort als „Robar“ geboren wurde, und die Gruppe erzählt ihm im Gegenzug von ihren Feenpakten. Im Höhlenkampf ruft er einen Wardei, der dem Orkboss den Bauch aufschlitzt. In der [[Feste Altstein]] will er seinen Stab nicht abgeben, verletzt mehrere Wachen schwer und beschwört in der Zelle zwei Wardei, bis [[Paian]] und Aikyr ihn beruhigen. Das Festmahl mit Zauberverbot lehnt er ab.
 
 ## Sessions 107–123: Blutgrasweite und Baumriesenwald
 
@@ -53,8 +53,8 @@ Mit einem Stoßgebet treibt Wulfast Halfred durch die schwarze Masse. Vor der fl
 
 ## Session 128: Das Gewölbe unter den Zwillingsgipfeln
 
-Im Gewölbe stürzt er in einen Abgrund, hält sich nach vier Metern an der Wand und wird mit ausgerenkter Schulter heraufgezogen. Er beschwört Vardai gegen die gekrümmten Leiber und die Flügelwesen. Als er an einer Stele blutet, brechen Skelettkrieger aus den Statuen. Ungeduldig stößt er den Sarkophag um und reißt dem gesichtslosen Toten das Zepter aus der Hand; Enge legt sich um sein Herz.
+Im Gewölbe stürzt er in einen Abgrund, hält sich nach vier Metern an der Wand und wird mit ausgerenkter Schulter heraufgezogen. Er beschwört Wardei gegen die gekrümmten Leiber und die Flügelwesen. Als er an einer Stele blutet, brechen Skelettkrieger aus den Statuen. Ungeduldig stößt er den Sarkophag um und reißt dem gesichtslosen Toten das Zepter aus der Hand; Enge legt sich um sein Herz.
 
 ## Session 129: Aus dem Gebirge aufs Meer
 
-Mit Paian untersucht er das Zepter: ein uraltes Artefakt mit eigenem Fokuspool, gespeist aus Lebensenergie, mit beiden verbunden. Nach Wochen im Gebirge geht er mit den anderen an Bord eines fremden Schiffes nach Heratis.
+Mit Paian untersucht er das Zepter: ein uraltes Artefakt mit eigenem Fokuspool, gespeist aus Lebensenergie, mit beiden verbunden. Nach Wochen im Gebirge geht er mit den anderen an Bord eines fremden Schiffes nach Herathis.

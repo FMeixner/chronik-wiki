@@ -13,6 +13,6 @@ kurz: Stoischer Gunwarpriester in Sarnburg; warnt: keine Nachfrage nach Isenblut
 - Gab Paian ein Empfehlungsschreiben für die Bibliothek und ein Buch mit Gebeten.
 - „In [[Arwingen]] steht es nicht gut“ — er kennt den Wargen dort und kann eine Audienz möglich machen.
 
-- Wiederbegegnung im Gunwartempel (Session 41): [[Halfred]] begleitet [[Paian]]. Auf die Frage nach [[Esmoda]] — „der Stadt der Toten" — rät er ab, danach zu suchen; als er hört, dass Doreans Schwert von dort kommen muss: In [[Heratis]] gebe es einen Zwergen, „der sich gut mit Feenwirken auskenne".
-- Kriegs- und Kirchenpolitik (Session 41): Das Heer, das „nach Midstadt gezogen ist, um eine Dunkelheit in Mitstadt auszutreiben", wurde zerschlagen — „ein paar der fanatischen Brüder" wurden auf der Midstadter Seite gesehen. Kaiser Selenius streicht die Mittel für die Kirchen, „insbesondere der Jonnus und Gunwarkirche".
-- Weiß nichts von den Brüdern, die nach [[Palitan]] unterwegs waren, „dem Alben mit der Narbe oder dem schwarzen Wagen"; für den Weg in die [[Blutgrasweite]]: „in Isarfest: an Arnodara die Kranke wenden".
+- Wiederbegegnung im Gunwartempel (Session 41): [[Halfred]] begleitet [[Paian]]. Auf die Frage nach [[Esmoda]] — „der Stadt der Toten“ — rät er ab, danach zu suchen; als er hört, dass Doreans Schwert von dort kommen muss: In [[Herathis]] gebe es einen Zwergen, „der sich gut mit Feenwirken auskenne“.
+- Kriegs- und Kirchenpolitik (Session 41): Das Heer, das „nach Midstad gezogen ist, um eine Dunkelheit in Mitstadt auszutreiben“, wurde zerschlagen — „ein paar der fanatischen Brüder“ wurden auf der Midstader Seite gesehen. Kaiser Selenius streicht die Mittel für die Kirchen, „insbesondere der Jonnus und Gunwarkirche“.
+- Weiß nichts von den Brüdern, die nach [[Palitan]] unterwegs waren, „dem Alben mit der Narbe oder dem schwarzen Wagen“; für den Weg in die [[Blutgrasweite]]: „in Isafest: an Arnodara die Kranke wenden“.
