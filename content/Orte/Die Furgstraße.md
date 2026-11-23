@@ -1,7 +1,7 @@
 ---
 type: ort
 title: Die Furgstraße
-aliases: [Furgstraße]
+aliases: [Furchstraße]
 status: gesperrt (Orks im Pass, Winter; Session 95)
 kurz: Verkehrsweg von Galpinius nach Zwingard — Bronbron Knack transportierte hier 40 Jahre Seide; Blizzards und Orks; die Blauschlucht liegt auf halbem Weg.
 ---

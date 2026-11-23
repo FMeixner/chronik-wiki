@@ -1,7 +1,7 @@
 ---
 type: ort
 title: Nampelo
-aliases: [Nampelo]
+aliases: [Nampela]
 status: nur erwähnt (Hafen im Osten, nicht angelaufen)
 kurz: Hafenstadt im Osten — Tetsulans Werft-Ziel; gewann die Abstimmung, wurde aber „deutlich südlicher“ verfehlt.
 ---

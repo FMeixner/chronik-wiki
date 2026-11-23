@@ -1,7 +1,7 @@
 ---
 type: kreatur
 title: Gnureißer
-aliases: [Gnu-Reißer, Grureißer, Riesige Flugechse]
+aliases: [Gnu-Reißer, Grureißer [sic], Riesige Flugechse]
 status: aktiv — Aasfresser und Jäger über der Blutgrasweite; zerfleischten Sommertochter (Session 115)
 kurz: Riesige Flugechsen mit 6–8 m Flügelspannweite — kreisen über Gnusherden und Kadavern; „Apex-predator in seinem Reich“.
 ---

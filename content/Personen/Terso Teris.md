@@ -1,7 +1,7 @@
 ---
 type: person
 title: Terso Teris
-aliases: [Terso Teris]
+aliases: [Teso Teris]
 status: lebendig; Magistratskandidat (Herathis)
 kurz: Favorit bei der Wahl zum obersten Magistraten — „hatte den posten schon 7 mal“; die Chronik schreibt auch „Terso Teris“.
 ---

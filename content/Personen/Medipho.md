@@ -1,7 +1,7 @@
 ---
 type: person
 title: Medipho
-aliases: [Magister Medipho, Medipho]
+aliases: [Magister Medipho, Medifo]
 status: tot (Session 94 — von Aikyr erwürgt)
 kurz: Schlaksiger Magister (~50, dreckig-purpurne Robe, ein Auge fehlt) — sucht „Schwertvolk“ für eine Reise „nach Ymanda“; trägt drei Vogelkäfige; in seinen Katakomben als Folterer entlarvt.
 ---

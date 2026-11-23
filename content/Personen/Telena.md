@@ -1,7 +1,7 @@
 ---
 type: person
 title: Telena
-aliases: [Telena]
+aliases: [Tilena]
 status: lebendig; kräftige Matrosin, rechte Hand des Kapitäns (Maravas Tochter)
 kurz: Kräftige Matrosin (~40) auf der Maravas Tochter — verlor ihre Frau Tolki an ein Finsterwasser; kniet im Gunwartempel von Therum.
 ---

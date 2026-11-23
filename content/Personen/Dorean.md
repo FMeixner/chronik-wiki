@@ -1,7 +1,7 @@
 ---
 type: person
 title: Dorean
-aliases: [Dorean]
+aliases: [Dorian]
 status: verschollen im Weltriss (Ritual-Nacht, 14.10.997 LZ)
 kurz: Adliger Schwertrichter aus Unterwalde; vom Schwarzen Schwert gepeinigt — nahm in der Ritual-Nacht den Pakt an, verweigerte den Preis und verging im Weltriss; in Selenia mit Kopfgeld gesucht.
 ---

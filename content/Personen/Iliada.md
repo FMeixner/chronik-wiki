@@ -1,7 +1,7 @@
 ---
 type: person
 title: Iliada
-aliases: [Iliada]
+aliases: [Ilaria]
 status: lebendig; Ionnus-Tempel (Herathis), Familie Isenblut
 kurz: Frau mit kurzgeschorenem Haar im Ionnus-Tempel — lauscht an Türen, lächelt zu lange; gehört zur Familie Kelbas.
 ---

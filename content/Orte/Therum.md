@@ -1,7 +1,7 @@
 ---
 type: ort
 title: Therum
-aliases: [Therum]
+aliases: [Terum]
 status: bestehend; Kleinstadt am Meer — Landung der Gruppe (Session 92, „deutlich südlicher“)
 kurz: Windschiefe Kleinstadt mit Schieferdächern und bunten Wimpeln am Hang — Silberkrug, Sturmvogel, Basalt-Gunwartempel; Ausgangspunkt der Reise mit Medipho.
 ---

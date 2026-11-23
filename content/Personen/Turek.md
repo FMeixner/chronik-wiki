@@ -1,7 +1,7 @@
 ---
 type: person
 title: Turek
-aliases: [Turek]
+aliases: [Turik]
 status: tot (Sessions 72/73; zerstückelt aufgefunden)
 kurz: Alter Ionnus-Priester, Mordopfer im Mondlabyrinth — diente einst der Lichten Herrin und hinterließ ein verstecktes Blatt im Buchrücken.
 ---

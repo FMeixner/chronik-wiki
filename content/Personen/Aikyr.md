@@ -1,7 +1,7 @@
 ---
 type: person
 title: Aikyr
-aliases: [Aikir, Aikyr]
+aliases: [Aikir, Aykir]
 status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)
 kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.
 ---

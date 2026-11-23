@@ -54,7 +54,7 @@
       "kurz": "Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.",
       "aliases": [
         "Aikir",
-        "Aikyr"
+        "Aykir"
       ],
       "held": true,
       "w": 100
@@ -129,7 +129,7 @@
       "status": "verschollen im Weltriss (Ritual-Nacht, 14.10.997 LZ)",
       "kurz": "Adliger Schwertrichter aus Unterwalde; vom Schwarzen Schwert gepeinigt — nahm in der Ritual-Nacht den Pakt an, verweigerte den Preis und verging im Weltriss; in Selenia mit Kopfgeld gesucht.",
       "aliases": [
-        "Dorean"
+        "Dorian"
       ],
       "held": true,
       "w": 88
@@ -2169,7 +2169,7 @@
       "status": "tot (Sessions 72/73; zerstückelt aufgefunden)",
       "kurz": "Alter Ionnus-Priester, Mordopfer im Mondlabyrinth — diente einst der Lichten Herrin und hinterließ ein verstecktes Blatt im Buchrücken.",
       "aliases": [
-        "Turek"
+        "Turik"
       ],
       "held": false,
       "w": 25
@@ -2238,7 +2238,7 @@
       "status": "lebendig; Magistratskandidat (Herathis)",
       "kurz": "Favorit bei der Wahl zum obersten Magistraten — „hatte den posten schon 7 mal“; die Chronik schreibt auch „Terso Teris“.",
       "aliases": [
-        "Terso Teris"
+        "Teso Teris"
       ],
       "held": false,
       "w": 15
@@ -2260,7 +2260,7 @@
       "status": "lebendig; Ionnus-Tempel (Herathis), Familie Isenblut",
       "kurz": "Frau mit kurzgeschorenem Haar im Ionnus-Tempel — lauscht an Türen, lächelt zu lange; gehört zur Familie Kelbas.",
       "aliases": [
-        "Iliada"
+        "Ilaria"
       ],
       "held": false,
       "w": 20
@@ -2502,7 +2502,7 @@
       "kurz": "Schlaksiger Magister (~50, dreckig-purpurne Robe, ein Auge fehlt) — sucht „Schwertvolk“ für eine Reise „nach Ymanda“; trägt drei Vogelkäfige; in seinen Katakomben als Folterer entlarvt.",
       "aliases": [
         "Magister Medipho",
-        "Medipho"
+        "Medifo"
       ],
       "held": false,
       "w": 55
@@ -2534,7 +2534,7 @@
       "status": "lebendig; kräftige Matrosin, rechte Hand des Kapitäns (Maravas Tochter)",
       "kurz": "Kräftige Matrosin (~40) auf der Maravas Tochter — verlor ihre Frau Tolki an ein Finsterwasser; kniet im Gunwartempel von Therum.",
       "aliases": [
-        "Telena"
+        "Tilena"
       ],
       "held": false,
       "w": 18
@@ -2615,7 +2615,7 @@
       "status": "bestehend; Kleinstadt am Meer — Landung der Gruppe (Session 92, „deutlich südlicher“)",
       "kurz": "Windschiefe Kleinstadt mit Schieferdächern und bunten Wimpeln am Hang — Silberkrug, Sturmvogel, Basalt-Gunwartempel; Ausgangspunkt der Reise mit Medipho.",
       "aliases": [
-        "Therum"
+        "Terum"
       ],
       "held": false,
       "w": 30
@@ -2647,7 +2647,7 @@
       "status": "gesperrt (Orks im Pass, Winter; Session 95)",
       "kurz": "Verkehrsweg von Galpinius nach Zwingard — Bronbron Knack transportierte hier 40 Jahre Seide; Blizzards und Orks; die Blauschlucht liegt auf halbem Weg.",
       "aliases": [
-        "Furgstraße"
+        "Furchstraße"
       ],
       "held": false,
       "w": 15
@@ -2669,7 +2669,7 @@
       "status": "nur erwähnt (Hafen im Osten, nicht angelaufen)",
       "kurz": "Hafenstadt im Osten — Tetsulans Werft-Ziel; gewann die Abstimmung, wurde aber „deutlich südlicher“ verfehlt.",
       "aliases": [
-        "Nampelo"
+        "Nampela"
       ],
       "held": false,
       "w": 10
@@ -3050,7 +3050,7 @@
       "kurz": "Riesige Flugechsen mit 6–8 m Flügelspannweite — kreisen über Gnusherden und Kadavern; „Apex-predator in seinem Reich“.",
       "aliases": [
         "Gnu-Reißer",
-        "Grureißer",
+        "Grureißer [sic]",
         "Riesige Flugechse"
       ],
       "held": false,
