@@ -8,7 +8,7 @@ kurz: Gewölbe hinter der Steilwand im schwarzen Gebirge: Portale, die Blut ford
 # Das Gewölbe unter den Zwillingsgipfeln
 
 - Zugang (Session 127): durch die Steilwand im [[Schwarzes Gebirge|schwarzen Gebirge]], die sich mit dem [[Der schwarze Samenstein|Samenstein]] öffnet; ein 30 Meter breites Loch, eine Säulenhalle, ein Tor mit dem Relief von Zwerg und Drachling, die blutend die Hand an die Tür legen.
-- Bauweise (Session 128): nackte Felswände, Gänge, die sich teilen; „eine kuppel … aus bearbeiteten schwarzem stein, weiße linien die bei der stehle zusammenkommen“. Paian: Die Symbolik erinnere „an viele religionen und kulte …, ohne dass es eine bestimmte wäre“.
+- Bauweise (Session 128): nackte Felswände, Gänge, die sich teilen; „eine kuppel … aus bearbeiteten schwarzem stein, weiße linien die bei der Stele zusammenkommen“. Paian: Die Symbolik erinnere „an viele religionen und kulte …, ohne dass es eine bestimmte wäre“.
 - Portale: Manche verschwinden nur, solange jemand auf zwei glatten Steinplatten steht. Andere öffnen sich nur durch Blut an Stelen mit scharfkantigen schwarzen Steinen. Sira „will [der Stein] nicht“, Paian und Halfred schon. Mit jedem Opfer kommt Schwermut, „der lebenswille verlässt uns nach und nach“.
 - Wasser: ein kleiner See mit schwarzem, brackigem Wasser hinter dem ersten Portal; eine Kaverne von etwa 200 Metern mit dunklem Wasser, auf dem Paians Geisterwal die Gruppe in die Tiefe trägt — weiter gäbe es „kein zurückkommen“.
 - Knochen und Brunnen: Ein Gang voller Knochen „bis unter die decke“, ohne Geister. Ein Becken von 20 Metern mit kaltem Rauch, aus dem Murmeln, Stimmen und Hornstöße dringen; ein hineingeworfener Stein braucht „ewig“.

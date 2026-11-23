@@ -1,7 +1,7 @@
 ---
 type: person
 title: Dorean
-aliases: [Dorian]
+aliases: [Dorean]
 status: verschollen im Weltriss (Ritual-Nacht, 14.10.997 LZ)
 kurz: Adliger Schwertrichter aus Unterwalde; vom Schwarzen Schwert gepeinigt — nahm in der Ritual-Nacht den Pakt an, verweigerte den Preis und verging im Weltriss; in Selenia mit Kopfgeld gesucht.
 ---
@@ -25,7 +25,7 @@ Zuletzt bei sich bzw. zurückgelassen:
 ### Ziele
 Zu Lebzeiten:
 - Seine Freunde schützen, auch vor sich selbst und dem Schwert.
-- Nach [[Heratis]] gelangen, was das Schwert ihm verbieten wollte.
+- Nach [[Herathis]] gelangen, was das Schwert ihm verbieten wollte.
 - Herausfinden, was in seiner Familie vorgeht: die leergeräumten Konten, die Warnung seiner Schwester vor dem Bruder.
 
 ### Offene Fäden
@@ -44,10 +44,10 @@ In [[Palitan]] stehen ihm seine Schwestern gegenüber, darunter [[Pyrina]], und 
 
 ## Sessions 47–66: Süden, Myrkan und Seenland
 
-Er schlägt die Flussfahrt nach Süden vor, spricht nach dem Frevel an der Linde von Rache und gesteht vor [[Vorbrin]], dass er zum Schwertrichter erhoben wurde. Im Panikraum bleibt er als Einziger klar; im [[Der Schlund der Finsternis|Schlund der Finsternis]] lässt seine Berührung den Spiegel zerspringen. In Beertal und [[Drugonsfuhrt]] nutzt er seinen Rang, erfährt von den gesperrten Konten und erhält Geld von [[Arikarion]]. Dann spricht das Schwert: Es verbietet ihm [[Heratis]] und droht, alle zu töten, die ihm lieb sind. Mühsam widersteht er dem Drang, den Wirt niederzustrecken.
+Er schlägt die Flussfahrt nach Süden vor, spricht nach dem Frevel an der Linde von Rache und gesteht vor [[Vorbrin]], dass er zum Schwertrichter erhoben wurde. Im Panikraum bleibt er als Einziger klar; im [[Der Schlund der Finsternis|Schlund der Finsternis]] lässt seine Berührung den Spiegel zerspringen. In Beertal und [[Drugonsfurt]] nutzt er seinen Rang, erfährt von den gesperrten Konten und erhält Geld von [[Arikarion]]. Dann spricht das Schwert: Es verbietet ihm [[Herathis]] und droht, alle zu töten, die ihm lieb sind. Mühsam widersteht er dem Drang, den Wirt niederzustrecken.
 
-## Sessions 67–86: Feenmarkt und Heratis
+## Sessions 67–86: Feenmarkt und Herathis
 
-Nach dem Verlust von [[Donnerhuf]] hält er die Gruppe zusammen. Dann fordert das Schwert „Olmens Seele“, und Dorean ermordet den schlafenden [[Olmen von Bockenbrück]], bis [[Paian]] die Wesenheit bannt. Vor Heratis wirft er sich trotz der Stimme schützend vor Halfred. Ein Brief seiner Schwester warnt vor [[Ilmar]] und vor Häschern aus Selenia. Den Zug des Schwerts spürt er weiter wie einen Faden aus Eis.
+Nach dem Verlust von [[Donnerhuf]] hält er die Gruppe zusammen. Dann fordert das Schwert „Olmens Seele“, und Dorean ermordet den schlafenden [[Olmen von Bockenbrück]], bis [[Paian]] die Wesenheit bannt. Vor Herathis wirft er sich trotz der Stimme schützend vor Halfred. Ein Brief seiner Schwester warnt vor [[Ilmar]] und vor Häschern aus Selenia. Den Zug des Schwerts spürt er weiter wie einen Faden aus Eis.
 
 In der Ritual-Nacht nimmt er den Handel der Stimme an: ein Schlag durch [[Kelba von Tylajon|Kelbas]] grüne Aura, dafür soll er töten, wen sie ihm nennt. Der Schlag gelingt. Als sie den Preis fordert, die Gefährten, verweigert er. Er erinnert sich an Aikyrs Trockenfleisch, Siras Lieder, Halfred mit dem Vogel und Paians Umarmung und stürzt sich mit dem Schwert in den Riss. „Dorean Dunkelgrund vergeht. Nicht als Opfer. Nicht als Werkzeug. Sondern als Mensch.“ Sira schreibt seine Melodie mit Blut auf den Fels.

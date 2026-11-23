@@ -3,7 +3,7 @@ type: person
 title: Bruder Aurevian
 aliases: [Aurevian]
 status: lebendig; selenischer Gesandter („Das Goldene Wort“) am Hof von Altstein
-kurz: „Der Seelenische [sic] Gast vom Königshof“ — türkise Augen, goldenes Schwert-Emblem; verkündet das „Goldene Licht“ Kaiser Selenius‘ und stellte Halfred die Frage nach Tugend und Eitelkeit.
+kurz: „Der Seelenische Gast vom Königshof“ — türkise Augen, goldenes Schwert-Emblem; verkündet das „Goldene Licht“ Kaiser Selenius‘ und stellte Halfred die Frage nach Tugend und Eitelkeit.
 ---
 # Bruder Aurevian
 

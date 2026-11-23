@@ -26,13 +26,13 @@ kurz: Ring mit tiefschwarzem, eingefasstem Stein aus den Katakomben unter dem Ga
 
 ## Sessions 67–76: Tuvenes Ring und Sarvennas Warnung
 
-- Zweites Exemplar (Session 73): Die ermordete Fadengängerin [[Tovene]] trägt „ein goldener ring mit einer schwarzen stein. wie der ring den paian hat" — dieselbe Machart wie der Ring der Gruppe; ob ein Zusammenhang besteht, hält die Chronik nicht fest (offen). Paians Blick in die Geisterwelt findet „nicht den Geist von tuleve" [sic].
+- Zweites Exemplar (Session 73): Die ermordete Fadengängerin [[Tovene]] trägt „ein goldener ring mit einer schwarzen stein. wie der ring den paian hat“ — dieselbe Machart wie der Ring der Gruppe; ob ein Zusammenhang besteht, hält die Chronik nicht fest (offen). Paians Blick in die Geisterwelt findet „nicht den Geist von Tovene“.
 - Warnung (Session 74): [[Sarvenna Kaltquell]] „warnt paian den ring anzuziehen“ — warum, führt sie nicht aus (offen; zeitlich kurz vor der Mond-Dreieck-Nacht 13./14.10.997 LZ).
 - Status: bei der Gruppe; getragen von [[Paian]].
 
 ## Sessions 77–86: Im Kult — Teil, Schlüssel, Tor
 
-- Paian trägt ihn verkleidet im [[Das Schimmernde Refugium|Schimmernden Refugium]] (Sessions 78/79): Der Ring „pulsiert leise an deiner Hand. Nicht laut – nur für dich spürbar. Ein fremdes Herz, das längst dein eigenes geworden ist. Kein Schmuckstück. Eine Bindung. Ein Zeichen." — „Du fühlst, wie seine Kraft durch deine Adern rinnt, träge wie Öl, dunkel wie Wahrheit."
-- Zugang: Zusammen mit purpurnem Mantel und goldener Maske trägt er Paian durch die schimmernde Barriere — „Erst nachdem er die goldene Maske anlegt kann er sie durchtreten" (Session 78).
-- Nach dem Blutritus (Session 79): Paian „hat das gefühl, dass er nicht nur etwas gibt, sondern auch etwas in ihn eindringt" — ob der Ring daran Anteil hat, ist offen.
+- Paian trägt ihn verkleidet im [[Das Schimmernde Refugium|Schimmernden Refugium]] (Sessions 78/79): Der Ring „pulsiert leise an deiner Hand. Nicht laut – nur für dich spürbar. Ein fremdes Herz, das längst dein eigenes geworden ist. Kein Schmuckstück. Eine Bindung. Ein Zeichen.“ — „Du fühlst, wie seine Kraft durch deine Adern rinnt, träge wie Öl, dunkel wie Wahrheit.“
+- Zugang: Zusammen mit purpurnem Mantel und goldener Maske trägt er Paian durch die schimmernde Barriere — „Erst nachdem er die goldene Maske anlegt kann er sie durchtreten“ (Session 78).
+- Nach dem Blutritus (Session 79): Paian „hat das gefühl, dass er nicht nur etwas gibt, sondern auch etwas in ihn eindringt“ — ob der Ring daran Anteil hat, ist offen.
 - Offen: Verbleib von Ring, Mantel und Maske nach der Ritual-Nacht (die Chronik nennt sie danach nicht mehr); was Sarvennas Warnung (Session 74) im Lichte des Kult-Einsatzes bedeutet; ob Tuvenes identischer Ring ebenfalls aus dem Kult stammt.

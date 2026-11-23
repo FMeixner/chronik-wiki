@@ -2,7 +2,7 @@
 type: ort
 title: Die Statue der Herathine
 aliases: [Statue der Herathine, Herathine]
-status: bestehend; Wahrzeichen von Heratis
+status: bestehend; Wahrzeichen von Herathis
 kurz: Doppelt haushohe steinerne Wächterin über den Dächern von Herathis — im Düstermondlicht scheinbar blutend; Zugangsweg zum Schimmernden Refugium und Versammlungsort.
 ---
 # Die Statue der Herathine

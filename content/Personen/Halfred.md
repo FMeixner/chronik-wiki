@@ -2,7 +2,7 @@
 type: person
 title: Halfred
 aliases: []
-status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
+status: lebendig; in Selenia steckbrieflich gesucht — entlassen aus der Feste Altstein (Session 107); nach Busch- und Vogelgestalt wieder Mensch (Session 127); nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)
 kurz: Mensch, Jäger und Naturkundiger mit Borkenhand; Feenblatt und nie leeres Wasserfläschchen; im Mondlabyrinth an Duirs Ruhe erinnert.
 ---
 # Halfred
@@ -30,7 +30,7 @@ kurz: Mensch, Jäger und Naturkundiger mit Borkenhand; Feenblatt und nie leeres 
 - Die Brutmütter töten, die die [[Baumriese|Baumriesen]] aussaugen, sobald die Gruppe stark genug ist, „vielleicht wenn wir den nächsten Splitter haben“.
 
 ### Offene Fäden
-- Die Verwandlung (Sessions 126–127): erst Busch, dann fliegt er mit „kleinen flügelchen" durchs Gebirge und wird wieder Mensch. Feenfluch, weil der blaue Stein für [[Lisana]] noch fehlt, oder eigene Magie? Wulfast ist zornig, weil er dafür seinen Wachposten verlassen hat.
+- Die Verwandlung (Sessions 126–127): erst Busch, dann fliegt er mit „kleinen flügelchen“ durchs Gebirge und wird wieder Mensch. Feenfluch, weil der blaue Stein für [[Lisana]] noch fehlt, oder eigene Magie? Wulfast ist zornig, weil er dafür seinen Wachposten verlassen hat.
 - Die Bürde aus dem Kristall im Seenland: Er soll „sein Geheimnis“ hüten, denn „sie werden kommen um es an sich zu reißen“ (Session 65).
 - Was hat er in der Ritual-Nacht geopfert, um [[Duir]] zu rufen? Seine Kraft ist seitdem wild und gehorcht nur gerade noch (Session 83).
 - Der wiederkehrende Albtraum vom Baum, der Blut trinkt, und der Traum von blutenden Baumriesen.
@@ -49,11 +49,11 @@ In Palitan findet er im [[Kaiserliches Archiv (Palitan)|Kaiserlichen Archiv]] di
 
 In der Wildnis blüht er auf. Bäume bestätigen ihm, dass die Frevler einen Gefangenen haben; eine Linde antwortet auf seine Bitte nur mit Hass. Auf dem Pier von [[Wasserfels]] spricht er über seinen Vater. Im [[Der Schlund der Finsternis|Schlund der Finsternis]] schicken ihn die Bäume ins dunkle Loch, er schießt Ranken entzwei und zerstört den [[Der Spiegel (Schlund der Finsternis)|Spiegel]]. Am [[Das Schattenfeld|Schattenfeld]] verbringt er eine Nacht allein im Wald und kehrt mit mehr Holzplättchen zurück. Er führt die Gruppe erstaunlich trocken durch das [[Das Seenland|Seenland]], wird von einem [[Nebelhetzer]] angefallen und entdeckt in einer Höhle den leuchtenden [[Monstein]]. Im Trollkampf greift er den Kristall, empfängt die Bürde einer fremden Stimme und lässt den [[Troll]] von Wurzeln durchbohren. Seither ist seine Hand von Borke überzogen.
 
-## Sessions 67–86: Feenmarkt und Heratis
+## Sessions 67–86: Feenmarkt und Herathis
 
 Als der Wind auf die Suche nach [[Donnerhuf]] nur „Tod tod tod!“ antwortet, bricht er weinend zusammen. Gegen Altreus Bande schießt er Altreu in die Schulter und kämpft mit dornenbewehrten Fäusten; die Nebelkreaturen lassen ihn fast verbluten. Auf dem [[Der Feenmarkt|Feenmarkt]] kauft er das nie leere Fläschchen, das sich prompt nicht öffnen lässt, und verhaspelt sich in seiner Tarnidentität „Tim“. Im [[Das Mondlabyrinth|Mondlabyrinth]] irrt er stundenlang, bis er sich an Duirs Ruhe erinnert und den Weg gelassen findet.
 
-In [[Heratis]] träumt er von Baumriesen, ermittelt mit Paian bei [[Sandera Kavandel]] und [[Fanaion]] und findet die Spur zur [[Die Obsidianhalle|Obsidianhalle]]. In der Ritual-Nacht rettet er eine Frau vor dem Opfertod und ruft Duir über Meere und Berge herbei. Die Wurzeln kommen, aber zu einem Preis, den die Chronik nicht nennt. Danach ist auf ihn und Dorean ein gewaltiges Kopfgeld ausgesetzt.
+In [[Herathis]] träumt er von Baumriesen, ermittelt mit Paian bei [[Sandera Kavandel]] und [[Fanaion]] und findet die Spur zur [[Die Obsidianhalle|Obsidianhalle]]. In der Ritual-Nacht rettet er eine Frau vor dem Opfertod und ruft Duir über Meere und Berge herbei. Die Wurzeln kommen, aber zu einem Preis, den die Chronik nicht nennt. Danach ist auf ihn und Dorean ein gewaltiges Kopfgeld ausgesetzt.
 
 ## Sessions 87–106: Ewige See, Galpinius und Altstein
 
@@ -73,4 +73,4 @@ Im Gewölbe verwandelt er sich im Sprung in einen Vogel und fliegt über einen A
 
 ## Session 129: Aus dem Gebirge aufs Meer
 
-Nach Wochen im Gebirge erreicht er mit den anderen die Küste und geht an Bord eines fremden Schiffes, das Kurs auf Heratis nimmt.
+Nach Wochen im Gebirge erreicht er mit den anderen die Küste und geht an Bord eines fremden Schiffes, das Kurs auf Herathis nimmt.

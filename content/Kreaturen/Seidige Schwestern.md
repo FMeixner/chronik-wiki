@@ -7,4 +7,4 @@ kurz: Frauen, die beim Blutmond unter Wasser schwimmen, Seeleuten mit süßen St
 ---
 # Seidige Schwestern
 
-- Erzählung (Session 90): Der Zwerg an Bord („dingens“ [sic]) erzählt von [[Telena]]s Verlust: „Sie glaub sie sei eine ‚Seidige schwester‘ gewesen… frauen die beim Blutmond unter der Wasseroberfläche schwimmen und Seefahrer mit ihren Süßen stimmen einen kuss abluchsen [sic] und sie dann in die tiefe ziehen.“ — ob Tolki tatsächlich eine wurde oder nur dem [[Finsterwasser]] zum Opfer fiel, hält die Chronik offen.
+- Erzählung (Session 90): Der Zwerg an Bord („dingens“) erzählt von [[Telena]]s Verlust: „Sie glaub sie sei eine ‚Seidige schwester‘ gewesen… frauen die beim Blutmond unter der Wasseroberfläche schwimmen und Seefahrer mit ihren Süßen stimmen einen kuss abluchsen [sic] und sie dann in die tiefe ziehen.“ — ob Tolki tatsächlich eine wurde oder nur dem [[Finsterwasser]] zum Opfer fiel, hält die Chronik offen.

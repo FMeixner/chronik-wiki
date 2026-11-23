@@ -562,11 +562,11 @@
   },
   {
    "id": "drugonsfuhrt",
-   "name": "Drugonsfuhrt",
+   "name": "Drugonsfurt",
    "x": 322,
    "y": 388,
    "type": "Dorf",
-   "lotse": "#/Orte/Drugonsfuhrt",
+   "lotse": "#/Orte/Drugonsfurt",
    "notes": "Furt/Ort am Unterlauf des Myrkan. Kalibriert: 800 km von Wasserfels. Endpunkt der Schifffahrt, Aufenthalt der Gruppe (Sessions 59-61).",
    "belege": [
     "Session 56 (erwaehnt)",
@@ -588,7 +588,7 @@
    "aliases": [
     "seenland"
    ],
-   "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Heratis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer; der winterliche Weitermarsch nach Heratis fuehrte erneut durchs Seenland (Sessions 67-72).",
+   "notes": "Moor- und Seengebiet suedlich von Drugonsfurt auf der Route nach Herathis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer; der winterliche Weitermarsch nach Herathis fuehrte erneut durchs Seenland (Sessions 67-72).",
    "belege": [
     "Session 62",
     "Session 63",
@@ -607,7 +607,7 @@
    "aliases": [
     "höhle im seenland"
    ],
-   "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; Lager der Gruppe in den Sessions 64-67 („Der Schwarm“), danach Abbruch und Wintermarsch nach Heratis.",
+   "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; Lager der Gruppe in den Sessions 64-67 („Der Schwarm“), danach Abbruch und Wintermarsch nach Herathis.",
    "belege": [
     "Session 64",
     "Session 65",
@@ -618,12 +618,12 @@
   },
   {
    "id": "heratis",
-   "name": "Heratis",
+   "name": "Herathis",
    "x": 254,
    "y": 476,
    "type": "Ziel",
-   "lotse": "#/Orte/Heratis",
-   "notes": "Freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner); Ankunft der Gruppe am 08.10.997 LZ (Session 72) nach wochenlangem Wintermarsch durchs Seenland — Mordserie, Magistratswahl; in der Ritual-Nacht vom 13. auf den 14.10.997 LZ unter dem Herathion vereitelt (Sessions 77-83); danach Abreise per Schiff nach Süden (Session 86). Sarnburg-Heratis ≈ 1000 km.",
+   "lotse": "#/Orte/Herathis",
+   "notes": "Freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner); Ankunft der Gruppe am 08.10.997 LZ (Session 72) nach wochenlangem Wintermarsch durchs Seenland — Mordserie, Magistratswahl; in der Ritual-Nacht vom 13. auf den 14.10.997 LZ unter dem Herathion vereitelt (Sessions 77-83); danach Abreise per Schiff nach Süden (Session 86). Sarnburg-Herathis ≈ 1000 km.",
    "belege": [
     "Sessions 37+, als Ziel erwaehnt",
     "Session 72",
@@ -691,12 +691,12 @@
   },
   {
    "id": "isarfest",
-   "name": "Isarfest",
+   "name": "Isafest",
    "x": 440,
    "y": 970,
    "type": "Stadt",
-   "lotse": "#/Orte/Isarfest",
-   "notes": "Militaerstadt in Zwinggard („ein Bollwerk mit Balistas [sic] auf den Mauern“); Ankunft 05.07.998 LZ (Session 102): Anodaras Gunwartempel, Paians Schriftrolle „ein leben fuer ein leben“, Donnerhuf bleibt zurueck; Route gen Kyningswacht und Nachtwall.",
+   "lotse": "#/Orte/Isafest",
+   "notes": "Militaerstadt in Zwingard („ein Bollwerk mit Ballisten auf den Mauern“); Ankunft 05.07.998 LZ (Session 102): Anodaras Gunwartempel, Paians Schriftrolle „ein leben fuer ein leben“, Donnerhuf bleibt zurueck; Route gen Kyningswacht und Nachtwall.",
    "belege": [
     "Session 102"
    ],
@@ -709,7 +709,7 @@
    "y": 1004,
    "type": "Dorf",
    "lotse": "#/Orte/Kyningswacht",
-   "notes": "Wehrort drei Tage suedoestlich von Isarfest auf der Route Richtung Nachtwall (Session 102) — hier erstattete die Gruppe Bericht ueber die zwei allein gebliebenen Jungen vom Einsiedlerhof.",
+   "notes": "Wehrort drei Tage suedoestlich von Isafest auf der Route Richtung Nachtwall (Session 102) — hier erstattete die Gruppe Bericht ueber die zwei allein gebliebenen Jungen vom Einsiedlerhof.",
    "belege": [
     "Session 102"
    ],
@@ -771,7 +771,7 @@
   }
  ],
  "geographie": {
-  "grundlage": "Schema, eigene Zeichnung. Offizielle Orte (Sarnburg, Südfang, Arwingen, Herathis, Isafest, Palitan) sowie Gebirge, Flüsse und Küsten sind nach der offiziellen Lorakis-Karte (Uhrwerk Verlag) eingemessen. Eigene Orte der Runde sind aus der Chronik erschlossen und als 'ungefaehr' markiert. Annahmen: Der Myrkan fließt von Dakardsmyr nach Süden zum Elyrischen Golf bei Herathis (Flussfahrt flussab Richtung Heratis); Wasserfels liegt an der Einmündung des Zuflusses aus Sarnburg; die Arwinger Mark liegt zwischen Draugis und Kristallsee, die Südlichen Zitadellen südlich von Arwingen (Splitterwiki); der Nachtwall ist mit der Bergkette südlich von Isafest/Aldentrutz gleichgesetzt (Quelle der Korau); der Baumriesenwald liegt am Fuß der Blauen Klippen (Kandidat). Feenwelt und Palitan sind nicht maßstäblich in der rechten Leiste dargestellt.",
+  "grundlage": "Schema, eigene Zeichnung. Offizielle Orte (Sarnburg, Südfang, Arwingen, Herathis, Isafest, Palitan) sowie Gebirge, Flüsse und Küsten sind nach der offiziellen Lorakis-Karte (Uhrwerk Verlag) eingemessen. Eigene Orte der Runde sind aus der Chronik erschlossen und als 'ungefaehr' markiert. Annahmen: Der Myrkan fließt von Dakardsmyr nach Süden zum Elyrischen Golf bei Herathis (Flussfahrt flussab Richtung Herathis); Wasserfels liegt an der Einmündung des Zuflusses aus Sarnburg; die Arwinger Mark liegt zwischen Draugis und Kristallsee, die Südlichen Zitadellen südlich von Arwingen (Splitterwiki); der Nachtwall ist mit der Bergkette südlich von Isafest/Aldentrutz gleichgesetzt (Quelle der Korau); der Baumriesenwald liegt am Fuß der Blauen Klippen (Kandidat). Feenwelt und Palitan sind nicht maßstäblich in der rechten Leiste dargestellt.",
   "offizielleNamen": {
    "zirken": "Groe Zirken",
    "beertal": "Freistadt Beertal",

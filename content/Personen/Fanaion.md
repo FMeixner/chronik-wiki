@@ -2,7 +2,7 @@
 type: person
 title: Fanaion
 aliases: [Alben Fanaion]
-status: lebendig; junger Alb am Unterhang von Heratis
+status: lebendig; junger Alb am Unterhang von Herathis
 kurz: Junger Alb am Unterhang, „heiß auf magische Besonderheiten“ — Halfreds und Paiens Kandidat für die Abend-Hilfe gegen das Ritual.
 ---
 # Fanaion

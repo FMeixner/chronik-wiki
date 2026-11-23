@@ -7,7 +7,7 @@ kurz: Orden [[Bruder Aurevian]]s — schwarzer Überwurf mit goldenem Schwert-Em
 ---
 # Das Goldene Wort
 
-- Der Gesandte (Session 106): „er stellt sich als ‚Bruder Aurevian‘ vom ‚goldenen Wort‘ vor.“ — [[Bruder Aurevian]], „Der Seelenische [sic] Gast vom Königshof“. (→ [[Kaiserreich Selenia]])
+- Der Gesandte (Session 106): „er stellt sich als ‚Bruder Aurevian‘ vom ‚goldenen Wort‘ vor.“ — [[Bruder Aurevian]], „Der Seelenische Gast vom Königshof“. (→ [[Kaiserreich Selenia]])
 - Das Emblem: „Schwarzer Überwurf mit goldenem Schwert“ — die Chronik glossiert es an einer Stelle als „(die Erleuchteten)“ (Session 105); ob Das Goldene Wort mit [[Die Erleuchteten]] zusammenhängt oder dieselbe Bewegung ist, hält die Chronik nicht fest (offen).
 - Die Predigt (Session 106, Aurevian): „Lorakis ist ein Land der Finsternis und des Streits. Doch das Goldene Licht Selenias bringt Ordnung. Und Ordnung ist der erste Schritt zum Heil.“ — „die alten Götter die Menschen belogen hätten… auf die frage welche Lügen den gemeint sind antwortet er nicht.“
 - Der Apparat (Sessions 105/106): Bewaffnete Männer „in ähnlicher Kleidung“ im Schatten hinter Aurevian; ein Jüngling flüstert ihm zu, „hört sich an was dieser gesagt hat und schreibt etwas in ein Büchchen“ — Offen: Spitzel-Struktur.

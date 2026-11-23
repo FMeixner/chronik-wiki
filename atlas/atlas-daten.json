@@ -390,10 +390,10 @@
    "mapId": "story",
    "x": 23.33,
    "y": 29.85,
-   "name": "Drugonsfuhrt",
+   "name": "Drugonsfurt",
    "type": "Dorf",
    "notes": "Furt/Ort am Unterlauf des Myrkan. Kalibriert: 800 km von Wasserfels. Endpunkt der Schifffahrt (Sessions 59-61). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
-   "lotse": "#/Orte/Drugonsfuhrt",
+   "lotse": "#/Orte/Drugonsfurt",
    "lage": "ungefaehr"
   },
   {
@@ -403,7 +403,7 @@
    "y": 33.23,
    "name": "Das Seenland",
    "type": "Naturmarke",
-   "notes": "Moor- und Seengebiet suedlich von Drugonsfuhrt auf der Route nach Heratis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer; Wintermarsch der Gruppe gen Heratis (Sessions 67-72). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "notes": "Moor- und Seengebiet suedlich von Drugonsfurt auf der Route nach Herathis; Durchquerung ab 01.09.997 LZ, Angriffe der Zwielichthetzer; Wintermarsch der Gruppe gen Herathis (Sessions 67-72). Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
    "lotse": "#/Orte/Das Seenland",
    "lage": "ungefaehr"
   },
@@ -414,7 +414,7 @@
    "y": 34.46,
    "name": "Die Höhle im Seenland",
    "type": "Untergrund",
-   "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; Lager der Gruppe (Sessions 64-67), danach Wintermarsch nach Heratis. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "notes": "Höhle aus aneinander gelehnten Felsen; Monstein-Sternenhimmel, Kriegspeitsche, Trollkampf; Lager der Gruppe (Sessions 64-67), danach Wintermarsch nach Herathis. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
    "lotse": "#/Orte/Die Höhle im Seenland",
    "lage": "ungefaehr"
   },
@@ -423,10 +423,10 @@
    "mapId": "story",
    "x": 18.41,
    "y": 36.62,
-   "name": "Heratis",
+   "name": "Herathis",
    "type": "Ziel",
    "notes": "Ankunft der Gruppe am 08.10.997 LZ (Session 72): freie Reichsstadt am Elyrischen Golf („Perle“, 60.000 Einwohner) — Mordserie, Magistratswahl; Ritual-Nacht (13./14.10.997 LZ) unter dem Herathion vereitelt (Sessions 77-83); Abreise per Schiff nach Süden (Session 86). Lage nach der offiziellen Lorakis-Karte.",
-   "lotse": "#/Orte/Heratis",
+   "lotse": "#/Orte/Herathis",
    "lage": "offiziell"
   },
   {
@@ -478,10 +478,10 @@
    "mapId": "story",
    "x": 31.88,
    "y": 74.62,
-   "name": "Isarfest",
+   "name": "Isafest",
    "type": "Stadt",
-   "notes": "Bollwerk-Stadt in Zwinggard; Ankunft 05.07.998 LZ per Teleport (Session 102): Anodaras Gunwartempel, Schriftrolle „ein leben fuer ein leben“; Donnerhuf bleibt zurueck. Lage nach der offiziellen Lorakis-Karte.",
-   "lotse": "#/Orte/Isarfest",
+   "notes": "Bollwerk-Stadt in Zwingard; Ankunft 05.07.998 LZ per Teleport (Session 102): Anodaras Gunwartempel, Schriftrolle „ein leben fuer ein leben“; Donnerhuf bleibt zurueck. Lage nach der offiziellen Lorakis-Karte.",
+   "lotse": "#/Orte/Isafest",
    "lage": "offiziell"
   },
   {
@@ -491,7 +491,7 @@
    "y": 77.23,
    "name": "Kyningswacht",
    "type": "Dorf",
-   "notes": "Wehrort auf der Route von Isarfest Richtung Nachtwall (Session 102) — Bericht ueber die zwei Jungen vom Einsiedlerhof. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
+   "notes": "Wehrort auf der Route von Isafest Richtung Nachtwall (Session 102) — Bericht ueber die zwei Jungen vom Einsiedlerhof. Eigener Ort der Runde: Lage ungefähr, aus der Chronik erschlossen.",
    "lotse": "#/Orte/Kyningswacht",
    "lage": "ungefaehr"
   },
@@ -795,7 +795,7 @@
     },
     {
      "markerId": "heratis",
-     "caption": "S 72 · Ankunft in Heratis (8.10.997 LZ)"
+     "caption": "S 72 · Ankunft in Herathis (8.10.997 LZ)"
     },
     {
      "markerId": "therum",
@@ -823,7 +823,7 @@
     },
     {
      "markerId": "isarfest",
-     "caption": "S 102 · Teleport in den Sommer — Bollwerk Isarfest (05.07.998 LZ)",
+     "caption": "S 102 · Teleport in den Sommer — Bollwerk Isafest (05.07.998 LZ)",
      "portal": true
     },
     {

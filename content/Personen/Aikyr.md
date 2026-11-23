@@ -1,8 +1,8 @@
 ---
 type: person
 title: Aikyr
-aliases: [Aikir, Aykir]
-status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Heratis (Stand Session 129)
+aliases: [Aikir, Aikyr]
+status: lebendig; um 5 Jahre verjüngt („Das letzte Aufgebot“, Session 89); entlassen aus der Feste Altstein (Session 107); Durchquerung der Blutgrasweite — nach Wochen im Gebirge an Bord eines fremden Schiffes Richtung Herathis (Stand Session 129)
 kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glücks und Wassergetränk vom Feenmarkt; durch „Das letzte Aufgebot“ um 5 Jahre verjüngt.
 ---
 # Aikyr
@@ -21,7 +21,7 @@ kurz: Varg der Gruppe; Herr der Bestien mit Kriegspeitsche; Handschuh des Glück
 - Geschupptes Seeschlangenleder von [[Taldor Eisenhand]]: schwere Fellrüstung mit Kälteresistenz (Session 75).
 - Vom [[Der Feenmarkt|Feenmarkt]]: Handschuh des Glücks (seit Session 85 verblasst zum „Bettlerhandschuh“), Wassergetränk der Meer-Fee, Kiste mit der immer wiederkehrenden Münze.
 - [[Kokandrillis]], die mumifizierte Echse, die im Notfall zur reitbaren Bestie anschwoll (Session 83).
-- Aus Isarfest: Schutzamulett des Geistes, ein Kristall aus der [[Blauschlucht]] (GW+3), und eine kühlende Unterhose.
+- Aus Isafest: Schutzamulett des Geistes, ein Kristall aus der [[Blauschlucht]] (GW+3), und eine kühlende Unterhose.
 - Aus Galpinius: Zauberschriftrolle zum Lesen und ein Buch über Vargenlegenden.
 - Esel [[Donnerhuf]]. Die Stute [[Sommertochter]] fiel in der Blutgrasweite (Session 114).
 
@@ -48,11 +48,11 @@ In den [[Katakomben unter Palitan]] stürzt er mit [[Dorean]] in eine Speergrube
 
 ## Sessions 47–66: Süden, Myrkan und Seenland
 
-Auf dem Weg nach Süden rettet er ein verdorbenes Lamm vom Scheiterhaufen, reist als einziger unter echtem Namen nach [[Vorbrin]] und spricht im [[Der Schlund der Finsternis|Schlund der Finsternis]] den angeketteten Varg mit Erfolg an, weil er noch etwas Menschliches in ihm riecht. Auf dem [[Myrkan]] dreht er vor Langeweile durch und prügelt sich mit [[Halfred]]. In Beertal und Drugonsfuhrt sucht er Vergnügen, Lederarbeit bei Paian und eine neue Peitsche. In Session 63 bricht zum ersten Mal Licht aus seinen Fäusten, als Halfred angegriffen wird. Im [[Das Seenland|Seenland]] baut er ein Floß, birgt aus einem Höhlenskelett [[Die Kriegspeitsche]], kämpft gegen den [[Troll]] und schnitzt Paian ein Grabdenkmal.
+Auf dem Weg nach Süden rettet er ein verdorbenes Lamm vom Scheiterhaufen, reist als einziger unter echtem Namen nach [[Vorbrin]] und spricht im [[Der Schlund der Finsternis|Schlund der Finsternis]] den angeketteten Varg mit Erfolg an, weil er noch etwas Menschliches in ihm riecht. Auf dem [[Myrkan]] dreht er vor Langeweile durch und prügelt sich mit [[Halfred]]. In Beertal und Drugonsfurt sucht er Vergnügen, Lederarbeit bei Paian und eine neue Peitsche. In Session 63 bricht zum ersten Mal Licht aus seinen Fäusten, als Halfred angegriffen wird. Im [[Das Seenland|Seenland]] baut er ein Floß, birgt aus einem Höhlenskelett [[Die Kriegspeitsche]], kämpft gegen den [[Troll]] und schnitzt Paian ein Grabdenkmal.
 
-## Sessions 67–86: Feenmarkt und Heratis
+## Sessions 67–86: Feenmarkt und Herathis
 
-Er zieht die panische Sommertochter aus dem Sumpf, streckt einen von Altreus Schützen mit dem Ellenbogen nieder und hält Dorean beim Mord an Olmen fest, bevor er das [[Schwarzes Schwert|Schwarze Schwert]] in Schlafsäcke schnürt. Auf dem [[Der Feenmarkt|Feenmarkt]] tauscht er die Gürtelschnalle aus dem Feenwald gegen den Handschuh des Glücks und weitere Wunder und schließt mit Paian den Joka-Pakt. Im [[Das Mondlabyrinth|Mondlabyrinth]] erzählt er die Legende der Vaigar vom Fall des Splittermondes. In der Ritual-Nacht von [[Heratis]] ringt er mit einem Varg, lässt [[Kokandrillis]] pferdegroß werden, [[Aris|Ares]] fressen und den [[Der Bronzekessel|Bronzekessel]] umwerfen. Danach gewinnt sein Handschuh in der [[Die Goldene Suppenküche|Goldenen Suppenküche]] alles auf Rot, bis [[Wulfast]] ihn aus der Gasse rettet. Mit Wulfast redet er bis zum Sonnenaufgang und droht ihm, falls er seinen Freunden etwas antut.
+Er zieht die panische Sommertochter aus dem Sumpf, streckt einen von Altreus Schützen mit dem Ellenbogen nieder und hält Dorean beim Mord an Olmen fest, bevor er das [[Schwarzes Schwert|Schwarze Schwert]] in Schlafsäcke schnürt. Auf dem [[Der Feenmarkt|Feenmarkt]] tauscht er die Gürtelschnalle aus dem Feenwald gegen den Handschuh des Glücks und weitere Wunder und schließt mit Paian den Joka-Pakt. Im [[Das Mondlabyrinth|Mondlabyrinth]] erzählt er die Legende der Vaigar vom Fall des Splittermondes. In der Ritual-Nacht von [[Herathis]] ringt er mit einem Varg, lässt [[Kokandrillis]] pferdegroß werden, [[Aris|Ares]] fressen und den [[Der Bronzekessel|Bronzekessel]] umwerfen. Danach gewinnt sein Handschuh in der [[Die Goldene Suppenküche|Goldenen Suppenküche]] alles auf Rot, bis [[Wulfast]] ihn aus der Gasse rettet. Mit Wulfast redet er bis zum Sonnenaufgang und droht ihm, falls er seinen Freunden etwas antut.
 
 ## Sessions 87–106: Ewige See, Galpinius und Altstein
 
@@ -72,4 +72,4 @@ Im Gewölbe kämpft er gegen die gekrümmten Leiber, „teilt aus und steckt auc
 
 ## Session 129: Aus dem Gebirge aufs Meer
 
-Er erwacht als einer der Ersten. Nach Wochen im Gebirge erreicht er mit den anderen die Küste, wo sie ein Admiral widerwillig an Bord nimmt, Kurs Heratis.
+Er erwacht als einer der Ersten. Nach Wochen im Gebirge erreicht er mit den anderen die Küste, wo sie ein Admiral widerwillig an Bord nimmt, Kurs Herathis.

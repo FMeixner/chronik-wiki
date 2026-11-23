@@ -8,7 +8,7 @@ kurz: Metropole (240.000) mit Mondtor und Portalgilde; Ausgangspunkt der Flucht 
 # Sarnburg
 
 - Reiseziel der Gruppe (Session 12 ff.): Der Alchemist [[Jadan]] in der Nähe von Sarnburg soll laut [[Endrik]] „das korrigieren“ können.
-- Laut [[Dornentann]]: „In Sarnburg gibt es alles, was man sich vorstellen kann“ — und wenn es zu langweilig ist, soll die Gruppe in seine Heimat [[Heratis]] kommen.
+- Laut [[Dornentann]]: „In Sarnburg gibt es alles, was man sich vorstellen kann“ — und wenn es zu langweilig ist, soll die Gruppe in seine Heimat [[Herathis]] kommen.
 - [[Fira Isenfang]] führt dort die Niederlassung des [[Zirkel der Zinnen]] („Hüterin alles Wissens“).
 - Zwischenstation auf dem Weg: die Ziegelstube in [[Südfang]] ([[Javus Bracke]]s Tipp).
 
@@ -23,10 +23,10 @@ kurz: Metropole (240.000) mit Mondtor und Portalgilde; Ausgangspunkt der Flucht 
 
 - Rückkehr durch das Feentor (13.07.997 LZ, Session 41): Pläne — zuerst zur Bank, dann zu [[Gatta]], zum Gunwartempel, die Tiere abholen und zu [[Jadan]]. Doreans Schwester und Vater haben größere Mengen Geld abgehoben.
 - Pfandhaus Plunder vernagelt und verriegelt (Session 41): „vor 12 Tagen seien Wachen gekommen und hätten alle in Handschellen abgeführt.“ Ein Zwerg am Obststand fragt, ob die Gruppe „zu denen“ gehöre (?). Auf dem Henkersplatz (Session 44): In den letzten Tagen wurde „eine rothaarige Gnomin“ hingerichtet, „die wohl die Besitzerin eines Pfandhauses war“ — sehr wahrscheinlich [[Gatta]].
-- Gefängnis und Henkersplatz (Session 44): Doreins [sic] gefälschter „Zinnenforst“-Brief — eine Beamtin interessiert sich für die Namen, eine dritte Person flüstert ihr zu; Halfred und Dorian werden eingesperrt. Sira, Aikyr und Paian entkommen stadtwärts; „ein unauffällig gekleideter Mann bleibt ihnen auf den Fersen, der immer wieder Wachen auf sie aufmerksam macht.“
+- Gefängnis und Henkersplatz (Session 44): Doreans gefälschter „Zinnenforst“-Brief — eine Beamtin interessiert sich für die Namen, eine dritte Person flüstert ihr zu; Halfred und Dorean werden eingesperrt. Sira, Aikyr und Paian entkommen stadtwärts; „ein unauffällig gekleideter Mann bleibt ihnen auf den Fersen, der immer wieder Wachen auf sie aufmerksam macht.“
 - Taverne (Session 46): die Wachleute Angerick („groß, Glatze, ungepflegt und schmierig“) und Almut Weißenstein („gepflegt mit roten Haaren, klarer Blick“); der Schankjunge fragt Sira und Aikyr, „ob die jetzt auch vom Dunkelgrund bezahlt“ werden — Almut: Er wäre „ein potenzieller Geschäftskunde und hat hier als Geschenk Kost und Logis bezahlt“, Besprechung für den Folgetag angesetzt. ([[Serka Dunkelgrund|Dunkelgrund]] ist Doreans Familienname — Zusammenhang offen.)
 - Gaststube „Die 100 emsigen Alten“ (Session 43): gehört [[Javus Bracke]], der „ca. ein Dutzend Tavernen“ besitzt.
-- Myros Kunde (Session 41): Das Heer gegen [[Midstadt]] wurde zerschlagen, „ein paar der fanatischen Brüder“ auf der Midstadter Seite gesehen; Kaiser Selenius „hätte die Mittel für die Kirchen, insbesondere der Jonnus und Gunwarkirche gestrichen“.
+- Myros Kunde (Session 41): Das Heer gegen [[Midstad]] wurde zerschlagen, „ein paar der fanatischen Brüder“ auf der Midstader Seite gesehen; Kaiser Selenius „hätte die Mittel für die Kirchen, insbesondere der Jonnus und Gunwarkirche gestrichen“.
 
 ## Portal-Geografie und Spieler-Klarstellung (2026)
 

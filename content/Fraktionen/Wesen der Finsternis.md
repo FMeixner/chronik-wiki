@@ -14,5 +14,5 @@ kurz: Kreaturen der pechschwarzen Dunkelheit, die Menschen verschleppen.
 
 - Kämpften bei der Mondtor-Flucht ([[Sarnburg]], Session 21) Seite an Seite mit den [[Graue Wesen|Grauen]] unter [[Galkor Alquan]]s Befehl; [[Aikyr]] und [[Dorean]] sahen menschengroße Schemen über die Dächer kommen.
 
-- Der Biss hinterlässt „eine Art Lockstoff im Opfer", der anderen Wesen das Auffinden des Opfers erleichtert ([[Jadan]], Session 43) — [[Sira]] war die erste erfolgreich behandelte Patientin; [[Vardfeste]] erfuhr wohl bereits einen solchen Angriff.
-- Begriffs-Überschneidung: Im selben Kontext nennt die Chronik den Birnenrötling „eine Zutat für das Gegengift gegen den Biss der Grauen" (Session 42) — „Graue" und „Wesen der Finsternis" werden hier synonym benutzt; Zusammenhang weiterhin ungeklärt.
+- Der Biss hinterlässt „eine Art Lockstoff im Opfer“, der anderen Wesen das Auffinden des Opfers erleichtert ([[Jadan]], Session 43) — [[Sira]] war die erste erfolgreich behandelte Patientin; [[Vardfeste]] erfuhr wohl bereits einen solchen Angriff.
+- Begriffs-Überschneidung: Im selben Kontext nennt die Chronik den Birnenrötling „eine Zutat für das Gegengift gegen den Biss der Grauen“ (Session 42) — „Graue“ und „Wesen der Finsternis“ werden hier synonym benutzt; Zusammenhang weiterhin ungeklärt.
